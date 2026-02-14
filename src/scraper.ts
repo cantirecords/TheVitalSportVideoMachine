@@ -24,9 +24,12 @@ const FEEDS = [
   { name: 'The Athletic', url: 'https://theathletic.com/feeds/rss/' },
   { name: 'ESPN FC', url: 'https://www.espn.com/espn/rss/soccer/news' },
 
-  // NBA & NFL
+  // NBA, NFL, MLB, F1
   { name: 'ESPN NBA', url: 'https://www.espn.com/espn/rss/nba/news' },
-  { name: 'ESPN NFL', url: 'https://www.espn.com/espn/rss/nfl/news' }
+  { name: 'ESPN NFL', url: 'https://www.espn.com/espn/rss/nfl/news' },
+  { name: 'F1 News', url: 'https://www.formula1.com/content/fom-website/en/latest/all.xml' },
+  { name: 'NFL.com', url: 'https://www.nfl.com/rss/rsslanding?searchString=home' },
+  { name: 'MLB News', url: 'https://www.mlb.com/feeds/news/rss.xml' }
 ];
 
 export async function scrapeNews(limit: number = 1): Promise<Article[]> {
@@ -72,21 +75,22 @@ export async function scrapeNews(limit: number = 1): Promise<Article[]> {
   // General Today News: Return all latest articles and shuffle for variety
   console.log(`Sports scraping finished. Found ${allScrapedArticles.length} total articles.`);
 
-  // Filter for high-impact sports keywords (prioritize Real Madrid, Barcelona, top stars)
+  // Expanded Variety Keywords: Filter for high-impact sports keywords
   const impactKeywords = [
     // Real Madrid & Barcelona
     'real madrid', 'madrid', 'barcelona', 'barça', 'el clasico', 'la liga',
-    // Top Players
+    // Soccer Stars
     'messi', 'ronaldo', 'mbappe', 'vinicius', 'vini jr', 'bellingham', 'haaland', 'neymar',
-    'lewandowski', 'benzema', 'modric', 'kroos', 'salah', 'de bruyne',
-    // Premier League Giants
-    'manchester united', 'man united', 'liverpool', 'chelsea', 'arsenal', 'man city',
-    // NBA & NFL Stars
-    'lebron', 'curry', 'durant', 'mahomes', 'brady', 'nba', 'nfl',
-    // Competitions
-    'champions league', 'premier league', 'world cup', 'copa america', 'super bowl',
-    // Viral Keywords
-    'breaking', 'insane', 'legend', 'record', 'viral', 'miracle', 'shocking', 'epic', 'historic'
+    'lewandowski', 'yamal', 'salah', 'kane', 'wirtz', 'musiala',
+    // NBA Stars
+    'lebron', 'curry', 'lakers', 'nba', 'jokic', 'doncic', 'wembanyama', 'giannis', 'durant',
+    // NFL & MLB
+    'mahomes', 'nfl', 'draft', 'super bowl', 'ohtani', 'dodgers', 'yankees', 'mlb',
+    // F1 & Variety
+    'f1', 'formula 1', 'verstappen', 'hamilton', 'ferrari', 'red bull', 'norris',
+    'djokovic', 'alcaraz', 'sinner', 'tennis',
+    // General Impact
+    'breaking', 'legend', 'record', 'viral', 'miracle', 'shocking', 'epic', 'historic'
   ];
 
   const highImpact = allScrapedArticles.filter(a =>

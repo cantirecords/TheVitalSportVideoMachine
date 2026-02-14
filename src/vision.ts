@@ -1,5 +1,6 @@
 import Groq from 'groq-sdk';
 import dotenv from 'dotenv';
+import fs from 'fs';
 
 dotenv.config();
 
@@ -16,8 +17,14 @@ export async function detectSubjectFocus(imageUrl: string): Promise<FocusPoint> 
     if (!imageUrl) return { x: 'center', y: 'center' };
 
     try {
+        // Read the local file and convert to base64
+        const imageBuffer = fs.readFileSync(imageUrl);
+        const base64Image = imageBuffer.toString('base64');
+        const mimeType = imageUrl.endsWith('.png') ? 'image/png' : 'image/jpeg';
+        const dataUrl = `data:${mimeType};base64,${base64Image}`;
+
         const response = await groq.chat.completions.create({
-            model: "meta-llama/llama-4-scout-17b-16e-instruct",
+            model: "llama-3.2-90b-vision-preview", // Updated to the latest stable vision model
             messages: [
                 {
                     role: "user",
@@ -33,14 +40,14 @@ export async function detectSubjectFocus(imageUrl: string): Promise<FocusPoint> 
                         {
                             type: "image_url",
                             image_url: {
-                                url: imageUrl,
+                                url: dataUrl,
                             }
                         }
                     ]
                 }
             ],
             response_format: { type: 'json_object' },
-            max_tokens: 50,
+            max_tokens: 100,
         });
 
         const content = response.choices[0]?.message?.content || '{}';

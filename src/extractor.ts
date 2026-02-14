@@ -66,6 +66,8 @@ export async function extractArticleData(url: string): Promise<ExtractedArticle>
         // 3. Extract Content (Enhanced with broader selectors)
         let content = '';
         const contentSelectors = [
+            '.RichTextStoryBody p',
+            'div.Article p',
             'article p',
             'main p',
             'div[class*="article-body"] p',

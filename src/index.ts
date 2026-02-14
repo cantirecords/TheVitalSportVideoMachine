@@ -39,25 +39,50 @@ async function main() {
                 return;
             }
 
-            // Filter for high-priority news: Soccer (Major leagues/teams), NBA, Winter Olympics, or big athlete names
-            article = articles.find(a => {
+            // Expanded Variety: Filter for high-priority news across ALL major sports
+            const priorityArticles = articles.filter(a => {
                 const titleLower = a.title.toLowerCase();
-                const isSoccer = titleLower.includes('champions league') ||
-                    titleLower.includes('madrid') ||
-                    titleLower.includes('barça') ||
-                    titleLower.includes('barcelona') ||
-                    titleLower.includes('premier league') ||
-                    titleLower.includes('mbappé') ||
-                    titleLower.includes('vinícius') ||
-                    titleLower.includes('liverpool') ||
-                    titleLower.includes('manchester');
 
-                const isNBA = titleLower.includes('nba') || titleLower.includes('lebron') || titleLower.includes('curry') || titleLower.includes('lakers');
-                const isOlympics = titleLower.includes('olympic') || titleLower.includes('winter games') || titleLower.includes('gold medal');
+                // SOCCER: Broaden beyond just Barca/Madrid
+                const isSoccer = ['champions league', 'premier league', 'laliga', 'serie a', 'bundesliga',
+                    'madrid', 'barça', 'barcelona', 'atletico', 'manchester', 'liverpool', 'arsenal', 'chelsea',
+                    'haaland', 'mbappé', 'bellingham', 'yamal', 'vinícius', 'salah', 'kane', 'lewandowski',
+                    'psg', 'bayern', 'leverkusen', 'dortmund', 'inter milan', 'juventus', 'milan'].some(key => titleLower.includes(key));
+
+                // NBA: 
+                const isNBA = ['nba', 'lebron', 'curry', 'lakers', 'celtics', 'warriors', 'mavericks', 'nuggets',
+                    'jokic', 'doncic', 'antetokounmpo', 'giannis', 'wembanyama', 'suns', 'heat'].some(key => titleLower.includes(key));
+
+                // OTHERS: F1, NFL, MLB, Tennis
+                const isVariety = ['f1', 'formula 1', 'verstappen', 'hamilton', 'ferrari', 'red bull',
+                    'super bowl', 'mahomes', 'nfl', 'draft',
+                    'ohtani', 'dodgers', 'yankees', 'mlb',
+                    'alcaraz', 'djokovic', 'sinner', 'tennis',
+                    'olympic', 'winter games', 'gold medal'].some(key => titleLower.includes(key));
+
                 const isRecent = a.date ? a.date.includes('2026') : true;
 
-                return (isSoccer || isNBA || isOlympics) && isRecent;
-            }) || articles.find(a => a.date && a.date.includes('2026')) || articles[0]!;
+                return (isSoccer || isNBA || isVariety) && isRecent;
+            });
+
+            // RANDOM VARIATION: Shuffle priority articles to avoid picking the same topic every time
+            if (priorityArticles.length > 0) {
+                console.log(`Found ${priorityArticles.length} priority articles. Picking randomly for variety...`);
+                article = priorityArticles[Math.floor(Math.random() * priorityArticles.length)];
+            } else {
+                // Fallback to any recent news if no priority found
+                const recentArticles = articles.filter(a => a.date && a.date.includes('2026'));
+                if (recentArticles.length > 0) {
+                    article = recentArticles[Math.floor(Math.random() * recentArticles.length)];
+                } else {
+                    article = articles[0]!;
+                }
+            }
+        }
+
+        if (!article) {
+            console.error('No suitable article found.');
+            return;
         }
 
         console.log(`Using article from ${article.source}: ${article.title}`);
@@ -66,35 +91,66 @@ async function main() {
         const detailedData = await extractArticleData(article.url);
         console.log(`Extracted Content Length: ${detailedData.content?.length || 0}`);
         console.log(`Extracted Images: ${detailedData.images?.length || 0}`);
-        if (!detailedData.content) {
-            console.warn("Warning: No content extracted from article!");
+        if (!detailedData.content || detailedData.content.length < 50) {
+            console.warn("Warning: Low content extracted, using article title as context.");
         }
 
-        // Download ONLY the primary background image
         const publicDir = path.join(process.cwd(), 'public');
         if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
 
-        let bgImage = 'background.png';
-        let imageUrl = detailedData.images[0];
+        // Download ONLY the primary background image (background_0.png)
+        const downloadedImages: string[] = [];
+        const imageUrl = detailedData.images[0];
+        const fileName = `background_0.png`;
 
-        // Smart Focus Analysis
-        let focusPoint: FocusPoint = { x: 'center', y: 'top' };
         if (imageUrl) {
             try {
-                console.log(`Downloading primary background image: ${imageUrl}`);
-                const imgRes = await axios.get(imageUrl, { responseType: 'arraybuffer' });
-                fs.writeFileSync(path.join(publicDir, bgImage), Buffer.from(imgRes.data));
+                // If it's an AP News placeholder, skip it to keep our high-quality generated image
+                if (imageUrl.includes('apnews.com') && (imageUrl.includes('logo') || imageUrl.includes('placeholder'))) {
+                    console.log(`Skipping placeholder image from AP News: ${imageUrl}`);
+                    if (fs.existsSync(path.join(publicDir, fileName))) {
+                        downloadedImages.push(fileName);
+                    }
+                } else {
+                    console.log(`Downloading background image: ${imageUrl}`);
+                    const response = await axios({
+                        url: imageUrl,
+                        responseType: 'stream',
+                    });
+                    const writer = fs.createWriteStream(path.join(publicDir, fileName));
+                    response.data.pipe(writer);
 
-                console.log('Analyzing image focus with AI Vision...');
-                focusPoint = await detectSubjectFocus(imageUrl);
-            } catch (e: any) {
-                console.error(`Failed to process image:`, e.message);
+                    await new Promise((resolve, reject) => {
+                        writer.on('finish', resolve);
+                        writer.on('error', reject);
+                    });
+                    downloadedImages.push(fileName);
+                }
+            } catch (err: any) {
+                console.warn(`Could not download primary image: ${err.message}`);
             }
+        }
+
+        // Run AI Vision for Focus Point
+        let focusPoint: FocusPoint = { x: 'center', y: 'top' };
+        if (downloadedImages.length > 0 && downloadedImages[0]) {
+            console.log('Analyzing image focus with AI Vision...');
+            focusPoint = await detectSubjectFocus(path.join(publicDir, downloadedImages[0]));
+            console.log(`Vision analysis focus: X=${focusPoint.x}, Y=${focusPoint.y}`);
+        } else {
+            console.warn('No images downloaded for focus analysis. Using default focus point.');
         }
 
         // 3. Generate Viral Script (Headline, Sub-headline, Slides)
         const scriptData = await generateScript(detailedData.content || article.title);
+
+        // SMART OVERRIDE: If news is about injury, force EMERGENCY persona
+        if (scriptData.headline.toLowerCase().includes('injury') || scriptData.slides.some(s => s.toLowerCase().includes('injury') || s.toLowerCase().includes('surgery'))) {
+            scriptData.persona = 'EMERGENCY';
+        }
+
         console.log(`Headline: ${scriptData.headline}`);
+        console.log(`Persona: ${scriptData.persona}`);
 
         // 4. Audio Check (Music only, no voiceover for now)
         const hasMusic = fs.existsSync(path.join(publicDir, 'music.mp3'));
@@ -115,12 +171,13 @@ async function main() {
                 subHeadline: scriptData.subHeadline,
                 slides: scriptData.slides,
                 category: scriptData.category,
-                backgroundImage: bgImage,
+                backgroundImages: downloadedImages,
                 focusPoint,
                 // Each slide timing: 7s for first, 5s for the rest, plus 2.5s outro
-                durationInFrames: (7 * 30) + ((scriptData.slides.length - 1) * 5 * 30) + (30 * 2.5),
-                hasMusic
-            },
+                durationInFrames: (7 + (scriptData.slides.length - 1) * 5) * 30 + (30 * 2.5),
+                hasMusic,
+                persona: scriptData.persona
+            }
         });
 
         const outputLocation = path.join(process.cwd(), 'out/video.mp4');
@@ -139,22 +196,27 @@ async function main() {
                 subHeadline: scriptData.subHeadline,
                 slides: scriptData.slides,
                 category: scriptData.category,
-                backgroundImage: bgImage,
+                backgroundImages: downloadedImages,
                 focusPoint,
                 durationInFrames: (7 + (scriptData.slides.length - 1) * 5) * 30 + (30 * 2.5), // First slide 7s, rest 5s each
-                hasMusic
+                hasMusic,
+                persona: scriptData.persona
             }
         });
 
         console.log(`Video rendered successfully at: ${outputLocation}`);
 
-        // 6. Auto-Post via Webhook (ACTIVATED)
-        await sendToWebhook(outputLocation, {
-            headline: scriptData.headline,
-            subHeadline: scriptData.facebookDescription,
-            category: scriptData.category
-        });
-        console.log('Video signal sent to Webhook. 🚀');
+        // 6. Auto-Post via Webhook (SANDBOX SAFETY FOR TESTING)
+        if (process.env.TEST_MODE === 'true') {
+            console.log('--- TEST MODE ACTIVE: Skipping webhook upload ---');
+        } else {
+            await sendToWebhook(outputLocation, {
+                headline: scriptData.headline,
+                subHeadline: scriptData.facebookDescription,
+                category: scriptData.category
+            });
+            console.log('Video signal sent to Webhook. 🚀');
+        }
 
     } catch (error) {
         console.error('Pipeline failed:', error);

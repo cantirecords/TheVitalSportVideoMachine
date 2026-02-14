@@ -7,10 +7,11 @@ export interface MainProps {
     slides: string[];
     category?: string;
     backgroundColor?: string;
-    backgroundImage: string;
+    backgroundImages: string[];
     focusPoint?: { x: 'left' | 'center' | 'right', y: 'top' | 'center' | 'bottom' };
     durationInFrames: number;
     hasMusic?: boolean;
+    persona?: string;
 }
 
 export const Main: React.FC<MainProps> = ({
@@ -19,30 +20,53 @@ export const Main: React.FC<MainProps> = ({
     slides = [],
     category = 'NATIONAL',
     backgroundColor = '#000000',
-    backgroundImage = 'background.png',
+    backgroundImages = ['background_0.png'],
     focusPoint = { x: 'center', y: 'top' }, // Default to top for faces
     durationInFrames,
-    hasMusic
+    hasMusic,
+    persona = 'NEWS'
 }) => {
     const { fps, height, width } = useVideoConfig();
     const frame = useCurrentFrame();
 
-    // Background Movement Logic
-    const moveType = title.length % 3;
+    // Slide Logic - First slide is 7 seconds, rest are 5 seconds
+    const firstSlideDuration = fps * 7;
+    const regularSlideDuration = fps * 5;
 
-    let scale = 1.1;
-    let transX = 0;
-    let transY = 0;
+    let currentSlideIndex = 0;
+    let elapsedFrames = frame;
 
-    if (moveType === 0) {
-        scale = interpolate(frame, [0, durationInFrames], [1.1, 1.4]);
-    } else if (moveType === 1) {
-        scale = 1.25;
-        transX = interpolate(frame, [0, durationInFrames], [-80, 80]); // Reduced drift to keep subject in view
+    if (elapsedFrames < firstSlideDuration) {
+        currentSlideIndex = 0;
     } else {
-        scale = interpolate(frame, [0, durationInFrames], [1.3, 1.1]);
-        transX = interpolate(frame, [0, durationInFrames], [80, -80]);
+        elapsedFrames -= firstSlideDuration;
+        currentSlideIndex = Math.min(
+            1 + Math.floor(elapsedFrames / regularSlideDuration),
+            slides.length - 1
+        );
     }
+
+    const currentSlideText = slides[currentSlideIndex];
+
+    // Background Animation Logic (Global Smooth Zoom)
+    const zoomScale = interpolate(
+        frame,
+        [0, durationInFrames],
+        [1.1, 1.4],
+        { extrapolateRight: 'clamp' }
+    );
+
+    const panX = interpolate(
+        frame,
+        [0, durationInFrames],
+        [0, focusPoint.x === 'left' ? 40 : focusPoint.x === 'right' ? -40 : 0]
+    );
+
+    const panY = interpolate(
+        frame,
+        [0, durationInFrames],
+        [0, focusPoint.y === 'top' ? 30 : focusPoint.y === 'bottom' ? -30 : 0]
+    );
 
     // Dynamic Focus Logic
     const focusMapX: Record<string, string> = {
@@ -63,26 +87,6 @@ export const Main: React.FC<MainProps> = ({
     // Safe Zones
     const safeZoneBottom = 280;
     const safeZoneTop = 150;
-
-    // Slide Logic - First slide is 7 seconds, rest are 5 seconds
-    const firstSlideDuration = fps * 7; // 7 seconds for first slide (people read title + description first)
-    const regularSlideDuration = fps * 5; // 5 seconds for other slides
-
-    let currentSlideIndex = 0;
-    let elapsedFrames = frame;
-
-    // Calculate which slide we're on
-    if (elapsedFrames < firstSlideDuration) {
-        currentSlideIndex = 0;
-    } else {
-        elapsedFrames -= firstSlideDuration;
-        currentSlideIndex = Math.min(
-            1 + Math.floor(elapsedFrames / regularSlideDuration),
-            slides.length - 1
-        );
-    }
-
-    const currentSlideText = slides[currentSlideIndex];
 
     // Slide Animation (Drop into place)
     const slideFrame = currentSlideIndex === 0
@@ -110,6 +114,49 @@ export const Main: React.FC<MainProps> = ({
     const slideScale = interpolate(slideEntry, [0, 1], [0.8, 1]);
     const slideOpacity = slideEntry * slideExit;
 
+    // Persona Themes
+    const getTheme = (p: string) => {
+        switch (p) {
+            case 'CELEBRATION':
+                return {
+                    primary: '#facc15',
+                    secondary: '#a16207',
+                    text: '#000',
+                    tint: 'rgba(250, 204, 21, 0.2)',
+                    label: 'GLORY',
+                    glow: '0 0 40px rgba(250, 204, 21, 0.4)'
+                };
+            case 'EMERGENCY':
+                return {
+                    primary: '#ef4444',
+                    secondary: '#991b1b',
+                    text: '#fff',
+                    tint: 'rgba(239, 68, 68, 0.3)',
+                    label: 'ALERT',
+                    glow: '0 0 50px rgba(239, 68, 68, 0.5)'
+                };
+            case 'SCOUTING':
+                return {
+                    primary: '#38bdf8',
+                    secondary: '#075985',
+                    text: '#000',
+                    tint: 'rgba(56, 189, 248, 0.2)',
+                    label: 'DRAFT',
+                    glow: '0 0 40px rgba(56, 189, 248, 0.4)'
+                };
+            default: // NEWS
+                return {
+                    primary: '#a3e635',
+                    secondary: '#65a30d',
+                    text: '#000',
+                    tint: 'rgba(163, 230, 53, 0.15)',
+                    label: 'BREAKING',
+                    glow: 'none'
+                };
+        }
+    };
+    const theme = getTheme(persona);
+
     // Ending Sequence Reveal
     const isEnding = frame > durationInFrames - (fps * 2.5);
     const opacityEnding = spring({
@@ -128,29 +175,33 @@ export const Main: React.FC<MainProps> = ({
                 />
             )}
 
-            {/* Background Layer (SMART FOCUS ENABLED) */}
+            {/* Background Layer */}
             <AbsoluteFill style={{ overflow: 'hidden' }}>
-                <Img
-                    src={staticFile(backgroundImage)}
-                    style={{
-                        width: '100%',
-                        height: '100%',
-                        objectFit: 'cover',
-                        objectPosition: `${posX} ${posY}`,
-                        filter: 'brightness(0.35) saturate(1.2) blur(1px)',
-                        transform: `scale(${scale}) translate(${transX}px, ${transY}px)`
-                    }}
-                />
+                <AbsoluteFill style={{
+                    transform: `scale(${zoomScale}) translate(${panX}px, ${panY}px)`,
+                    transformOrigin: `${posX} ${posY}`
+                }}>
+                    <Img
+                        src={staticFile('background_0.png')}
+                        style={{
+                            width: '100%',
+                            height: '100%',
+                            objectFit: 'cover',
+                            filter: 'brightness(1.0) saturate(1.2)',
+                        }}
+                    />
+                </AbsoluteFill>
 
-                {/* Newsroom Tint Overlay */}
+                {/* Tint Overlay */}
                 <div style={{
                     position: 'absolute',
                     top: 0,
                     left: 0,
                     right: 0,
                     bottom: 0,
-                    background: 'linear-gradient(135deg, rgba(15, 23, 42, 0.4) 0%, rgba(239, 68, 68, 0.1) 100%)',
-                    pointerEvents: 'none'
+                    background: `radial-gradient(circle at ${posX} ${posY}, transparent 20%, rgba(0,0,0,0.4) 100%), linear-gradient(135deg, rgba(15, 23, 42, 0.6) 0%, ${theme.tint} 100%)`,
+                    pointerEvents: 'none',
+                    opacity: interpolate(Math.sin(frame / 20), [-1, 1], [0.7, 1])
                 }} />
             </AbsoluteFill>
 
@@ -165,15 +216,16 @@ export const Main: React.FC<MainProps> = ({
                 }}>
                     <div style={{ display: 'flex', alignItems: 'center', gap: 15, marginBottom: 20 }}>
                         <div style={{
-                            backgroundColor: '#a3e635',
+                            backgroundColor: theme.primary,
                             padding: '10px 25px',
                             fontSize: 34,
                             fontWeight: 900,
                             textTransform: 'uppercase',
                             letterSpacing: 2,
-                            color: '#000'
+                            color: theme.text,
+                            boxShadow: theme.glow
                         }}>
-                            BREAKING
+                            {theme.label}
                         </div>
                         <div style={{
                             backgroundColor: 'rgba(255,255,255,0.1)',
@@ -182,7 +234,7 @@ export const Main: React.FC<MainProps> = ({
                             fontSize: 34,
                             fontWeight: 700,
                             textTransform: 'uppercase',
-                            border: '1px solid #a3e635'
+                            border: `1px solid ${theme.primary}`
                         }}>
                             {category}
                         </div>
@@ -196,7 +248,7 @@ export const Main: React.FC<MainProps> = ({
                         margin: 0,
                         textShadow: '0 6px 30px rgba(0,0,0,1)',
                         color: '#fff',
-                        borderLeft: '18px solid #a3e635',
+                        borderLeft: `18px solid ${theme.primary}`,
                         paddingLeft: 30
                     }}>
                         {title}
@@ -219,7 +271,7 @@ export const Main: React.FC<MainProps> = ({
                 </div>
             )}
 
-            {/* Full Block Content Slides (The part the user liked) */}
+            {/* Full Block Content Slides */}
             {!isEnding && (
                 <AbsoluteFill style={{
                     justifyContent: 'center',
@@ -239,13 +291,13 @@ export const Main: React.FC<MainProps> = ({
                             textTransform: 'uppercase',
                             textAlign: 'center',
                             lineHeight: 1.1,
-                            backgroundColor: 'rgba(163, 230, 53, 0.98)',
+                            backgroundColor: theme.primary,
                             padding: '30px 40px',
                             width: '92%',
                             borderRadius: 4,
                             boxShadow: '0 20px 80px rgba(0,0,0,0.8)',
-                            borderBottom: '14px solid #65a30d',
-                            color: '#000',
+                            borderBottom: `14px solid ${theme.secondary}`,
+                            color: theme.text,
                             position: 'relative'
                         }}>
                             {currentSlideText}
@@ -259,8 +311,6 @@ export const Main: React.FC<MainProps> = ({
                                 const framesRemaining = framesInSlide - framesElapsedInCurrentSlide;
                                 const secondsRemaining = Math.ceil(framesRemaining / fps);
 
-                                // Show countdown for the full duration of the slide
-
                                 return (
                                     <div style={{
                                         position: 'absolute',
@@ -270,7 +320,7 @@ export const Main: React.FC<MainProps> = ({
                                         fontWeight: '900',
                                         opacity: 0.8,
                                         fontFamily: 'monospace',
-                                        color: secondsRemaining <= 1 ? '#ef4444' : '#000' // Red on last second
+                                        color: secondsRemaining <= 1 ? '#ef4444' : '#000'
                                     }}>
                                         {secondsRemaining}...
                                     </div>
