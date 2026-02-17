@@ -37,8 +37,9 @@ async function main() {
         } else {
             // 1. Scrape News
             const articles = await scrapeNews(100);
+            console.log(`Scraper found ${articles.length} articles.`);
             if (articles.length === 0) {
-                console.log('No articles found.');
+                console.log("❌ ABORTING: No articles found. This is why the signal didn't send.");
                 return;
             }
 
@@ -74,10 +75,11 @@ async function main() {
 
 
         if (!article) {
-            console.error('Failed to select an article.');
+            console.error('❌ ERROR: Failed to select an article.');
             return;
         }
-        console.log(`Selected Recent Article: ${article.title}`);
+        console.log(`✅ Selected Article: ${article.title}`);
+        console.log(`🔗 URL: ${article.url}`);
 
         // 2. Extract Data
         const detailedData = await extractArticleData(article.url);
@@ -160,6 +162,7 @@ async function main() {
         if (process.env.TEST_MODE === 'true') {
             console.log('--- TEST MODE ACTIVE: Skipping Webhook ---');
         } else {
+            console.log(`🚀 Sending signal to: ${process.env.MAKE_CARD_WEBHOOK_URL ? 'URL FOUND' : '❌ SECRET MISSING'}`);
             const finalCardUrl = await sendCardToWebhook(outputLocation, {
                 headline: cardContent.title,
                 subHeadline: cardContent.facebookDescription || cardContent.subHeadline || '',
