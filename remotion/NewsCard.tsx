@@ -90,7 +90,7 @@ export const NewsCard: React.FC<NewsCardProps> = ({
                                 'NBA': 'https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg',
                                 'PREMIER': 'https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg',
                                 'LALIGA': 'https://upload.wikimedia.org/wikipedia/commons/b/bb/LaLiga_2023_logo.svg',
-                                'NFL': 'https://upload.wikimedia.org/wikipedia/en/a/a2/National_Football_League_official_logo.svg',
+                                'NFL': 'https://upload.wikimedia.org/wikipedia/en/a/a2/National_Football_League_logo.svg',
                                 'MLB': 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Major_League_Baseball_logo.svg',
                                 'F1': 'https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg',
                                 'FORMULA': 'https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg',
@@ -117,20 +117,20 @@ export const NewsCard: React.FC<NewsCardProps> = ({
                                 }
                             }
 
-                            if (matchedLogo) {
-                                return (
-                                    <div style={{
-                                        backgroundColor: 'white',
-                                        padding: '10px 25px',
-                                        borderRadius: '12px',
-                                        marginBottom: '30px',
-                                        boxShadow: '0 4px 15px rgba(0,0,0,0.3)',
-                                        display: 'flex',
-                                        alignItems: 'center',
-                                        justifyContent: 'center',
-                                        height: '90px',
-                                        minWidth: '160px'
-                                    }}>
+                            return (
+                                <div style={{
+                                    backgroundColor: matchedLogo ? 'white' : '#ff0000',
+                                    padding: matchedLogo ? '10px 25px' : '5px 20px',
+                                    borderRadius: '8px',
+                                    marginBottom: '20px',
+                                    boxShadow: '0 4px 15px rgba(0,0,0,0.3)',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    height: matchedLogo ? '90px' : '60px',
+                                    minWidth: matchedLogo ? '160px' : '150px'
+                                }}>
+                                    {matchedLogo ? (
                                         <Img
                                             src={matchedLogo}
                                             style={{
@@ -138,33 +138,18 @@ export const NewsCard: React.FC<NewsCardProps> = ({
                                                 objectFit: 'contain'
                                             }}
                                         />
-                                    </div>
-                                );
-                            }
-
-                            // Fallback to Colored Text Pill
-                            return (
-                                <div style={{
-                                    backgroundColor: (() => {
-                                        if (catUpper.includes('LALIGA')) return '#ea048b';
-                                        if (catUpper.includes('PREMIER')) return '#38003c';
-                                        if (catUpper.includes('NBA')) return '#fa8320';
-                                        if (catUpper.includes('NFL')) return '#013369';
-                                        if (catUpper.includes('F1') || catUpper.includes('FORMULA')) return '#e10600';
-                                        if (catUpper.includes('MLB')) return '#002D72';
-                                        return '#FF0000';
-                                    })(),
-                                    color: 'white',
-                                    padding: '10px 30px',
-                                    borderRadius: '4px',
-                                    fontSize: '30px',
-                                    fontWeight: '900',
-                                    textTransform: 'uppercase',
-                                    marginBottom: '30px',
-                                    letterSpacing: '1px',
-                                    boxShadow: '0 4px 15px rgba(0,0,0,0.3)'
-                                }}>
-                                    {category}
+                                    ) : (
+                                        <span style={{
+                                            color: 'white',
+                                            fontSize: '32px',
+                                            fontWeight: '900',
+                                            fontFamily: 'Heebo, sans-serif',
+                                            textTransform: 'uppercase',
+                                            letterSpacing: '2px'
+                                        }}>
+                                            {category || 'NEWS'}
+                                        </span>
+                                    )}
                                 </div>
                             );
                         })()}
@@ -427,7 +412,7 @@ export const NewsCard: React.FC<NewsCardProps> = ({
                     </div>
 
                     {/* Footer / Branding Line (Hidden for SKY and QUOTE) */}
-                    {type !== 'SKY' && type !== 'QUOTE' && (
+                    {type !== 'QUOTE' && (
                         <div style={{
                             position: 'absolute',
                             bottom: 60,
