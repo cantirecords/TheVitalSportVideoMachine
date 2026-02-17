@@ -23,7 +23,7 @@ async function main() {
     try {
         console.log('--- TVS AI VIDEO MACHINE (V1 SPORTS) ---');
 
-        let article;
+        let article: any;
         if (process.env.MANUAL_URL) {
             console.log(`Using manual URL from ENV: ${process.env.MANUAL_URL}`);
             article = {
@@ -32,51 +32,88 @@ async function main() {
                 source: 'Manual Override'
             };
         } else {
-            // 1. Scrape News (Fetch more to find a specific team if needed)
+            // 1. Scrape News
             const articles = await scrapeNews(100);
             if (articles.length === 0) {
                 console.log('No articles found.');
                 return;
             }
 
-            // Expanded Variety: Filter for high-priority news across ALL major sports
-            const priorityArticles = articles.filter(a => {
+            // --- Topic Cooldown Logic ---
+            const historyPath = path.join(process.cwd(), 'history.json');
+            let history: { recentKeywords: string[] } = { recentKeywords: [] };
+            if (fs.existsSync(historyPath)) {
+                try {
+                    const savedHistory = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
+                    if (savedHistory && Array.isArray(savedHistory.recentKeywords)) {
+                        history = savedHistory;
+                    }
+                } catch (e) {
+                    console.error('Failed to read history.json');
+                }
+            }
+
+            console.log('Recent Keywords (Cooldown):', history.recentKeywords);
+
+            // Bucketing Articles
+            const buckets: Record<string, any[]> = {
+                soccer: [],
+                nba: [],
+                variety: [] // F1, NFL, MLB, Tennis, etc.
+            };
+
+            articles.forEach(a => {
                 const titleLower = a.title.toLowerCase();
 
-                // SOCCER: Broaden beyond just Barca/Madrid
+                // Skip articles containing keywords from recent history
+                const isCooldown = history.recentKeywords.some((k: string) => titleLower.includes(k.toLowerCase()));
+                if (isCooldown) return;
+
                 const isSoccer = ['champions league', 'premier league', 'laliga', 'serie a', 'bundesliga',
                     'madrid', 'barça', 'barcelona', 'atletico', 'manchester', 'liverpool', 'arsenal', 'chelsea',
                     'haaland', 'mbappé', 'bellingham', 'yamal', 'vinícius', 'salah', 'kane', 'lewandowski',
                     'psg', 'bayern', 'leverkusen', 'dortmund', 'inter milan', 'juventus', 'milan'].some(key => titleLower.includes(key));
 
-                // NBA: 
                 const isNBA = ['nba', 'lebron', 'curry', 'lakers', 'celtics', 'warriors', 'mavericks', 'nuggets',
                     'jokic', 'doncic', 'antetokounmpo', 'giannis', 'wembanyama', 'suns', 'heat'].some(key => titleLower.includes(key));
 
-                // OTHERS: F1, NFL, MLB, Tennis
                 const isVariety = ['f1', 'formula 1', 'verstappen', 'hamilton', 'ferrari', 'red bull',
                     'super bowl', 'mahomes', 'nfl', 'draft',
                     'ohtani', 'dodgers', 'yankees', 'mlb',
                     'alcaraz', 'djokovic', 'sinner', 'tennis',
                     'olympic', 'winter games', 'gold medal'].some(key => titleLower.includes(key));
 
-                const isRecent = a.date ? a.date.includes('2026') : true;
-
-                return (isSoccer || isNBA || isVariety) && isRecent;
+                if (isSoccer && buckets.soccer) buckets.soccer.push(a);
+                if (isNBA && buckets.nba) buckets.nba.push(a);
+                if (isVariety && buckets.variety) buckets.variety.push(a);
             });
 
-            // RANDOM VARIATION: Shuffle priority articles to avoid picking the same topic every time
-            if (priorityArticles.length > 0) {
-                console.log(`Found ${priorityArticles.length} priority articles. Picking randomly for variety...`);
-                article = priorityArticles[Math.floor(Math.random() * priorityArticles.length)];
+            // Selection Logic: Pick a category that has articles, prioritizing variety and NBA over soccer if they were recently skipped
+            const availableBuckets = Object.entries(buckets).filter(([_, list]) => list && list.length > 0);
+            if (availableBuckets.length === 0) {
+                console.warn('All priority articles are in cooldown. Picking any recent news.');
+                article = articles.find(a => a.date && a.date.includes('2026')) || articles[0];
             } else {
-                // Fallback to any recent news if no priority found
-                const recentArticles = articles.filter(a => a.date && a.date.includes('2026'));
-                if (recentArticles.length > 0) {
-                    article = recentArticles[Math.floor(Math.random() * recentArticles.length)];
+                // Randomly select a bucket, then a random article within it
+                const randomBucketEntry = availableBuckets[Math.floor(Math.random() * availableBuckets.length)];
+                if (randomBucketEntry) {
+                    const bucketName = randomBucketEntry[0];
+                    const bucketArticles = randomBucketEntry[1];
+                    console.log(`Selected Bucket: ${bucketName} (${bucketArticles.length} candidates)`);
+                    article = bucketArticles[Math.floor(Math.random() * bucketArticles.length)];
                 } else {
-                    article = articles[0]!;
+                    article = articles[0];
                 }
+            }
+
+            // Update History (Track keywords from the selected title)
+            const keywordsToTrack = ['Barcelona', 'Barça', 'Madrid', 'Messi', 'Ronaldo', 'Mbappé', 'LeBron', 'Curry', 'Mahomes', 'Ohtani', 'Verstappen', 'Hamilton'];
+            const foundKeywords = keywordsToTrack.filter(k => article.title.toLowerCase().includes(k.toLowerCase()));
+
+            if (foundKeywords.length > 0) {
+                history.recentKeywords = [...new Set([...foundKeywords, ...history.recentKeywords])].slice(0, 10);
+                fs.writeFileSync(historyPath, JSON.stringify(history, null, 4));
+                console.log('Updated History with:', foundKeywords);
             }
         }
 

@@ -8,11 +8,12 @@ const groq = new Groq({
 });
 
 export interface VideoScript {
+    category: string;
     headline: string;
     subHeadline: string;
-    slides: string[];
-    category: string;
     facebookDescription: string;
+    slides: string[];
+    persona: string;
 }
 
 export async function generateScript(content: string): Promise<VideoScript> {
@@ -51,6 +52,7 @@ export async function generateScript(content: string): Promise<VideoScript> {
         
         Return ONLY valid JSON:
         {
+          "persona": "ONE OF: NEWS, CELEBRATION, EMERGENCY, SCOUTING",
           "category": "ONE WORD SPORT",
           "headline": "SHORT HEADLINE",
           "subHeadline": "Teaser sentence...",
@@ -81,6 +83,7 @@ export async function generateScript(content: string): Promise<VideoScript> {
             subHeadline: result.subHeadline || '',
             facebookDescription: result.facebookDescription || result.subHeadline || '',
             slides: Array.isArray(result.slides) ? result.slides : [result.subHeadline || 'Developing situation...'],
+            persona: result.persona?.toUpperCase() || 'NEWS'
         };
     } catch (error) {
         console.error('Script generation failed:', error);
@@ -89,6 +92,7 @@ export async function generateScript(content: string): Promise<VideoScript> {
             headline: 'BREAKING NEWS ALERT',
             subHeadline: 'Major developing story in the United States this hour.',
             facebookDescription: 'Major news is breaking right now across the country. Authorities are working around the clock to manage the situation.\n\nStay tuned for more updates as this story develops. Follow for the latest viral news.',
+            persona: 'EMERGENCY',
             slides: [
                 'Major news is breaking right now across the country.',
                 'Officials have just released a critical statement on the matter.',

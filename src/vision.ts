@@ -24,7 +24,7 @@ export async function detectSubjectFocus(imageUrl: string): Promise<FocusPoint> 
         const dataUrl = `data:${mimeType};base64,${base64Image}`;
 
         const response = await groq.chat.completions.create({
-            model: "llama-3.2-90b-vision-preview", // Updated to the latest stable vision model
+            model: "meta-llama/llama-4-scout-17b-16e-instruct", // Latest multimodal model for preview
             messages: [
                 {
                     role: "user",
