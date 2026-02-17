@@ -67,3 +67,54 @@ export async function sendToWebhook(videoPath: string, metadata: { headline: str
         console.error('Failed to process webhook delivery:', error.message);
     }
 }
+
+export async function sendCardToWebhook(imagePath: string, metadata: { headline: string, subHeadline: string, category: string }) {
+    const webhookUrl = process.env.MAKE_CARD_WEBHOOK_URL || process.env.MAKE_WEBHOOK_URL;
+
+    if (!webhookUrl) {
+        console.warn('Warning: No Webhook URL set for cards. Skipping.');
+        return;
+    }
+
+    try {
+        console.log('Uploading card to Cloudinary...');
+        const absPath = path.resolve(imagePath);
+
+        if (!fs.existsSync(absPath)) {
+            throw new Error(`Card file not found at: ${absPath}`);
+        }
+
+        // 1. Upload as Image
+        const uploadResponse = await cloudinary.uploader.upload(absPath, {
+            resource_type: 'image',
+            folder: 'tvs_cards',
+            public_id: `card_${Date.now()}`
+        });
+
+        const imageUrl = uploadResponse.secure_url;
+        console.log(`Card uploaded to Cloudinary: ${imageUrl}`);
+
+        // 2. Send signal
+        const payload = {
+            imageUrl,
+            headline: metadata.headline,
+            subHeadline: metadata.subHeadline,
+            category: metadata.category,
+            type: 'STATIC_CARD',
+            timestamp: new Date().toISOString()
+        };
+
+        const response = await fetch(webhookUrl, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+        });
+
+        if (!response.ok) throw new Error(`Webhook failed: ${response.status}`);
+
+        console.log('Card signal delivered to Make.com! 🚀');
+        return imageUrl;
+    } catch (error: any) {
+        console.error('Webhook Error:', error.message);
+    }
+}

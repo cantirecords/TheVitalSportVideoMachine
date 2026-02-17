@@ -1,6 +1,7 @@
 import React from 'react';
 import { Composition } from 'remotion';
 import { Main } from './Main';
+import { NewsCard } from './NewsCard';
 
 export const RemotionRoot: React.FC = () => {
     return (
@@ -30,6 +31,24 @@ export const RemotionRoot: React.FC = () => {
                     return {
                         durationInFrames: (props as any).durationInFrames || 1800
                     };
+                }}
+            />
+            <Composition
+                id="NewsCard"
+                component={NewsCard}
+                durationInFrames={1}
+                fps={30}
+                width={1080}
+                height={1350} // 4:5 Aspect Ratio
+                defaultProps={{
+                    title: 'TOTTENHAM SACK MANAGER THOMAS FRANK',
+                    subHeadline: 'Shocking turn of events in North London today.',
+                    image: 'background_0.png',
+                    category: 'BREAKING NEWS',
+                    type: 'BREAKING',
+                    quoteAuthor: '',
+                    statValue: '',
+                    statLabel: ''
                 }}
             />
         </>

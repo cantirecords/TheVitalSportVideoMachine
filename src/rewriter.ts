@@ -16,6 +16,17 @@ export interface VideoScript {
     persona: string;
 }
 
+export interface CardContent {
+    type: 'BREAKING' | 'QUOTE' | 'STAT' | 'SKY';
+    category: string;
+    title: string;
+    subHeadline?: string;
+    quoteAuthor?: string;
+    statValue?: string;
+    statLabel?: string;
+    facebookDescription?: string;
+}
+
 export async function generateScript(content: string): Promise<VideoScript> {
     const prompt = `
         You are a PROFESSIONAL SPORTS JOURNALIST creating a 30-40 second video story.
@@ -101,6 +112,76 @@ export async function generateScript(content: string): Promise<VideoScript> {
                 'Legal experts are already debating the long-term consequences.',
                 'We will continue to bring you the very latest as it happens.'
             ]
+        };
+    }
+}
+
+export async function generateCardContent(content: string, title: string): Promise<CardContent> {
+    console.log('Generating AI Content for Card...');
+    const prompt = `
+        You are an expert sports editor designed to create a VIRAL SOCIAL MEDIA GRAPHIC.
+        
+        Analyze the news and extract content for a "Daily News" card.
+        ALWAYS use the "SKY" format.
+
+        SYSTEM ROLE: You are a professional SPORTS broadcast journalist for "The Vital Sport".
+    
+        FORMATTING RULES:
+        - "category": Short tag (e.g., "NBA", "LALIGA", "PREMIER"). MUST be a sport or league.
+        - "title": Smart Clickbait Headline. EXACTLY 6-8 words. (MUST fit in TWO ROWS at 80px font).
+        - "subHeadline": Deep Context. EXACTLY 12-15 words. (MUST fit in TWO ROWS at 32px font).
+        - "facebookDescription": 2 short, engaging paragraphs with 1 emoji and hashtags: #TheVitalSport #[Category] #[Subject].
+    
+        STRICT RULES:
+        1. NEVER write about technology, URLs, cookies, or website maintenance.
+        2. If the provided content is empty or irrelevant, look at the News Title: "${title}". 
+        3. Use your internal knowledge about the teams/players in the title (e.g., Girona vs Barcelona) to write a factual sports summary of that specific match.
+        4. Your goal is to provide a professional, premium sports news card.
+    
+        News Title:
+        ${title}
+    
+        News Content:
+        ${content}
+
+        Return ONLY valid JSON:
+        {
+          "type": "SKY",
+          "category": "category...",
+          "title": "Short Headline...",
+          "subHeadline": "Details...",
+          "facebookDescription": "Post text..."
+        }
+    `;
+
+    try {
+        const chatCompletion = await groq.chat.completions.create({
+            messages: [{ role: 'user', content: prompt }],
+            model: 'llama-3.3-70b-versatile',
+            response_format: { type: 'json_object' },
+            temperature: 0.7
+        });
+
+        const result = JSON.parse(chatCompletion.choices[0]?.message?.content || '{}');
+        console.log('AI Full Result:', JSON.stringify(result, null, 2));
+        console.log(`AI Card Type: ${result.type}`);
+        return {
+            type: 'SKY', // Force SKY type
+            category: result.category || 'THE VITAL SPORT',
+            title: result.title || 'BREAKING NEWS',
+            subHeadline: result.subHeadline,
+            facebookDescription: result.facebookDescription, // Include FB description
+            quoteAuthor: result.quoteAuthor,
+            statValue: result.statValue,
+            statLabel: result.statLabel
+        };
+    } catch (error) {
+        console.error('Card generation failed:', error);
+        return {
+            type: 'SKY', // Default to SKY on error
+            category: 'BREAKING NEWS',
+            title: 'DEVELOPING STORY',
+            subHeadline: 'Check back for more details soon.'
         };
     }
 }
