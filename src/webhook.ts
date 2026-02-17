@@ -35,7 +35,11 @@ export async function sendToWebhook(videoPath: string, metadata: { headline: str
             public_id: `video_${Date.now()}`
         });
 
-        const videoUrl = uploadResponse.secure_url;
+        // Force .mp4 extension for Facebook API stability
+        const videoUrl = uploadResponse.secure_url.endsWith('.mp4')
+            ? uploadResponse.secure_url
+            : `${uploadResponse.secure_url}.mp4`;
+
         console.log(`Video uploaded to Cloudinary: ${videoUrl}`);
 
         // 2. Send signal to Make.com (URL only, no binary file)
@@ -69,7 +73,7 @@ export async function sendToWebhook(videoPath: string, metadata: { headline: str
 }
 
 export async function sendCardToWebhook(imagePath: string, metadata: { headline: string, subHeadline: string, category: string }) {
-    const webhookUrl = process.env.MAKE_CARD_WEBHOOK_URL || process.env.MAKE_WEBHOOK_URL;
+    const webhookUrl = process.env.MAKE_CARD_WEBHOOK_URL;
 
     if (!webhookUrl) {
         console.warn('Warning: No Webhook URL set for cards. Skipping.');
