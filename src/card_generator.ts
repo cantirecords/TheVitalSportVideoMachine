@@ -95,8 +95,21 @@ async function main() {
 
         const targetImageUrl = process.env.MANUAL_IMAGE_URL || (detailedData.images.length > 0 ? detailedData.images[0] : null);
 
-        if (targetImageUrl) {
-            console.log(`Downloading Image: ${targetImageUrl}`);
+        if (!targetImageUrl) {
+            console.error('❌ ABORTING: No high-quality image found for this article. Skipping to maintain quality.');
+            return;
+        }
+
+        // Block known garbage images
+        const lowerImg = targetImageUrl.toLowerCase();
+        const isGarbage = ['logo', 'placeholder', 'espn_red', 'default_avatar', 'icon', 'badge', 'sprite'].some(g => lowerImg.includes(g));
+        if (isGarbage) {
+            console.error(`❌ ABORTING: Image is a placeholder/logo, not editorial: ${targetImageUrl}`);
+            return;
+        }
+
+        try {
+            console.log(`📸 Downloading article image: ${targetImageUrl}`);
             const response = await axios({
                 url: targetImageUrl as string,
                 responseType: 'stream',
@@ -107,10 +120,9 @@ async function main() {
                 writer.on('finish', resolve);
                 writer.on('error', reject);
             });
-        } else {
-            console.log('No image found, using default background.');
-            // Copy default background
-            fs.copyFileSync(path.join(publicDir, 'background_0.png'), localImagePath);
+        } catch (err: any) {
+            console.error(`❌ ABORTING: Could not download article image: ${err.message}`);
+            return;
         }
 
         // 3. Generate Card Content (AI)

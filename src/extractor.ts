@@ -33,35 +33,44 @@ export async function extractArticleData(url: string): Promise<ExtractedArticle>
             $('h1').first().text().trim() ||
             "News Update";
 
-        // 2. Extract Multiple Images
+        // 2. Extract Multiple Images (STRICT QUALITY FILTER)
         const imageSet = new Set<string>();
 
-        // Primary Images (Meta Tags)
+        // Helper: Check if an image URL looks like a real editorial photo
+        const isHighQualityImage = (src: string): boolean => {
+            const lower = src.toLowerCase();
+            const garbage = [
+                'pixel', 'clear.gif', 'icon', 'logo', 'avatar', 'tracking',
+                '1x1', 'spacer', 'blank', 'placeholder', 'badge', 'emoji',
+                'sprite', 'social', 'share', 'button', 'widget', 'thumb',
+                'ad-', 'advert', 'promo-', 'sponsor', 'analytics',
+                'facebook.com', 'twitter.com', 'google-analytics', 'doubleclick',
+                'scoreboard', 'favicon', '.svg', 'data:image'
+            ];
+            if (garbage.some(g => lower.includes(g))) return false;
+            // Must be a real image format
+            if (!lower.match(/\.(jpg|jpeg|png|webp)/i) && !lower.includes('combiner/i') && !lower.includes('image/upload')) return false;
+            // Skip tiny thumbnails (likely icons)
+            if (lower.includes('50x50') || lower.includes('30x30') || lower.includes('100x') || lower.includes('_tiny')) return false;
+            return true;
+        };
+
+        // Primary Images (Meta Tags — usually the hero image matching the article)
         const mainImage = $('meta[property="og:image"]').attr('content') ||
             $('meta[name="twitter:image"]').attr('content');
-        if (mainImage) imageSet.add(mainImage);
+        if (mainImage && isHighQualityImage(mainImage)) imageSet.add(mainImage);
 
-        // Secondary Images from article body
+        // Secondary Images from article body (strict filtering)
         $('article img, main img, figure img, .article-body img, img[class*="article"]').each((i, el) => {
             const src = $(el).attr('src') || $(el).attr('data-src') || $(el).attr('data-original') || $(el).attr('srcset')?.split(' ')[0];
-            if (src && src.startsWith('http')) {
-                const lowerSrc = src.toLowerCase();
-                const isPoorQuality = lowerSrc.includes('pixel') ||
-                    lowerSrc.includes('clear.gif') ||
-                    lowerSrc.includes('icon') ||
-                    lowerSrc.includes('logo') ||
-                    lowerSrc.includes('avatar') ||
-                    lowerSrc.includes('tracking') ||
-                    lowerSrc.includes('1x1');
-
-                if (!isPoorQuality) {
-                    imageSet.add(src);
-                }
+            if (src && src.startsWith('http') && isHighQualityImage(src)) {
+                imageSet.add(src);
             }
-            if (imageSet.size >= 10) return false;
+            if (imageSet.size >= 5) return false;
         });
 
         const images = Array.from(imageSet);
+        console.log(`🖼️ High-quality images found: ${images.length}`);
 
         // 3. Extract Content (Enhanced with broader selectors)
         let content = '';

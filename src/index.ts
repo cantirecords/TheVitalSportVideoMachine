@@ -136,36 +136,41 @@ async function main() {
         if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
 
         // Download ONLY the primary background image (background_0.png)
+        // STRICT: Must come from the article. No fallback to generic images.
         const downloadedImages: string[] = [];
         const imageUrl = detailedData.images[0];
         const fileName = `background_0.png`;
 
-        if (imageUrl) {
-            try {
-                // If it's an AP News placeholder, skip it to keep our high-quality generated image
-                if (imageUrl.includes('apnews.com') && (imageUrl.includes('logo') || imageUrl.includes('placeholder'))) {
-                    console.log(`Skipping placeholder image from AP News: ${imageUrl}`);
-                    if (fs.existsSync(path.join(publicDir, fileName))) {
-                        downloadedImages.push(fileName);
-                    }
-                } else {
-                    console.log(`Downloading background image: ${imageUrl}`);
-                    const response = await axios({
-                        url: imageUrl,
-                        responseType: 'stream',
-                    });
-                    const writer = fs.createWriteStream(path.join(publicDir, fileName));
-                    response.data.pipe(writer);
+        if (!imageUrl) {
+            console.error('❌ ABORTING: No high-quality image found for this article. Skipping to maintain quality.');
+            return;
+        }
 
-                    await new Promise((resolve, reject) => {
-                        writer.on('finish', resolve);
-                        writer.on('error', reject);
-                    });
-                    downloadedImages.push(fileName);
-                }
-            } catch (err: any) {
-                console.warn(`Could not download primary image: ${err.message}`);
-            }
+        // Block known garbage patterns
+        const lowerUrl = imageUrl.toLowerCase();
+        const isGarbage = ['logo', 'placeholder', 'espn_red', 'default_avatar', 'icon', 'badge', 'sprite'].some(g => lowerUrl.includes(g));
+        if (isGarbage) {
+            console.error(`❌ ABORTING: Image is a placeholder/logo, not editorial: ${imageUrl}`);
+            return;
+        }
+
+        try {
+            console.log(`📸 Downloading article image: ${imageUrl}`);
+            const response = await axios({
+                url: imageUrl,
+                responseType: 'stream',
+            });
+            const writer = fs.createWriteStream(path.join(publicDir, fileName));
+            response.data.pipe(writer);
+
+            await new Promise((resolve, reject) => {
+                writer.on('finish', resolve);
+                writer.on('error', reject);
+            });
+            downloadedImages.push(fileName);
+        } catch (err: any) {
+            console.error(`❌ ABORTING: Could not download article image: ${err.message}`);
+            return;
         }
 
         // Run AI Vision for Focus Point

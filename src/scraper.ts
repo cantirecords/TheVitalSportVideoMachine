@@ -72,33 +72,63 @@ export async function scrapeNews(limit: number = 1): Promise<Article[]> {
     }
   }
 
-  // General Today News: Return all latest articles and shuffle for variety
   console.log(`Sports scraping finished. Found ${allScrapedArticles.length} total articles.`);
 
-  // Expanded Variety Keywords: Filter for high-impact sports keywords
+  // ===== STRICT 24-HOUR FRESHNESS FILTER =====
+  const now = Date.now();
+  const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+
+  const freshArticles: Article[] = [];
+  const undatedArticles: Article[] = [];
+
+  for (const a of allScrapedArticles) {
+    if (a.date) {
+      const pubDate = new Date(a.date).getTime();
+      if (!isNaN(pubDate) && (now - pubDate) <= ONE_DAY_MS) {
+        freshArticles.push(a);
+      }
+    } else {
+      // No date — keep as last resort
+      undatedArticles.push(a);
+    }
+  }
+
+  console.log(`📅 Fresh articles (last 24h): ${freshArticles.length}`);
+  console.log(`❓ Undated articles (fallback): ${undatedArticles.length}`);
+
+  // Use fresh articles first; fall back to undated only if nothing fresh exists
+  const pool = freshArticles.length > 0 ? freshArticles : undatedArticles;
+
+  if (pool.length === 0) {
+    console.log('❌ No fresh articles found at all.');
+    return [];
+  }
+
+  // Sort by date descending (newest first)
+  pool.sort((a, b) => {
+    const dateA = a.date ? new Date(a.date).getTime() : 0;
+    const dateB = b.date ? new Date(b.date).getTime() : 0;
+    return dateB - dateA;
+  });
+
+  // High-impact keyword boost (prioritize big stories)
   const impactKeywords = [
-    // Real Madrid & Barcelona
     'real madrid', 'madrid', 'barcelona', 'barça', 'el clasico', 'la liga',
-    // Soccer Stars
     'messi', 'ronaldo', 'mbappe', 'vinicius', 'vini jr', 'bellingham', 'haaland', 'neymar',
     'lewandowski', 'yamal', 'salah', 'kane', 'wirtz', 'musiala',
-    // NBA Stars
     'lebron', 'curry', 'lakers', 'nba', 'jokic', 'doncic', 'wembanyama', 'giannis', 'durant',
-    // NFL & MLB
     'mahomes', 'nfl', 'draft', 'super bowl', 'ohtani', 'dodgers', 'yankees', 'mlb',
-    // F1 & Variety
     'f1', 'formula 1', 'verstappen', 'hamilton', 'ferrari', 'red bull', 'norris',
     'djokovic', 'alcaraz', 'sinner', 'tennis',
-    // General Impact
     'breaking', 'legend', 'record', 'viral', 'miracle', 'shocking', 'epic', 'historic'
   ];
 
-  const highImpact = allScrapedArticles.filter(a =>
+  const highImpact = pool.filter(a =>
     impactKeywords.some(k => a.title.toLowerCase().includes(k))
   );
 
-  const finalArticles = highImpact.length > 0 ? highImpact : allScrapedArticles;
+  const finalArticles = highImpact.length > 0 ? highImpact : pool;
 
-  // Shuffle and pick the absolute latest
+  // Shuffle among top results for variety
   return finalArticles.sort(() => Math.random() - 0.5).slice(0, limit);
 }
