@@ -31,6 +31,7 @@ async function main() {
         const history = loadHistory();
         console.log(`📋 History: ${history.postedUrls.length} posted URLs, ${history.cloudinaryAssets.length} tracked assets`);
         await cleanupOldCloudinaryAssets(history);
+        saveHistory(history); // Persist cleanup immediately
 
         // 1. Scrape News or use Manual URL
         let article: any;
@@ -53,7 +54,12 @@ async function main() {
             const unpostedArticles = articles.filter(a => !isUrlAlreadyPosted(history, a.url));
             console.log(`🔍 After URL dedup: ${unpostedArticles.length} new articles (${articles.length - unpostedArticles.length} already posted)`);
 
-            const pool = unpostedArticles.length > 0 ? unpostedArticles : articles;
+            if (unpostedArticles.length === 0) {
+                console.log("🛑 ABORTING: All scraped news articles have already been posted. No new content to generate.");
+                return;
+            }
+
+            const pool = unpostedArticles;
 
             // Keyword cooldown filter
             const freshArticles = pool.filter(a => {
@@ -62,8 +68,8 @@ async function main() {
             });
 
             if (freshArticles.length === 0) {
-                console.log('All recent news is in cooldown. Picking top anyway to stay live.');
-                article = pool[0];
+                console.log("🛑 ABORTING: All new articles are in keyword cooldown. Skipping to avoid repetitive topics.");
+                return;
             } else {
                 // Pick from top 5 fresh ones
                 const topFresh = freshArticles.slice(0, 5);

@@ -29,6 +29,7 @@ async function main() {
         const history = loadHistory();
         console.log(`📋 History: ${history.postedUrls.length} posted URLs, ${history.cloudinaryAssets.length} tracked assets`);
         await cleanupOldCloudinaryAssets(history);
+        saveHistory(history); // Persist cleanup immediately
 
         let article: any;
         if (process.env.MANUAL_URL) {
@@ -50,7 +51,12 @@ async function main() {
             const unpostedArticles = articles.filter(a => !isUrlAlreadyPosted(history, a.url));
             console.log(`🔍 After URL dedup: ${unpostedArticles.length} new articles (${articles.length - unpostedArticles.length} already posted)`);
 
-            const pool = unpostedArticles.length > 0 ? unpostedArticles : articles;
+            if (unpostedArticles.length === 0) {
+                console.log("🛑 ABORTING: All scraped news articles have already been posted. No new content to generate.");
+                return;
+            }
+
+            const pool = unpostedArticles;
 
             console.log('Recent Keywords (Cooldown):', history.recentKeywords);
 
@@ -90,8 +96,8 @@ async function main() {
             // Selection Logic
             const availableBuckets = Object.entries(buckets).filter(([_, list]) => list && list.length > 0);
             if (availableBuckets.length === 0) {
-                console.warn('All priority articles are in cooldown. Picking any recent news.');
-                article = pool.find(a => a.date && a.date.includes('2026')) || pool[0];
+                console.log("🛑 ABORTING: All priority articles are in cooldown or already posted. Skipping to avoid duplicate content.");
+                return;
             } else {
                 const randomBucketEntry = availableBuckets[Math.floor(Math.random() * availableBuckets.length)];
                 if (randomBucketEntry) {
@@ -100,7 +106,8 @@ async function main() {
                     console.log(`Selected Bucket: ${bucketName} (${bucketArticles.length} candidates)`);
                     article = bucketArticles[Math.floor(Math.random() * bucketArticles.length)];
                 } else {
-                    article = pool[0];
+                    console.log("🛑 ABORTING: Empty bucket selected. Skipping.");
+                    return;
                 }
             }
 

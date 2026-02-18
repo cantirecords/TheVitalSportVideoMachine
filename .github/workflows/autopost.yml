@@ -35,3 +35,13 @@ jobs:
           CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
           CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
         run: npm start
+
+      - name: Commit and Push History
+        if: always()
+        run: |
+          git config --global user.name "tvs-bot"
+          git config --global user.email "bot@thevitalsport.com"
+          git add history.json
+          git commit -m "chore: update history [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main
