@@ -10,6 +10,8 @@ import { fileURLToPath } from 'url';
 import axios from 'axios';
 import { detectSubjectFocus, type FocusPoint } from './vision.js';
 import { sendToWebhook } from './webhook.js';
+import { loadHistory, saveHistory, isUrlAlreadyPosted, addPostedUrl, trackCloudinaryAsset, cleanupOldCloudinaryAssets } from './historyManager.js';
+import { findPlayerImage } from './playerLibrary.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 dotenv.config();
@@ -22,6 +24,11 @@ async function main() {
 
     try {
         console.log('--- TVS AI VIDEO MACHINE (V1 SPORTS) ---');
+
+        // ===== STEP 0: Load shared history & run Cloudinary cleanup =====
+        const history = loadHistory();
+        console.log(`📋 History: ${history.postedUrls.length} posted URLs, ${history.cloudinaryAssets.length} tracked assets`);
+        await cleanupOldCloudinaryAssets(history);
 
         let article: any;
         if (process.env.MANUAL_URL) {
@@ -39,30 +46,22 @@ async function main() {
                 return;
             }
 
-            // --- Topic Cooldown Logic ---
-            const historyPath = path.join(process.cwd(), 'history.json');
-            let history: { recentKeywords: string[] } = { recentKeywords: [] };
-            if (fs.existsSync(historyPath)) {
-                try {
-                    const savedHistory = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
-                    if (savedHistory && Array.isArray(savedHistory.recentKeywords)) {
-                        history = savedHistory;
-                    }
-                } catch (e) {
-                    console.error('Failed to read history.json');
-                }
-            }
+            // ===== URL DEDUP: Filter out already-posted URLs =====
+            const unpostedArticles = articles.filter(a => !isUrlAlreadyPosted(history, a.url));
+            console.log(`🔍 After URL dedup: ${unpostedArticles.length} new articles (${articles.length - unpostedArticles.length} already posted)`);
+
+            const pool = unpostedArticles.length > 0 ? unpostedArticles : articles;
 
             console.log('Recent Keywords (Cooldown):', history.recentKeywords);
 
-            // Bucketing Articles
+            // Bucketing Articles (existing logic preserved)
             const buckets: Record<string, any[]> = {
                 soccer: [],
                 nba: [],
                 variety: [] // F1, NFL, MLB, Tennis, etc.
             };
 
-            articles.forEach(a => {
+            pool.forEach(a => {
                 const titleLower = a.title.toLowerCase();
 
                 // Skip articles containing keywords from recent history
@@ -88,13 +87,12 @@ async function main() {
                 if (isVariety && buckets.variety) buckets.variety.push(a);
             });
 
-            // Selection Logic: Pick a category that has articles, prioritizing variety and NBA over soccer if they were recently skipped
+            // Selection Logic
             const availableBuckets = Object.entries(buckets).filter(([_, list]) => list && list.length > 0);
             if (availableBuckets.length === 0) {
                 console.warn('All priority articles are in cooldown. Picking any recent news.');
-                article = articles.find(a => a.date && a.date.includes('2026')) || articles[0];
+                article = pool.find(a => a.date && a.date.includes('2026')) || pool[0];
             } else {
-                // Randomly select a bucket, then a random article within it
                 const randomBucketEntry = availableBuckets[Math.floor(Math.random() * availableBuckets.length)];
                 if (randomBucketEntry) {
                     const bucketName = randomBucketEntry[0];
@@ -102,17 +100,16 @@ async function main() {
                     console.log(`Selected Bucket: ${bucketName} (${bucketArticles.length} candidates)`);
                     article = bucketArticles[Math.floor(Math.random() * bucketArticles.length)];
                 } else {
-                    article = articles[0];
+                    article = pool[0];
                 }
             }
 
-            // Update History (Track keywords from the selected title)
+            // Track keywords (existing logic preserved)
             const keywordsToTrack = ['Barcelona', 'Barça', 'Madrid', 'Messi', 'Ronaldo', 'Mbappé', 'LeBron', 'Curry', 'Mahomes', 'Ohtani', 'Verstappen', 'Hamilton'];
             const foundKeywords = keywordsToTrack.filter(k => article.title.toLowerCase().includes(k.toLowerCase()));
 
             if (foundKeywords.length > 0) {
                 history.recentKeywords = [...new Set([...foundKeywords, ...history.recentKeywords])].slice(0, 10);
-                fs.writeFileSync(historyPath, JSON.stringify(history, null, 4));
                 console.log('Updated History with:', foundKeywords);
             }
         }
@@ -136,10 +133,18 @@ async function main() {
         if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
 
         // Download ONLY the primary background image (background_0.png)
-        // STRICT: Must come from the article. No fallback to generic images.
         const downloadedImages: string[] = [];
-        const imageUrl = detailedData.images[0];
+        let imageUrl: string | null = detailedData.images[0] || null;
         const fileName = `background_0.png`;
+
+        // ===== PLAYER LIBRARY FALLBACK =====
+        if (!imageUrl) {
+            const playerMatch = findPlayerImage(detailedData.title || article.title);
+            if (playerMatch) {
+                console.log(`📚 Using Player Library fallback: ${playerMatch.name}`);
+                imageUrl = playerMatch.imageUrl;
+            }
+        }
 
         if (!imageUrl) {
             console.error('❌ ABORTING: No high-quality image found for this article. Skipping to maintain quality.');
@@ -150,8 +155,15 @@ async function main() {
         const lowerUrl = imageUrl.toLowerCase();
         const isGarbage = ['logo', 'placeholder', 'espn_red', 'default_avatar', 'icon', 'badge', 'sprite'].some(g => lowerUrl.includes(g));
         if (isGarbage) {
-            console.error(`❌ ABORTING: Image is a placeholder/logo, not editorial: ${imageUrl}`);
-            return;
+            // Try player library as last resort
+            const playerMatch = findPlayerImage(detailedData.title || article.title);
+            if (playerMatch) {
+                console.log(`📚 Garbage image detected, using Player Library: ${playerMatch.name}`);
+                imageUrl = playerMatch.imageUrl;
+            } else {
+                console.error(`❌ ABORTING: Image is a placeholder/logo, not editorial: ${imageUrl}`);
+                return;
+            }
         }
 
         try {
@@ -231,7 +243,7 @@ async function main() {
             serveUrl: bundleLocation,
             outputLocation,
             codec: 'h264',
-            crf: 24, // Optimized for Sports (Balance between quality and 413 error prevention)
+            crf: 24,
             pixelFormat: 'yuv420p',
             inputProps: {
                 title: scriptData.headline,
@@ -240,7 +252,7 @@ async function main() {
                 category: scriptData.category,
                 backgroundImages: downloadedImages,
                 focusPoint,
-                durationInFrames: (7 + (scriptData.slides.length - 1) * 5) * 30 + (30 * 2.5), // First slide 7s, rest 5s each
+                durationInFrames: (7 + (scriptData.slides.length - 1) * 5) * 30 + (30 * 2.5),
                 hasMusic,
                 persona: scriptData.persona
             }
@@ -248,15 +260,28 @@ async function main() {
 
         console.log(`Video rendered successfully at: ${outputLocation}`);
 
-        // 6. Auto-Post via Webhook (SANDBOX SAFETY FOR TESTING)
+        // 6. Auto-Post via Webhook
         if (process.env.TEST_MODE === 'true') {
             console.log('--- TEST MODE ACTIVE: Skipping webhook upload ---');
         } else {
-            await sendToWebhook(outputLocation, {
+            const result = await sendToWebhook(outputLocation, {
                 headline: scriptData.headline,
                 subHeadline: scriptData.facebookDescription,
                 category: scriptData.category
             });
+
+            if (result) {
+                // ===== TRACK URL (Anti-Duplicate) =====
+                addPostedUrl(history, article.url);
+
+                // ===== TRACK CLOUDINARY ASSET (For Cleanup) =====
+                trackCloudinaryAsset(history, result.publicId, 'video');
+
+                console.log('📝 History updated: URL tracked, video asset tracked');
+            }
+
+            // Save all history changes (keywords + URLs + assets)
+            saveHistory(history);
             console.log('Video signal sent to Webhook. 🚀');
         }
 

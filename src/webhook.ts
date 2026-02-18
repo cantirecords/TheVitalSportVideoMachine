@@ -12,7 +12,7 @@ cloudinary.config({
     api_secret: process.env.CLOUDINARY_API_SECRET as string
 });
 
-export async function sendToWebhook(videoPath: string, metadata: { headline: string, subHeadline: string, category: string }) {
+export async function sendToWebhook(videoPath: string, metadata: { headline: string, subHeadline: string, category: string }): Promise<{ url: string; publicId: string } | undefined> {
     const webhookUrl = process.env.MAKE_WEBHOOK_URL;
 
     if (!webhookUrl) {
@@ -29,10 +29,11 @@ export async function sendToWebhook(videoPath: string, metadata: { headline: str
         }
 
         // 1. Upload to Cloudinary
+        const publicId = `video_${Date.now()}`;
         const uploadResponse = await cloudinary.uploader.upload(absPath, {
             resource_type: 'video',
             folder: 'tvs_videos',
-            public_id: `video_${Date.now()}`
+            public_id: publicId
         });
 
         // Force .mp4 extension for Facebook API stability
@@ -67,12 +68,13 @@ export async function sendToWebhook(videoPath: string, metadata: { headline: str
         }
 
         console.log('Video signal delivered to Make.com! 🚀');
+        return { url: videoUrl, publicId: `tvs_videos/${publicId}` };
     } catch (error: any) {
         console.error('Failed to process webhook delivery:', error.message);
     }
 }
 
-export async function sendCardToWebhook(imagePath: string, metadata: { headline: string, subHeadline: string, category: string }) {
+export async function sendCardToWebhook(imagePath: string, metadata: { headline: string, subHeadline: string, category: string }): Promise<{ url: string; publicId: string } | undefined> {
     const webhookUrl = process.env.MAKE_CARD_WEBHOOK_URL;
 
     if (!webhookUrl) {
@@ -89,10 +91,11 @@ export async function sendCardToWebhook(imagePath: string, metadata: { headline:
         }
 
         // 1. Upload as Image
+        const publicId = `card_${Date.now()}`;
         const uploadResponse = await cloudinary.uploader.upload(absPath, {
             resource_type: 'image',
             folder: 'tvs_cards',
-            public_id: `card_${Date.now()}`
+            public_id: publicId
         });
 
         const imageUrl = uploadResponse.secure_url;
@@ -117,7 +120,7 @@ export async function sendCardToWebhook(imagePath: string, metadata: { headline:
         if (!response.ok) throw new Error(`Webhook failed: ${response.status}`);
 
         console.log('Card signal delivered to Make.com! 🚀');
-        return imageUrl;
+        return { url: imageUrl, publicId: `tvs_cards/${publicId}` };
     } catch (error: any) {
         console.error('Webhook Error:', error.message);
     }

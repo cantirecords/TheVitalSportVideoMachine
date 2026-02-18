@@ -10,6 +10,8 @@ import { fileURLToPath } from 'url';
 import axios from 'axios';
 import { v2 as cloudinary } from 'cloudinary';
 import { sendCardToWebhook } from './webhook.js';
+import { loadHistory, saveHistory, isUrlAlreadyPosted, addPostedUrl, trackCloudinaryAsset, cleanupOldCloudinaryAssets } from './historyManager.js';
+import { findPlayerImage } from './playerLibrary.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 dotenv.config();
@@ -25,6 +27,11 @@ async function main() {
     try {
         console.log('--- TVS STATIC CARD GENERATOR ---');
 
+        // ===== STEP 0: Load shared history & run Cloudinary cleanup =====
+        const history = loadHistory();
+        console.log(`📋 History: ${history.postedUrls.length} posted URLs, ${history.cloudinaryAssets.length} tracked assets`);
+        await cleanupOldCloudinaryAssets(history);
+
         // 1. Scrape News or use Manual URL
         let article: any;
         if (process.env.MANUAL_URL) {
@@ -35,7 +42,6 @@ async function main() {
                 source: 'Manual'
             };
         } else {
-            // 1. Scrape News
             const articles = await scrapeNews(100);
             console.log(`Scraper found ${articles.length} articles.`);
             if (articles.length === 0) {
@@ -43,36 +49,27 @@ async function main() {
                 return;
             }
 
-            // --- Topic Cooldown Logic ---
-            const historyPath = path.join(process.cwd(), 'history.json');
-            let history: { recentKeywords: string[] } = { recentKeywords: [] };
-            if (fs.existsSync(historyPath)) {
-                try {
-                    const savedHistory = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
-                    if (savedHistory && Array.isArray(savedHistory.recentKeywords)) {
-                        history = savedHistory;
-                    }
-                } catch (e) {
-                    console.error('Failed to read history.json');
-                }
-            }
+            // ===== URL DEDUP: Filter out already-posted URLs =====
+            const unpostedArticles = articles.filter(a => !isUrlAlreadyPosted(history, a.url));
+            console.log(`🔍 After URL dedup: ${unpostedArticles.length} new articles (${articles.length - unpostedArticles.length} already posted)`);
 
-            // Filter out keywords in cooldown
-            const freshArticles = articles.filter(a => {
+            const pool = unpostedArticles.length > 0 ? unpostedArticles : articles;
+
+            // Keyword cooldown filter
+            const freshArticles = pool.filter(a => {
                 const titleLower = a.title.toLowerCase();
                 return !history.recentKeywords.some((k: string) => titleLower.includes(k.toLowerCase()));
             });
 
             if (freshArticles.length === 0) {
                 console.log('All recent news is in cooldown. Picking top anyway to stay live.');
-                article = articles[0];
+                article = pool[0];
             } else {
                 // Pick from top 5 fresh ones
                 const topFresh = freshArticles.slice(0, 5);
                 article = topFresh[Math.floor(Math.random() * topFresh.length)];
             }
         }
-
 
         if (!article) {
             console.error('❌ ERROR: Failed to select an article.');
@@ -93,7 +90,16 @@ async function main() {
         const fileName = `card_bg_${Date.now()}.png`;
         const localImagePath = path.join(publicDir, fileName);
 
-        const targetImageUrl = process.env.MANUAL_IMAGE_URL || (detailedData.images.length > 0 ? detailedData.images[0] : null);
+        let targetImageUrl = process.env.MANUAL_IMAGE_URL || (detailedData.images.length > 0 ? detailedData.images[0] : null);
+
+        // ===== PLAYER LIBRARY FALLBACK =====
+        if (!targetImageUrl) {
+            const playerMatch = findPlayerImage(detailedData.title || article.title);
+            if (playerMatch) {
+                console.log(`📚 Using Player Library fallback: ${playerMatch.name}`);
+                targetImageUrl = playerMatch.imageUrl;
+            }
+        }
 
         if (!targetImageUrl) {
             console.error('❌ ABORTING: No high-quality image found for this article. Skipping to maintain quality.');
@@ -104,8 +110,15 @@ async function main() {
         const lowerImg = targetImageUrl.toLowerCase();
         const isGarbage = ['logo', 'placeholder', 'espn_red', 'default_avatar', 'icon', 'badge', 'sprite'].some(g => lowerImg.includes(g));
         if (isGarbage) {
-            console.error(`❌ ABORTING: Image is a placeholder/logo, not editorial: ${targetImageUrl}`);
-            return;
+            // Try player library as last resort
+            const playerMatch = findPlayerImage(detailedData.title || article.title);
+            if (playerMatch) {
+                console.log(`📚 Garbage image detected, using Player Library: ${playerMatch.name}`);
+                targetImageUrl = playerMatch.imageUrl;
+            } else {
+                console.error(`❌ ABORTING: Image is a placeholder/logo, not editorial: ${targetImageUrl}`);
+                return;
+            }
         }
 
         try {
@@ -175,30 +188,31 @@ async function main() {
             console.log('--- TEST MODE ACTIVE: Skipping Webhook ---');
         } else {
             console.log(`🚀 Sending signal to: ${process.env.MAKE_CARD_WEBHOOK_URL ? 'URL FOUND' : '❌ SECRET MISSING'}`);
-            const finalCardUrl = await sendCardToWebhook(outputLocation, {
+            const result = await sendCardToWebhook(outputLocation, {
                 headline: cardContent.title,
                 subHeadline: cardContent.facebookDescription || cardContent.subHeadline || '',
                 category: cardContent.category
             });
 
-            if (finalCardUrl) {
-                // Update history to avoid duplicates
-                const historyPath = path.join(process.cwd(), 'history.json');
-                let history: { recentKeywords: string[] } = { recentKeywords: [] };
-                if (fs.existsSync(historyPath)) {
-                    history = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
-                }
+            if (result) {
+                // ===== TRACK URL (Anti-Duplicate) =====
+                addPostedUrl(history, article.url);
 
-                // Add first 2 words of title to cooldown
+                // ===== TRACK CLOUDINARY ASSET (For Cleanup) =====
+                trackCloudinaryAsset(history, result.publicId, 'image');
+
+                // Add first 2 words of title to keyword cooldown
                 const keywords = cardContent.title.split(' ').slice(0, 2);
                 history.recentKeywords = [...keywords, ...history.recentKeywords].slice(0, 50);
-                fs.writeFileSync(historyPath, JSON.stringify(history, null, 2));
-                console.log('History updated with:', keywords);
+
+                // Save all changes to shared history
+                saveHistory(history);
+                console.log('📝 History updated: URL tracked, asset tracked, keywords:', keywords);
             }
         }
 
-        // Clean up temp image
-        // fs.unlinkSync(localImagePath);
+        // Clean up local temp image
+        try { fs.unlinkSync(localImagePath); } catch { }
 
     } catch (error) {
         console.error('Card Generation Failed:', error);
