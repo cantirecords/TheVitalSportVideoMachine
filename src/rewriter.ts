@@ -117,7 +117,46 @@ export async function generateScript(content: string): Promise<VideoScript> {
 }
 
 export async function generateCardContent(content: string, title: string): Promise<CardContent> {
-    console.log('Generating AI Content for Card...');
+    // ===== WRITING STYLE ROTATION =====
+    // Randomly pick a style each run to avoid repetitive phrasing
+    const WRITING_STYLES = [
+        {
+            name: '🎙️ ANCHOR',
+            instruction: `WRITING STYLE: "ANCHOR" — Professional TV broadcast journalist.
+            - Use confident, authoritative language like a SportsCenter anchor.
+            - Title should sound like a broadcast chyron (e.g., "Lakers Confirm Historic Deal").
+            - SubHeadline should read like a teleprompter line — clear, factual, no hype.
+            - Facebook description: Formal but accessible. Start with the key fact. Second paragraph adds context. Tone = Walter Cronkite meets ESPN.`
+        },
+        {
+            name: '🔥 HYPE',
+            instruction: `WRITING STYLE: "HYPE" — Energetic, fan-first, social media native.
+            - Use exciting, punchy language that a fan would shout at a bar.
+            - Title should feel URGENT and exciting (e.g., "Curry Just Changed Everything").
+            - SubHeadline should tease like a cliffhanger — make people NEED to read more.
+            - Facebook description: High energy! Use one strategic emoji. Short sentences. Exclamation points are welcome. Second paragraph = call to action + hashtags.`
+        },
+        {
+            name: '📊 ANALYST',
+            instruction: `WRITING STYLE: "ANALYST" — Stats-driven, calm, intellectual breakdown.
+            - Use precise, data-oriented language like an advanced analytics expert.
+            - Title should reference a specific stat or comparison (e.g., "Third Player Ever To Reach 40K").
+            - SubHeadline should provide context with numbers or historical comparisons.
+            - Facebook description: Thoughtful and measured. Start with the significance. Second paragraph = deeper analysis + hashtags. No exclamation points.`
+        },
+        {
+            name: '💬 STORYTELLER',
+            instruction: `WRITING STYLE: "STORYTELLER" — Narrative, dramatic, cinematic.
+            - Write like you're opening a documentary or a long-form sports article.
+            - Title should be evocative and emotional (e.g., "The Night Madrid Stood Still").
+            - SubHeadline should set a scene or paint an image in the reader's mind.
+            - Facebook description: Start with a dramatic hook sentence. Second paragraph = the deeper meaning of the moment + hashtags. Tone = literary journalism.`
+        }
+    ];
+
+    const selectedStyle = WRITING_STYLES[Math.floor(Math.random() * WRITING_STYLES.length)]!;
+    console.log(`Generating AI Content for Card... Style: ${selectedStyle.name}`);
+
     const prompt = `
         You are an expert sports editor designed to create a VIRAL SOCIAL MEDIA GRAPHIC.
         
@@ -125,6 +164,8 @@ export async function generateCardContent(content: string, title: string): Promi
         ALWAYS use the "SKY" format.
 
         SYSTEM ROLE: You are a professional SPORTS broadcast journalist for "The Vital Sport".
+
+        ${selectedStyle.instruction}
     
         FORMATTING RULES:
         - "category": Short tag (e.g., "NBA", "LALIGA", "PREMIER"). MUST be a sport or league.
@@ -137,6 +178,7 @@ export async function generateCardContent(content: string, title: string): Promi
         2. If the provided content is empty or irrelevant, look at the News Title: "${title}". 
         3. Use your internal knowledge about the teams/players in the title (e.g., Girona vs Barcelona) to write a factual sports summary of that specific match.
         4. Your goal is to provide a professional, premium sports news card.
+        5. FOLLOW THE WRITING STYLE ABOVE EXACTLY. Your tone MUST match the style instructions.
     
         News Title:
         ${title}
@@ -159,18 +201,18 @@ export async function generateCardContent(content: string, title: string): Promi
             messages: [{ role: 'user', content: prompt }],
             model: 'llama-3.3-70b-versatile',
             response_format: { type: 'json_object' },
-            temperature: 0.7
+            temperature: 0.8 // Slightly higher for more creative variety
         });
 
         const result = JSON.parse(chatCompletion.choices[0]?.message?.content || '{}');
         console.log('AI Full Result:', JSON.stringify(result, null, 2));
         console.log(`AI Card Type: ${result.type}`);
         return {
-            type: 'SKY', // Force SKY type
+            type: 'SKY',
             category: result.category || 'THE VITAL SPORT',
             title: result.title || 'BREAKING NEWS',
             subHeadline: result.subHeadline,
-            facebookDescription: result.facebookDescription, // Include FB description
+            facebookDescription: result.facebookDescription,
             quoteAuthor: result.quoteAuthor,
             statValue: result.statValue,
             statLabel: result.statLabel
@@ -178,10 +220,11 @@ export async function generateCardContent(content: string, title: string): Promi
     } catch (error) {
         console.error('Card generation failed:', error);
         return {
-            type: 'SKY', // Default to SKY on error
+            type: 'SKY',
             category: 'BREAKING NEWS',
             title: 'DEVELOPING STORY',
             subHeadline: 'Check back for more details soon.'
         };
     }
 }
+
