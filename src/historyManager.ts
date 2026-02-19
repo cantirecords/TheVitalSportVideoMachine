@@ -14,12 +14,14 @@ export interface CloudinaryAsset {
 
 export interface PipelineHistory {
     recentKeywords: string[];
-    postedUrls: string[];           // URLs already posted (no duplicates)
+    postedUrls: string[];           // URLs already posted
+    postedTitles: string[];         // Normalized titles already posted (dedup by content)
     cloudinaryAssets: CloudinaryAsset[];  // Assets pending cleanup
 }
 
 const HISTORY_PATH = path.join(process.cwd(), 'history.json');
 const MAX_URLS = 200;        // Keep last 200 URLs
+const MAX_TITLES = 200;      // Keep last 200 titles for content dedup
 const MAX_KEYWORDS = 50;     // Keep last 50 keywords
 const CLEANUP_AGE_MS = 24 * 60 * 60 * 1000; // 24 hours
 
@@ -30,6 +32,7 @@ export function loadHistory(): PipelineHistory {
     const defaults: PipelineHistory = {
         recentKeywords: [],
         postedUrls: [],
+        postedTitles: [],
         cloudinaryAssets: []
     };
 
@@ -40,6 +43,7 @@ export function loadHistory(): PipelineHistory {
         return {
             recentKeywords: Array.isArray(data.recentKeywords) ? data.recentKeywords : [],
             postedUrls: Array.isArray(data.postedUrls) ? data.postedUrls : [],
+            postedTitles: Array.isArray(data.postedTitles) ? data.postedTitles : [],
             cloudinaryAssets: Array.isArray(data.cloudinaryAssets) ? data.cloudinaryAssets : []
         };
     } catch (e) {
@@ -54,8 +58,31 @@ export function loadHistory(): PipelineHistory {
 export function saveHistory(history: PipelineHistory): void {
     // Auto-prune to keep history file manageable
     history.postedUrls = history.postedUrls.slice(0, MAX_URLS);
+    history.postedTitles = history.postedTitles.slice(0, MAX_TITLES);
     history.recentKeywords = history.recentKeywords.slice(0, MAX_KEYWORDS);
     fs.writeFileSync(HISTORY_PATH, JSON.stringify(history, null, 2));
+}
+
+/**
+ * Normalized a title for robust comparison (dedup)
+ */
+export function normalizeTitle(title: string): string {
+    return title.toLowerCase()
+        .replace(/[^\w\s]/gi, '') // Remove punctuation
+        .replace(/\s+/g, ' ')      // Collapse whitespace
+        .trim();
+}
+
+/**
+ * Check if the content (via normalized title) has already been posted.
+ */
+export function isTitleDuplicate(history: PipelineHistory, title: string): boolean {
+    const normLine = normalizeTitle(title);
+    return history.postedTitles.some(t => {
+        const existingNorm = normalizeTitle(t);
+        // Simple overlap check: if titles are very similar (90% match)
+        return existingNorm === normLine || existingNorm.includes(normLine) || normLine.includes(existingNorm);
+    });
 }
 
 /**
@@ -68,9 +95,12 @@ export function isUrlAlreadyPosted(history: PipelineHistory, url: string): boole
 /**
  * Add a posted URL to the front of the history.
  */
-export function addPostedUrl(history: PipelineHistory, url: string): void {
+export function addPostedUrl(history: PipelineHistory, url: string, title?: string): void {
     if (!history.postedUrls.includes(url)) {
         history.postedUrls.unshift(url);
+    }
+    if (title && !history.postedTitles.includes(title)) {
+        history.postedTitles.unshift(title);
     }
 }
 

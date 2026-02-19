@@ -10,7 +10,7 @@ import { fileURLToPath } from 'url';
 import axios from 'axios';
 import { detectSubjectFocus, type FocusPoint } from './vision.js';
 import { sendToWebhook } from './webhook.js';
-import { loadHistory, saveHistory, isUrlAlreadyPosted, addPostedUrl, trackCloudinaryAsset, cleanupOldCloudinaryAssets } from './historyManager.js';
+import { loadHistory, saveHistory, isUrlAlreadyPosted, isTitleDuplicate, addPostedUrl, trackCloudinaryAsset, cleanupOldCloudinaryAssets } from './historyManager.js';
 import { findPlayerImage } from './playerLibrary.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -47,12 +47,16 @@ async function main() {
                 return;
             }
 
-            // ===== URL DEDUP: Filter out already-posted URLs =====
-            const unpostedArticles = articles.filter(a => !isUrlAlreadyPosted(history, a.url));
-            console.log(`🔍 After URL dedup: ${unpostedArticles.length} new articles (${articles.length - unpostedArticles.length} already posted)`);
+            // ===== URL & TITLE DEDUP: Filter out already-posted content =====
+            const unpostedArticles = articles.filter(a => {
+                const isUrlPosted = isUrlAlreadyPosted(history, a.url);
+                const isStoryPosted = isTitleDuplicate(history, a.title);
+                return !isUrlPosted && !isStoryPosted;
+            });
+            console.log(`🔍 After dedup: ${unpostedArticles.length} new stories (${articles.length - unpostedArticles.length} blocked duplicates)`);
 
             if (unpostedArticles.length === 0) {
-                console.log("🛑 ABORTING: All scraped news articles have already been posted. No new content to generate.");
+                console.log("🛑 ABORTING: All scraped news articles or story content have already been posted.");
                 return;
             }
 
@@ -278,8 +282,8 @@ async function main() {
             });
 
             if (result) {
-                // ===== TRACK URL (Anti-Duplicate) =====
-                addPostedUrl(history, article.url);
+                // ===== TRACK URL & TITLE (Anti-Duplicate) =====
+                addPostedUrl(history, article.url, article.title);
 
                 // ===== TRACK CLOUDINARY ASSET (For Cleanup) =====
                 trackCloudinaryAsset(history, result.publicId, 'video');
