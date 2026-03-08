@@ -5,6 +5,9 @@ on:
     - cron: '0 */3 * * *' # Runs every 2 hours
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-22.04
@@ -43,5 +46,7 @@ jobs:
           git config --global user.email "bot@thevitalsport.com"
           git add history.json
           git commit -m "chore: update history [skip ci]" || echo "No changes to commit"
+          git restore . || true
+          git clean -fd
           git pull --rebase origin main
           git push origin main
