@@ -12,9 +12,11 @@
     "Url"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48111448/nfl-free-agency-news-latest-wrs-rbs-pierce-crosby",
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Last-minute NFL free agency nuggets: What we're hearing on Eagles plans, top RBs and WRs",
     "LeBron (elbow), Ayton (knee) miss win vs. Pacers"
   ],
   "cloudinaryAssets": [
@@ -22,6 +24,11 @@
       "publicId": "tvs_videos/video_1772951650307",
       "resourceType": "video",
       "uploadedAt": 1772951652641
+    },
+    {
+      "publicId": "tvs_videos/video_1772973063215",
+      "resourceType": "video",
+      "uploadedAt": 1772973065534
     }
   ]
 }
