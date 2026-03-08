@@ -1,34 +1,27 @@
 {
   "recentKeywords": [
+    "LeBron",
     "Megan",
     "Oldham",
     "Barcelona",
     "Falls",
     "Manchester",
     "Wins",
-    "Manchester",
     "City",
     "Lowercase",
-    "Url",
-    "Vital",
-    "Sport",
-    "The",
-    "Vital",
-    "Vital",
-    "Sport",
-    "Vital",
-    "Sport",
-    "Dodgers",
-    "Lead",
-    "Alcaraz",
-    "Wins",
-    "Mourinho",
-    "Seeks",
-    "Olivia",
-    "Miles",
-    "Barça"
+    "Url"
   ],
-  "postedUrls": [],
-  "postedTitles": [],
-  "cloudinaryAssets": []
+  "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
+  ],
+  "postedTitles": [
+    "LeBron (elbow), Ayton (knee) miss win vs. Pacers"
+  ],
+  "cloudinaryAssets": [
+    {
+      "publicId": "tvs_videos/video_1772951650307",
+      "resourceType": "video",
+      "uploadedAt": 1772951652641
+    }
+  ]
 }
