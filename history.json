@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Barça",
     "LeBron",
     "Megan",
@@ -8,27 +9,23 @@
     "Falls",
     "Manchester",
     "Wins",
-    "City",
-    "Lowercase"
+    "City"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48146116/man-city-gave-haaland-game-madrid",
     "https://www.sport.es/es/noticias/barca/muere-87-anos-antoni-camps-127715777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/videos/c14m2m2zj88o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48111448/nfl-free-agency-news-latest-wrs-rbs-pierce-crosby",
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Haaland got game off to find 'real pace' for Madrid",
     "Muere a los 87 años Antoni Camps, exjugador del Barça, Espanyol y Sabadell en Primera División",
     "New rules will lead to more 'drama' in F1 racing ",
     "Last-minute NFL free agency nuggets: What we're hearing on Eagles plans, top RBs and WRs",
     "LeBron (elbow), Ayton (knee) miss win vs. Pacers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1772951650307",
-      "resourceType": "video",
-      "uploadedAt": 1772951652641
-    },
     {
       "publicId": "tvs_videos/video_1772973063215",
       "resourceType": "video",
@@ -43,6 +40,11 @@
       "publicId": "tvs_videos/video_1773019092477",
       "resourceType": "video",
       "uploadedAt": 1773019094090
+    },
+    {
+      "publicId": "tvs_videos/video_1773039201231",
+      "resourceType": "video",
+      "uploadedAt": 1773039202955
     }
   ]
 }
