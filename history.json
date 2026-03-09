@@ -12,6 +12,7 @@
     "City"
   ],
   "postedUrls": [
+    "https://www.espn.com/nhl/story/_/id/48148079/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke",
     "https://www.espn.com/nba/story/_/id/48092442/nba-2026-2026-wilt-chamberlain-record-shai-gilgeous-alexander-okc",
     "https://www.espn.com/soccer/story/_/id/48146116/man-city-gave-haaland-game-madrid",
     "https://www.sport.es/es/noticias/barca/muere-87-anos-antoni-camps-127715777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -20,6 +21,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "NHL Awards Watch: Celebrini challenges for MVP; dead heat for Norris",
     "NBA stars reflect on Wilt Chamberlain's 'mythical' legacy",
     "Haaland got game off to find 'real pace' for Madrid",
     "Muere a los 87 años Antoni Camps, exjugador del Barça, Espanyol y Sabadell en Primera División",
@@ -28,11 +30,6 @@
     "LeBron (elbow), Ayton (knee) miss win vs. Pacers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1772994221360",
-      "resourceType": "video",
-      "uploadedAt": 1772994223204
-    },
     {
       "publicId": "tvs_videos/video_1773019092477",
       "resourceType": "video",
@@ -47,6 +44,11 @@
       "publicId": "tvs_videos/video_1773060084424",
       "resourceType": "video",
       "uploadedAt": 1773060086642
+    },
+    {
+      "publicId": "tvs_videos/video_1773081712874",
+      "resourceType": "video",
+      "uploadedAt": 1773081714787
     }
   ]
 }
