@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Messi",
     "Madrid",
     "Barça",
     "LeBron",
@@ -8,10 +9,10 @@
     "Barcelona",
     "Falls",
     "Manchester",
-    "Wins",
-    "City"
+    "Wins"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/laporta-2023-teniamos-ok-laliga-127758875?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
     "https://www.espn.com/nhl/story/_/id/48148079/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke",
     "https://www.espn.com/nba/story/_/id/48092442/nba-2026-2026-wilt-chamberlain-record-shai-gilgeous-alexander-okc",
@@ -22,6 +23,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Laporta, en 2023: \"Teniamos el ok de LaLiga para inscribir a Messi\"",
     "Our mid-free agency NFL mock draft: Predicting how signings, trades could alter the top 10 picks",
     "NHL Awards Watch: Celebrini challenges for MVP; dead heat for Norris",
     "NBA stars reflect on Wilt Chamberlain's 'mythical' legacy",
@@ -51,6 +53,11 @@
       "publicId": "tvs_videos/video_1773105159789",
       "resourceType": "video",
       "uploadedAt": 1773105162622
+    },
+    {
+      "publicId": "tvs_videos/video_1773124780848",
+      "resourceType": "video",
+      "uploadedAt": 1773124782465
     }
   ]
 }
