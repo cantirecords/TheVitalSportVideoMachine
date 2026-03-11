@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/trezeguet-fuera-juve-ficharia-lewandowski-127811651?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/laporta-quiere-renovar-lewandowski-127774312?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48167785/lamine-yamal-barcelona-goal-newcastle-champions-league",
     "https://www.sport.es/es/noticias/barca/poker-apercibidos-flick-lamine-yamal-127756599?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -27,6 +28,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Trezeguet: \"Si fuera la Juve, ficharía a Lewandowski sí o sí\"",
     "¿Por qué Laporta quiere renovar a Lewandowski?",
     "Yamal's late goal 'hard to take' for Newcastle",
     "Póker de apercibidos para Flick: Lamine Yamal, entre ellos",
@@ -61,6 +63,11 @@
       "publicId": "tvs_videos/video_1773211366710",
       "resourceType": "video",
       "uploadedAt": 1773211368970
+    },
+    {
+      "publicId": "tvs_videos/video_1773232835356",
+      "resourceType": "video",
+      "uploadedAt": 1773232836902
     }
   ]
 }
