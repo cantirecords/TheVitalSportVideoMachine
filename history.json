@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/laporta-quiere-renovar-lewandowski-127774312?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48167785/lamine-yamal-barcelona-goal-newcastle-champions-league",
     "https://www.sport.es/es/noticias/barca/poker-apercibidos-flick-lamine-yamal-127756599?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/fantasy/football/story/_/id/48154346/nfl-free-agency-fantasy-football-kenneth-walker-iii-chiefs-seahawks",
@@ -26,6 +27,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "¿Por qué Laporta quiere renovar a Lewandowski?",
     "Yamal's late goal 'hard to take' for Newcastle",
     "Póker de apercibidos para Flick: Lamine Yamal, entre ellos",
     "Is the Super Bowl MVP an RB1 in Fantasy? Kenneth Walker III moves to Kansas City",
@@ -41,11 +43,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773124780848",
-      "resourceType": "video",
-      "uploadedAt": 1773124782465
-    },
-    {
       "publicId": "tvs_videos/video_1773146460452",
       "resourceType": "video",
       "uploadedAt": 1773146462479
@@ -59,6 +56,11 @@
       "publicId": "tvs_videos/video_1773191599728",
       "resourceType": "video",
       "uploadedAt": 1773191602041
+    },
+    {
+      "publicId": "tvs_videos/video_1773211366710",
+      "resourceType": "video",
+      "uploadedAt": 1773211368970
     }
   ]
 }
