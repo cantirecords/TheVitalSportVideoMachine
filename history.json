@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Messi",
     "Madrid",
     "Barça",
@@ -8,10 +9,10 @@
     "Oldham",
     "Barcelona",
     "Falls",
-    "Manchester",
-    "Wins"
+    "Manchester"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-aaron-judge-sharing-spotlight-in-world-baseball-classic",
     "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
     "https://www.espn.com/nba/story/_/id/48166967/lakers-luka-doncic-says-custody-battle-daughters",
     "https://www.espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
@@ -31,6 +32,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Stage may be different, but Ohtani, Judge continue to wow",
     "Live tracking NFL free agency: Updates on signings, trades, cuts",
     "Sources: Doncic in custody battle for daughters",
     "Barnwell: Sorting out the winners, losers from NFL free agency's wild opening day",
@@ -64,6 +66,11 @@
       "publicId": "tvs_videos/video_1773319198097",
       "resourceType": "video",
       "uploadedAt": 1773319201410
+    },
+    {
+      "publicId": "tvs_videos/video_1773340982974",
+      "resourceType": "video",
+      "uploadedAt": 1773340985488
     }
   ]
 }
