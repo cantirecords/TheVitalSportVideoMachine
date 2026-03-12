@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48166967/lakers-luka-doncic-says-custody-battle-daughters",
     "https://www.espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
     "https://www.sport.es/es/noticias/barca/trezeguet-fuera-juve-ficharia-lewandowski-127811651?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/laporta-quiere-renovar-lewandowski-127774312?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -29,6 +30,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Sources: Doncic in custody battle for daughters",
     "Barnwell: Sorting out the winners, losers from NFL free agency's wild opening day",
     "Trezeguet: \"Si fuera la Juve, ficharía a Lewandowski sí o sí\"",
     "¿Por qué Laporta quiere renovar a Lewandowski?",
@@ -60,6 +62,11 @@
       "publicId": "tvs_videos/video_1773277830952",
       "resourceType": "video",
       "uploadedAt": 1773277833771
+    },
+    {
+      "publicId": "tvs_videos/video_1773297865588",
+      "resourceType": "video",
+      "uploadedAt": 1773297867043
     }
   ]
 }
