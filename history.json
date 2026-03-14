@@ -12,6 +12,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/48201275/wnba-sees-urgent-need-reach-new-cba-monday-not-impact-season",
     "https://www.espn.com/nfl/story/_/id/48185973/2026-nfl-free-agency-best-team-fits-top-players-available-barnwell",
     "https://www.espn.com/soccer/story/_/id/48186459/weekend-predictions-spurs-face-liverpool-dire-need-win-julien-laurens",
     "https://www.espn.com/nba/story/_/id/48190692/gilgeous-alexander-eclipses-wilt-nba-longest-20-point-streak",
@@ -38,6 +39,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "WNBA: Urgent need to reach new CBA by Monday",
     "Where nine of the best remaining NFL free agents should sign: We found perfect landing spots",
     "Weekend predictions: Can Spurs stop record losing streak at Liverpool?",
     "SGA eclipses Wilt for NBA's longest 20-point streak",
@@ -83,6 +85,11 @@
       "publicId": "tvs_videos/video_1773470234596",
       "resourceType": "video",
       "uploadedAt": 1773470236048
+    },
+    {
+      "publicId": "tvs_videos/video_1773491582262",
+      "resourceType": "video",
+      "uploadedAt": 1773491584181
     }
   ]
 }
