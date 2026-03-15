@@ -12,6 +12,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48165009/2026-nba-mock-draft-top-30-first-round-picks-march-madness",
     "https://www.espn.com/nfl/story/_/id/48196399/2026-nfl-free-agency-best-signings-trades-moves-most-improved-teams",
     "https://www.espn.com/mlb/story/_/id/48185225/mlb-2026-wbc-world-baseball-classic-japan-future-stars",
     "https://www.espn.com/wnba/story/_/id/48201275/wnba-sees-urgent-need-reach-new-cba-monday-not-impact-season",
@@ -41,6 +42,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "🏀 2026 NBA mock draft: Who's rising and falling?",
     "🏈 Which NFL teams have improved most in FA?",
     "From Team Japan to MLB stars: Who could be next to make the jump?",
     "WNBA: Urgent need to reach new CBA by Monday",
@@ -71,11 +73,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773470234596",
-      "resourceType": "video",
-      "uploadedAt": 1773470236048
-    },
-    {
       "publicId": "tvs_videos/video_1773491582262",
       "resourceType": "video",
       "uploadedAt": 1773491584181
@@ -89,6 +86,11 @@
       "publicId": "tvs_videos/video_1773538058393",
       "resourceType": "video",
       "uploadedAt": 1773538060291
+    },
+    {
+      "publicId": "tvs_videos/video_1773557225763",
+      "resourceType": "video",
+      "uploadedAt": 1773557227387
     }
   ]
 }
