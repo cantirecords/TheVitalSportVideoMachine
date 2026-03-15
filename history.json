@@ -12,6 +12,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/47011671/wnba-cba-negotiations-wnbpa-updates-latest-news",
     "https://www.espn.com/soccer/story/_/id/48208913/erling-haaland-slump-cost-man-city-title",
     "https://www.espn.com/nba/story/_/id/48165009/2026-nba-mock-draft-top-30-first-round-picks-march-madness",
     "https://www.espn.com/nfl/story/_/id/48196399/2026-nfl-free-agency-best-signings-trades-moves-most-improved-teams",
@@ -43,6 +44,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "WNBA CBA negotiations: New deal by Monday is goal as marathon meeting continues",
     "Erling Haaland is in a slump, and it has cost Man City the title",
     "🏀 2026 NBA mock draft: Who's rising and falling?",
     "🏈 Which NFL teams have improved most in FA?",
@@ -93,6 +95,11 @@
       "publicId": "tvs_videos/video_1773578100162",
       "resourceType": "video",
       "uploadedAt": 1773578101829
+    },
+    {
+      "publicId": "tvs_videos/video_1773599308288",
+      "resourceType": "video",
+      "uploadedAt": 1773599309891
     }
   ]
 }
