@@ -12,6 +12,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/cvg3212g23yo?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/watch/video/13519977/jannik-sinner-vs-alexander-zverev-indian-wells-highlights",
     "https://www.bbc.com/sport/football/articles/c4g81vqve34o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/wnba/story/_/id/47011671/wnba-cba-negotiations-wnbpa-updates-latest-news",
@@ -46,6 +47,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Real's Bellingham and Mbappe back for Man City trip",
     "Sinner eases past Zverev to advance to Indian Wells final",
     "Guardiola sympathises - but can he help Haaland out of rut?",
     "WNBA CBA negotiations: New deal by Monday is goal as marathon meeting continues",
@@ -81,11 +83,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773578100162",
-      "resourceType": "video",
-      "uploadedAt": 1773578101829
-    },
-    {
       "publicId": "tvs_videos/video_1773599308288",
       "resourceType": "video",
       "uploadedAt": 1773599309891
@@ -99,6 +96,11 @@
       "publicId": "tvs_videos/video_1773644915268",
       "resourceType": "video",
       "uploadedAt": 1773644921914
+    },
+    {
+      "publicId": "tvs_videos/video_1773665518714",
+      "resourceType": "video",
+      "uploadedAt": 1773665520895
     }
   ]
 }
