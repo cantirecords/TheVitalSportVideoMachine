@@ -12,6 +12,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/rugby-union/articles/c99je174x7xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/cvg3212g23yo?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/watch/video/13519977/jannik-sinner-vs-alexander-zverev-indian-wells-highlights",
     "https://www.bbc.com/sport/football/articles/c4g81vqve34o?at_medium=RSS&at_campaign=rss",
@@ -47,6 +48,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "'Haaland of rugby' - how Bielle-Biarrey has stormed stage",
     "Real's Bellingham and Mbappe back for Man City trip",
     "Sinner eases past Zverev to advance to Indian Wells final",
     "Guardiola sympathises - but can he help Haaland out of rut?",
@@ -83,11 +85,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773599308288",
-      "resourceType": "video",
-      "uploadedAt": 1773599309891
-    },
-    {
       "publicId": "tvs_videos/video_1773624449750",
       "resourceType": "video",
       "uploadedAt": 1773624452283
@@ -101,6 +98,11 @@
       "publicId": "tvs_videos/video_1773665518714",
       "resourceType": "video",
       "uploadedAt": 1773665520895
+    },
+    {
+      "publicId": "tvs_videos/video_1773687117732",
+      "resourceType": "video",
+      "uploadedAt": 1773687119167
     }
   ]
 }
