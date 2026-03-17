@@ -18,6 +18,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/fantasy/football/story/_/id/47899702/nfl-free-agency-2026-fantasy-football-impact-signings-trades-grades",
     "https://www.skysports.com/tennis/news/12040/13520473/miam-open-on-sky-sports-tennis-emma-raducanu-and-jack-draper-in-action-as-jannik-sinner-and-aryna-sabalenka-look-to-complete-sunshine-double",
     "https://www.espn.com/nba/story/_/id/48216797/reaves-was-stripped-clean-late-lakers-win-report-says",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-son-topos-128048914?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -58,6 +59,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Fantasy guide to NFL offseason signings: Jets trade Justin Fields to Chiefs",
     "Draper could face Alcaraz in quarters of Miami Open - live on Sky Sports",
     "NBA: Missed call late in Lakers-Nuggets thriller",
     "Lamine Yamal: \"Son todos unos topos\"",
@@ -132,6 +134,11 @@
       "publicId": "tvs_cards/card_1773725107083",
       "resourceType": "image",
       "uploadedAt": 1773725107845
+    },
+    {
+      "publicId": "tvs_videos/video_1773730572189",
+      "resourceType": "video",
+      "uploadedAt": 1773730576028
     }
   ]
 }
