@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Reeves-Maybin",
+    "Re-elected",
     "Macario",
     "Signs",
     "Lakers",
@@ -22,6 +24,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
     "https://www.espn.com/soccer/story/_/id/48224025/cat-macario-record-nwsl-deal-san-diego-wave",
     "https://www.espn.com/nba/story/_/id/48221805/sources-nba-set-1st-vote-las-vegas-seattle-expansion",
     "https://www.espn.com/nba/story/_/id/48228603/kevin-durant-takes-blame-lakers-disrupt-rockets-offense-just-felt-lost-game-us-tonight",
@@ -66,6 +69,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Reeves-Maybin re-elected as NFLPA president",
     "Sources: Macario signs with Wave in record deal",
     "Sources: NBA eyes key 1st vote for expansion",
     "KD says loss to Lakers on him: 'I'm the offense'",
@@ -154,6 +158,11 @@
       "publicId": "tvs_cards/card_1773754942575",
       "resourceType": "image",
       "uploadedAt": 1773754943824
+    },
+    {
+      "publicId": "tvs_cards/card_1773767597957",
+      "resourceType": "image",
+      "uploadedAt": 1773767599395
     }
   ]
 }
