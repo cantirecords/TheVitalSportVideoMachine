@@ -14,6 +14,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/lamine-yamal-son-topos-128048914?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/rugby-union/articles/cg7el00e3v1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/rugby-union/articles/c99je174x7xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/cvg3212g23yo?at_medium=RSS&at_campaign=rss",
@@ -51,6 +52,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Lamine Yamal: \"Son todos unos topos\"",
     "Head coach Dickens leaves Newcastle Red Bulls",
     "'Haaland of rugby' - how Bielle-Biarrey has stormed stage",
     "Real's Bellingham and Mbappe back for Man City trip",
@@ -112,6 +114,11 @@
       "publicId": "tvs_cards/card_1773694185193",
       "resourceType": "image",
       "uploadedAt": 1773694186634
+    },
+    {
+      "publicId": "tvs_videos/video_1773710316923",
+      "resourceType": "video",
+      "uploadedAt": 1773710318999
     }
   ]
 }
