@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Macario",
+    "Signs",
     "Lakers",
     "Disrupt",
     "Sinner",
@@ -20,6 +22,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48224025/cat-macario-record-nwsl-deal-san-diego-wave",
     "https://www.espn.com/nba/story/_/id/48221805/sources-nba-set-1st-vote-las-vegas-seattle-expansion",
     "https://www.espn.com/nba/story/_/id/48228603/kevin-durant-takes-blame-lakers-disrupt-rockets-offense-just-felt-lost-game-us-tonight",
     "https://www.espn.com/fantasy/football/story/_/id/47899702/nfl-free-agency-2026-fantasy-football-impact-signings-trades-grades",
@@ -63,6 +66,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Sources: Macario signs with Wave in record deal",
     "Sources: NBA eyes key 1st vote for expansion",
     "KD says loss to Lakers on him: 'I'm the offense'",
     "Fantasy guide to NFL offseason signings: Jets trade Justin Fields to Chiefs",
@@ -107,11 +111,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773665518714",
-      "resourceType": "video",
-      "uploadedAt": 1773665520895
-    },
-    {
       "publicId": "tvs_videos/video_1773687117732",
       "resourceType": "video",
       "uploadedAt": 1773687119167
@@ -150,6 +149,11 @@
       "publicId": "tvs_videos/video_1773751810178",
       "resourceType": "video",
       "uploadedAt": 1773751816539
+    },
+    {
+      "publicId": "tvs_cards/card_1773754942575",
+      "resourceType": "image",
+      "uploadedAt": 1773754943824
     }
   ]
 }
