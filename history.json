@@ -20,6 +20,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48221805/sources-nba-set-1st-vote-las-vegas-seattle-expansion",
     "https://www.espn.com/nba/story/_/id/48228603/kevin-durant-takes-blame-lakers-disrupt-rockets-offense-just-felt-lost-game-us-tonight",
     "https://www.espn.com/fantasy/football/story/_/id/47899702/nfl-free-agency-2026-fantasy-football-impact-signings-trades-grades",
     "https://www.skysports.com/tennis/news/12040/13520473/miam-open-on-sky-sports-tennis-emma-raducanu-and-jack-draper-in-action-as-jannik-sinner-and-aryna-sabalenka-look-to-complete-sunshine-double",
@@ -62,6 +63,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Sources: NBA eyes key 1st vote for expansion",
     "KD says loss to Lakers on him: 'I'm the offense'",
     "Fantasy guide to NFL offseason signings: Jets trade Justin Fields to Chiefs",
     "Draper could face Alcaraz in quarters of Miami Open - live on Sky Sports",
@@ -143,6 +145,11 @@
       "publicId": "tvs_cards/card_1773738106992",
       "resourceType": "image",
       "uploadedAt": 1773738108161
+    },
+    {
+      "publicId": "tvs_videos/video_1773751810178",
+      "resourceType": "video",
+      "uploadedAt": 1773751816539
     }
   ]
 }
