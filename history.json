@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Tretter",
+    "Elected",
     "NBA",
     "Draft",
     "MLB",
@@ -28,6 +30,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48234344/nflpa-elects-former-ol-jc-tretter-next-executive-director",
     "https://www.espn.com/nba/story/_/id/48187694/nba-draft-march-madness-intel-prospects-dybantsa-peterson-boozer-guards",
     "https://www.espn.com/soccer/story/_/id/48232448/los-angeles-world-cup-2026-host-ambassadors-ferrell-luka-doncic-magic-johnson",
     "https://www.mlb.com/news/mlb-together-teams-up-with-clean-miami-beach-for-cleanup",
@@ -77,6 +80,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "NFLPA elects former OL Tretter as next director",
     "🏀 Draft intel: Peterson or Dybantsa to go at No. 1?",
     "Will Ferrell, Luka Doncic and more named as Los Angeles World Cup host ambassadors",
     "MLB Together, former players pitch in at Miami Beach cleanup",
@@ -127,11 +131,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773725107083",
-      "resourceType": "image",
-      "uploadedAt": 1773725107845
-    },
-    {
       "publicId": "tvs_videos/video_1773730572189",
       "resourceType": "video",
       "uploadedAt": 1773730576028
@@ -175,6 +174,11 @@
       "publicId": "tvs_cards/card_1773802352673",
       "resourceType": "image",
       "uploadedAt": 1773802354597
+    },
+    {
+      "publicId": "tvs_cards/card_1773812340938",
+      "resourceType": "image",
+      "uploadedAt": 1773812342103
     }
   ]
 }
