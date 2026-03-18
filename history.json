@@ -26,6 +26,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48232448/los-angeles-world-cup-2026-host-ambassadors-ferrell-luka-doncic-magic-johnson",
     "https://www.mlb.com/news/mlb-together-teams-up-with-clean-miami-beach-for-cleanup",
     "https://www.espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1",
     "https://www.espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
@@ -73,6 +74,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Will Ferrell, Luka Doncic and more named as Los Angeles World Cup host ambassadors",
     "MLB Together, former players pitch in at Miami Beach cleanup",
     "Kiper's new NFL mock draft: How free agency shook up first-round landing spots for top prospects",
     "Reeves-Maybin re-elected as NFLPA president",
@@ -121,11 +123,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773710316923",
-      "resourceType": "video",
-      "uploadedAt": 1773710318999
-    },
-    {
       "publicId": "tvs_cards/card_1773715581304",
       "resourceType": "image",
       "uploadedAt": 1773715583139
@@ -169,6 +166,11 @@
       "publicId": "tvs_cards/card_1773780656524",
       "resourceType": "image",
       "uploadedAt": 1773780657888
+    },
+    {
+      "publicId": "tvs_videos/video_1773796926783",
+      "resourceType": "video",
+      "uploadedAt": 1773796930033
     }
   ]
 }
