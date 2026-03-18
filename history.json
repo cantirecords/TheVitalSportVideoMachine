@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Hamilton",
     "NFL",
     "Free",
     "Beers",
@@ -8,34 +9,10 @@
     "Land",
     "Tretter",
     "Elected",
-    "NBA",
-    "Draft",
-    "MLB",
-    "Unites",
-    "Reeves-Maybin",
-    "Re-elected",
-    "Macario",
-    "Signs",
-    "Lakers",
-    "Disrupt",
-    "Sinner",
-    "Targets",
-    "Reaves",
-    "Scores",
-    "Dickens",
-    "Leaves",
-    "Ohtani",
-    "Messi",
-    "Madrid",
-    "Barça",
-    "LeBron",
-    "Megan",
-    "Oldham",
-    "Barcelona",
-    "Falls",
-    "Manchester"
+    "NBA"
   ],
   "postedUrls": [
+    "https://www.skysports.com/f1/news/27451/12822277/the-f1-show-podcast-sky-sports",
     "https://www.espn.com/nfl/story/_/id/48227150/2026-nfl-free-agency-key-roster-additions-subtractions-goals-buzz-questions",
     "https://www.espn.com/womens-college-basketball/story/_/id/48222507/raegan-beers-oklahoma-womens-basketball-viral-meme-ncaa-tournament-2026",
     "https://www.espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
@@ -91,6 +68,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "The F1 Show: Kimi's win, Hamilton's resurgence & new rules debate",
     "Takeaways from opening week of NFL free agency: Biggest signings, losses for all 32 teams",
     "15 Beers, booming NIL sales, not a sip of alcohol: The irony of Raegan Beers' viral jersey",
     "NFL free agency grades: Sizing up 60-plus big signings and trades",
@@ -147,11 +125,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773767597957",
-      "resourceType": "image",
-      "uploadedAt": 1773767599395
-    },
-    {
       "publicId": "tvs_videos/video_1773773538260",
       "resourceType": "video",
       "uploadedAt": 1773773540808
@@ -200,6 +173,11 @@
       "publicId": "tvs_cards/card_1773853954987",
       "resourceType": "image",
       "uploadedAt": 1773853955990
+    },
+    {
+      "publicId": "tvs_videos/video_1773859751111",
+      "resourceType": "video",
+      "uploadedAt": 1773859753247
     }
   ]
 }
