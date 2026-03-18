@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Beers",
+    "Jersey",
     "Vikings",
     "Land",
     "Tretter",
@@ -32,6 +34,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/womens-college-basketball/story/_/id/48222507/raegan-beers-oklahoma-womens-basketball-viral-meme-ncaa-tournament-2026",
     "https://www.espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
     "https://www.espn.com/nfl/story/_/id/48185790/nfl-free-agency-2026-experts-big-questions-signings-trades-contracts",
     "https://www.espn.com/nba/story/_/id/48234437/giannis-miss-least-1-week-due-knee-injury",
@@ -85,6 +88,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "15 Beers, booming NIL sales, not a sip of alcohol: The irony of Raegan Beers' viral jersey",
     "NFL free agency grades: Sizing up 60-plus big signings and trades",
     "Best signing? Most improved team? 15 experts debate NFL free agency",
     "Sources: Giannis (knee) to miss at least 1 week",
@@ -139,16 +143,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773751810178",
-      "resourceType": "video",
-      "uploadedAt": 1773751816539
-    },
-    {
-      "publicId": "tvs_cards/card_1773754942575",
-      "resourceType": "image",
-      "uploadedAt": 1773754943824
-    },
-    {
       "publicId": "tvs_cards/card_1773767597957",
       "resourceType": "image",
       "uploadedAt": 1773767599395
@@ -192,6 +186,11 @@
       "publicId": "tvs_videos/video_1773838213058",
       "resourceType": "video",
       "uploadedAt": 1773838217066
+    },
+    {
+      "publicId": "tvs_cards/card_1773841429405",
+      "resourceType": "image",
+      "uploadedAt": 1773841430338
     }
   ]
 }
