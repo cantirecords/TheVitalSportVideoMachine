@@ -30,6 +30,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48234437/giannis-miss-least-1-week-due-knee-injury",
     "https://www.espn.com/nfl/story/_/id/48234344/nflpa-elects-former-ol-jc-tretter-next-executive-director",
     "https://www.espn.com/nba/story/_/id/48187694/nba-draft-march-madness-intel-prospects-dybantsa-peterson-boozer-guards",
     "https://www.espn.com/soccer/story/_/id/48232448/los-angeles-world-cup-2026-host-ambassadors-ferrell-luka-doncic-magic-johnson",
@@ -80,6 +81,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Sources: Giannis (knee) to miss at least 1 week",
     "NFLPA elects former OL Tretter as next director",
     "🏀 Draft intel: Peterson or Dybantsa to go at No. 1?",
     "Will Ferrell, Luka Doncic and more named as Los Angeles World Cup host ambassadors",
@@ -179,6 +181,11 @@
       "publicId": "tvs_cards/card_1773812340938",
       "resourceType": "image",
       "uploadedAt": 1773812342103
+    },
+    {
+      "publicId": "tvs_videos/video_1773816863824",
+      "resourceType": "video",
+      "uploadedAt": 1773816865884
     }
   ]
 }
