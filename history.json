@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Vikings",
+    "Land",
     "Tretter",
     "Elected",
     "NBA",
@@ -30,6 +32,7 @@
     "Manchester"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48185790/nfl-free-agency-2026-experts-big-questions-signings-trades-contracts",
     "https://www.espn.com/nba/story/_/id/48234437/giannis-miss-least-1-week-due-knee-injury",
     "https://www.espn.com/nfl/story/_/id/48234344/nflpa-elects-former-ol-jc-tretter-next-executive-director",
     "https://www.espn.com/nba/story/_/id/48187694/nba-draft-march-madness-intel-prospects-dybantsa-peterson-boozer-guards",
@@ -81,6 +84,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Best signing? Most improved team? 15 experts debate NFL free agency",
     "Sources: Giannis (knee) to miss at least 1 week",
     "NFLPA elects former OL Tretter as next director",
     "🏀 Draft intel: Peterson or Dybantsa to go at No. 1?",
@@ -133,11 +137,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773730572189",
-      "resourceType": "video",
-      "uploadedAt": 1773730576028
-    },
-    {
       "publicId": "tvs_cards/card_1773738106992",
       "resourceType": "image",
       "uploadedAt": 1773738108161
@@ -186,6 +185,11 @@
       "publicId": "tvs_videos/video_1773816863824",
       "resourceType": "video",
       "uploadedAt": 1773816865884
+    },
+    {
+      "publicId": "tvs_cards/card_1773824450129",
+      "resourceType": "image",
+      "uploadedAt": 1773824453597
     }
   ]
 }
