@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Expansion",
     "Madrid",
     "WNBA",
     "Salary",
@@ -12,6 +14,7 @@
     "NFL"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48223005/nba-expansion-seattle-las-vegas-draft-format-more-big-questions-teams-2028",
     "https://www.bbc.com/sport/football/videos/cx2g49094m7o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/wnba/story/_/id/48246061/projected-wnba-salary-cap-set-exceed-10-million-end-new-cba",
     "https://www.mlb.com/news/shohei-ohtani-makes-spring-pitching-debut-for-dodgers",
@@ -73,6 +76,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "🏀 Everything we know about NBA expansion",
     "Tudor gets first Tottenham win but Spurs lose tie against Atletico Madrid",
     "Sources: WNBA cap set to top $10M by end of CBA",
     "Ohtani (4 K's) matches Arizona heat in impressive spring pitching debut",
@@ -135,11 +139,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773816863824",
-      "resourceType": "video",
-      "uploadedAt": 1773816865884
-    },
-    {
       "publicId": "tvs_cards/card_1773824450129",
       "resourceType": "image",
       "uploadedAt": 1773824453597
@@ -188,6 +187,11 @@
       "publicId": "tvs_videos/video_1773902922413",
       "resourceType": "video",
       "uploadedAt": 1773902924655
+    },
+    {
+      "publicId": "tvs_cards/card_1773910505564",
+      "resourceType": "image",
+      "uploadedAt": 1773910506661
     }
   ]
 }
