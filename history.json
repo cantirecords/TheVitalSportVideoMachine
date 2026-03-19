@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Fermín",
+    "López",
     "LeBron",
     "Bucks",
     "Want",
@@ -12,6 +14,7 @@
     "Salary"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/lamine-yamal-raphinha-edu-aguirre-elige-mejor-jugador-barca-128155057?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48174027/27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments",
     "https://www.espn.com/nba/story/_/id/48242289/sources-bucks-want-shut-giannis-antetokounmpo-season",
     "https://www.espn.com/soccer/story/_/id/47220729/messi-score-900th-goal-2026-reach-1000-pass-ronaldo",
@@ -78,6 +81,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Ni Lamine Yamal ni Raphinha: Edu Aguirre elige al mejor jugador del Barça",
     "LeBron is back in Miami, where he was at his career best",
     "Sources: Giannis refuses Bucks' shutdown pitch",
     "Lionel Messi has scored his 900th career goal! Can he reach 1,000? Can he pass Ronaldo?",
@@ -145,16 +149,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773859751111",
-      "resourceType": "video",
-      "uploadedAt": 1773859753247
-    },
-    {
-      "publicId": "tvs_cards/card_1773866976168",
-      "resourceType": "image",
-      "uploadedAt": 1773866977242
-    },
-    {
       "publicId": "tvs_videos/video_1773883321946",
       "resourceType": "video",
       "uploadedAt": 1773883324408
@@ -198,6 +192,11 @@
       "publicId": "tvs_videos/video_1773945926138",
       "resourceType": "video",
       "uploadedAt": 1773945929014
+    },
+    {
+      "publicId": "tvs_cards/card_1773953422999",
+      "resourceType": "image",
+      "uploadedAt": 1773953424241
     }
   ]
 }
