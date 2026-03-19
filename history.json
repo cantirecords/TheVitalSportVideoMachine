@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ohtani",
+    "Shines",
     "Barça",
     "Barcelona",
     "Destroys",
@@ -12,6 +14,7 @@
     "Land"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-makes-spring-pitching-debut-for-dodgers",
     "https://www.sport.es/es/noticias/barca/dia-del-padre-barca-19-marzo-regalos-128137375?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/report/_/gameId/401862582",
     "https://www.skysports.com/f1/news/27451/12822277/the-f1-show-podcast-sky-sports",
@@ -70,6 +73,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Ohtani (4 K's) matches Arizona heat in impressive spring pitching debut",
     "Mañana 19/03, Día del Padre, se esperan colas kilométricas en la tienda del Barça por la maqueta del Camp Nou en miniatura o la mochila oficial: disponible por menos de 50 euros",
     "7-goal Barcelona run wild in rout of Newcastle",
     "The F1 Show: Kimi's win, Hamilton's resurgence & new rules debate",
@@ -129,16 +133,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773796926783",
-      "resourceType": "video",
-      "uploadedAt": 1773796930033
-    },
-    {
-      "publicId": "tvs_cards/card_1773802352673",
-      "resourceType": "image",
-      "uploadedAt": 1773802354597
-    },
-    {
       "publicId": "tvs_cards/card_1773812340938",
       "resourceType": "image",
       "uploadedAt": 1773812342103
@@ -182,6 +176,11 @@
       "publicId": "tvs_videos/video_1773883321946",
       "resourceType": "video",
       "uploadedAt": 1773883324408
+    },
+    {
+      "publicId": "tvs_cards/card_1773888846114",
+      "resourceType": "image",
+      "uploadedAt": 1773888847232
     }
   ]
 }
