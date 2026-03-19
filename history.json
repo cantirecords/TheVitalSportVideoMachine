@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "WNBA",
+    "Salary",
     "Ohtani",
     "Shines",
     "Barça",
@@ -14,6 +16,7 @@
     "Land"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/48246061/projected-wnba-salary-cap-set-exceed-10-million-end-new-cba",
     "https://www.mlb.com/news/shohei-ohtani-makes-spring-pitching-debut-for-dodgers",
     "https://www.sport.es/es/noticias/barca/dia-del-padre-barca-19-marzo-regalos-128137375?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/report/_/gameId/401862582",
@@ -73,6 +76,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Sources: WNBA cap set to top $10M by end of CBA",
     "Ohtani (4 K's) matches Arizona heat in impressive spring pitching debut",
     "Mañana 19/03, Día del Padre, se esperan colas kilométricas en la tienda del Barça por la maqueta del Camp Nou en miniatura o la mochila oficial: disponible por menos de 50 euros",
     "7-goal Barcelona run wild in rout of Newcastle",
@@ -181,6 +185,11 @@
       "publicId": "tvs_cards/card_1773888846114",
       "resourceType": "image",
       "uploadedAt": 1773888847232
+    },
+    {
+      "publicId": "tvs_cards/card_1773897961804",
+      "resourceType": "image",
+      "uploadedAt": 1773897963351
     }
   ]
 }
