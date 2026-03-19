@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "Barcelona",
     "Destroys",
     "Hamilton",
@@ -8,12 +9,10 @@
     "Beers",
     "Jersey",
     "Vikings",
-    "Land",
-    "Tretter",
-    "Elected",
-    "NBA"
+    "Land"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/dia-del-padre-barca-19-marzo-regalos-128137375?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/report/_/gameId/401862582",
     "https://www.skysports.com/f1/news/27451/12822277/the-f1-show-podcast-sky-sports",
     "https://www.espn.com/nfl/story/_/id/48227150/2026-nfl-free-agency-key-roster-additions-subtractions-goals-buzz-questions",
@@ -71,6 +70,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Mañana 19/03, Día del Padre, se esperan colas kilométricas en la tienda del Barça por la maqueta del Camp Nou en miniatura o la mochila oficial: disponible por menos de 50 euros",
     "7-goal Barcelona run wild in rout of Newcastle",
     "The F1 Show: Kimi's win, Hamilton's resurgence & new rules debate",
     "Takeaways from opening week of NFL free agency: Biggest signings, losses for all 32 teams",
@@ -129,11 +129,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773780656524",
-      "resourceType": "image",
-      "uploadedAt": 1773780657888
-    },
-    {
       "publicId": "tvs_videos/video_1773796926783",
       "resourceType": "video",
       "uploadedAt": 1773796930033
@@ -182,6 +177,11 @@
       "publicId": "tvs_cards/card_1773866976168",
       "resourceType": "image",
       "uploadedAt": 1773866977242
+    },
+    {
+      "publicId": "tvs_videos/video_1773883321946",
+      "resourceType": "video",
+      "uploadedAt": 1773883324408
     }
   ]
 }
