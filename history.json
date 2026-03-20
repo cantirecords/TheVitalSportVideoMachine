@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Faces",
     "Barça",
     "Fermín",
     "López",
@@ -12,6 +14,7 @@
     "Expansion"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly",
     "https://www.sport.es/es/noticias/barca/alivio-barca-joan-garcia-comunicado-128164657?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-raphinha-edu-aguirre-elige-mejor-jugador-barca-128155057?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48174027/27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments",
@@ -80,6 +83,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Champions League quarterfinal preview, predictions: Barcelona to keep rolling?",
     "Alivio en el Barça con Joan Garcia: comunicado oficial sobre la lesión ante el Newcastle",
     "Ni Lamine Yamal ni Raphinha: Edu Aguirre elige al mejor jugador del Barça",
     "LeBron is back in Miami, where he was at his career best",
@@ -149,11 +153,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773883321946",
-      "resourceType": "video",
-      "uploadedAt": 1773883324408
-    },
-    {
       "publicId": "tvs_cards/card_1773888846114",
       "resourceType": "image",
       "uploadedAt": 1773888847232
@@ -202,6 +201,11 @@
       "publicId": "tvs_videos/video_1773969479121",
       "resourceType": "video",
       "uploadedAt": 1773969481280
+    },
+    {
+      "publicId": "tvs_cards/card_1773974699875",
+      "resourceType": "image",
+      "uploadedAt": 1773974701105
     }
   ]
 }
