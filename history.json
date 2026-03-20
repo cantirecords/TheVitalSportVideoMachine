@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Luka",
+    "Doncic",
     "Barcelona",
     "Faces",
     "Barça",
@@ -14,6 +16,7 @@
     "Expansion"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8",
     "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly",
     "https://www.sport.es/es/noticias/barca/alivio-barca-joan-garcia-comunicado-128164657?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-raphinha-edu-aguirre-elige-mejor-jugador-barca-128155057?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -83,6 +86,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Luka puts up 60 vs. Heat as Lakers stay hot",
     "Champions League quarterfinal preview, predictions: Barcelona to keep rolling?",
     "Alivio en el Barça con Joan Garcia: comunicado oficial sobre la lesión ante el Newcastle",
     "Ni Lamine Yamal ni Raphinha: Edu Aguirre elige al mejor jugador del Barça",
@@ -153,11 +157,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773888846114",
-      "resourceType": "image",
-      "uploadedAt": 1773888847232
-    },
-    {
       "publicId": "tvs_cards/card_1773897961804",
       "resourceType": "image",
       "uploadedAt": 1773897963351
@@ -206,6 +205,11 @@
       "publicId": "tvs_cards/card_1773974699875",
       "resourceType": "image",
       "uploadedAt": 1773974701105
+    },
+    {
+      "publicId": "tvs_cards/card_1773983961898",
+      "resourceType": "image",
+      "uploadedAt": 1773983962836
     }
   ]
 }
