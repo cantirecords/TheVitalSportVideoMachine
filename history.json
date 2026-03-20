@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Curry",
     "Luka",
     "Doncic",
     "Barcelona",
@@ -8,14 +9,10 @@
     "Fermín",
     "López",
     "LeBron",
-    "Bucks",
-    "Want",
-    "Messi",
-    "Hits",
-    "NBA",
-    "Expansion"
+    "Bucks"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48254395/charlotte-hornets-retire-dell-curry-no-30-jersey",
     "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8",
     "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly",
     "https://www.sport.es/es/noticias/barca/alivio-barca-joan-garcia-comunicado-128164657?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -86,6 +83,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Dell Curry fights back tears as No. 30 retired",
     "Luka puts up 60 vs. Heat as Lakers stay hot",
     "Champions League quarterfinal preview, predictions: Barcelona to keep rolling?",
     "Alivio en el Barça con Joan Garcia: comunicado oficial sobre la lesión ante el Newcastle",
@@ -157,11 +155,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773897961804",
-      "resourceType": "image",
-      "uploadedAt": 1773897963351
-    },
-    {
       "publicId": "tvs_videos/video_1773902922413",
       "resourceType": "video",
       "uploadedAt": 1773902924655
@@ -210,6 +203,11 @@
       "publicId": "tvs_cards/card_1773983961898",
       "resourceType": "image",
       "uploadedAt": 1773983962836
+    },
+    {
+      "publicId": "tvs_videos/video_1773989094438",
+      "resourceType": "video",
+      "uploadedAt": 1773989096692
     }
   ]
 }
