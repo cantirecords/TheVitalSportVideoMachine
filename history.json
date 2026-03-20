@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Ronnie",
     "O'Sullivan",
     "Curry",
@@ -8,12 +9,10 @@
     "Barcelona",
     "Faces",
     "Barça",
-    "Fermín",
-    "López",
-    "LeBron",
-    "Bucks"
+    "Fermín"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48241898/weekend-predictions-arsenal-man-city-carabao-cup-laliga-real-madrid-atletico-madrid-julien-laurens",
     "https://www.bbc.com/sport/snooker/articles/cn4391l3lvxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48254395/charlotte-hornets-retire-dell-curry-no-30-jersey",
     "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8",
@@ -86,6 +85,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Weekend predictions: Arsenal or Man City to win Carabao final? Who takes Madrid derby?",
     "O'Sullivan makes snooker's highest break with historic 153",
     "Dell Curry fights back tears as No. 30 retired",
     "Luka puts up 60 vs. Heat as Lakers stay hot",
@@ -159,11 +159,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773910505564",
-      "resourceType": "image",
-      "uploadedAt": 1773910506661
-    },
-    {
       "publicId": "tvs_videos/video_1773924186795",
       "resourceType": "video",
       "uploadedAt": 1773924188374
@@ -212,6 +207,11 @@
       "publicId": "tvs_cards/card_1773996829488",
       "resourceType": "image",
       "uploadedAt": 1773996830409
+    },
+    {
+      "publicId": "tvs_videos/video_1774010352329",
+      "resourceType": "video",
+      "uploadedAt": 1774010353845
     }
   ]
 }
