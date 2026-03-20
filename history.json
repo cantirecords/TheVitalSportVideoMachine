@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ronaldo",
+    "Out",
     "Browns",
     "Propose",
     "Seahawks",
@@ -16,6 +18,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48257794/cristiano-ronaldo-not-portugal-squad-pre-world-cup-friendlies",
     "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry",
     "https://www.espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out",
     "https://www.espn.com/nfl/story/_/id/48243366/seattle-seahawks-running-back-plans-replace-ken-walker-zach-charbonnet-emanuel-wilson",
@@ -92,6 +95,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Ronaldo to miss Portugal games vs. U.S., Mexico",
     "'They're not even close': Why a Giannis trade might be even more complicated this summer",
     "NFL to consider 5-year window for pick trades",
     "After letting the Super Bowl MVP walk, what's the Seahawks' plan at running back?",
@@ -169,11 +173,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1773945926138",
-      "resourceType": "video",
-      "uploadedAt": 1773945929014
-    },
-    {
       "publicId": "tvs_cards/card_1773953422999",
       "resourceType": "image",
       "uploadedAt": 1773953424241
@@ -222,6 +221,11 @@
       "publicId": "tvs_videos/video_1774031832303",
       "resourceType": "video",
       "uploadedAt": 1774031834606
+    },
+    {
+      "publicId": "tvs_cards/card_1774039351117",
+      "resourceType": "image",
+      "uploadedAt": 1774039352613
     }
   ]
 }
