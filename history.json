@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "Fermín",
     "López",
     "LeBron",
@@ -8,12 +9,10 @@
     "Messi",
     "Hits",
     "NBA",
-    "Expansion",
-    "Madrid",
-    "WNBA",
-    "Salary"
+    "Expansion"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/alivio-barca-joan-garcia-comunicado-128164657?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-raphinha-edu-aguirre-elige-mejor-jugador-barca-128155057?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48174027/27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments",
     "https://www.espn.com/nba/story/_/id/48242289/sources-bucks-want-shut-giannis-antetokounmpo-season",
@@ -81,6 +80,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Alivio en el Barça con Joan Garcia: comunicado oficial sobre la lesión ante el Newcastle",
     "Ni Lamine Yamal ni Raphinha: Edu Aguirre elige al mejor jugador del Barça",
     "LeBron is back in Miami, where he was at his career best",
     "Sources: Giannis refuses Bucks' shutdown pitch",
@@ -197,6 +197,11 @@
       "publicId": "tvs_cards/card_1773953422999",
       "resourceType": "image",
       "uploadedAt": 1773953424241
+    },
+    {
+      "publicId": "tvs_videos/video_1773969479121",
+      "resourceType": "video",
+      "uploadedAt": 1773969481280
     }
   ]
 }
