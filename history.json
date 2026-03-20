@@ -16,6 +16,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry",
     "https://www.espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out",
     "https://www.espn.com/nfl/story/_/id/48243366/seattle-seahawks-running-back-plans-replace-ken-walker-zach-charbonnet-emanuel-wilson",
     "https://www.espn.com/soccer/story/_/id/48241898/weekend-predictions-arsenal-man-city-carabao-cup-laliga-real-madrid-atletico-madrid-julien-laurens",
@@ -91,6 +92,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "'They're not even close': Why a Giannis trade might be even more complicated this summer",
     "NFL to consider 5-year window for pick trades",
     "After letting the Super Bowl MVP walk, what's the Seahawks' plan at running back?",
     "Weekend predictions: Arsenal or Man City to win Carabao final? Who takes Madrid derby?",
@@ -167,11 +169,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773939918363",
-      "resourceType": "image",
-      "uploadedAt": 1773939919826
-    },
-    {
       "publicId": "tvs_videos/video_1773945926138",
       "resourceType": "video",
       "uploadedAt": 1773945929014
@@ -220,6 +217,11 @@
       "publicId": "tvs_cards/card_1774025754663",
       "resourceType": "image",
       "uploadedAt": 1774025756269
+    },
+    {
+      "publicId": "tvs_videos/video_1774031832303",
+      "resourceType": "video",
+      "uploadedAt": 1774031834606
     }
   ]
 }
