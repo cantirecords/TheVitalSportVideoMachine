@@ -28,6 +28,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/metrika-rapera-satanica-vampirica-fan-128229726?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pronto-sabra-decision-lewandowski-128245191?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48233122/nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award",
     "https://www.mlb.com/news/andrew-painter-to-make-phillies-opening-day-roster-2026",
@@ -113,6 +114,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Metrika, la rapera satánica, vampírica y fan de Lamine Yamal: “Soy igual de sinvergüenza que él”",
     "\"Muy pronto se sabrá la decisión de Lewandowski\"",
     "NBA Power Rankings: Sixth men, rookies and unsung heroes for all 30 teams",
     "Painter to make Phillies' Opening Day roster; MLB debut set for March 31",
@@ -199,11 +201,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774025754663",
-      "resourceType": "image",
-      "uploadedAt": 1774025756269
-    },
-    {
       "publicId": "tvs_videos/video_1774031832303",
       "resourceType": "video",
       "uploadedAt": 1774031834606
@@ -252,6 +249,11 @@
       "publicId": "tvs_cards/card_1774111203791",
       "resourceType": "image",
       "uploadedAt": 1774111205085
+    },
+    {
+      "publicId": "tvs_videos/video_1774117544767",
+      "resourceType": "video",
+      "uploadedAt": 1774117548633
     }
   ]
 }
