@@ -24,6 +24,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/andrew-painter-to-make-phillies-opening-day-roster-2026",
     "https://www.espn.com/nba/story/_/id/48185582/nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more",
     "https://www.espn.com/mens-college-basketball/story/_/id/48263821/ncaa-sues-draftkings-march-madness-trademark-infringement",
     "https://www.espn.com/soccer/story/_/id/48256557/transfer-rumors-news-chelsea-want-extend-enzo-fernandez-amid-psg-real-madrid",
@@ -106,6 +107,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Painter to make Phillies' Opening Day roster; MLB debut set for March 31",
     "Biggest questions, projections and more: Storylines to watch ahead of NBA playoffs",
     "NCAA sues DraftKings for trademark infringement",
     "Transfer rumors, news: Mohamed Salah debating Saudi Pro League move",
@@ -189,11 +191,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773996829488",
-      "resourceType": "image",
-      "uploadedAt": 1773996830409
-    },
-    {
       "publicId": "tvs_videos/video_1774010352329",
       "resourceType": "video",
       "uploadedAt": 1774010353845
@@ -242,6 +239,11 @@
       "publicId": "tvs_cards/card_1774082633988",
       "resourceType": "image",
       "uploadedAt": 1774082635751
+    },
+    {
+      "publicId": "tvs_videos/video_1774096258520",
+      "resourceType": "video",
+      "uploadedAt": 1774096260822
     }
   ]
 }
