@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Thunder",
+    "Strikes",
     "Spurs",
     "Now",
     "Salah",
@@ -24,6 +26,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48233122/nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award",
     "https://www.mlb.com/news/andrew-painter-to-make-phillies-opening-day-roster-2026",
     "https://www.espn.com/nba/story/_/id/48185582/nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more",
     "https://www.espn.com/mens-college-basketball/story/_/id/48263821/ncaa-sues-draftkings-march-madness-trademark-infringement",
@@ -107,6 +110,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "NBA Power Rankings: Sixth men, rookies and unsung heroes for all 30 teams",
     "Painter to make Phillies' Opening Day roster; MLB debut set for March 31",
     "Biggest questions, projections and more: Storylines to watch ahead of NBA playoffs",
     "NCAA sues DraftKings for trademark infringement",
@@ -191,11 +195,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774010352329",
-      "resourceType": "video",
-      "uploadedAt": 1774010353845
-    },
-    {
       "publicId": "tvs_cards/card_1774012645162",
       "resourceType": "image",
       "uploadedAt": 1774012645919
@@ -244,6 +243,11 @@
       "publicId": "tvs_videos/video_1774096258520",
       "resourceType": "video",
       "uploadedAt": 1774096260822
+    },
+    {
+      "publicId": "tvs_cards/card_1774098383557",
+      "resourceType": "image",
+      "uploadedAt": 1774098384642
     }
   ]
 }
