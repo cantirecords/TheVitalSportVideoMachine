@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ehammer",
+    "Breaks",
     "Lewandowski",
     "Staying",
     "Thunder",
@@ -28,6 +30,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/athletics/videos/cx2rl3pnz8yo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/metrika-rapera-satanica-vampirica-fan-128229726?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pronto-sabra-decision-lewandowski-128245191?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48233122/nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award",
@@ -114,6 +117,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Ehammer breaks men's heptathlon world record",
     "Metrika, la rapera satánica, vampírica y fan de Lamine Yamal: “Soy igual de sinvergüenza que él”",
     "\"Muy pronto se sabrá la decisión de Lewandowski\"",
     "NBA Power Rankings: Sixth men, rookies and unsung heroes for all 30 teams",
@@ -201,11 +205,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774031832303",
-      "resourceType": "video",
-      "uploadedAt": 1774031834606
-    },
-    {
       "publicId": "tvs_cards/card_1774039351117",
       "resourceType": "image",
       "uploadedAt": 1774039352613
@@ -254,6 +253,11 @@
       "publicId": "tvs_videos/video_1774117544767",
       "resourceType": "video",
       "uploadedAt": 1774117548633
+    },
+    {
+      "publicId": "tvs_cards/card_1774125403148",
+      "resourceType": "image",
+      "uploadedAt": 1774125404971
     }
   ]
 }
