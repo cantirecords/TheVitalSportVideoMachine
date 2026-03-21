@@ -22,6 +22,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.espn.com/mens-college-basketball/story/_/id/48263821/ncaa-sues-draftkings-march-madness-trademark-infringement",
     "https://www.espn.com/soccer/story/_/id/48256557/transfer-rumors-news-chelsea-want-extend-enzo-fernandez-amid-psg-real-madrid",
     "https://www.bbc.com/sport/swimming/articles/c17vg19rx9eo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48251150/mlb-2026-spring-training-takeaways-lessons-mcgonigle-mclain-skubal-lombard",
@@ -102,6 +103,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "NCAA sues DraftKings for trademark infringement",
     "Transfer rumors, news: Mohamed Salah debating Saudi Pro League move",
     "McEvoy breaks long-standing 50m freestyle world record",
     "Olney: The 7 things I took away from MLB spring training",
@@ -183,11 +185,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1773983961898",
-      "resourceType": "image",
-      "uploadedAt": 1773983962836
-    },
-    {
       "publicId": "tvs_videos/video_1773989094438",
       "resourceType": "video",
       "uploadedAt": 1773989096692
@@ -236,6 +233,11 @@
       "publicId": "tvs_cards/card_1774069850260",
       "resourceType": "image",
       "uploadedAt": 1774069851328
+    },
+    {
+      "publicId": "tvs_videos/video_1774074858191",
+      "resourceType": "video",
+      "uploadedAt": 1774074859541
     }
   ]
 }
