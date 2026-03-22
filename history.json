@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Jorginho",
+    "Slams",
     "Bayern",
     "Wins",
     "Elche",
@@ -36,6 +38,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/ckgwmwgg377o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/c15d3ll2yd9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48276200/kennard-hits-last-second-3-lakers-win-lebron-record-day",
@@ -129,6 +132,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Jorginho's criticism of Chappell Roan over daughter's tears goes viral",
     "James sets NBA appearance record in late Lakers win",
     "Kane & Olise score as Bayern beat Union Berlin",
     "Kennard steals show, wins it for red-hot Lakers",
@@ -223,16 +227,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774096258520",
-      "resourceType": "video",
-      "uploadedAt": 1774096260822
-    },
-    {
-      "publicId": "tvs_cards/card_1774098383557",
-      "resourceType": "image",
-      "uploadedAt": 1774098384642
-    },
-    {
       "publicId": "tvs_cards/card_1774111203791",
       "resourceType": "image",
       "uploadedAt": 1774111205085
@@ -276,6 +270,11 @@
       "publicId": "tvs_videos/video_1774182766269",
       "resourceType": "video",
       "uploadedAt": 1774182767984
+    },
+    {
+      "publicId": "tvs_cards/card_1774184927986",
+      "resourceType": "image",
+      "uploadedAt": 1774184928998
     }
   ]
 }
