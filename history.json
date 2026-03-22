@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Elche",
+    "Faces",
     "Tudor",
     "Clears",
     "Ehammer",
@@ -32,6 +34,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/elche/2026/03/21/elche-mallorca-horario-ver-hoy-tv-online-partido-liga.html",
     "https://www.bbc.com/sport/football/articles/crk1dzp4kyyo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48259609/pittsburgh-schools-switch-remote-learning-nfl-draft",
     "https://www.bbc.com/sport/athletics/videos/cx2rl3pnz8yo?at_medium=RSS&at_campaign=rss",
@@ -121,6 +124,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Elche - Mallorca: Horario y dónde ver hoy en TV y online el partido de la Liga",
     "'It's not Allan, it's Arne' - Tudor explains viral moment",
     "Draft daze: Pittsburgh schools go remote for NFL",
     "Ehammer breaks men's heptathlon world record",
@@ -211,11 +215,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774069850260",
-      "resourceType": "image",
-      "uploadedAt": 1774069851328
-    },
-    {
       "publicId": "tvs_videos/video_1774074858191",
       "resourceType": "video",
       "uploadedAt": 1774074859541
@@ -259,6 +258,11 @@
       "publicId": "tvs_cards/card_1774148071749",
       "resourceType": "image",
       "uploadedAt": 1774148073086
+    },
+    {
+      "publicId": "tvs_cards/card_1774156943039",
+      "resourceType": "image",
+      "uploadedAt": 1774156944180
     }
   ]
 }
