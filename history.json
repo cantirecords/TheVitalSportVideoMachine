@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Messi",
+    "Magic",
     "UFC",
     "London",
     "Jorginho",
@@ -40,6 +42,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/report/_/gameId/761510",
     "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/ckgwmwgg377o?at_medium=RSS&at_campaign=rss",
@@ -135,6 +138,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Messi keys Bronx rally in Miami win over NYCFC",
     "'Heartbreaking' - fighter pay debate laid bare at UFC London",
     "Jorginho's criticism of Chappell Roan over daughter's tears goes viral",
     "James sets NBA appearance record in late Lakers win",
@@ -231,16 +235,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774117544767",
-      "resourceType": "video",
-      "uploadedAt": 1774117548633
-    },
-    {
-      "publicId": "tvs_cards/card_1774125403148",
-      "resourceType": "image",
-      "uploadedAt": 1774125404971
-    },
-    {
       "publicId": "tvs_videos/video_1774142516533",
       "resourceType": "video",
       "uploadedAt": 1774142518061
@@ -279,6 +273,11 @@
       "publicId": "tvs_cards/card_1774197630748",
       "resourceType": "image",
       "uploadedAt": 1774197631728
+    },
+    {
+      "publicId": "tvs_cards/card_1774211878188",
+      "resourceType": "image",
+      "uploadedAt": 1774211879240
     }
   ]
 }
