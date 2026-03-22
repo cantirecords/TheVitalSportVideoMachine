@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Bayern",
+    "Wins",
     "Elche",
     "Faces",
     "Tudor",
@@ -34,6 +36,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/videos/c15d3ll2yd9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48276200/kennard-hits-last-second-3-lakers-win-lebron-record-day",
     "https://www.marca.com/futbol/elche/2026/03/21/elche-mallorca-horario-ver-hoy-tv-online-partido-liga.html",
     "https://www.bbc.com/sport/football/articles/crk1dzp4kyyo?at_medium=RSS&at_campaign=rss",
@@ -125,6 +128,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Kane & Olise score as Bayern beat Union Berlin",
     "Kennard steals show, wins it for red-hot Lakers",
     "Elche - Mallorca: Horario y dónde ver hoy en TV y online el partido de la Liga",
     "'It's not Allan, it's Arne' - Tudor explains viral moment",
@@ -217,11 +221,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774082633988",
-      "resourceType": "image",
-      "uploadedAt": 1774082635751
-    },
-    {
       "publicId": "tvs_videos/video_1774096258520",
       "resourceType": "video",
       "uploadedAt": 1774096260822
@@ -265,6 +264,11 @@
       "publicId": "tvs_videos/video_1774161702828",
       "resourceType": "video",
       "uploadedAt": 1774161704486
+    },
+    {
+      "publicId": "tvs_cards/card_1774169127398",
+      "resourceType": "image",
+      "uploadedAt": 1774169128686
     }
   ]
 }
