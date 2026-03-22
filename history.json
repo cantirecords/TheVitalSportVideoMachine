@@ -36,6 +36,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/basketball/articles/ckgwmwgg377o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/c15d3ll2yd9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48276200/kennard-hits-last-second-3-lakers-win-lebron-record-day",
     "https://www.marca.com/futbol/elche/2026/03/21/elche-mallorca-horario-ver-hoy-tv-online-partido-liga.html",
@@ -128,6 +129,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "James sets NBA appearance record in late Lakers win",
     "Kane & Olise score as Bayern beat Union Berlin",
     "Kennard steals show, wins it for red-hot Lakers",
     "Elche - Mallorca: Horario y dónde ver hoy en TV y online el partido de la Liga",
@@ -269,6 +271,11 @@
       "publicId": "tvs_cards/card_1774169127398",
       "resourceType": "image",
       "uploadedAt": 1774169128686
+    },
+    {
+      "publicId": "tvs_videos/video_1774182766269",
+      "resourceType": "video",
+      "uploadedAt": 1774182767984
     }
   ]
 }
