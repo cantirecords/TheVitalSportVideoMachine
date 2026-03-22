@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "UFC",
+    "London",
     "Jorginho",
     "Slams",
     "Bayern",
@@ -38,6 +40,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/ckgwmwgg377o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/c15d3ll2yd9o?at_medium=RSS&at_campaign=rss",
@@ -132,6 +135,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "'Heartbreaking' - fighter pay debate laid bare at UFC London",
     "Jorginho's criticism of Chappell Roan over daughter's tears goes viral",
     "James sets NBA appearance record in late Lakers win",
     "Kane & Olise score as Bayern beat Union Berlin",
@@ -227,11 +231,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774111203791",
-      "resourceType": "image",
-      "uploadedAt": 1774111205085
-    },
-    {
       "publicId": "tvs_videos/video_1774117544767",
       "resourceType": "video",
       "uploadedAt": 1774117548633
@@ -275,6 +274,11 @@
       "publicId": "tvs_cards/card_1774184927986",
       "resourceType": "image",
       "uploadedAt": 1774184928998
+    },
+    {
+      "publicId": "tvs_cards/card_1774197630748",
+      "resourceType": "image",
+      "uploadedAt": 1774197631728
     }
   ]
 }
