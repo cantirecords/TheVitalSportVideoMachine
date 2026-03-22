@@ -30,6 +30,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48259609/pittsburgh-schools-switch-remote-learning-nfl-draft",
     "https://www.bbc.com/sport/athletics/videos/cx2rl3pnz8yo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/metrika-rapera-satanica-vampirica-fan-128229726?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pronto-sabra-decision-lewandowski-128245191?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -117,6 +118,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Draft daze: Pittsburgh schools go remote for NFL",
     "Ehammer breaks men's heptathlon world record",
     "Metrika, la rapera satánica, vampírica y fan de Lamine Yamal: “Soy igual de sinvergüenza que él”",
     "\"Muy pronto se sabrá la decisión de Lewandowski\"",
@@ -205,16 +207,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774039351117",
-      "resourceType": "image",
-      "uploadedAt": 1774039352613
-    },
-    {
-      "publicId": "tvs_videos/video_1774055588673",
-      "resourceType": "video",
-      "uploadedAt": 1774055590735
-    },
-    {
       "publicId": "tvs_cards/card_1774060699813",
       "resourceType": "image",
       "uploadedAt": 1774060700972
@@ -258,6 +250,11 @@
       "publicId": "tvs_cards/card_1774125403148",
       "resourceType": "image",
       "uploadedAt": 1774125404971
+    },
+    {
+      "publicId": "tvs_videos/video_1774142516533",
+      "resourceType": "video",
+      "uploadedAt": 1774142518061
     }
   ]
 }
