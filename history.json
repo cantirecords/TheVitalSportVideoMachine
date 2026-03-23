@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Yankees",
     "Trade",
     "Dodgers",
@@ -8,44 +9,10 @@
     "Magic",
     "UFC",
     "London",
-    "Jorginho",
-    "Slams",
-    "Bayern",
-    "Wins",
-    "Elche",
-    "Faces",
-    "Tudor",
-    "Clears",
-    "Ehammer",
-    "Breaks",
-    "Lewandowski",
-    "Staying",
-    "Thunder",
-    "Strikes",
-    "Spurs",
-    "Now",
-    "Salah",
-    "Weighs",
-    "McEvoy",
-    "Smashes",
-    "Ronaldo",
-    "Out",
-    "Browns",
-    "Propose",
-    "Seahawks",
-    "Plan",
-    "Madrid",
-    "Ronnie",
-    "O'Sullivan",
-    "Curry",
-    "Luka",
-    "Doncic",
-    "Barcelona",
-    "Faces",
-    "Barça",
-    "Fermín"
+    "Jorginho"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48285317/shohei-ohtani-wbc-jersey-goes-record-15m-auction",
     "https://www.bbc.com/sport/tennis/articles/cg73g9m21n8o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jorbit-vivas-trade-nationals-yankees",
     "https://www.mlb.com/news/hyeseong-kim-optioned-to-dodgers-triple-a-team",
@@ -146,6 +113,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Ohtani jersey from WBC goes for record $1.5M",
     "Alcaraz exits Miami Open after defeat by Korda",
     "Yankees trade Vivas to Nationals for their No. 27 prospect",
     "Dodgers option Kim to Triple-A, clearing way for Freeland",
@@ -247,11 +215,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774182766269",
-      "resourceType": "video",
-      "uploadedAt": 1774182767984
-    },
-    {
       "publicId": "tvs_cards/card_1774184927986",
       "resourceType": "image",
       "uploadedAt": 1774184928998
@@ -285,6 +248,11 @@
       "publicId": "tvs_videos/video_1774249283423",
       "resourceType": "video",
       "uploadedAt": 1774249285583
+    },
+    {
+      "publicId": "tvs_videos/video_1774269950658",
+      "resourceType": "video",
+      "uploadedAt": 1774269952886
     }
   ]
 }
