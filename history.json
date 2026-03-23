@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Make",
     "Messi",
     "Magic",
     "UFC",
@@ -42,6 +44,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/hyeseong-kim-optioned-to-dodgers-triple-a-team",
     "https://www.skysports.com/tennis/news/12040/13523245/miami-open-carlos-alcaraz-stunned-by-sebastian-korda-as-world-no-1-exits-tournament-early-again",
     "https://www.espn.com/soccer/report/_/gameId/761510",
     "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss",
@@ -139,6 +142,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Dodgers option Kim to Triple-A, clearing way for Freeland",
     "Alcaraz stunned by Korda at Miami Open",
     "Messi keys Bronx rally in Miami win over NYCFC",
     "'Heartbreaking' - fighter pay debate laid bare at UFC London",
@@ -237,11 +241,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774142516533",
-      "resourceType": "video",
-      "uploadedAt": 1774142518061
-    },
-    {
       "publicId": "tvs_cards/card_1774148071749",
       "resourceType": "image",
       "uploadedAt": 1774148073086
@@ -285,6 +284,11 @@
       "publicId": "tvs_videos/video_1774228960848",
       "resourceType": "video",
       "uploadedAt": 1774228964557
+    },
+    {
+      "publicId": "tvs_cards/card_1774234499837",
+      "resourceType": "image",
+      "uploadedAt": 1774234500901
     }
   ]
 }
