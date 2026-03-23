@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Aims",
     "Ohtani",
     "Yankees",
     "Trade",
@@ -12,6 +14,7 @@
     "Jorginho"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/hay-fecha-clasico-barca-real-madrid-liga-camp-nou-128283826?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48285317/shohei-ohtani-wbc-jersey-goes-record-15m-auction",
     "https://www.bbc.com/sport/tennis/articles/cg73g9m21n8o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jorbit-vivas-trade-nationals-yankees",
@@ -113,6 +116,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "¡Ya hay fecha para el clásico Barça - Real Madrid que puede decidir LaLiga!",
     "Ohtani jersey from WBC goes for record $1.5M",
     "Alcaraz exits Miami Open after defeat by Korda",
     "Yankees trade Vivas to Nationals for their No. 27 prospect",
@@ -215,11 +219,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774184927986",
-      "resourceType": "image",
-      "uploadedAt": 1774184928998
-    },
-    {
       "publicId": "tvs_cards/card_1774197630748",
       "resourceType": "image",
       "uploadedAt": 1774197631728
@@ -253,6 +252,11 @@
       "publicId": "tvs_videos/video_1774269950658",
       "resourceType": "video",
       "uploadedAt": 1774269952886
+    },
+    {
+      "publicId": "tvs_cards/card_1774272382866",
+      "resourceType": "image",
+      "uploadedAt": 1774272384131
     }
   ]
 }
