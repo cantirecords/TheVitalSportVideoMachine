@@ -46,6 +46,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/tennis/articles/cg73g9m21n8o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jorbit-vivas-trade-nationals-yankees",
     "https://www.mlb.com/news/hyeseong-kim-optioned-to-dodgers-triple-a-team",
     "https://www.skysports.com/tennis/news/12040/13523245/miami-open-carlos-alcaraz-stunned-by-sebastian-korda-as-world-no-1-exits-tournament-early-again",
@@ -145,6 +146,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Alcaraz exits Miami Open after defeat by Korda",
     "Yankees trade Vivas to Nationals for their No. 27 prospect",
     "Dodgers option Kim to Triple-A, clearing way for Freeland",
     "Alcaraz stunned by Korda at Miami Open",
@@ -245,11 +247,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774161702828",
-      "resourceType": "video",
-      "uploadedAt": 1774161704486
-    },
-    {
       "publicId": "tvs_cards/card_1774169127398",
       "resourceType": "image",
       "uploadedAt": 1774169128686
@@ -288,6 +285,11 @@
       "publicId": "tvs_cards/card_1774244642883",
       "resourceType": "image",
       "uploadedAt": 1774244643930
+    },
+    {
+      "publicId": "tvs_videos/video_1774249283423",
+      "resourceType": "video",
+      "uploadedAt": 1774249285583
     }
   ]
 }
