@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Klopp",
+    "Rules",
     "NBA",
     "Deals",
     "Barça",
@@ -16,6 +18,7 @@
     "Jorginho"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/real-madrid/2026/03/23/klopp-vuelve-descartar-madrid-me-hubiesen-llamado-habriamos-enterado.html",
     "https://www.espn.com/mlb/story/_/id/48240870/mlb-2026-offseason-moves-season-preview-tucker-bichette-bregman-alonso-mets-dodgers-red-sox",
     "https://www.espn.com/nba/story/_/id/48241616/nba-2025-2026-best-worst-moves-finals-trades-extensions",
     "https://www.sport.es/es/noticias/barca/hay-fecha-clasico-barca-real-madrid-liga-camp-nou-128283826?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -120,6 +123,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Klopp se vuelve a descartar para el Madrid: \"Si me hubiesen llamado, nos habríamos enterado\"",
     "Are you ready for Opening Day? Here's your guide to the offseason chaos that rocked MLB",
     "Ranking the 10 best and 10 worst NBA transactions since last summer",
     "¡Ya hay fecha para el clásico Barça - Real Madrid que puede decidir LaLiga!",
@@ -225,11 +229,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774211878188",
-      "resourceType": "image",
-      "uploadedAt": 1774211879240
-    },
-    {
       "publicId": "tvs_videos/video_1774228960848",
       "resourceType": "video",
       "uploadedAt": 1774228964557
@@ -268,6 +267,11 @@
       "publicId": "tvs_videos/video_1774291388954",
       "resourceType": "video",
       "uploadedAt": 1774291391348
+    },
+    {
+      "publicId": "tvs_cards/card_1774298817206",
+      "resourceType": "image",
+      "uploadedAt": 1774298818006
     }
   ]
 }
