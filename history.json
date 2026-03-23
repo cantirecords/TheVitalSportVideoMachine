@@ -42,6 +42,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.skysports.com/tennis/news/12040/13523245/miami-open-carlos-alcaraz-stunned-by-sebastian-korda-as-world-no-1-exits-tournament-early-again",
     "https://www.espn.com/soccer/report/_/gameId/761510",
     "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss",
@@ -138,6 +139,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Alcaraz stunned by Korda at Miami Open",
     "Messi keys Bronx rally in Miami win over NYCFC",
     "'Heartbreaking' - fighter pay debate laid bare at UFC London",
     "Jorginho's criticism of Chappell Roan over daughter's tears goes viral",
@@ -278,6 +280,11 @@
       "publicId": "tvs_cards/card_1774211878188",
       "resourceType": "image",
       "uploadedAt": 1774211879240
+    },
+    {
+      "publicId": "tvs_videos/video_1774228960848",
+      "resourceType": "video",
+      "uploadedAt": 1774228964557
     }
   ]
 }
