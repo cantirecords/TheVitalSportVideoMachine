@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Yankees",
+    "Trade",
     "Dodgers",
     "Make",
     "Messi",
@@ -44,6 +46,7 @@
     "Fermín"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/jorbit-vivas-trade-nationals-yankees",
     "https://www.mlb.com/news/hyeseong-kim-optioned-to-dodgers-triple-a-team",
     "https://www.skysports.com/tennis/news/12040/13523245/miami-open-carlos-alcaraz-stunned-by-sebastian-korda-as-world-no-1-exits-tournament-early-again",
     "https://www.espn.com/soccer/report/_/gameId/761510",
@@ -142,6 +145,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Yankees trade Vivas to Nationals for their No. 27 prospect",
     "Dodgers option Kim to Triple-A, clearing way for Freeland",
     "Alcaraz stunned by Korda at Miami Open",
     "Messi keys Bronx rally in Miami win over NYCFC",
@@ -241,16 +245,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774148071749",
-      "resourceType": "image",
-      "uploadedAt": 1774148073086
-    },
-    {
-      "publicId": "tvs_cards/card_1774156943039",
-      "resourceType": "image",
-      "uploadedAt": 1774156944180
-    },
-    {
       "publicId": "tvs_videos/video_1774161702828",
       "resourceType": "video",
       "uploadedAt": 1774161704486
@@ -289,6 +283,11 @@
       "publicId": "tvs_cards/card_1774234499837",
       "resourceType": "image",
       "uploadedAt": 1774234500901
+    },
+    {
+      "publicId": "tvs_cards/card_1774244642883",
+      "resourceType": "image",
+      "uploadedAt": 1774244643930
     }
   ]
 }
