@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Deals",
     "Barça",
     "Aims",
     "Ohtani",
@@ -14,6 +16,7 @@
     "Jorginho"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48241616/nba-2025-2026-best-worst-moves-finals-trades-extensions",
     "https://www.sport.es/es/noticias/barca/hay-fecha-clasico-barca-real-madrid-liga-camp-nou-128283826?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48285317/shohei-ohtani-wbc-jersey-goes-record-15m-auction",
     "https://www.bbc.com/sport/tennis/articles/cg73g9m21n8o?at_medium=RSS&at_campaign=rss",
@@ -116,6 +119,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Ranking the 10 best and 10 worst NBA transactions since last summer",
     "¡Ya hay fecha para el clásico Barça - Real Madrid que puede decidir LaLiga!",
     "Ohtani jersey from WBC goes for record $1.5M",
     "Alcaraz exits Miami Open after defeat by Korda",
@@ -219,11 +223,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774197630748",
-      "resourceType": "image",
-      "uploadedAt": 1774197631728
-    },
-    {
       "publicId": "tvs_cards/card_1774211878188",
       "resourceType": "image",
       "uploadedAt": 1774211879240
@@ -257,6 +256,11 @@
       "publicId": "tvs_cards/card_1774272382866",
       "resourceType": "image",
       "uploadedAt": 1774272384131
+    },
+    {
+      "publicId": "tvs_cards/card_1774285363982",
+      "resourceType": "image",
+      "uploadedAt": 1774285365407
     }
   ]
 }
