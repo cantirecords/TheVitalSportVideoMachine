@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Top",
     "Seeds",
     "Tokyo",
@@ -8,14 +9,10 @@
     "Verstappen",
     "Faces",
     "LeBron",
-    "City",
-    "Beat",
-    "Trent",
-    "Stars",
-    "Klopp",
-    "Rules"
+    "City"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/santiago-bernabeu-quiso-fichar-johan-122697496?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/college-sports/story/_/id/48281513/ncaa-men-hockey-frozen-four-teams-beat-players-watch",
     "https://www.espn.com/nfl/draft2026/story/_/id/48249122/kansei-matsuzawa-tokyo-toe-kicker-nfl-draft-2026-hawaii",
     "https://www.espn.com/nba/story/_/id/48292536/kerr-warriors-play-curry-play-tourney-healthy",
@@ -129,6 +126,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Cuando el presidente del Real Madrid, Santiago Bernabéu, quiso fichar a Johan Cruyff: \"No me gustó su jeta\"",
     "Breaking down the men's hockey tournament: Who will make it to Vegas?",
     "Meet the 'Tokyo Toe' -- the NFL draft's most interesting kicker prospect",
     "Kerr: Will play Curry in play-in tourney if healthy",
@@ -243,11 +241,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774291388954",
-      "resourceType": "video",
-      "uploadedAt": 1774291391348
-    },
-    {
       "publicId": "tvs_cards/card_1774298817206",
       "resourceType": "image",
       "uploadedAt": 1774298818006
@@ -291,6 +284,11 @@
       "publicId": "tvs_cards/card_1774372192654",
       "resourceType": "image",
       "uploadedAt": 1774372194024
+    },
+    {
+      "publicId": "tvs_videos/video_1774378365404",
+      "resourceType": "video",
+      "uploadedAt": 1774378367694
     }
   ]
 }
