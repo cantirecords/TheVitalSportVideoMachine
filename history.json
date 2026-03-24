@@ -18,6 +18,7 @@
     "Jorginho"
   ],
   "postedUrls": [
+    "https://www.espn.com/mens-college-basketball/story/_/id/48288691/dan-hurley-looked-tom-izzo-advice-taking-lakers-job",
     "https://www.marca.com/futbol/real-madrid/2026/03/23/klopp-vuelve-descartar-madrid-me-hubiesen-llamado-habriamos-enterado.html",
     "https://www.espn.com/mlb/story/_/id/48240870/mlb-2026-offseason-moves-season-preview-tucker-bichette-bregman-alonso-mets-dodgers-red-sox",
     "https://www.espn.com/nba/story/_/id/48241616/nba-2025-2026-best-worst-moves-finals-trades-extensions",
@@ -123,6 +124,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Hurley turned to Izzo for advice on Lakers job",
     "Klopp se vuelve a descartar para el Madrid: \"Si me hubiesen llamado, nos habríamos enterado\"",
     "Are you ready for Opening Day? Here's your guide to the offseason chaos that rocked MLB",
     "Ranking the 10 best and 10 worst NBA transactions since last summer",
@@ -272,6 +274,11 @@
       "publicId": "tvs_cards/card_1774298817206",
       "resourceType": "image",
       "uploadedAt": 1774298818006
+    },
+    {
+      "publicId": "tvs_videos/video_1774314944637",
+      "resourceType": "video",
+      "uploadedAt": 1774314946356
     }
   ]
 }
