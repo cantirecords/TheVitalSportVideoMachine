@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "City",
+    "Beat",
     "Trent",
     "Stars",
     "Klopp",
@@ -20,6 +22,7 @@
     "Jorginho"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48285247/carabao-cup-manchester-city-arsenal-reaction-analysis-real-madrid-atletico-madrid-gab-marcotti",
     "https://www.marca.com/futbol/real-madrid/2026/03/23/mensaje-trent-castigo-impuntualidad-madrid.html",
     "https://www.espn.com/mens-college-basketball/story/_/id/48288691/dan-hurley-looked-tom-izzo-advice-taking-lakers-job",
     "https://www.marca.com/futbol/real-madrid/2026/03/23/klopp-vuelve-descartar-madrid-me-hubiesen-llamado-habriamos-enterado.html",
@@ -127,6 +130,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Carabao Cup reality check for Arsenal, Man City. Plus: Madrid's bravery rewarded in derby",
     "El mensaje de Trent tras su castigo por impuntualidad: \"Madrid y nada más\"",
     "Hurley turned to Izzo for advice on Lakers job",
     "Klopp se vuelve a descartar para el Madrid: \"Si me hubiesen llamado, nos habríamos enterado\"",
@@ -235,11 +239,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774234499837",
-      "resourceType": "image",
-      "uploadedAt": 1774234500901
-    },
-    {
       "publicId": "tvs_cards/card_1774244642883",
       "resourceType": "image",
       "uploadedAt": 1774244643930
@@ -283,6 +282,11 @@
       "publicId": "tvs_cards/card_1774320402589",
       "resourceType": "image",
       "uploadedAt": 1774320403813
+    },
+    {
+      "publicId": "tvs_cards/card_1774330016495",
+      "resourceType": "image",
+      "uploadedAt": 1774330018285
     }
   ]
 }
