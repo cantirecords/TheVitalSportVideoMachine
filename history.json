@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Curry",
     "Verstappen",
     "Faces",
     "LeBron",
@@ -8,12 +9,10 @@
     "Trent",
     "Stars",
     "Klopp",
-    "Rules",
-    "NBA",
-    "Deals",
-    "Barça"
+    "Rules"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48292536/kerr-warriors-play-curry-play-tourney-healthy",
     "https://www.bbc.com/sport/formula1/articles/c62k4g1dmz5o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48290484/lebron-james-austin-reaves-viral-meme-origins",
     "https://www.espn.com/soccer/story/_/id/48285247/carabao-cup-manchester-city-arsenal-reaction-analysis-real-madrid-atletico-madrid-gab-marcotti",
@@ -124,6 +123,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Kerr: Will play Curry in play-in tourney if healthy",
     "Has Aston Martin's Newey team principal project failed? F1 Q&A",
     "'Why was Bron even in the game?': LeBron, Austin Reaves on the origins of their viral meme",
     "Carabao Cup reality check for Arsenal, Man City. Plus: Madrid's bravery rewarded in derby",
@@ -235,11 +235,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774269950658",
-      "resourceType": "video",
-      "uploadedAt": 1774269952886
-    },
-    {
       "publicId": "tvs_cards/card_1774272382866",
       "resourceType": "image",
       "uploadedAt": 1774272384131
@@ -283,6 +278,11 @@
       "publicId": "tvs_cards/card_1774342893173",
       "resourceType": "image",
       "uploadedAt": 1774342896784
+    },
+    {
+      "publicId": "tvs_videos/video_1774356703439",
+      "resourceType": "video",
+      "uploadedAt": 1774356705196
     }
   ]
 }
