@@ -14,6 +14,7 @@
     "City"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/espn/betting/story/_/id/48297871/nfl-sportsbooks-defendants-gambling-addiction-lawsuit",
     "https://www.sport.es/es/noticias/barca/santiago-bernabeu-quiso-fichar-johan-122697496?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/college-sports/story/_/id/48281513/ncaa-men-hockey-frozen-four-teams-beat-players-watch",
@@ -129,6 +130,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "'It wasn't meant to end like this' - Salah exit tough but inevitable",
     "Gambling addiction suit targets NFL, sportsbooks",
     "Cuando el presidente del Real Madrid, Santiago Bernabéu, quiso fichar a Johan Cruyff: \"No me gustó su jeta\"",
     "Breaking down the men's hockey tournament: Who will make it to Vegas?",
@@ -245,11 +247,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774314944637",
-      "resourceType": "video",
-      "uploadedAt": 1774314946356
-    },
-    {
       "publicId": "tvs_cards/card_1774320402589",
       "resourceType": "image",
       "uploadedAt": 1774320403813
@@ -293,6 +290,11 @@
       "publicId": "tvs_cards/card_1774385529823",
       "resourceType": "image",
       "uploadedAt": 1774385531836
+    },
+    {
+      "publicId": "tvs_videos/video_1774401641646",
+      "resourceType": "video",
+      "uploadedAt": 1774401643684
     }
   ]
 }
