@@ -18,6 +18,7 @@
     "Seeds"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-abs-challenge-storylines-to-watch-on-opening-night-2026",
     "https://www.espn.com/wnba/story/_/id/48271630/wnba-cba-collective-bargaining-agreement-salary-supermax-rookie-wages-contracts",
     "https://www.bbc.com/sport/tennis/articles/c5yxv74z2pro?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/football/news/12040/13524202/mohamed-salah-is-liverpool-star-the-premier-leagues-greatest-forward",
@@ -141,6 +142,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "The 10 biggest storylines for MLB's first game with ball-strike challenges",
     "How the new WNBA CBA will impact every player's salary in 2026",
     "Sinner extends record run with Miami win",
     "Is Salah the Premier League's greatest forward?",
@@ -313,6 +315,11 @@
       "publicId": "tvs_cards/card_1774458812832",
       "resourceType": "image",
       "uploadedAt": 1774458813916
+    },
+    {
+      "publicId": "tvs_videos/video_1774464363400",
+      "resourceType": "video",
+      "uploadedAt": 1774464365739
     }
   ]
 }
