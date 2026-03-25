@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Max",
+    "Salary",
     "Sinner",
     "Reaches",
     "Oliveros",
@@ -16,6 +18,7 @@
     "Seeds"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/48271630/wnba-cba-collective-bargaining-agreement-salary-supermax-rookie-wages-contracts",
     "https://www.bbc.com/sport/tennis/articles/c5yxv74z2pro?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/football/news/12040/13524202/mohamed-salah-is-liverpool-star-the-premier-leagues-greatest-forward",
     "https://www.sport.es/es/noticias/barca/alba-oliveros-desvela-anecdota-lamine-128382317?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -138,6 +141,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "How the new WNBA CBA will impact every player's salary in 2026",
     "Sinner extends record run with Miami win",
     "Is Salah the Premier League's greatest forward?",
     "Alba Oliveros desvela su anécdota con Lamine Yamal: \"Fue maravilloso\"",
@@ -261,16 +265,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774359719119",
-      "resourceType": "image",
-      "uploadedAt": 1774359720433
-    },
-    {
-      "publicId": "tvs_cards/card_1774372192654",
-      "resourceType": "image",
-      "uploadedAt": 1774372194024
-    },
-    {
       "publicId": "tvs_videos/video_1774378365404",
       "resourceType": "video",
       "uploadedAt": 1774378367694
@@ -314,6 +308,11 @@
       "publicId": "tvs_cards/card_1774446077761",
       "resourceType": "image",
       "uploadedAt": 1774446079099
+    },
+    {
+      "publicId": "tvs_cards/card_1774458812832",
+      "resourceType": "image",
+      "uploadedAt": 1774458813916
     }
   ]
 }
