@@ -14,6 +14,7 @@
     "Seeds"
   ],
   "postedUrls": [
+    "https://www.skysports.com/football/news/12040/13524202/mohamed-salah-is-liverpool-star-the-premier-leagues-greatest-forward",
     "https://www.sport.es/es/noticias/barca/alba-oliveros-desvela-anecdota-lamine-128382317?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/jong-prefirio-barca-manchester-united-128347519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/shohei-ohtani-strikes-out-11-against-angels",
@@ -134,6 +135,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Is Salah the Premier League's greatest forward?",
     "Alba Oliveros desvela su anécdota con Lamine Yamal: \"Fue maravilloso\"",
     "¿Por qué De Jong prefirió el Barça al Manchester United en 2022?",
     "'He's ready to go': Ohtani K's 11 in electric Spring Training finale",
@@ -255,11 +257,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774342893173",
-      "resourceType": "image",
-      "uploadedAt": 1774342896784
-    },
-    {
       "publicId": "tvs_videos/video_1774356703439",
       "resourceType": "video",
       "uploadedAt": 1774356705196
@@ -308,6 +305,11 @@
       "publicId": "tvs_cards/card_1774429275187",
       "resourceType": "image",
       "uploadedAt": 1774429277104
+    },
+    {
+      "publicId": "tvs_videos/video_1774442844594",
+      "resourceType": "video",
+      "uploadedAt": 1774442847195
     }
   ]
 }
