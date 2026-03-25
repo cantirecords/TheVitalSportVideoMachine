@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Oliveros",
+    "Meets",
     "Barça",
     "Ohtani",
     "Unleashes",
@@ -12,6 +14,7 @@
     "Seeds"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/alba-oliveros-desvela-anecdota-lamine-128382317?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/jong-prefirio-barca-manchester-united-128347519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/shohei-ohtani-strikes-out-11-against-angels",
     "https://www.sport.es/es/noticias/barca/tremendo-enfado-lamine-yamal-sustituido-128338939?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -131,6 +134,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Alba Oliveros desvela su anécdota con Lamine Yamal: \"Fue maravilloso\"",
     "¿Por qué De Jong prefirió el Barça al Manchester United en 2022?",
     "'He's ready to go': Ohtani K's 11 in electric Spring Training finale",
     "El tremendo enfado de Lamine Yamal: \"Siempre a mí, es de locos\"",
@@ -251,11 +255,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774335350862",
-      "resourceType": "video",
-      "uploadedAt": 1774335353420
-    },
-    {
       "publicId": "tvs_cards/card_1774342893173",
       "resourceType": "image",
       "uploadedAt": 1774342896784
@@ -304,6 +303,11 @@
       "publicId": "tvs_videos/video_1774421692449",
       "resourceType": "video",
       "uploadedAt": 1774421693843
+    },
+    {
+      "publicId": "tvs_cards/card_1774429275187",
+      "resourceType": "image",
+      "uploadedAt": 1774429277104
     }
   ]
 }
