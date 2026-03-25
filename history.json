@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ohtani",
+    "Unleashes",
     "Barcelona",
     "Wins",
     "NFL",
@@ -16,6 +18,7 @@
     "City"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-strikes-out-11-against-angels",
     "https://www.sport.es/es/noticias/barca/tremendo-enfado-lamine-yamal-sustituido-128338939?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/espn/betting/story/_/id/48297871/nfl-sportsbooks-defendants-gambling-addiction-lawsuit",
@@ -133,6 +136,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "'He's ready to go': Ohtani K's 11 in electric Spring Training finale",
     "El tremendo enfado de Lamine Yamal: \"Siempre a mí, es de locos\"",
     "'It wasn't meant to end like this' - Salah exit tough but inevitable",
     "Gambling addiction suit targets NFL, sportsbooks",
@@ -299,6 +303,11 @@
       "publicId": "tvs_cards/card_1774407089507",
       "resourceType": "image",
       "uploadedAt": 1774407091138
+    },
+    {
+      "publicId": "tvs_cards/card_1774416419635",
+      "resourceType": "image",
+      "uploadedAt": 1774416420946
     }
   ]
 }
