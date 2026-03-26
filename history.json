@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Waits",
     "LeBron",
     "NBA",
     "Draft",
@@ -12,6 +14,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/fc-barcelona-mantiene-jan-virgili-128431849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48304843/j-cole-fall-lebron-james-los-angeles-lakers",
     "https://www.espn.com/nba/story/_/id/48306789/nba-adam-silver-says-changes-draft-system-coming",
     "https://www.mlb.com/news/opening-day-2026-mlb-tv-espn-faq",
@@ -143,6 +146,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "El FC Barcelona mantiene a Jan Virgili en 'stand by'",
     "J. Cole breaks down why LeBron James was carrying his latest 'The Fall-Off' vinyl",
     "Silver: NBA ready to combat tanking 'full stop'",
     "ESPN is the new home of MLB.TV. Learn more",
@@ -275,11 +279,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774446077761",
-      "resourceType": "image",
-      "uploadedAt": 1774446079099
-    },
-    {
       "publicId": "tvs_cards/card_1774458812832",
       "resourceType": "image",
       "uploadedAt": 1774458813916
@@ -323,6 +322,11 @@
       "publicId": "tvs_videos/video_1774529741034",
       "resourceType": "video",
       "uploadedAt": 1774529744154
+    },
+    {
+      "publicId": "tvs_cards/card_1774532800618",
+      "resourceType": "image",
+      "uploadedAt": 1774532801894
     }
   ]
 }
