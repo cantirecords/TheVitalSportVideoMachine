@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "LeBron",
     "NBA",
     "Draft",
     "Murray",
@@ -8,16 +9,10 @@
     "Surge",
     "Ronaldo",
     "Bucks",
-    "Giannis",
-    "Max",
-    "Salary",
-    "Sinner",
-    "Reaches",
-    "Oliveros",
-    "Meets",
-    "Barça"
+    "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48304843/j-cole-fall-lebron-james-los-angeles-lakers",
     "https://www.espn.com/nba/story/_/id/48306789/nba-adam-silver-says-changes-draft-system-coming",
     "https://www.mlb.com/news/opening-day-2026-mlb-tv-espn-faq",
     "https://www.espn.com/nba/story/_/id/48309525/murray-scores-53-jokic-nearly-20-20-20-game-nuggets-win",
@@ -148,6 +143,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "J. Cole breaks down why LeBron James was carrying his latest 'The Fall-Off' vinyl",
     "Silver: NBA ready to combat tanking 'full stop'",
     "ESPN is the new home of MLB.TV. Learn more",
     "Murray drops 53, Jokic nearly has 20-20-20 game",
@@ -279,11 +275,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774442844594",
-      "resourceType": "video",
-      "uploadedAt": 1774442847195
-    },
-    {
       "publicId": "tvs_cards/card_1774446077761",
       "resourceType": "image",
       "uploadedAt": 1774446079099
@@ -327,6 +318,11 @@
       "publicId": "tvs_cards/card_1774516099112",
       "resourceType": "image",
       "uploadedAt": 1774516100666
+    },
+    {
+      "publicId": "tvs_videos/video_1774529741034",
+      "resourceType": "video",
+      "uploadedAt": 1774529744154
     }
   ]
 }
