@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Draft",
     "Murray",
     "Drops",
     "Lakers",
@@ -16,6 +18,7 @@
     "Barça"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48306789/nba-adam-silver-says-changes-draft-system-coming",
     "https://www.mlb.com/news/opening-day-2026-mlb-tv-espn-faq",
     "https://www.espn.com/nba/story/_/id/48309525/murray-scores-53-jokic-nearly-20-20-20-game-nuggets-win",
     "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
@@ -145,6 +148,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Silver: NBA ready to combat tanking 'full stop'",
     "ESPN is the new home of MLB.TV. Learn more",
     "Murray drops 53, Jokic nearly has 20-20-20 game",
     "NBA Futures: Lakers, Spurs title odds shorten; Nuggets, Pistons, Rockets odds get longer",
@@ -275,11 +279,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774429275187",
-      "resourceType": "image",
-      "uploadedAt": 1774429277104
-    },
-    {
       "publicId": "tvs_videos/video_1774442844594",
       "resourceType": "video",
       "uploadedAt": 1774442847195
@@ -323,6 +322,11 @@
       "publicId": "tvs_videos/video_1774508407656",
       "resourceType": "video",
       "uploadedAt": 1774508409450
+    },
+    {
+      "publicId": "tvs_cards/card_1774516099112",
+      "resourceType": "image",
+      "uploadedAt": 1774516100666
     }
   ]
 }
