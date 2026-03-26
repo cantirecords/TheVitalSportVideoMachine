@@ -16,6 +16,7 @@
     "Barça"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/opening-day-2026-mlb-tv-espn-faq",
     "https://www.espn.com/nba/story/_/id/48309525/murray-scores-53-jokic-nearly-20-20-20-game-nuggets-win",
     "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
     "https://www.espn.com/soccer/story/_/id/48303011/liverpool-mohamed-salah-beats-manchester-united-cristiano-ronaldo-arsenal-thierry-henry-premier-league-greatest-ever",
@@ -144,6 +145,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "ESPN is the new home of MLB.TV. Learn more",
     "Murray drops 53, Jokic nearly has 20-20-20 game",
     "NBA Futures: Lakers, Spurs title odds shorten; Nuggets, Pistons, Rockets odds get longer",
     "Forget Ronaldo, Rooney or Henry: Salah is the Premier League's greatest-ever player",
@@ -273,11 +275,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774421692449",
-      "resourceType": "video",
-      "uploadedAt": 1774421693843
-    },
-    {
       "publicId": "tvs_cards/card_1774429275187",
       "resourceType": "image",
       "uploadedAt": 1774429277104
@@ -321,6 +318,11 @@
       "publicId": "tvs_cards/card_1774503910851",
       "resourceType": "image",
       "uploadedAt": 1774503912234
+    },
+    {
+      "publicId": "tvs_videos/video_1774508407656",
+      "resourceType": "video",
+      "uploadedAt": 1774508409450
     }
   ]
 }
