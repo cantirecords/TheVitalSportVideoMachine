@@ -16,6 +16,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48259765/2026-nfl-free-agency-class-rankings-teams-improved-better-worse-32-signings-deals",
     "https://www.espn.com/soccer/story/_/id/48310475/kylian-mbappe-world-cup-neymar-injury-brazil-squad-carlo-ancelotti",
     "https://www.sport.es/es/noticias/barca/fc-barcelona-mantiene-jan-virgili-128431849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48304843/j-cole-fall-lebron-james-los-angeles-lakers",
@@ -149,6 +150,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Ranking all 32 NFL free agency classes: Which teams most improved their rosters?",
     "Mbappé: 'Can't imagine' World Cup without Neymar",
     "El FC Barcelona mantiene a Jan Virgili en 'stand by'",
     "J. Cole breaks down why LeBron James was carrying his latest 'The Fall-Off' vinyl",
@@ -283,16 +285,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774458812832",
-      "resourceType": "image",
-      "uploadedAt": 1774458813916
-    },
-    {
-      "publicId": "tvs_videos/video_1774464363400",
-      "resourceType": "video",
-      "uploadedAt": 1774464365739
-    },
-    {
       "publicId": "tvs_cards/card_1774471849147",
       "resourceType": "image",
       "uploadedAt": 1774471850797
@@ -336,6 +328,11 @@
       "publicId": "tvs_cards/card_1774545216773",
       "resourceType": "image",
       "uploadedAt": 1774545218121
+    },
+    {
+      "publicId": "tvs_videos/video_1774551356448",
+      "resourceType": "video",
+      "uploadedAt": 1774551359367
     }
   ]
 }
