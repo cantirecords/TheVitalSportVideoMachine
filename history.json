@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Most",
+    "Unique",
     "Real",
     "Madrid",
     "Barça",
@@ -22,6 +24,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48307128/mlb-opening-day-2026-most-interesting-giveaways",
     "https://www.espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
     "https://www.espn.com/soccer/story/_/id/48304840/how-alvaro-arbeloa-won-doubters-given-real-madrid-hope-vinicius-junior-kylian-mbappe-jude-bellingham",
     "https://www.mlb.com/news/kevin-mcgonigle-hits-two-run-double-on-first-pitch-of-mlb-career",
@@ -162,6 +165,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Each MLB team's most interesting giveaway this season",
     "An early look at 2027 NFL free agency: Which playmakers could be available next March?",
     "Arbeloa has won over Real Madrid doubters. Can he lead them to a trophy?",
     "'We're in for a fun year': McGonigle makes Tigers history with 4-hit MLB debut",
@@ -303,11 +307,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774529741034",
-      "resourceType": "video",
-      "uploadedAt": 1774529744154
-    },
-    {
       "publicId": "tvs_cards/card_1774532800618",
       "resourceType": "image",
       "uploadedAt": 1774532801894
@@ -351,6 +350,11 @@
       "publicId": "tvs_videos/video_1774615451401",
       "resourceType": "video",
       "uploadedAt": 1774615453325
+    },
+    {
+      "publicId": "tvs_cards/card_1774617830268",
+      "resourceType": "image",
+      "uploadedAt": 1774617832471
     }
   ]
 }
