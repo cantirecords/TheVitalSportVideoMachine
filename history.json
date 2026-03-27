@@ -20,6 +20,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/kevin-mcgonigle-hits-two-run-double-on-first-pitch-of-mlb-career",
     "https://www.sport.es/es/noticias/barca/kochen-yaakobishvili-astralaga-szczesny-inaki-128387659?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c3931xlwxjro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/cjw84vw0enqo?at_medium=RSS&at_campaign=rss",
@@ -157,6 +158,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "'We're in for a fun year': McGonigle makes Tigers history with 4-hit MLB debut",
     "Kochen, Yaakobishvili, Astralaga, Szczesny, Iñaki...las decisiones que vienen en la portería del Barça",
     "Salah one of the all-time greats - Klopp",
     "30-0 - Sinner extends stunning run of sets to reach Miami semis",
@@ -338,6 +340,11 @@
       "publicId": "tvs_cards/card_1774590359747",
       "resourceType": "image",
       "uploadedAt": 1774590360968
+    },
+    {
+      "publicId": "tvs_videos/video_1774594807968",
+      "resourceType": "video",
+      "uploadedAt": 1774594809508
     }
   ]
 }
