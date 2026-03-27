@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Real",
+    "Madrid",
     "Barça",
     "Goalkeeper",
     "Salah",
@@ -20,6 +22,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48304840/how-alvaro-arbeloa-won-doubters-given-real-madrid-hope-vinicius-junior-kylian-mbappe-jude-bellingham",
     "https://www.mlb.com/news/kevin-mcgonigle-hits-two-run-double-on-first-pitch-of-mlb-career",
     "https://www.sport.es/es/noticias/barca/kochen-yaakobishvili-astralaga-szczesny-inaki-128387659?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c3931xlwxjro?at_medium=RSS&at_campaign=rss",
@@ -158,6 +161,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Arbeloa has won over Real Madrid doubters. Can he lead them to a trophy?",
     "'We're in for a fun year': McGonigle makes Tigers history with 4-hit MLB debut",
     "Kochen, Yaakobishvili, Astralaga, Szczesny, Iñaki...las decisiones que vienen en la portería del Barça",
     "Salah one of the all-time greats - Klopp",
@@ -297,11 +301,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774508407656",
-      "resourceType": "video",
-      "uploadedAt": 1774508409450
-    },
-    {
       "publicId": "tvs_cards/card_1774516099112",
       "resourceType": "image",
       "uploadedAt": 1774516100666
@@ -345,6 +344,11 @@
       "publicId": "tvs_videos/video_1774594807968",
       "resourceType": "video",
       "uploadedAt": 1774594809508
+    },
+    {
+      "publicId": "tvs_cards/card_1774602216540",
+      "resourceType": "image",
+      "uploadedAt": 1774602217601
     }
   ]
 }
