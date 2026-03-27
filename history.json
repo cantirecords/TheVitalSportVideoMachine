@@ -22,6 +22,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
     "https://www.espn.com/soccer/story/_/id/48304840/how-alvaro-arbeloa-won-doubters-given-real-madrid-hope-vinicius-junior-kylian-mbappe-jude-bellingham",
     "https://www.mlb.com/news/kevin-mcgonigle-hits-two-run-double-on-first-pitch-of-mlb-career",
     "https://www.sport.es/es/noticias/barca/kochen-yaakobishvili-astralaga-szczesny-inaki-128387659?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -161,6 +162,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "An early look at 2027 NFL free agency: Which playmakers could be available next March?",
     "Arbeloa has won over Real Madrid doubters. Can he lead them to a trophy?",
     "'We're in for a fun year': McGonigle makes Tigers history with 4-hit MLB debut",
     "Kochen, Yaakobishvili, Astralaga, Szczesny, Iñaki...las decisiones que vienen en la portería del Barça",
@@ -301,11 +303,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774516099112",
-      "resourceType": "image",
-      "uploadedAt": 1774516100666
-    },
-    {
       "publicId": "tvs_videos/video_1774529741034",
       "resourceType": "video",
       "uploadedAt": 1774529744154
@@ -349,6 +346,11 @@
       "publicId": "tvs_cards/card_1774602216540",
       "resourceType": "image",
       "uploadedAt": 1774602217601
+    },
+    {
+      "publicId": "tvs_videos/video_1774615451401",
+      "resourceType": "video",
+      "uploadedAt": 1774615453325
     }
   ]
 }
