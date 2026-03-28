@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "Barça",
     "Loses",
     "Salah",
@@ -8,14 +9,10 @@
     "Lamine",
     "Yamal",
     "Tiger",
-    "Woods",
-    "Murakami",
-    "Hits",
-    "Messi",
-    "World",
-    "Barca's"
+    "Woods"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring",
     "https://www.sport.es/es/noticias/barca/pena-pase-momento-vestuario-barca-128514285?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48328543/transfer-rumors-news-salah-eyes-roma-liverpool-exit",
     "https://www.bbc.com/sport/formula1/articles/cn78vxm44k1o?at_medium=RSS&at_campaign=rss",
@@ -168,6 +165,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Raphinha ruled out 5 weeks in blow to Barcelona",
     "\"Es una pena que pase en este momento\": el vestuario del Barça lamenta la lesión de Raphinha",
     "Transfer rumors, news: Salah eyes Roma after Liverpool exit",
     "'A lot of stuff to figure out' for Verstappen - and F1's rule-makers",
@@ -321,11 +319,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774630955097",
-      "resourceType": "image",
-      "uploadedAt": 1774630956819
-    },
-    {
       "publicId": "tvs_videos/video_1774637170581",
       "resourceType": "video",
       "uploadedAt": 1774637173184
@@ -374,6 +367,11 @@
       "publicId": "tvs_cards/card_1774716278344",
       "resourceType": "image",
       "uploadedAt": 1774716279259
+    },
+    {
+      "publicId": "tvs_videos/video_1774722606551",
+      "resourceType": "video",
+      "uploadedAt": 1774722608605
     }
   ]
 }
