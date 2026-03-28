@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Favorites",
     "Barcelona",
     "Barça",
     "Loses",
@@ -12,6 +14,7 @@
     "Woods"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48288779/mlb-2026-world-series-contender-tiers-dodgers-mets-phillies-braves-yankees-mariners",
     "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring",
     "https://www.sport.es/es/noticias/barca/pena-pase-momento-vestuario-barca-128514285?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48328543/transfer-rumors-news-salah-eyes-roma-liverpool-exit",
@@ -165,6 +168,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "World Series contender tiers: How far away from winning it all is your favorite MLB team?",
     "Raphinha ruled out 5 weeks in blow to Barcelona",
     "\"Es una pena que pase en este momento\": el vestuario del Barça lamenta la lesión de Raphinha",
     "Transfer rumors, news: Salah eyes Roma after Liverpool exit",
@@ -319,11 +323,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774637170581",
-      "resourceType": "video",
-      "uploadedAt": 1774637173184
-    },
-    {
       "publicId": "tvs_cards/card_1774644620864",
       "resourceType": "image",
       "uploadedAt": 1774644622146
@@ -372,6 +371,11 @@
       "publicId": "tvs_videos/video_1774722606551",
       "resourceType": "video",
       "uploadedAt": 1774722608605
+    },
+    {
+      "publicId": "tvs_cards/card_1774730475395",
+      "resourceType": "image",
+      "uploadedAt": 1774730476688
     }
   ]
 }
