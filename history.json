@@ -32,6 +32,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
     "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/munetaka-murakami-home-run-saves-him-from-shohei-ohtani-haircut",
     "https://www.mlb.com/news/an-oral-history-of-andrew-painter-s-journey-to-the-major-leagues",
@@ -179,6 +180,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Brady on comeback: NFL didn't 'like that idea'",
     "Woods mugshot released after driving under influence charges laid",
     "Murakami's home run saves new White Sox slugger from getting Ohtani's 1980s 'techno-cut' hairstyle",
     "Portrait of a prospect: Painter's MLB path from the beginning",
@@ -327,11 +329,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774590359747",
-      "resourceType": "image",
-      "uploadedAt": 1774590360968
-    },
-    {
       "publicId": "tvs_videos/video_1774594807968",
       "resourceType": "video",
       "uploadedAt": 1774594809508
@@ -380,6 +377,11 @@
       "publicId": "tvs_cards/card_1774675497860",
       "resourceType": "image",
       "uploadedAt": 1774675499270
+    },
+    {
+      "publicId": "tvs_videos/video_1774680546702",
+      "resourceType": "video",
+      "uploadedAt": 1774680548345
     }
   ]
 }
