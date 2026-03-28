@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Loses",
     "Salah",
     "Eyes",
     "Verstappen",
@@ -14,6 +16,7 @@
     "Barca's"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/pena-pase-momento-vestuario-barca-128514285?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48328543/transfer-rumors-news-salah-eyes-roma-liverpool-exit",
     "https://www.bbc.com/sport/formula1/articles/cn78vxm44k1o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/doble-brasileno-lamine-yamal-causa-sensacion-barcelona-rikelme-128496588?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -165,6 +168,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "\"Es una pena que pase en este momento\": el vestuario del Barça lamenta la lesión de Raphinha",
     "Transfer rumors, news: Salah eyes Roma after Liverpool exit",
     "'A lot of stuff to figure out' for Verstappen - and F1's rule-makers",
     "El doble brasileño de Lamine Yamal que causa sensación",
@@ -317,11 +321,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774617830268",
-      "resourceType": "image",
-      "uploadedAt": 1774617832471
-    },
-    {
       "publicId": "tvs_cards/card_1774630955097",
       "resourceType": "image",
       "uploadedAt": 1774630956819
@@ -370,6 +369,11 @@
       "publicId": "tvs_cards/card_1774703523630",
       "resourceType": "image",
       "uploadedAt": 1774703524921
+    },
+    {
+      "publicId": "tvs_cards/card_1774716278344",
+      "resourceType": "image",
+      "uploadedAt": 1774716279259
     }
   ]
 }
