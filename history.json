@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Record",
+    "Crowd",
     "Dodgers",
     "Favorites",
     "Barcelona",
@@ -14,6 +16,7 @@
     "Woods"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48332058/denver-summit-nwsl-record-attendance-crowd-washington-spirit-jeff-kassouf",
     "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
     "https://www.espn.com/mlb/story/_/id/48288779/mlb-2026-world-series-contender-tiers-dodgers-mets-phillies-braves-yankees-mariners",
     "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring",
@@ -169,6 +172,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Denver Summit's record NWSL crowd sets new standard for what's possible",
     "NBA playoff watch: 76ers, Hornets clash in key seeding matchup",
     "World Series contender tiers: How far away from winning it all is your favorite MLB team?",
     "Raphinha ruled out 5 weeks in blow to Barcelona",
@@ -325,11 +329,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774666223389",
-      "resourceType": "image",
-      "uploadedAt": 1774666224273
-    },
-    {
       "publicId": "tvs_cards/card_1774675497860",
       "resourceType": "image",
       "uploadedAt": 1774675499270
@@ -373,6 +372,11 @@
       "publicId": "tvs_videos/video_1774747777542",
       "resourceType": "video",
       "uploadedAt": 1774747779394
+    },
+    {
+      "publicId": "tvs_cards/card_1774754637354",
+      "resourceType": "image",
+      "uploadedAt": 1774754638691
     }
   ]
 }
