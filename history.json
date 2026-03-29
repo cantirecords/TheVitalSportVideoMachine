@@ -18,6 +18,7 @@
     "Woods"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/tennis/articles/cql7y5x6kq6o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48305662/2026-nfl-draft-tannenbaum-board-prospects-targets-seven-rounds-gm",
     "https://www.espn.com/soccer/story/_/id/48332058/denver-summit-nwsl-record-attendance-crowd-washington-spirit-jeff-kassouf",
     "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
@@ -175,6 +176,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Sinner beats Zverev again to reach Miami final",
     "A former NFL GM's must-draft board for 2026: Tannenbaum pounds the table for 14 prospects",
     "Denver Summit's record NWSL crowd sets new standard for what's possible",
     "NBA playoff watch: 76ers, Hornets clash in key seeding matchup",
@@ -333,11 +335,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774680546702",
-      "resourceType": "video",
-      "uploadedAt": 1774680548345
-    },
-    {
       "publicId": "tvs_cards/card_1774687912897",
       "resourceType": "image",
       "uploadedAt": 1774687913840
@@ -381,6 +378,11 @@
       "publicId": "tvs_cards/card_1774763242032",
       "resourceType": "image",
       "uploadedAt": 1774763242896
+    },
+    {
+      "publicId": "tvs_videos/video_1774767380505",
+      "resourceType": "video",
+      "uploadedAt": 1774767382801
     }
   ]
 }
