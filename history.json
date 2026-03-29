@@ -20,6 +20,7 @@
     "Woods"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48333457/lakers-luka-doncic-hit-1-game-suspension-16th-tech",
     "https://www.espn.com/nba/story/_/id/48330204/lebron-bronny-james-los-angeles-lakers-history-father-son-assist",
     "https://www.bbc.com/sport/tennis/articles/cql7y5x6kq6o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48305662/2026-nfl-draft-tannenbaum-board-prospects-targets-seven-rounds-gm",
@@ -179,6 +180,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Doncic hit with 1-game suspension for 16th tech",
     "📸 LeBron to Bronny: Father-son assist makes history",
     "Sinner beats Zverev again to reach Miami final",
     "A former NFL GM's must-draft board for 2026: Tannenbaum pounds the table for 14 prospects",
@@ -387,6 +389,11 @@
       "publicId": "tvs_cards/card_1774774375046",
       "resourceType": "image",
       "uploadedAt": 1774774376339
+    },
+    {
+      "publicId": "tvs_videos/video_1774787807660",
+      "resourceType": "video",
+      "uploadedAt": 1774787809353
     }
   ]
 }
