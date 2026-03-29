@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Kane",
+    "Leaves",
     "Curry",
     "First",
     "British",
@@ -12,6 +14,7 @@
     "Record"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/cwykg07e994o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48325147/warriors-stephen-curry-2-more-games-due-lingering-knee-issue",
     "https://www.bbc.com/sport/articles/crm1jv3rvllo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/munetaka-murakami-homers-in-second-straight-game-to-start-mlb-career",
@@ -175,6 +178,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Bayern wary of Saudi interest in Kane - Monday's gossip",
     "Sources: Curry (knee) ruled out another 2 games",
     "Britain's Muir wins historic World Cup ski titles",
     "Murakami's historic HR streak a bright spot in messy affair for White Sox",
@@ -339,16 +343,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774722606551",
-      "resourceType": "video",
-      "uploadedAt": 1774722608605
-    },
-    {
-      "publicId": "tvs_cards/card_1774730475395",
-      "resourceType": "image",
-      "uploadedAt": 1774730476688
-    },
-    {
       "publicId": "tvs_videos/video_1774747777542",
       "resourceType": "video",
       "uploadedAt": 1774747779394
@@ -392,6 +386,11 @@
       "publicId": "tvs_videos/video_1774809063288",
       "resourceType": "video",
       "uploadedAt": 1774809064919
+    },
+    {
+      "publicId": "tvs_cards/card_1774816940956",
+      "resourceType": "image",
+      "uploadedAt": 1774816941766
     }
   ]
 }
