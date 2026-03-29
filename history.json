@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "First",
+    "British",
     "Second",
     "Player",
     "LeBron",
@@ -22,6 +24,7 @@
     "Woods"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/articles/crm1jv3rvllo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/munetaka-murakami-homers-in-second-straight-game-to-start-mlb-career",
     "https://www.espn.com/nba/story/_/id/48333457/lakers-luka-doncic-hit-1-game-suspension-16th-tech",
     "https://www.espn.com/nba/story/_/id/48330204/lebron-bronny-james-los-angeles-lakers-history-father-son-assist",
@@ -183,6 +186,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Britain's Muir wins historic World Cup ski titles",
     "Murakami's historic HR streak a bright spot in messy affair for White Sox",
     "Doncic hit with 1-game suspension for 16th tech",
     "📸 LeBron to Bronny: Father-son assist makes history",
@@ -345,11 +349,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774716278344",
-      "resourceType": "image",
-      "uploadedAt": 1774716279259
-    },
-    {
       "publicId": "tvs_videos/video_1774722606551",
       "resourceType": "video",
       "uploadedAt": 1774722608605
@@ -393,6 +392,11 @@
       "publicId": "tvs_cards/card_1774789985514",
       "resourceType": "image",
       "uploadedAt": 1774789986980
+    },
+    {
+      "publicId": "tvs_cards/card_1774802722735",
+      "resourceType": "image",
+      "uploadedAt": 1774802724006
     }
   ]
 }
