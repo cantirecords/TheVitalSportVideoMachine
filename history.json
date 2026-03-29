@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "LeBron",
+    "And",
     "NFL",
     "Draft",
     "Record",
@@ -18,6 +20,7 @@
     "Woods"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48330204/lebron-bronny-james-los-angeles-lakers-history-father-son-assist",
     "https://www.bbc.com/sport/tennis/articles/cql7y5x6kq6o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48305662/2026-nfl-draft-tannenbaum-board-prospects-targets-seven-rounds-gm",
     "https://www.espn.com/soccer/story/_/id/48332058/denver-summit-nwsl-record-attendance-crowd-washington-spirit-jeff-kassouf",
@@ -176,6 +179,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "📸 LeBron to Bronny: Father-son assist makes history",
     "Sinner beats Zverev again to reach Miami final",
     "A former NFL GM's must-draft board for 2026: Tannenbaum pounds the table for 14 prospects",
     "Denver Summit's record NWSL crowd sets new standard for what's possible",
@@ -335,11 +339,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774687912897",
-      "resourceType": "image",
-      "uploadedAt": 1774687913840
-    },
-    {
       "publicId": "tvs_videos/video_1774701372150",
       "resourceType": "video",
       "uploadedAt": 1774701374116
@@ -383,6 +382,11 @@
       "publicId": "tvs_videos/video_1774767380505",
       "resourceType": "video",
       "uploadedAt": 1774767382801
+    },
+    {
+      "publicId": "tvs_cards/card_1774774375046",
+      "resourceType": "image",
+      "uploadedAt": 1774774376339
     }
   ]
 }
