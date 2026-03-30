@@ -1,23 +1,18 @@
 {
   "recentKeywords": [
+    "Madrid",
     "NBA",
     "Draft",
     "NFL",
-    "Draft",
     "Lewandowski",
     "Back",
     "Barça",
     "Barca",
     "Boss",
-    "Bastoni",
-    "Transfer",
-    "Kane",
-    "Leaves",
-    "Curry",
-    "First",
-    "British"
+    "Bastoni"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/valencia/2026/03/30/hugo-duro-envidia-gonzalo-gracias-madrid-me-quiso-valencia.html",
     "https://www.espn.com/nba/story/_/id/48326062/nba-draft-big-questions-10-lottery-teams-bucks-giannis-grizzlies-morant",
     "https://www.espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller",
     "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
@@ -190,6 +185,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Hugo Duro: \"¿Envidia de Gonzalo?, gracias a que el Madrid no me quiso estoy en el Valencia\"",
     "Future of Giannis and Ja, and the big questions facing every NBA lottery team",
     "Miller's seven-round NFL mock draft: Let's project landing spots for 257 prospects",
     "Updated NBA rookie rankings: Why the ROY race is all but over",
@@ -363,11 +359,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774809063288",
-      "resourceType": "video",
-      "uploadedAt": 1774809064919
-    },
-    {
       "publicId": "tvs_cards/card_1774816940956",
       "resourceType": "image",
       "uploadedAt": 1774816941766
@@ -411,6 +402,11 @@
       "publicId": "tvs_cards/card_1774890367993",
       "resourceType": "image",
       "uploadedAt": 1774890369679
+    },
+    {
+      "publicId": "tvs_videos/video_1774896584440",
+      "resourceType": "video",
+      "uploadedAt": 1774896586521
     }
   ]
 }
