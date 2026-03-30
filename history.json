@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Bastoni",
+    "Transfer",
     "Kane",
     "Leaves",
     "Curry",
@@ -14,6 +16,7 @@
     "Record"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/inter-activa-suplir-posible-marcha-128549222?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48315231/nba-intel-wembanyama-spurs-thunder-bog-expansion-updates-east-race-injuries",
     "https://www.bbc.com/sport/football/articles/cwykg07e994o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48325147/warriors-stephen-curry-2-more-games-due-lingering-knee-issue",
@@ -179,6 +182,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "El Inter se activa para suplir la posible marcha de Bastoni al Barça",
     "Why NBA insiders are all-in on the Spurs: 'Victor breaks all the rules'",
     "Bayern wary of Saudi interest in Kane - Monday's gossip",
     "Sources: Curry (knee) ruled out another 2 games",
@@ -345,16 +349,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774747777542",
-      "resourceType": "video",
-      "uploadedAt": 1774747779394
-    },
-    {
-      "publicId": "tvs_cards/card_1774754637354",
-      "resourceType": "image",
-      "uploadedAt": 1774754638691
-    },
-    {
       "publicId": "tvs_cards/card_1774763242032",
       "resourceType": "image",
       "uploadedAt": 1774763242896
@@ -398,6 +392,11 @@
       "publicId": "tvs_videos/video_1774834215425",
       "resourceType": "video",
       "uploadedAt": 1774834217249
+    },
+    {
+      "publicId": "tvs_cards/card_1774841233969",
+      "resourceType": "image",
+      "uploadedAt": 1774841234809
     }
   ]
 }
