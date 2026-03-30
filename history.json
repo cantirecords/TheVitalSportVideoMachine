@@ -14,6 +14,7 @@
     "British"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
     "https://www.sport.es/es/noticias/barca/flick-recupera-mejor-version-lewandowski-128472219?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/nueva-vida-joan-laporta-presidente-128415886?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/joan-laporta-presidente-fc-barcelona-128546498?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -183,6 +184,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Updated NBA rookie rankings: Why the ROY race is all but over",
     "Flick recupera la mejor versión de Lewandowski en el FC Barcelona",
     "La nueva vida de Joan Laporta como presidente electo del Barça",
     "Joan Laporta, presidente del FC Barcelona, se reafirma: \"Fue una paliza, y se la merecían\"",
@@ -353,11 +355,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774787807660",
-      "resourceType": "video",
-      "uploadedAt": 1774787809353
-    },
-    {
       "publicId": "tvs_cards/card_1774789985514",
       "resourceType": "image",
       "uploadedAt": 1774789986980
@@ -401,6 +398,11 @@
       "publicId": "tvs_cards/card_1774862586045",
       "resourceType": "image",
       "uploadedAt": 1774862587293
+    },
+    {
+      "publicId": "tvs_videos/video_1774875511426",
+      "resourceType": "video",
+      "uploadedAt": 1774875512739
     }
   ]
 }
