@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "LeBron",
     "Barça",
     "Closing",
     "Cucurella",
@@ -8,16 +9,10 @@
     "Wins",
     "Barcelona",
     "Wembanyama",
-    "Makes",
-    "Verstappen",
-    "Jokic",
-    "Destroys",
-    "Madrid",
-    "NBA",
-    "Draft",
-    "NFL"
+    "Makes"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48357900/lebron-bronny-james-one-one-los-angeles-lakers-broken-backboard",
     "https://www.sport.es/es/noticias/barca/santi-denia-marmoush-objetivo-barca-128636205?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48355195/marc-cucurella-difficult-reject-barcelona-chelsea-bit-away-top-level",
     "https://www.espn.com/tennis/story/_/id/48350226/indian-wells-miami-open-top-takeaways",
@@ -199,6 +194,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "'That's like Miami Bron': LeBron James confirms breaking driveway backboard vs. Bronny",
     "Santi Denia, sobre Marmoush, objetivo del Barça: \"Sería un gran fichaje para LaLiga\"",
     "Cucurella: 'It would be difficult to reject' Barça",
     "Sabalenka excels, Sinner back on track and more takeaways from Indian Wells and Miami Open",
@@ -424,6 +420,11 @@
       "publicId": "tvs_cards/card_1774976922274",
       "resourceType": "image",
       "uploadedAt": 1774976923594
+    },
+    {
+      "publicId": "tvs_videos/video_1774983072141",
+      "resourceType": "video",
+      "uploadedAt": 1774983073871
     }
   ]
 }
