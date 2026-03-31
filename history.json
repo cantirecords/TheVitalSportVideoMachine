@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Raleigh",
+    "Wins",
     "Barcelona",
     "Wembanyama",
     "Makes",
@@ -12,6 +14,7 @@
     "NFL"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cal-raleigh-hits-walk-off-as-mariners-win-vs-yankees",
     "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history",
     "https://www.espn.com/racing/f1/story/_/id/48347648/why-new-rules-max-verstappen-brink-walking-away-f1",
@@ -189,6 +192,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Big Dumper does it! Raleigh breaks out of slump with walk-off vs. Yankees",
     "El efecto dominó si Bastoni ficha por el FC Barcelona",
     "Wemby records fastest double-double ever in win",
     "Why new rules have Max Verstappen on the brink of walking away from F1",
@@ -367,11 +371,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774855102473",
-      "resourceType": "video",
-      "uploadedAt": 1774855104590
-    },
-    {
       "publicId": "tvs_cards/card_1774862586045",
       "resourceType": "image",
       "uploadedAt": 1774862587293
@@ -415,6 +414,11 @@
       "publicId": "tvs_videos/video_1774940703970",
       "resourceType": "video",
       "uploadedAt": 1774940705986
+    },
+    {
+      "publicId": "tvs_cards/card_1774948335695",
+      "resourceType": "image",
+      "uploadedAt": 1774948336886
     }
   ]
 }
