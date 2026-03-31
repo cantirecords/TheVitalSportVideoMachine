@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "Wembanyama",
     "Makes",
     "Verstappen",
@@ -8,12 +9,10 @@
     "Madrid",
     "NBA",
     "Draft",
-    "NFL",
-    "Lewandowski",
-    "Back",
-    "Barça"
+    "NFL"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history",
     "https://www.espn.com/racing/f1/story/_/id/48347648/why-new-rules-max-verstappen-brink-walking-away-f1",
     "https://www.espn.com/nba/story/_/id/48347650/nikola-jokic-caitlin-clark-joking-explanation",
@@ -190,6 +189,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "El efecto dominó si Bastoni ficha por el FC Barcelona",
     "Wemby records fastest double-double ever in win",
     "Why new rules have Max Verstappen on the brink of walking away from F1",
     "'We have the same agent': Nikola Jokic jokes after Caitlin Clark's praise",
@@ -367,11 +367,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774850621149",
-      "resourceType": "image",
-      "uploadedAt": 1774850621982
-    },
-    {
       "publicId": "tvs_videos/video_1774855102473",
       "resourceType": "video",
       "uploadedAt": 1774855104590
@@ -415,6 +410,11 @@
       "publicId": "tvs_cards/card_1774927115543",
       "resourceType": "image",
       "uploadedAt": 1774927117023
+    },
+    {
+      "publicId": "tvs_videos/video_1774940703970",
+      "resourceType": "video",
+      "uploadedAt": 1774940705986
     }
   ]
 }
