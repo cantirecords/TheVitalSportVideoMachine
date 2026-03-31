@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Cucurella",
+    "Eyes",
     "Raleigh",
     "Wins",
     "Barcelona",
@@ -14,6 +16,7 @@
     "NFL"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48355195/marc-cucurella-difficult-reject-barcelona-chelsea-bit-away-top-level",
     "https://www.espn.com/tennis/story/_/id/48350226/indian-wells-miami-open-top-takeaways",
     "https://www.mlb.com/news/cal-raleigh-hits-walk-off-as-mariners-win-vs-yankees",
     "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -193,6 +196,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Cucurella: 'It would be difficult to reject' Barça",
     "Sabalenka excels, Sinner back on track and more takeaways from Indian Wells and Miami Open",
     "Big Dumper does it! Raleigh breaks out of slump with walk-off vs. Yankees",
     "El efecto dominó si Bastoni ficha por el FC Barcelona",
@@ -373,11 +377,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774875511426",
-      "resourceType": "video",
-      "uploadedAt": 1774875512739
-    },
-    {
       "publicId": "tvs_cards/card_1774878714116",
       "resourceType": "image",
       "uploadedAt": 1774878715669
@@ -421,6 +420,11 @@
       "publicId": "tvs_videos/video_1774961860651",
       "resourceType": "video",
       "uploadedAt": 1774961863337
+    },
+    {
+      "publicId": "tvs_cards/card_1774965123507",
+      "resourceType": "image",
+      "uploadedAt": 1774965125294
     }
   ]
 }
