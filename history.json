@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Curry",
     "Yankees",
     "Unveil",
     "LeBron",
@@ -8,12 +9,10 @@
     "Cucurella",
     "Eyes",
     "Raleigh",
-    "Wins",
-    "Barcelona",
-    "Wembanyama",
-    "Makes"
+    "Wins"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48359546/stephen-curry-cleared-scrimmage-latest-step-return",
     "https://www.mlb.com/news/yankees-chicken-bucket-ice-cream-dessert-for-2026-season",
     "https://www.espn.com/nba/story/_/id/48357900/lebron-bronny-james-one-one-los-angeles-lakers-broken-backboard",
     "https://www.sport.es/es/noticias/barca/santi-denia-marmoush-objetivo-barca-128636205?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -197,6 +196,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Curry to scrimmage in latest step toward return",
     "Yankees unveil new dessert that looks like ... fried chicken?",
     "'That's like Miami Bron': LeBron James confirms breaking driveway backboard vs. Bronny",
     "Santi Denia, sobre Marmoush, objetivo del Barça: \"Sería un gran fichaje para LaLiga\"",
@@ -381,16 +381,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774904191708",
-      "resourceType": "image",
-      "uploadedAt": 1774904193170
-    },
-    {
-      "publicId": "tvs_videos/video_1774920435425",
-      "resourceType": "video",
-      "uploadedAt": 1774920436833
-    },
-    {
       "publicId": "tvs_cards/card_1774927115543",
       "resourceType": "image",
       "uploadedAt": 1774927117023
@@ -429,6 +419,11 @@
       "publicId": "tvs_cards/card_1774990388419",
       "resourceType": "image",
       "uploadedAt": 1774990389778
+    },
+    {
+      "publicId": "tvs_videos/video_1775008094824",
+      "resourceType": "video",
+      "uploadedAt": 1775008096581
     }
   ]
 }
