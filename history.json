@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NFL",
+    "Owners",
     "Barça",
     "Elects",
     "LeBron",
@@ -16,6 +18,7 @@
     "Unveil"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48352133/18-game-regular-season-cba-nfl-owners-coaches-weigh-league-meetings-phoenix",
     "https://www.bbc.com/sport/basketball/articles/ckge4pp40xlo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/nueva-vida-victor-font-elecciones-128613382?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
@@ -208,6 +211,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "18-game regular season? Mixed reaction by NFL owners, coaches",
     "Billion-dollar bids made for NBA Europe teams",
     "La nueva vida de Víctor Font tras las elecciones del Barça",
     "Six free agency options for LeBron, according to NBA coaches, execs and scouts",
@@ -401,16 +405,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1774983072141",
-      "resourceType": "video",
-      "uploadedAt": 1774983073871
-    },
-    {
-      "publicId": "tvs_cards/card_1774990388419",
-      "resourceType": "image",
-      "uploadedAt": 1774990389778
-    },
-    {
       "publicId": "tvs_videos/video_1775008094824",
       "resourceType": "video",
       "uploadedAt": 1775008096581
@@ -454,6 +448,11 @@
       "publicId": "tvs_videos/video_1775069395147",
       "resourceType": "video",
       "uploadedAt": 1775069397128
+    },
+    {
+      "publicId": "tvs_cards/card_1775076956998",
+      "resourceType": "image",
+      "uploadedAt": 1775076958359
     }
   ]
 }
