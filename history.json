@@ -16,6 +16,7 @@
     "Unveil"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/basketball/articles/ckge4pp40xlo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/nueva-vida-victor-font-elecciones-128613382?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
     "https://www.espn.com/soccer/story/_/id/48365742/transfer-rumors-news-real-madrid-eye-liverpool-hugo-ekitike-erling-haaland",
@@ -207,6 +208,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Billion-dollar bids made for NBA Europe teams",
     "La nueva vida de Víctor Font tras las elecciones del Barça",
     "Six free agency options for LeBron, according to NBA coaches, execs and scouts",
     "Transfer rumors, news: Real Madrid eye Liverpool's Ekitike over Haaland",
@@ -399,11 +401,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1774976922274",
-      "resourceType": "image",
-      "uploadedAt": 1774976923594
-    },
-    {
       "publicId": "tvs_videos/video_1774983072141",
       "resourceType": "video",
       "uploadedAt": 1774983073871
@@ -452,6 +449,11 @@
       "publicId": "tvs_cards/card_1775063154337",
       "resourceType": "image",
       "uploadedAt": 1775063155643
+    },
+    {
+      "publicId": "tvs_videos/video_1775069395147",
+      "resourceType": "video",
+      "uploadedAt": 1775069397128
     }
   ]
 }
