@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Elects",
     "LeBron",
     "James",
     "Madrid",
@@ -14,6 +16,7 @@
     "Unveil"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/nueva-vida-victor-font-elecciones-128613382?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
     "https://www.espn.com/soccer/story/_/id/48365742/transfer-rumors-news-real-madrid-eye-liverpool-hugo-ekitike-erling-haaland",
     "https://www.espn.com/soccer/story/_/id/48363223/messi-leads-argentina-5-0-victory-final-home-world-cup-tune-up",
@@ -204,6 +207,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "La nueva vida de Víctor Font tras las elecciones del Barça",
     "Six free agency options for LeBron, according to NBA coaches, execs and scouts",
     "Transfer rumors, news: Real Madrid eye Liverpool's Ekitike over Haaland",
     "Messi guides Argentina to 5-0 win in WC send-off",
@@ -443,6 +447,11 @@
       "publicId": "tvs_cards/card_1775051691467",
       "resourceType": "image",
       "uploadedAt": 1775051692748
+    },
+    {
+      "publicId": "tvs_cards/card_1775063154337",
+      "resourceType": "image",
+      "uploadedAt": 1775063155643
     }
   ]
 }
