@@ -22,6 +22,7 @@
     "Unveil"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/draft2026/story/_/id/48346957/2026-nfl-draft-favorite-team-fits-20-top-prospects-reese-love-simpson",
     "https://www.espn.com/mlb/story/_/id/48356211/2026-mlb-ace-rankings-best-starting-pitchers-skenes-skubal-crochet-yamamoto",
     "https://www.espn.com/nba/story/_/id/48315335/nba-2025-2026-playoff-kryptonite-opponents-avoid-eastern-western-conference",
     "https://www.sport.es/es/noticias/barca/dardo-envenenado-szczesny-bardghji-lewandowski-128662296?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -218,6 +219,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "Best team fits for 20 draft prospects: We found matches for Delane, Downs, Boston",
     "MLB starting pitcher rankings: Who are baseball's 11 true aces?",
     "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?",
     "El dardo envenenado de Szczęsny y Bardghji a Lewandowski: \"Todavía se lo cree\"",
@@ -415,11 +417,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1775023242959",
-      "resourceType": "image",
-      "uploadedAt": 1775023244489
-    },
-    {
       "publicId": "tvs_videos/video_1775027484748",
       "resourceType": "video",
       "uploadedAt": 1775027486377
@@ -468,6 +465,11 @@
       "publicId": "tvs_cards/card_1775108729185",
       "resourceType": "image",
       "uploadedAt": 1775108730081
+    },
+    {
+      "publicId": "tvs_videos/video_1775113427031",
+      "resourceType": "video",
+      "uploadedAt": 1775113430129
     }
   ]
 }
