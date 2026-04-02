@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NFL",
+    "Draft",
     "Kerr",
     "Smashes",
     "MLB",
@@ -24,6 +26,7 @@
     "Unveil"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/draft2026/story/_/id/48369237/nfl-draft-2026-flaws-top-quarterbacks-fernando-mendoza-ty-simpson",
     "https://www.espn.com/nfl/story/_/id/48361976/steelers-expect-decision-rodgers-draft-rooney-says",
     "https://www.bbc.com/sport/cricket/articles/clyxqnwpx9zo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48346957/2026-nfl-draft-favorite-team-fits-20-top-prospects-reese-love-simpson",
@@ -223,6 +226,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "These flaws could hold back the draft's top QBs",
     "Rooney: Rodgers to make decision before draft",
     "NZ's Kerr hits 179 not out in record women's ODI chase",
     "Best team fits for 20 draft prospects: We found matches for Delane, Downs, Boston",
@@ -423,11 +427,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1775048349693",
-      "resourceType": "video",
-      "uploadedAt": 1775048351446
-    },
-    {
       "publicId": "tvs_cards/card_1775051691467",
       "resourceType": "image",
       "uploadedAt": 1775051692748
@@ -476,6 +475,11 @@
       "publicId": "tvs_videos/video_1775134406334",
       "resourceType": "video",
       "uploadedAt": 1775134407674
+    },
+    {
+      "publicId": "tvs_cards/card_1775137530283",
+      "resourceType": "image",
+      "uploadedAt": 1775137531457
     }
   ]
 }
