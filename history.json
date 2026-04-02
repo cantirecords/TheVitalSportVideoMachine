@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "MLB",
+    "Aces",
     "NBA",
     "Playoffs",
     "NFL",
@@ -20,6 +22,7 @@
     "Unveil"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48356211/2026-mlb-ace-rankings-best-starting-pitchers-skenes-skubal-crochet-yamamoto",
     "https://www.espn.com/nba/story/_/id/48315335/nba-2025-2026-playoff-kryptonite-opponents-avoid-eastern-western-conference",
     "https://www.sport.es/es/noticias/barca/dardo-envenenado-szczesny-bardghji-lewandowski-128662296?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/story/_/id/48352133/18-game-regular-season-cba-nfl-owners-coaches-weigh-league-meetings-phoenix",
@@ -215,6 +218,7 @@
     "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
   ],
   "postedTitles": [
+    "MLB starting pitcher rankings: Who are baseball's 11 true aces?",
     "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?",
     "El dardo envenenado de Szczęsny y Bardghji a Lewandowski: \"Todavía se lo cree\"",
     "18-game regular season? Mixed reaction by NFL owners, coaches",
@@ -411,11 +415,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_cards/card_1775014289525",
-      "resourceType": "image",
-      "uploadedAt": 1775014290922
-    },
-    {
       "publicId": "tvs_cards/card_1775023242959",
       "resourceType": "image",
       "uploadedAt": 1775023244489
@@ -464,6 +463,11 @@
       "publicId": "tvs_cards/card_1775098573953",
       "resourceType": "image",
       "uploadedAt": 1775098574928
+    },
+    {
+      "publicId": "tvs_cards/card_1775108729185",
+      "resourceType": "image",
+      "uploadedAt": 1775108730081
     }
   ]
 }
