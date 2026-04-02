@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Crokes",
+    "Cross",
     "Wembanyama",
     "Scores",
     "NFL",
@@ -28,6 +30,7 @@
     "Unveil"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/padre-lamine-yamal-alza-voz-128694107?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/basketball/articles/c8dl6j3ym05o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48369237/nfl-draft-2026-flaws-top-quarterbacks-fernando-mendoza-ty-simpson",
@@ -226,10 +229,10 @@
     "https://www.espn.com/soccer/story/_/id/48146116/man-city-gave-haaland-game-madrid",
     "https://www.sport.es/es/noticias/barca/muere-87-anos-antoni-camps-127715777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/videos/c14m2m2zj88o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/48111448/nfl-free-agency-news-latest-wrs-rbs-pierce-crosby",
-    "https://www.espn.com/nba/story/_/id/48125382/lakers-lebron-james-deandre-ayton-miss-game-vs-pacers"
+    "https://www.espn.com/nfl/story/_/id/48111448/nfl-free-agency-news-latest-wrs-rbs-pierce-crosby"
   ],
   "postedTitles": [
+    "300-1 winner at Kelso equals UK longest odds record",
     "El padre de Lamine Yamal estalla por lo ocurrido en el RCDE Stadium: \"¿Qué problema tenéis?\"",
     "Wembanyama's 41 points help Spurs win 10 in a row",
     "These flaws could hold back the draft's top QBs",
@@ -428,15 +431,9 @@
     "Haaland got game off to find 'real pace' for Madrid",
     "Muere a los 87 años Antoni Camps, exjugador del Barça, Espanyol y Sabadell en Primera División",
     "New rules will lead to more 'drama' in F1 racing ",
-    "Last-minute NFL free agency nuggets: What we're hearing on Eagles plans, top RBs and WRs",
-    "LeBron (elbow), Ayton (knee) miss win vs. Pacers"
+    "Last-minute NFL free agency nuggets: What we're hearing on Eagles plans, top RBs and WRs"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775069395147",
-      "resourceType": "video",
-      "uploadedAt": 1775069397128
-    },
     {
       "publicId": "tvs_cards/card_1775076956998",
       "resourceType": "image",
@@ -486,6 +483,11 @@
       "publicId": "tvs_videos/video_1775155515550",
       "resourceType": "video",
       "uploadedAt": 1775155517360
+    },
+    {
+      "publicId": "tvs_cards/card_1775162611236",
+      "resourceType": "image",
+      "uploadedAt": 1775162612961
     }
   ]
 }
