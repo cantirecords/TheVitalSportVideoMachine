@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lego",
+    "Unveils",
     "Ohtani",
     "Crokes",
     "Cross",
@@ -12,6 +14,7 @@
     "MLB"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego",
     "https://www.espn.com/fantasy/baseball/story/_/id/48376171/fantasy-baseball-espn-news-mlb-surprised-2026-april-2",
     "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/padre-lamine-yamal-alza-voz-128694107?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -210,10 +213,10 @@
     "https://www.espn.com/nhl/story/_/id/48148079/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke",
     "https://www.espn.com/nba/story/_/id/48092442/nba-2026-2026-wilt-chamberlain-record-shai-gilgeous-alexander-okc",
     "https://www.espn.com/soccer/story/_/id/48146116/man-city-gave-haaland-game-madrid",
-    "https://www.sport.es/es/noticias/barca/muere-87-anos-antoni-camps-127715777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/formula1/videos/c14m2m2zj88o?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/muere-87-anos-antoni-camps-127715777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "✨ Messi, Ronaldo among LEGO's WC stars",
     "Alvarez a top-10 bat? Ohtani wins Cy Young? Perdomo for real? Don't be surprised",
     "300-1 winner at Kelso equals UK longest odds record",
     "El padre de Lamine Yamal estalla por lo ocurrido en el RCDE Stadium: \"¿Qué problema tenéis?\"",
@@ -412,15 +415,9 @@
     "NHL Awards Watch: Celebrini challenges for MVP; dead heat for Norris",
     "NBA stars reflect on Wilt Chamberlain's 'mythical' legacy",
     "Haaland got game off to find 'real pace' for Madrid",
-    "Muere a los 87 años Antoni Camps, exjugador del Barça, Espanyol y Sabadell en Primera División",
-    "New rules will lead to more 'drama' in F1 racing "
+    "Muere a los 87 años Antoni Camps, exjugador del Barça, Espanyol y Sabadell en Primera División"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775098573953",
-      "resourceType": "image",
-      "uploadedAt": 1775098574928
-    },
     {
       "publicId": "tvs_cards/card_1775108729185",
       "resourceType": "image",
@@ -465,6 +462,11 @@
       "publicId": "tvs_videos/video_1775179600519",
       "resourceType": "video",
       "uploadedAt": 1775179603120
+    },
+    {
+      "publicId": "tvs_cards/card_1775186196056",
+      "resourceType": "image",
+      "uploadedAt": 1775186197558
     }
   ]
 }
