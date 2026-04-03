@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Griffin",
+    "Makes",
     "Kerr",
     "Invests",
     "Thunder",
@@ -16,6 +18,7 @@
     "Scores"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/konnor-griffin-pirates-introduction-mlb-debut",
     "https://www.espn.com/soccer/story/_/id/47650854/nba-greats-kerr-nash-ups-downs-owning-spanish-soccer-team-mallorca",
     "https://www.espn.com/nfl/draft2026/story/_/id/47455728/2026-nfl-draft-board-prospects-first-round-grades-comps",
     "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams",
@@ -214,10 +217,10 @@
     "https://www.sport.es/es/noticias/barca/laporta-quiere-renovar-lewandowski-127774312?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48167785/lamine-yamal-barcelona-goal-newcastle-champions-league",
     "https://www.sport.es/es/noticias/barca/poker-apercibidos-flick-lamine-yamal-127756599?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/fantasy/football/story/_/id/48154346/nfl-free-agency-fantasy-football-kenneth-walker-iii-chiefs-seahawks",
-    "https://www.sport.es/es/noticias/barca/laporta-2023-teniamos-ok-laliga-127758875?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/fantasy/football/story/_/id/48154346/nfl-free-agency-fantasy-football-kenneth-walker-iii-chiefs-seahawks"
   ],
   "postedTitles": [
+    "19-year-old Griffin will realize MLB dream with Pirates debut",
     "What NBA greats Kerr, Nash & Co. learned owning LaLiga's Mallorca",
     "Draft prospects with true Round 1 grade: The 12 clear first-rounders",
     "NBA Power Rankings: What to watch over the final two weeks for all 30 teams",
@@ -416,15 +419,9 @@
     "¿Por qué Laporta quiere renovar a Lewandowski?",
     "Yamal's late goal 'hard to take' for Newcastle",
     "Póker de apercibidos para Flick: Lamine Yamal, entre ellos",
-    "Is the Super Bowl MVP an RB1 in Fantasy? Kenneth Walker III moves to Kansas City",
-    "Laporta, en 2023: \"Teniamos el ok de LaLiga para inscribir a Messi\""
+    "Is the Super Bowl MVP an RB1 in Fantasy? Kenneth Walker III moves to Kansas City"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775137530283",
-      "resourceType": "image",
-      "uploadedAt": 1775137531457
-    },
     {
       "publicId": "tvs_cards/card_1775149492003",
       "resourceType": "image",
@@ -474,6 +471,11 @@
       "publicId": "tvs_cards/card_1775222471923",
       "resourceType": "image",
       "uploadedAt": 1775222472871
+    },
+    {
+      "publicId": "tvs_cards/card_1775235187339",
+      "resourceType": "image",
+      "uploadedAt": 1775235188789
     }
   ]
 }
