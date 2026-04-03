@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Dominates",
     "Lego",
     "Unveils",
     "Ohtani",
@@ -14,6 +16,7 @@
     "MLB"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48380168/barcelona-alexia-putellas-hails-fans-magical-camp-nou-night",
     "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego",
     "https://www.espn.com/fantasy/baseball/story/_/id/48376171/fantasy-baseball-espn-news-mlb-surprised-2026-april-2",
     "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
     "https://www.espn.com/nhl/story/_/id/48148079/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke",
     "https://www.espn.com/nba/story/_/id/48092442/nba-2026-2026-wilt-chamberlain-record-shai-gilgeous-alexander-okc",
-    "https://www.espn.com/soccer/story/_/id/48146116/man-city-gave-haaland-game-madrid",
-    "https://www.sport.es/es/noticias/barca/muere-87-anos-antoni-camps-127715777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/soccer/story/_/id/48146116/man-city-gave-haaland-game-madrid"
   ],
   "postedTitles": [
+    "Putellas hails Barcelona fans on 'magical' night",
     "✨ Messi, Ronaldo among LEGO's WC stars",
     "Alvarez a top-10 bat? Ohtani wins Cy Young? Perdomo for real? Don't be surprised",
     "300-1 winner at Kelso equals UK longest odds record",
@@ -414,15 +417,9 @@
     "Our mid-free agency NFL mock draft: Predicting how signings, trades could alter the top 10 picks",
     "NHL Awards Watch: Celebrini challenges for MVP; dead heat for Norris",
     "NBA stars reflect on Wilt Chamberlain's 'mythical' legacy",
-    "Haaland got game off to find 'real pace' for Madrid",
-    "Muere a los 87 años Antoni Camps, exjugador del Barça, Espanyol y Sabadell en Primera División"
+    "Haaland got game off to find 'real pace' for Madrid"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775108729185",
-      "resourceType": "image",
-      "uploadedAt": 1775108730081
-    },
     {
       "publicId": "tvs_videos/video_1775113427031",
       "resourceType": "video",
@@ -467,6 +464,11 @@
       "publicId": "tvs_cards/card_1775186196056",
       "resourceType": "image",
       "uploadedAt": 1775186197558
+    },
+    {
+      "publicId": "tvs_cards/card_1775195161862",
+      "resourceType": "image",
+      "uploadedAt": 1775195163372
     }
   ]
 }
