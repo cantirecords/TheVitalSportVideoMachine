@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Thunder",
+    "Takes",
     "Barça",
     "Barca",
     "Dominates",
@@ -12,6 +14,7 @@
     "Scores"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams",
     "https://www.sport.es/es/noticias/barca/ter-stegen-desesperacion-mundial-lucha-128397802?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48380168/barcelona-alexia-putellas-hails-fans-magical-camp-nou-night",
     "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego",
@@ -210,10 +213,10 @@
     "https://www.espn.com/fantasy/football/story/_/id/48154346/nfl-free-agency-fantasy-football-kenneth-walker-iii-chiefs-seahawks",
     "https://www.sport.es/es/noticias/barca/laporta-2023-teniamos-ok-laliga-127758875?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48151878/2026-nfl-free-agency-mock-draft-field-yates-first-round-predictions-signings",
-    "https://www.espn.com/nhl/story/_/id/48148079/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke",
-    "https://www.espn.com/nba/story/_/id/48092442/nba-2026-2026-wilt-chamberlain-record-shai-gilgeous-alexander-okc"
+    "https://www.espn.com/nhl/story/_/id/48148079/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke"
   ],
   "postedTitles": [
+    "NBA Power Rankings: What to watch over the final two weeks for all 30 teams",
     "Ter Stegen, de la desesperación al Mundial: su lucha bajo la supervisión del Barça",
     "Putellas hails Barcelona fans on 'magical' night",
     "✨ Messi, Ronaldo among LEGO's WC stars",
@@ -412,15 +415,9 @@
     "Is the Super Bowl MVP an RB1 in Fantasy? Kenneth Walker III moves to Kansas City",
     "Laporta, en 2023: \"Teniamos el ok de LaLiga para inscribir a Messi\"",
     "Our mid-free agency NFL mock draft: Predicting how signings, trades could alter the top 10 picks",
-    "NHL Awards Watch: Celebrini challenges for MVP; dead heat for Norris",
-    "NBA stars reflect on Wilt Chamberlain's 'mythical' legacy"
+    "NHL Awards Watch: Celebrini challenges for MVP; dead heat for Norris"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775113427031",
-      "resourceType": "video",
-      "uploadedAt": 1775113430129
-    },
     {
       "publicId": "tvs_cards/card_1775120989230",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1775199624885",
       "resourceType": "video",
       "uploadedAt": 1775199627229
+    },
+    {
+      "publicId": "tvs_cards/card_1775207116096",
+      "resourceType": "image",
+      "uploadedAt": 1775207117457
     }
   ]
 }
