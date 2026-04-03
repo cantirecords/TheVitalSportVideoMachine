@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Safety",
+    "Taken",
     "Griffin",
     "Makes",
     "Kerr",
@@ -18,6 +20,7 @@
     "Scores"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48370913/caleb-downs-nfl-draft-how-high-too-high-safety",
     "https://www.mlb.com/news/ranking-2026-final-four-teams-by-mlb-alumni",
     "https://www.mlb.com/news/konnor-griffin-pirates-introduction-mlb-debut",
     "https://www.espn.com/soccer/story/_/id/47650854/nba-greats-kerr-nash-ups-downs-owning-spanish-soccer-team-mallorca",
@@ -216,10 +219,10 @@
     "https://www.espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
     "https://www.sport.es/es/noticias/barca/trezeguet-fuera-juve-ficharia-lewandowski-127811651?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/laporta-quiere-renovar-lewandowski-127774312?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48167785/lamine-yamal-barcelona-goal-newcastle-champions-league",
-    "https://www.sport.es/es/noticias/barca/poker-apercibidos-flick-lamine-yamal-127756599?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/soccer/story/_/id/48167785/lamine-yamal-barcelona-goal-newcastle-champions-league"
   ],
   "postedTitles": [
+    "Safety 'savant' Caleb Downs to test NFL's thirst for his position",
     "Which 2026 Final Four school has the best MLB alums?",
     "19-year-old Griffin will realize MLB dream with Pirates debut",
     "What NBA greats Kerr, Nash & Co. learned owning LaLiga's Mallorca",
@@ -418,20 +421,9 @@
     "Barnwell: Sorting out the winners, losers from NFL free agency's wild opening day",
     "Trezeguet: \"Si fuera la Juve, ficharía a Lewandowski sí o sí\"",
     "¿Por qué Laporta quiere renovar a Lewandowski?",
-    "Yamal's late goal 'hard to take' for Newcastle",
-    "Póker de apercibidos para Flick: Lamine Yamal, entre ellos"
+    "Yamal's late goal 'hard to take' for Newcastle"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775155515550",
-      "resourceType": "video",
-      "uploadedAt": 1775155517360
-    },
-    {
-      "publicId": "tvs_cards/card_1775162611236",
-      "resourceType": "image",
-      "uploadedAt": 1775162612961
-    },
     {
       "publicId": "tvs_videos/video_1775179600519",
       "resourceType": "video",
@@ -476,6 +468,11 @@
       "publicId": "tvs_videos/video_1775241429153",
       "resourceType": "video",
       "uploadedAt": 1775241431281
+    },
+    {
+      "publicId": "tvs_cards/card_1775249280291",
+      "resourceType": "image",
+      "uploadedAt": 1775249282308
     }
   ]
 }
