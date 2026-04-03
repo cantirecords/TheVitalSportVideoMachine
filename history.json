@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Crokes",
     "Cross",
     "Wembanyama",
@@ -8,28 +9,10 @@
     "Draft",
     "Kerr",
     "Smashes",
-    "MLB",
-    "Aces",
-    "NBA",
-    "Playoffs",
-    "NFL",
-    "Owners",
-    "Barça",
-    "Elects",
-    "LeBron",
-    "James",
-    "Madrid",
-    "Messi",
-    "Leads",
-    "Beckham",
-    "Jr",
-    "England",
-    "Struggles",
-    "Curry",
-    "Yankees",
-    "Unveil"
+    "MLB"
   ],
   "postedUrls": [
+    "https://www.espn.com/fantasy/baseball/story/_/id/48376171/fantasy-baseball-espn-news-mlb-surprised-2026-april-2",
     "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/padre-lamine-yamal-alza-voz-128694107?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/basketball/articles/c8dl6j3ym05o?at_medium=RSS&at_campaign=rss",
@@ -228,10 +211,10 @@
     "https://www.espn.com/nba/story/_/id/48092442/nba-2026-2026-wilt-chamberlain-record-shai-gilgeous-alexander-okc",
     "https://www.espn.com/soccer/story/_/id/48146116/man-city-gave-haaland-game-madrid",
     "https://www.sport.es/es/noticias/barca/muere-87-anos-antoni-camps-127715777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/formula1/videos/c14m2m2zj88o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/48111448/nfl-free-agency-news-latest-wrs-rbs-pierce-crosby"
+    "https://www.bbc.com/sport/formula1/videos/c14m2m2zj88o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Alvarez a top-10 bat? Ohtani wins Cy Young? Perdomo for real? Don't be surprised",
     "300-1 winner at Kelso equals UK longest odds record",
     "El padre de Lamine Yamal estalla por lo ocurrido en el RCDE Stadium: \"¿Qué problema tenéis?\"",
     "Wembanyama's 41 points help Spurs win 10 in a row",
@@ -430,20 +413,9 @@
     "NBA stars reflect on Wilt Chamberlain's 'mythical' legacy",
     "Haaland got game off to find 'real pace' for Madrid",
     "Muere a los 87 años Antoni Camps, exjugador del Barça, Espanyol y Sabadell en Primera División",
-    "New rules will lead to more 'drama' in F1 racing ",
-    "Last-minute NFL free agency nuggets: What we're hearing on Eagles plans, top RBs and WRs"
+    "New rules will lead to more 'drama' in F1 racing "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775076956998",
-      "resourceType": "image",
-      "uploadedAt": 1775076958359
-    },
-    {
-      "publicId": "tvs_videos/video_1775093054700",
-      "resourceType": "video",
-      "uploadedAt": 1775093056428
-    },
     {
       "publicId": "tvs_cards/card_1775098573953",
       "resourceType": "image",
@@ -488,6 +460,11 @@
       "publicId": "tvs_cards/card_1775162611236",
       "resourceType": "image",
       "uploadedAt": 1775162612961
+    },
+    {
+      "publicId": "tvs_videos/video_1775179600519",
+      "resourceType": "video",
+      "uploadedAt": 1775179603120
     }
   ]
 }
