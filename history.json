@@ -22,6 +22,7 @@
     "Takes"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/draft2026/story/_/id/48377191/2026-nfl-draft-latest-buzz-rumors-news-mocks-sleepers-mccoy-nussmeier-beck",
     "https://www.espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
     "https://www.espn.com/soccer/story/_/id/48387012/cristiano-ronaldo-return-al-nassr-injury-t-al-najma",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-infancia-play-nintendo-pokemon-dv-127533284?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -220,10 +221,10 @@
     "https://www.espn.com/nfl/story/_/id/48185973/2026-nfl-free-agency-best-team-fits-top-players-available-barnwell",
     "https://www.espn.com/soccer/story/_/id/48186459/weekend-predictions-spurs-face-liverpool-dire-need-win-julien-laurens",
     "https://www.espn.com/nba/story/_/id/48190692/gilgeous-alexander-eclipses-wilt-nba-longest-20-point-streak",
-    "https://www.espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
-    "https://www.sport.es/es/noticias/barca/agente-haaland-existido-contacto-127883735?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses"
   ],
   "postedTitles": [
+    "Latest NFL draft buzz: What we're hearing on Jermod McCoy's pro day",
     "'Thank you football': LB Walker retires from NFL",
     "Ronaldo scores 2 vital goals on return from injury",
     "Lamine Yamal se confiesa sobre su infancia: \"No podíamos comprar la Play o la Nintendo y jugaba con cartas de Pokémon de un euro\"",
@@ -422,15 +423,9 @@
     "Where nine of the best remaining NFL free agents should sign: We found perfect landing spots",
     "Weekend predictions: Can Spurs stop record losing streak at Liverpool?",
     "SGA eclipses Wilt for NBA's longest 20-point streak",
-    "Reid's updated NFL draft QB Hot Board: Strengths and weaknesses for the top passers",
-    "La agente de Haaland: \"No ha existido ningún contacto por él\""
+    "Reid's updated NFL draft QB Hot Board: Strengths and weaknesses for the top passers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775235187339",
-      "resourceType": "image",
-      "uploadedAt": 1775235188789
-    },
     {
       "publicId": "tvs_videos/video_1775241429153",
       "resourceType": "video",
@@ -480,6 +475,11 @@
       "publicId": "tvs_cards/card_1775321195494",
       "resourceType": "image",
       "uploadedAt": 1775321196750
+    },
+    {
+      "publicId": "tvs_videos/video_1775327448264",
+      "resourceType": "video",
+      "uploadedAt": 1775327449689
     }
   ]
 }
