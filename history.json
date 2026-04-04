@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Madrid",
     "Safety",
     "Taken",
     "Griffin",
@@ -7,19 +9,10 @@
     "Kerr",
     "Invests",
     "Thunder",
-    "Takes",
-    "Barça",
-    "Barca",
-    "Dominates",
-    "Lego",
-    "Unveils",
-    "Ohtani",
-    "Crokes",
-    "Cross",
-    "Wembanyama",
-    "Scores"
+    "Takes"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48383733/uwcl-talking-points-chelsea-season-failure-madrid-capitulate-barcelona",
     "https://www.espn.com/nfl/story/_/id/48370913/caleb-downs-nfl-draft-how-high-too-high-safety",
     "https://www.mlb.com/news/ranking-2026-final-four-teams-by-mlb-alumni",
     "https://www.mlb.com/news/konnor-griffin-pirates-introduction-mlb-debut",
@@ -218,10 +211,10 @@
     "https://www.espn.com/nba/story/_/id/48166967/lakers-luka-doncic-says-custody-battle-daughters",
     "https://www.espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
     "https://www.sport.es/es/noticias/barca/trezeguet-fuera-juve-ficharia-lewandowski-127811651?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/laporta-quiere-renovar-lewandowski-127774312?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48167785/lamine-yamal-barcelona-goal-newcastle-champions-league"
+    "https://www.sport.es/es/noticias/barca/laporta-quiere-renovar-lewandowski-127774312?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Talking points: Chelsea's season a failure? Madrid capitulate at Barcelona",
     "Safety 'savant' Caleb Downs to test NFL's thirst for his position",
     "Which 2026 Final Four school has the best MLB alums?",
     "19-year-old Griffin will realize MLB dream with Pirates debut",
@@ -420,8 +413,7 @@
     "Sources: Doncic in custody battle for daughters",
     "Barnwell: Sorting out the winners, losers from NFL free agency's wild opening day",
     "Trezeguet: \"Si fuera la Juve, ficharía a Lewandowski sí o sí\"",
-    "¿Por qué Laporta quiere renovar a Lewandowski?",
-    "Yamal's late goal 'hard to take' for Newcastle"
+    "¿Por qué Laporta quiere renovar a Lewandowski?"
   ],
   "cloudinaryAssets": [
     {
@@ -473,6 +465,11 @@
       "publicId": "tvs_cards/card_1775249280291",
       "resourceType": "image",
       "uploadedAt": 1775249282308
+    },
+    {
+      "publicId": "tvs_videos/video_1775265663415",
+      "resourceType": "video",
+      "uploadedAt": 1775265664900
     }
   ]
 }
