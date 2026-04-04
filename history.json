@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "And",
     "Giannis",
     "Ready",
     "Barcelona",
@@ -14,6 +16,7 @@
     "Takes"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/atletico-barca-quitaron-liga-128642336?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
     "https://www.espn.com/soccer/story/_/id/48383733/uwcl-talking-points-chelsea-season-failure-madrid-capitulate-barcelona",
     "https://www.espn.com/nfl/story/_/id/48370913/caleb-downs-nfl-draft-how-high-too-high-safety",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/shohei-ohtani-aaron-judge-sharing-spotlight-in-world-baseball-classic",
     "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
     "https://www.espn.com/nba/story/_/id/48166967/lakers-luka-doncic-says-custody-battle-daughters",
-    "https://www.espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts",
-    "https://www.sport.es/es/noticias/barca/trezeguet-fuera-juve-ficharia-lewandowski-127811651?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nfl/story/_/id/48147298/2026-nfl-free-agency-winners-losers-best-worst-signings-trades-contracts"
   ],
   "postedTitles": [
+    "El día que Atlético y Barça se quitaron una Liga",
     "Sources: NBA investigating Bucks, Giannis' health",
     "Talking points: Chelsea's season a failure? Madrid capitulate at Barcelona",
     "Safety 'savant' Caleb Downs to test NFL's thirst for his position",
@@ -414,15 +417,9 @@
     "Stage may be different, but Ohtani, Judge continue to wow",
     "Live tracking NFL free agency: Updates on signings, trades, cuts",
     "Sources: Doncic in custody battle for daughters",
-    "Barnwell: Sorting out the winners, losers from NFL free agency's wild opening day",
-    "Trezeguet: \"Si fuera la Juve, ficharía a Lewandowski sí o sí\""
+    "Barnwell: Sorting out the winners, losers from NFL free agency's wild opening day"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775186196056",
-      "resourceType": "image",
-      "uploadedAt": 1775186197558
-    },
     {
       "publicId": "tvs_cards/card_1775195161862",
       "resourceType": "image",
@@ -472,6 +469,11 @@
       "publicId": "tvs_cards/card_1775270944408",
       "resourceType": "image",
       "uploadedAt": 1775270945125
+    },
+    {
+      "publicId": "tvs_cards/card_1775280285375",
+      "resourceType": "image",
+      "uploadedAt": 1775280286033
     }
   ]
 }
