@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Seven",
+    "Edge",
     "Rashee",
     "Rice",
     "Michigan",
@@ -34,6 +36,7 @@
     "Takes"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/draft2026/story/_/id/48359548/2026-nfl-draft-edge-rusher-projections-rankings-historical-comps-prospects",
     "https://www.bbc.com/sport/basketball/articles/c1krzxx9ml2o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
     "https://www.espn.com/mens-college-basketball/story/_/id/48400637/michigan-demolishes-arizona-historic-beatdown-1-seeds",
@@ -232,10 +235,10 @@
     "https://www.bbc.com/sport/rugby-union/articles/cg7el00e3v1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/rugby-union/articles/c99je174x7xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/cvg3212g23yo?at_medium=RSS&at_campaign=rss",
-    "https://www.skysports.com/watch/video/13519977/jannik-sinner-vs-alexander-zverev-indian-wells-highlights",
-    "https://www.bbc.com/sport/football/articles/c4g81vqve34o?at_medium=RSS&at_campaign=rss"
+    "https://www.skysports.com/watch/video/13519977/jannik-sinner-vs-alexander-zverev-indian-wells-highlights"
   ],
   "postedTitles": [
+    "What does the SackSEER model say about the top edge rushers in the 2026 NFL draft?",
     "Jokic outshines Wembanyama as Denver end Spurs' run",
     "NFL probe finds no reason to discipline Chiefs' Rice",
     "U-M advances with historic beatdown of Arizona",
@@ -434,20 +437,9 @@
     "Head coach Dickens leaves Newcastle Red Bulls",
     "'Haaland of rugby' - how Bielle-Biarrey has stormed stage",
     "Real's Bellingham and Mbappe back for Man City trip",
-    "Sinner eases past Zverev to advance to Indian Wells final",
-    "Guardiola sympathises - but can he help Haaland out of rut?"
+    "Sinner eases past Zverev to advance to Indian Wells final"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775327448264",
-      "resourceType": "video",
-      "uploadedAt": 1775327449689
-    },
-    {
-      "publicId": "tvs_cards/card_1775335354422",
-      "resourceType": "image",
-      "uploadedAt": 1775335355376
-    },
     {
       "publicId": "tvs_videos/video_1775352625944",
       "resourceType": "video",
@@ -492,6 +484,11 @@
       "publicId": "tvs_videos/video_1775413937637",
       "resourceType": "video",
       "uploadedAt": 1775413938976
+    },
+    {
+      "publicId": "tvs_cards/card_1775421780658",
+      "resourceType": "image",
+      "uploadedAt": 1775421781490
     }
   ]
 }
