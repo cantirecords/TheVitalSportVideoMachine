@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Michigan",
+    "Destroys",
     "Gil",
     "Returns",
     "Mullins",
@@ -30,6 +32,7 @@
     "Takes"
   ],
   "postedUrls": [
+    "https://www.espn.com/mens-college-basketball/story/_/id/48400637/michigan-demolishes-arizona-historic-beatdown-1-seeds",
     "https://www.sport.es/es/noticias/barca/italia-lamine-yamal-jugaria-segunda-128757062?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/luis-gil-return-to-yankees-rotation",
     "https://www.sport.es/es/noticias/barca/cabreo-lamine-yamal-128753077?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -228,10 +231,10 @@
     "https://www.skysports.com/watch/video/13519977/jannik-sinner-vs-alexander-zverev-indian-wells-highlights",
     "https://www.bbc.com/sport/football/articles/c4g81vqve34o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/wnba/story/_/id/47011671/wnba-cba-negotiations-wnbpa-updates-latest-news",
-    "https://www.espn.com/soccer/story/_/id/48208913/erling-haaland-slump-cost-man-city-title",
-    "https://www.espn.com/nba/story/_/id/48165009/2026-nba-mock-draft-top-30-first-round-picks-march-madness"
+    "https://www.espn.com/soccer/story/_/id/48208913/erling-haaland-slump-cost-man-city-title"
   ],
   "postedTitles": [
+    "U-M advances with historic beatdown of Arizona",
     "\"En Italia, Lamine Yamal jugaría en Segunda\"",
     "Gil set to return to Yankees' rotation",
     "Cabreo de Lamine Yamal",
@@ -430,15 +433,9 @@
     "Sinner eases past Zverev to advance to Indian Wells final",
     "Guardiola sympathises - but can he help Haaland out of rut?",
     "WNBA CBA negotiations: New deal by Monday is goal as marathon meeting continues",
-    "Erling Haaland is in a slump, and it has cost Man City the title",
-    "🏀 2026 NBA mock draft: Who's rising and falling?"
+    "Erling Haaland is in a slump, and it has cost Man City the title"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775308388750",
-      "resourceType": "image",
-      "uploadedAt": 1775308389411
-    },
     {
       "publicId": "tvs_cards/card_1775321195494",
       "resourceType": "image",
@@ -483,6 +480,11 @@
       "publicId": "tvs_videos/video_1775392732599",
       "resourceType": "video",
       "uploadedAt": 1775392734118
+    },
+    {
+      "publicId": "tvs_cards/card_1775394883455",
+      "resourceType": "image",
+      "uploadedAt": 1775394884148
     }
   ]
 }
