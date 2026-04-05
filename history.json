@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Gil",
+    "Returns",
     "Mullins",
     "Makes",
     "Lakers",
@@ -28,6 +30,7 @@
     "Takes"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/luis-gil-return-to-yankees-rotation",
     "https://www.sport.es/es/noticias/barca/cabreo-lamine-yamal-128753077?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mens-college-basketball/story/_/id/48391223/braylon-mullins-hometown-hero-greenfield-indiana-uconn-huskies-final-four",
     "https://www.espn.com/nba/story/_/id/48397148/lakers-reaves-oblique-remainder-regular-season",
@@ -226,10 +229,10 @@
     "https://www.espn.com/wnba/story/_/id/47011671/wnba-cba-negotiations-wnbpa-updates-latest-news",
     "https://www.espn.com/soccer/story/_/id/48208913/erling-haaland-slump-cost-man-city-title",
     "https://www.espn.com/nba/story/_/id/48165009/2026-nba-mock-draft-top-30-first-round-picks-march-madness",
-    "https://www.espn.com/nfl/story/_/id/48196399/2026-nfl-free-agency-best-signings-trades-moves-most-improved-teams",
-    "https://www.espn.com/mlb/story/_/id/48185225/mlb-2026-wbc-world-baseball-classic-japan-future-stars"
+    "https://www.espn.com/nfl/story/_/id/48196399/2026-nfl-free-agency-best-signings-trades-moves-most-improved-teams"
   ],
   "postedTitles": [
+    "Gil set to return to Yankees' rotation",
     "Cabreo de Lamine Yamal",
     "Welcome to Mullins Drive: How a small Indiana town is embracing its new March legend",
     "Sources: Lakers' Reaves (oblique) out 4-6 weeks",
@@ -428,15 +431,9 @@
     "WNBA CBA negotiations: New deal by Monday is goal as marathon meeting continues",
     "Erling Haaland is in a slump, and it has cost Man City the title",
     "🏀 2026 NBA mock draft: Who's rising and falling?",
-    "🏈 Which NFL teams have improved most in FA?",
-    "From Team Japan to MLB stars: Who could be next to make the jump?"
+    "🏈 Which NFL teams have improved most in FA?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775292810228",
-      "resourceType": "image",
-      "uploadedAt": 1775292810929
-    },
     {
       "publicId": "tvs_videos/video_1775306189237",
       "resourceType": "video",
@@ -481,6 +478,11 @@
       "publicId": "tvs_videos/video_1775372272644",
       "resourceType": "video",
       "uploadedAt": 1775372273863
+    },
+    {
+      "publicId": "tvs_cards/card_1775379325775",
+      "resourceType": "image",
+      "uploadedAt": 1775379327263
     }
   ]
 }
