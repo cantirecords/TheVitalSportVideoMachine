@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lamine",
+    "Yamal",
     "MLB",
     "Watchability",
     "March",
@@ -46,6 +48,7 @@
     "Takes"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/manolo-lama-piedad-lamine-yamal-128783876?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
     "https://www.espn.com/mlb/story/_/id/48403630/mlb-2026-season-ranking-most-fun-teams-phillies-dodgers-mets-red-sox-yankees",
     "https://www.espn.com/mens-college-basketball/story/_/id/48406601/inside-origin-story-one-shining-moment-march-madness-2026",
@@ -244,10 +247,10 @@
     "https://www.mlb.com/news/mlb-together-teams-up-with-clean-miami-beach-for-cleanup",
     "https://www.espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1",
     "https://www.espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
-    "https://www.espn.com/soccer/story/_/id/48224025/cat-macario-record-nwsl-deal-san-diego-wave",
-    "https://www.espn.com/nba/story/_/id/48221805/sources-nba-set-1st-vote-las-vegas-seattle-expansion"
+    "https://www.espn.com/soccer/story/_/id/48224025/cat-macario-record-nwsl-deal-san-diego-wave"
   ],
   "postedTitles": [
+    "Manolo Lama, sin piedad con Lamine Yamal: \"A este chaval la fama le ha llegado muy pronto\"",
     "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
     "MLB Watchability Index: Which teams are the most fun to watch this season?",
     "How 'One Shining Moment' became men's college hoops legend",
@@ -446,15 +449,9 @@
     "MLB Together, former players pitch in at Miami Beach cleanup",
     "Kiper's new NFL mock draft: How free agency shook up first-round landing spots for top prospects",
     "Reeves-Maybin re-elected as NFLPA president",
-    "Sources: Macario signs with Wave in record deal",
-    "Sources: NBA eyes key 1st vote for expansion"
+    "Sources: Macario signs with Wave in record deal"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775421780658",
-      "resourceType": "image",
-      "uploadedAt": 1775421781490
-    },
     {
       "publicId": "tvs_videos/video_1775439020694",
       "resourceType": "video",
@@ -499,6 +496,11 @@
       "publicId": "tvs_videos/video_1775501162912",
       "resourceType": "video",
       "uploadedAt": 1775501165051
+    },
+    {
+      "publicId": "tvs_cards/card_1775508535862",
+      "resourceType": "image",
+      "uploadedAt": 1775508537093
     }
   ]
 }
