@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "MLB",
+    "Watchability",
     "March",
     "Madness",
     "Vinicius",
@@ -44,6 +46,7 @@
     "Takes"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48403630/mlb-2026-season-ranking-most-fun-teams-phillies-dodgers-mets-red-sox-yankees",
     "https://www.espn.com/mens-college-basketball/story/_/id/48406601/inside-origin-story-one-shining-moment-march-madness-2026",
     "https://www.mlb.com/news/mlb-power-rankings-april-6-2026",
     "https://www.espn.com/soccer/story/_/id/48410071/transfer-rumors-news-premier-league-clubs-real-madrid-vinicius-jr-alert-psg-bayern-keen",
@@ -242,10 +245,10 @@
     "https://www.espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president",
     "https://www.espn.com/soccer/story/_/id/48224025/cat-macario-record-nwsl-deal-san-diego-wave",
     "https://www.espn.com/nba/story/_/id/48221805/sources-nba-set-1st-vote-las-vegas-seattle-expansion",
-    "https://www.espn.com/nba/story/_/id/48228603/kevin-durant-takes-blame-lakers-disrupt-rockets-offense-just-felt-lost-game-us-tonight",
-    "https://www.espn.com/fantasy/football/story/_/id/47899702/nfl-free-agency-2026-fantasy-football-impact-signings-trades-grades"
+    "https://www.espn.com/nba/story/_/id/48228603/kevin-durant-takes-blame-lakers-disrupt-rockets-offense-just-felt-lost-game-us-tonight"
   ],
   "postedTitles": [
+    "MLB Watchability Index: Which teams are the most fun to watch this season?",
     "How 'One Shining Moment' became men's college hoops legend",
     "Hard-charging teams challenge Dodgers atop Power Rankings",
     "Transfer rumors, news: Europe's top clubs on alert over Vinicius Jr. move",
@@ -444,15 +447,9 @@
     "Reeves-Maybin re-elected as NFLPA president",
     "Sources: Macario signs with Wave in record deal",
     "Sources: NBA eyes key 1st vote for expansion",
-    "KD says loss to Lakers on him: 'I'm the offense'",
-    "Fantasy guide to NFL offseason signings: Jets trade Justin Fields to Chiefs"
+    "KD says loss to Lakers on him: 'I'm the offense'"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775407622950",
-      "resourceType": "image",
-      "uploadedAt": 1775407623624
-    },
     {
       "publicId": "tvs_videos/video_1775413937637",
       "resourceType": "video",
@@ -497,6 +494,11 @@
       "publicId": "tvs_cards/card_1775482035710",
       "resourceType": "image",
       "uploadedAt": 1775482036890
+    },
+    {
+      "publicId": "tvs_cards/card_1775494763472",
+      "resourceType": "image",
+      "uploadedAt": 1775494764852
     }
   ]
 }
