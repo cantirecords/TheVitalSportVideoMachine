@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Playoffs",
+    "Heat",
     "LeBron",
     "Lamine",
     "Yamal",
@@ -12,6 +14,7 @@
     "PSV"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48387069/what-watch-biggest-question-last-week-2025-2026-nba-regular-season-playoffs-postseason-standings",
     "https://www.espn.com/nba/story/_/id/48407895/milwaukee-bucks-poke-fun-lebron-james-memphis-nba-comments",
     "https://www.sport.es/es/noticias/barca/manolo-lama-piedad-lamine-yamal-128783876?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
@@ -210,10 +213,10 @@
     "https://www.espn.com/nba/story/_/id/48187694/nba-draft-march-madness-intel-prospects-dybantsa-peterson-boozer-guards",
     "https://www.espn.com/soccer/story/_/id/48232448/los-angeles-world-cup-2026-host-ambassadors-ferrell-luka-doncic-magic-johnson",
     "https://www.mlb.com/news/mlb-together-teams-up-with-clean-miami-beach-for-cleanup",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1",
-    "https://www.espn.com/nfl/story/_/id/48219517/jalen-reeves-maybin-re-elected-nflpa-board-president"
+    "https://www.espn.com/nfl/draft2026/story/_/id/48215816/2026-nfl-mock-draft-kiper-32-picks-predictions-post-free-agency-round-1"
   ],
   "postedTitles": [
+    "Everything that is at stake in the final week of the NBA regular season",
     "Bucks poke fun at LeBron James with caption referencing 'everyone's two favorite cities'",
     "Manolo Lama, sin piedad con Lamine Yamal: \"A este chaval la fama le ha llegado muy pronto\"",
     "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
@@ -412,15 +415,9 @@
     "🏀 Draft intel: Peterson or Dybantsa to go at No. 1?",
     "Will Ferrell, Luka Doncic and more named as Los Angeles World Cup host ambassadors",
     "MLB Together, former players pitch in at Miami Beach cleanup",
-    "Kiper's new NFL mock draft: How free agency shook up first-round landing spots for top prospects",
-    "Reeves-Maybin re-elected as NFLPA president"
+    "Kiper's new NFL mock draft: How free agency shook up first-round landing spots for top prospects"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775439020694",
-      "resourceType": "video",
-      "uploadedAt": 1775439022656
-    },
     {
       "publicId": "tvs_cards/card_1775446161522",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1775525280764",
       "resourceType": "video",
       "uploadedAt": 1775525283125
+    },
+    {
+      "publicId": "tvs_cards/card_1775531962023",
+      "resourceType": "image",
+      "uploadedAt": 1775531962809
     }
   ]
 }
