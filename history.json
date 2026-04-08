@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Faces",
     "Raiders",
     "Draft",
     "Malone",
@@ -30,6 +32,7 @@
     "PSV"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/barcelona-atletico-champions-directo-128859683?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/cx2ly12kppzo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48421594/2026-nfl-draft-las-vegas-raiders-updates-buzz-intel-picks-positions",
     "https://www.espn.com/nba/story/_/id/48380547/nba-mvp-award-straw-poll-sga-wemby-luka-jokic-lead-final-2025-26-update",
@@ -228,10 +231,10 @@
     "https://www.espn.com/soccer/story/_/id/47220729/messi-score-900th-goal-2026-reach-1000-pass-ronaldo",
     "https://www.bbc.com/sport/football/videos/cwy8y201zdjo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48223005/nba-expansion-seattle-las-vegas-draft-format-more-big-questions-teams-2028",
-    "https://www.bbc.com/sport/football/videos/cx2g49094m7o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/wnba/story/_/id/48246061/projected-wnba-salary-cap-set-exceed-10-million-end-new-cba"
+    "https://www.bbc.com/sport/football/videos/cx2g49094m7o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Barcelona - Atlético, en directo: última hora de la Champions League y toda la previa, en vivo",
     "Can you name every F1 constructors' champion?",
     "What we're hearing on the Raiders' draft plans: Intel on the No. 1 pick, team needs",
     "🏆 Final NBA MVP and ROY straw poll",
@@ -430,15 +433,9 @@
     "Lionel Messi has scored his 900th career goal! Can he reach 1,000? Can he pass Ronaldo?",
     "Kane scores 'exceptional' goal to reach 50 Champions League goals ",
     "🏀 Everything we know about NBA expansion",
-    "Tudor gets first Tottenham win but Spurs lose tie against Atletico Madrid",
-    "Sources: WNBA cap set to top $10M by end of CBA"
+    "Tudor gets first Tottenham win but Spurs lose tie against Atletico Madrid"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775566901466",
-      "resourceType": "video",
-      "uploadedAt": 1775566903238
-    },
     {
       "publicId": "tvs_cards/card_1775569934378",
       "resourceType": "image",
@@ -488,6 +485,11 @@
       "publicId": "tvs_videos/video_1775653335244",
       "resourceType": "video",
       "uploadedAt": 1775653337339
+    },
+    {
+      "publicId": "tvs_cards/card_1775656307343",
+      "resourceType": "image",
+      "uploadedAt": 1775656309191
     }
   ]
 }
