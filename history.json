@@ -30,6 +30,7 @@
     "PSV"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/cx2ly12kppzo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48421594/2026-nfl-draft-las-vegas-raiders-updates-buzz-intel-picks-positions",
     "https://www.espn.com/nba/story/_/id/48380547/nba-mvp-award-straw-poll-sga-wemby-luka-jokic-lead-final-2025-26-update",
     "https://www.espn.com/mens-college-basketball/story/_/id/48425089/malone-sees-chance-part-special-unc",
@@ -228,10 +229,10 @@
     "https://www.bbc.com/sport/football/videos/cwy8y201zdjo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48223005/nba-expansion-seattle-las-vegas-draft-format-more-big-questions-teams-2028",
     "https://www.bbc.com/sport/football/videos/cx2g49094m7o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/wnba/story/_/id/48246061/projected-wnba-salary-cap-set-exceed-10-million-end-new-cba",
-    "https://www.mlb.com/news/shohei-ohtani-makes-spring-pitching-debut-for-dodgers"
+    "https://www.espn.com/wnba/story/_/id/48246061/projected-wnba-salary-cap-set-exceed-10-million-end-new-cba"
   ],
   "postedTitles": [
+    "Can you name every F1 constructors' champion?",
     "What we're hearing on the Raiders' draft plans: Intel on the No. 1 pick, team needs",
     "🏆 Final NBA MVP and ROY straw poll",
     "NBA vet Malone sees 'special' opportunity at UNC",
@@ -430,15 +431,9 @@
     "Kane scores 'exceptional' goal to reach 50 Champions League goals ",
     "🏀 Everything we know about NBA expansion",
     "Tudor gets first Tottenham win but Spurs lose tie against Atletico Madrid",
-    "Sources: WNBA cap set to top $10M by end of CBA",
-    "Ohtani (4 K's) matches Arizona heat in impressive spring pitching debut"
+    "Sources: WNBA cap set to top $10M by end of CBA"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775553280690",
-      "resourceType": "image",
-      "uploadedAt": 1775553281390
-    },
     {
       "publicId": "tvs_videos/video_1775566901466",
       "resourceType": "video",
@@ -488,6 +483,11 @@
       "publicId": "tvs_cards/card_1775639639613",
       "resourceType": "image",
       "uploadedAt": 1775639640830
+    },
+    {
+      "publicId": "tvs_videos/video_1775653335244",
+      "resourceType": "video",
+      "uploadedAt": 1775653337339
     }
   ]
 }
