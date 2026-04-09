@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Warriors",
+    "Rest",
     "Verstappen",
     "Lavonte",
     "David",
@@ -12,6 +14,7 @@
     "Retro"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48440781/steph-lebron-play-regular-season-warriors-rest-curry",
     "https://www.espn.com/f1/story/_/id/48438624/max-verstappen-inner-circle-gianpiero-lambiase-unravelling-red-bull-hopes-keeping-f1-2026",
     "https://www.espn.com/nfl/story/_/id/48437813/lavonte-david-hall-fame-buccaneers",
     "https://www.bbc.com/sport/formula1/articles/ce3dy3z10ddo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.espn.com/soccer/story/_/id/48257794/cristiano-ronaldo-not-portugal-squad-pre-world-cup-friendlies",
     "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry",
     "https://www.espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out",
-    "https://www.espn.com/nfl/story/_/id/48243366/seattle-seahawks-running-back-plans-replace-ken-walker-zach-charbonnet-emanuel-wilson",
-    "https://www.espn.com/soccer/story/_/id/48241898/weekend-predictions-arsenal-man-city-carabao-cup-laliga-real-madrid-atletico-madrid-julien-laurens"
+    "https://www.espn.com/nfl/story/_/id/48243366/seattle-seahawks-running-back-plans-replace-ken-walker-zach-charbonnet-emanuel-wilson"
   ],
   "postedTitles": [
+    "Warriors to rest Steph (knee) vs. LeBron, Lakers",
     "Max Verstappen's inner circle is unravelling -- and so are Red Bull's hopes of keeping him",
     "How strong is former Bucs LB Lavonte David's Hall of Fame case? We compared it to legends in Canton",
     "What do you think is the most beautiful F1 car of all time?",
@@ -412,20 +415,9 @@
     "Ronaldo to miss Portugal games vs. U.S., Mexico",
     "'They're not even close': Why a Giannis trade might be even more complicated this summer",
     "NFL to consider 5-year window for pick trades",
-    "After letting the Super Bowl MVP walk, what's the Seahawks' plan at running back?",
-    "Weekend predictions: Arsenal or Man City to win Carabao final? Who takes Madrid derby?"
+    "After letting the Super Bowl MVP walk, what's the Seahawks' plan at running back?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775675161257",
-      "resourceType": "video",
-      "uploadedAt": 1775675163614
-    },
-    {
-      "publicId": "tvs_cards/card_1775681725700",
-      "resourceType": "image",
-      "uploadedAt": 1775681727094
-    },
     {
       "publicId": "tvs_videos/video_1775697608827",
       "resourceType": "video",
@@ -470,6 +462,11 @@
       "publicId": "tvs_videos/video_1775760819093",
       "resourceType": "video",
       "uploadedAt": 1775760820952
+    },
+    {
+      "publicId": "tvs_cards/card_1775768418386",
+      "resourceType": "image",
+      "uploadedAt": 1775768419366
     }
   ]
 }
