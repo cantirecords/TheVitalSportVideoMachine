@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Teams",
     "Retro",
     "Shirts",
     "Salah",
@@ -38,6 +40,7 @@
     "PSV"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48414627/nba-tanking-adam-silver-league-problem-solutions-epidemic",
     "https://www.bbc.com/sport/articles/c98gx75eyl1o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lewandowski-aval-estadistico-volver-once-128847523?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48430707/mohamed-salah-bench-liverpool-quarterfinal-psg-champions-league",
@@ -236,10 +239,10 @@
     "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8",
     "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly",
     "https://www.sport.es/es/noticias/barca/alivio-barca-joan-garcia-comunicado-128164657?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-raphinha-edu-aguirre-elige-mejor-jugador-barca-128155057?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48174027/27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments"
+    "https://www.sport.es/es/noticias/barca/lamine-yamal-raphinha-edu-aguirre-elige-mejor-jugador-barca-128155057?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Inside the 'strange phenomenon' the NBA is struggling to contain",
     "Why La Liga teams will play in retro shirts this weekend",
     "Lewandowski, el aval estadístico para volver al once de la Champions",
     "Salah benched for Liverpool quarterfinal with PSG",
@@ -438,20 +441,9 @@
     "Luka puts up 60 vs. Heat as Lakers stay hot",
     "Champions League quarterfinal preview, predictions: Barcelona to keep rolling?",
     "Alivio en el Barça con Joan Garcia: comunicado oficial sobre la lesión ante el Newcastle",
-    "Ni Lamine Yamal ni Raphinha: Edu Aguirre elige al mejor jugador del Barça",
-    "LeBron is back in Miami, where he was at his career best"
+    "Ni Lamine Yamal ni Raphinha: Edu Aguirre elige al mejor jugador del Barça"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775618492333",
-      "resourceType": "image",
-      "uploadedAt": 1775618493958
-    },
-    {
-      "publicId": "tvs_cards/card_1775627505309",
-      "resourceType": "image",
-      "uploadedAt": 1775627506213
-    },
     {
       "publicId": "tvs_videos/video_1775632171271",
       "resourceType": "video",
@@ -496,6 +488,11 @@
       "publicId": "tvs_cards/card_1775703420566",
       "resourceType": "image",
       "uploadedAt": 1775703421915
+    },
+    {
+      "publicId": "tvs_cards/card_1775714001201",
+      "resourceType": "image",
+      "uploadedAt": 1775714001904
     }
   ]
 }
