@@ -42,6 +42,7 @@
     "PSV"
   ],
   "postedUrls": [
+    "https://www.espn.com/racing/f1/story/_/id/48428690/the-good-bad-ugly-f1-new-2026-regulationsthe-good-bad-ugly-f1-new-2026-regulations",
     "https://www.mlb.com/news/shohei-ohtani-start-vs-blue-jays",
     "https://www.mlb.com/news/blue-jays-come-back-to-beat-dodgers-snap-six-game-losing-streak",
     "https://www.espn.com/nba/story/_/id/48414627/nba-tanking-adam-silver-league-problem-solutions-epidemic",
@@ -240,10 +241,10 @@
     "https://www.espn.com/soccer/story/_/id/48241898/weekend-predictions-arsenal-man-city-carabao-cup-laliga-real-madrid-atletico-madrid-julien-laurens",
     "https://www.bbc.com/sport/snooker/articles/cn4391l3lvxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48254395/charlotte-hornets-retire-dell-curry-no-30-jersey",
-    "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8",
-    "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly"
+    "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8"
   ],
   "postedTitles": [
+    "The good, the bad and the ugly of F1's new 2026 regulations",
     "Ohtani ties Ichiro for longest on-base streak by Japanese-born player",
     "Blue Jays' rally over Dodgers a sign of life from gritty '25 identity",
     "Inside the 'strange phenomenon' the NBA is struggling to contain",
@@ -442,8 +443,7 @@
     "Weekend predictions: Arsenal or Man City to win Carabao final? Who takes Madrid derby?",
     "O'Sullivan makes snooker's highest break with historic 153",
     "Dell Curry fights back tears as No. 30 retired",
-    "Luka puts up 60 vs. Heat as Lakers stay hot",
-    "Champions League quarterfinal preview, predictions: Barcelona to keep rolling?"
+    "Luka puts up 60 vs. Heat as Lakers stay hot"
   ],
   "cloudinaryAssets": [
     {
@@ -495,6 +495,11 @@
       "publicId": "tvs_cards/card_1775726392745",
       "resourceType": "image",
       "uploadedAt": 1775726393640
+    },
+    {
+      "publicId": "tvs_videos/video_1775739814681",
+      "resourceType": "video",
+      "uploadedAt": 1775739816273
     }
   ]
 }
