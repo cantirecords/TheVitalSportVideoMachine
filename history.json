@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Verstappen",
     "Lavonte",
     "David",
     "Ferrari",
@@ -8,44 +9,10 @@
     "Makes",
     "NBA",
     "Teams",
-    "Retro",
-    "Shirts",
-    "Salah",
-    "Dropped",
-    "Thunder",
-    "Roll",
-    "Barcelona",
-    "Faces",
-    "Raiders",
-    "Draft",
-    "Malone",
-    "Takes",
-    "Schrager",
-    "Projects",
-    "Aston",
-    "Martin",
-    "Real",
-    "Madrid",
-    "Puyol",
-    "Reveals",
-    "Record",
-    "Stand",
-    "Barça",
-    "Faces",
-    "Playoffs",
-    "Heat",
-    "LeBron",
-    "Lamine",
-    "Yamal",
-    "MLB",
-    "Watchability",
-    "March",
-    "Madness",
-    "Vinicius",
-    "Jr",
-    "PSV"
+    "Retro"
   ],
   "postedUrls": [
+    "https://www.espn.com/f1/story/_/id/48438624/max-verstappen-inner-circle-gianpiero-lambiase-unravelling-red-bull-hopes-keeping-f1-2026",
     "https://www.espn.com/nfl/story/_/id/48437813/lavonte-david-hall-fame-buccaneers",
     "https://www.bbc.com/sport/formula1/articles/ce3dy3z10ddo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/racing/f1/story/_/id/48428690/the-good-bad-ugly-f1-new-2026-regulationsthe-good-bad-ugly-f1-new-2026-regulations",
@@ -244,10 +211,10 @@
     "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry",
     "https://www.espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out",
     "https://www.espn.com/nfl/story/_/id/48243366/seattle-seahawks-running-back-plans-replace-ken-walker-zach-charbonnet-emanuel-wilson",
-    "https://www.espn.com/soccer/story/_/id/48241898/weekend-predictions-arsenal-man-city-carabao-cup-laliga-real-madrid-atletico-madrid-julien-laurens",
-    "https://www.bbc.com/sport/snooker/articles/cn4391l3lvxo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48241898/weekend-predictions-arsenal-man-city-carabao-cup-laliga-real-madrid-atletico-madrid-julien-laurens"
   ],
   "postedTitles": [
+    "Max Verstappen's inner circle is unravelling -- and so are Red Bull's hopes of keeping him",
     "How strong is former Bucs LB Lavonte David's Hall of Fame case? We compared it to legends in Canton",
     "What do you think is the most beautiful F1 car of all time?",
     "The good, the bad and the ugly of F1's new 2026 regulations",
@@ -446,8 +413,7 @@
     "'They're not even close': Why a Giannis trade might be even more complicated this summer",
     "NFL to consider 5-year window for pick trades",
     "After letting the Super Bowl MVP walk, what's the Seahawks' plan at running back?",
-    "Weekend predictions: Arsenal or Man City to win Carabao final? Who takes Madrid derby?",
-    "O'Sullivan makes snooker's highest break with historic 153"
+    "Weekend predictions: Arsenal or Man City to win Carabao final? Who takes Madrid derby?"
   ],
   "cloudinaryAssets": [
     {
@@ -499,6 +465,11 @@
       "publicId": "tvs_cards/card_1775755019467",
       "resourceType": "image",
       "uploadedAt": 1775755021043
+    },
+    {
+      "publicId": "tvs_videos/video_1775760819093",
+      "resourceType": "video",
+      "uploadedAt": 1775760820952
     }
   ]
 }
