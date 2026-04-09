@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lavonte",
+    "David",
     "Ferrari",
     "156",
     "Ohtani",
@@ -44,6 +46,7 @@
     "PSV"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48437813/lavonte-david-hall-fame-buccaneers",
     "https://www.bbc.com/sport/formula1/articles/ce3dy3z10ddo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/racing/f1/story/_/id/48428690/the-good-bad-ugly-f1-new-2026-regulationsthe-good-bad-ugly-f1-new-2026-regulations",
     "https://www.mlb.com/news/shohei-ohtani-start-vs-blue-jays",
@@ -242,10 +245,10 @@
     "https://www.espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out",
     "https://www.espn.com/nfl/story/_/id/48243366/seattle-seahawks-running-back-plans-replace-ken-walker-zach-charbonnet-emanuel-wilson",
     "https://www.espn.com/soccer/story/_/id/48241898/weekend-predictions-arsenal-man-city-carabao-cup-laliga-real-madrid-atletico-madrid-julien-laurens",
-    "https://www.bbc.com/sport/snooker/articles/cn4391l3lvxo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48254395/charlotte-hornets-retire-dell-curry-no-30-jersey"
+    "https://www.bbc.com/sport/snooker/articles/cn4391l3lvxo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "How strong is former Bucs LB Lavonte David's Hall of Fame case? We compared it to legends in Canton",
     "What do you think is the most beautiful F1 car of all time?",
     "The good, the bad and the ugly of F1's new 2026 regulations",
     "Ohtani ties Ichiro for longest on-base streak by Japanese-born player",
@@ -444,15 +447,9 @@
     "NFL to consider 5-year window for pick trades",
     "After letting the Super Bowl MVP walk, what's the Seahawks' plan at running back?",
     "Weekend predictions: Arsenal or Man City to win Carabao final? Who takes Madrid derby?",
-    "O'Sullivan makes snooker's highest break with historic 153",
-    "Dell Curry fights back tears as No. 30 retired"
+    "O'Sullivan makes snooker's highest break with historic 153"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775668547099",
-      "resourceType": "image",
-      "uploadedAt": 1775668548465
-    },
     {
       "publicId": "tvs_videos/video_1775675161257",
       "resourceType": "video",
@@ -497,6 +494,11 @@
       "publicId": "tvs_cards/card_1775743536285",
       "resourceType": "image",
       "uploadedAt": 1775743537603
+    },
+    {
+      "publicId": "tvs_cards/card_1775755019467",
+      "resourceType": "image",
+      "uploadedAt": 1775755021043
     }
   ]
 }
