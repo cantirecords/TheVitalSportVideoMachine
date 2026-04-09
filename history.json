@@ -40,6 +40,7 @@
     "PSV"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/blue-jays-come-back-to-beat-dodgers-snap-six-game-losing-streak",
     "https://www.espn.com/nba/story/_/id/48414627/nba-tanking-adam-silver-league-problem-solutions-epidemic",
     "https://www.bbc.com/sport/articles/c98gx75eyl1o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lewandowski-aval-estadistico-volver-once-128847523?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -238,10 +239,10 @@
     "https://www.espn.com/nba/story/_/id/48254395/charlotte-hornets-retire-dell-curry-no-30-jersey",
     "https://www.espn.com/nba/story/_/id/48255013/luka-doncic-puts-60-vs-heat-lakers-win-streak-hits-8",
     "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly",
-    "https://www.sport.es/es/noticias/barca/alivio-barca-joan-garcia-comunicado-128164657?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-raphinha-edu-aguirre-elige-mejor-jugador-barca-128155057?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/alivio-barca-joan-garcia-comunicado-128164657?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Blue Jays' rally over Dodgers a sign of life from gritty '25 identity",
     "Inside the 'strange phenomenon' the NBA is struggling to contain",
     "Why La Liga teams will play in retro shirts this weekend",
     "Lewandowski, el aval estadístico para volver al once de la Champions",
@@ -440,15 +441,9 @@
     "Dell Curry fights back tears as No. 30 retired",
     "Luka puts up 60 vs. Heat as Lakers stay hot",
     "Champions League quarterfinal preview, predictions: Barcelona to keep rolling?",
-    "Alivio en el Barça con Joan Garcia: comunicado oficial sobre la lesión ante el Newcastle",
-    "Ni Lamine Yamal ni Raphinha: Edu Aguirre elige al mejor jugador del Barça"
+    "Alivio en el Barça con Joan Garcia: comunicado oficial sobre la lesión ante el Newcastle"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775632171271",
-      "resourceType": "video",
-      "uploadedAt": 1775632173469
-    },
     {
       "publicId": "tvs_cards/card_1775639639613",
       "resourceType": "image",
@@ -493,6 +488,11 @@
       "publicId": "tvs_cards/card_1775714001201",
       "resourceType": "image",
       "uploadedAt": 1775714001904
+    },
+    {
+      "publicId": "tvs_videos/video_1775718813475",
+      "resourceType": "video",
+      "uploadedAt": 1775718815451
     }
   ]
 }
