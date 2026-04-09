@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Retro",
+    "Shirts",
     "Salah",
     "Dropped",
     "Thunder",
@@ -36,6 +38,7 @@
     "PSV"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/articles/c98gx75eyl1o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lewandowski-aval-estadistico-volver-once-128847523?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48430707/mohamed-salah-bench-liverpool-quarterfinal-psg-champions-league",
     "https://www.bbc.com/sport/formula1/articles/cp9v7ppd004o?at_medium=RSS&at_campaign=rss",
@@ -234,10 +237,10 @@
     "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly",
     "https://www.sport.es/es/noticias/barca/alivio-barca-joan-garcia-comunicado-128164657?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-raphinha-edu-aguirre-elige-mejor-jugador-barca-128155057?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48174027/27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments",
-    "https://www.espn.com/nba/story/_/id/48242289/sources-bucks-want-shut-giannis-antetokounmpo-season"
+    "https://www.espn.com/nba/story/_/id/48174027/27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments"
   ],
   "postedTitles": [
+    "Why La Liga teams will play in retro shirts this weekend",
     "Lewandowski, el aval estadístico para volver al once de la Champions",
     "Salah benched for Liverpool quarterfinal with PSG",
     "Why tweaks - not major changes -  expected to F1's rules",
@@ -436,15 +439,9 @@
     "Champions League quarterfinal preview, predictions: Barcelona to keep rolling?",
     "Alivio en el Barça con Joan Garcia: comunicado oficial sobre la lesión ante el Newcastle",
     "Ni Lamine Yamal ni Raphinha: Edu Aguirre elige al mejor jugador del Barça",
-    "LeBron is back in Miami, where he was at his career best",
-    "Sources: Giannis refuses Bucks' shutdown pitch"
+    "LeBron is back in Miami, where he was at his career best"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775611728936",
-      "resourceType": "video",
-      "uploadedAt": 1775611730812
-    },
     {
       "publicId": "tvs_cards/card_1775618492333",
       "resourceType": "image",
@@ -494,6 +491,11 @@
       "publicId": "tvs_videos/video_1775697608827",
       "resourceType": "video",
       "uploadedAt": 1775697610220
+    },
+    {
+      "publicId": "tvs_cards/card_1775703420566",
+      "resourceType": "image",
+      "uploadedAt": 1775703421915
     }
   ]
 }
