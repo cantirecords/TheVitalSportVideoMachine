@@ -16,6 +16,7 @@
     "Makes"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
     "https://www.espn.com/mens-college-basketball/story/_/id/48440648/stanford-star-freshman-ebuka-okorie-declares-nba-draft",
     "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications",
     "https://www.sport.es/es/noticias/barca/no-vio-barca-atletico-kovacs-flick-lamine-remontada-128886984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -214,10 +215,10 @@
     "https://www.espn.com/mens-college-basketball/story/_/id/48263821/ncaa-sues-draftkings-march-madness-trademark-infringement",
     "https://www.espn.com/soccer/story/_/id/48256557/transfer-rumors-news-chelsea-want-extend-enzo-fernandez-amid-psg-real-madrid",
     "https://www.bbc.com/sport/swimming/articles/c17vg19rx9eo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/48251150/mlb-2026-spring-training-takeaways-lessons-mcgonigle-mclain-skubal-lombard",
-    "https://www.espn.com/soccer/story/_/id/48257794/cristiano-ronaldo-not-portugal-squad-pre-world-cup-friendlies"
+    "https://www.espn.com/mlb/story/_/id/48251150/mlb-2026-spring-training-takeaways-lessons-mcgonigle-mclain-skubal-lombard"
   ],
   "postedTitles": [
+    "'Legend' Robertson to leave Liverpool in summer",
     "Stanford star freshman Okorie declares for draft",
     "NBA teams all want to play faster -- but it might be making them worse",
     "Lo que no se vio del Barça - Atlético: Kovács sacó de sus casillas a Flick, la frustración de Lamine y la primera piedra de la remontada",
@@ -416,15 +417,9 @@
     "NCAA sues DraftKings for trademark infringement",
     "Transfer rumors, news: Mohamed Salah debating Saudi Pro League move",
     "McEvoy breaks long-standing 50m freestyle world record",
-    "Olney: The 7 things I took away from MLB spring training",
-    "Ronaldo to miss Portugal games vs. U.S., Mexico"
+    "Olney: The 7 things I took away from MLB spring training"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775718813475",
-      "resourceType": "video",
-      "uploadedAt": 1775718815451
-    },
     {
       "publicId": "tvs_cards/card_1775726392745",
       "resourceType": "image",
@@ -469,6 +464,11 @@
       "publicId": "tvs_cards/card_1775801057588",
       "resourceType": "image",
       "uploadedAt": 1775801058944
+    },
+    {
+      "publicId": "tvs_videos/video_1775805509386",
+      "resourceType": "video",
+      "uploadedAt": 1775805510930
     }
   ]
 }
