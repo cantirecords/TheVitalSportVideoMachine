@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Teams",
     "Barça",
     "Warriors",
     "Rest",
@@ -12,6 +14,7 @@
     "Makes"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications",
     "https://www.sport.es/es/noticias/barca/no-vio-barca-atletico-kovacs-flick-lamine-remontada-128886984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48440781/steph-lebron-play-regular-season-warriors-rest-curry",
     "https://www.espn.com/f1/story/_/id/48438624/max-verstappen-inner-circle-gianpiero-lambiase-unravelling-red-bull-hopes-keeping-f1-2026",
@@ -210,10 +213,10 @@
     "https://www.bbc.com/sport/swimming/articles/c17vg19rx9eo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48251150/mlb-2026-spring-training-takeaways-lessons-mcgonigle-mclain-skubal-lombard",
     "https://www.espn.com/soccer/story/_/id/48257794/cristiano-ronaldo-not-portugal-squad-pre-world-cup-friendlies",
-    "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry",
-    "https://www.espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out"
+    "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry"
   ],
   "postedTitles": [
+    "NBA teams all want to play faster -- but it might be making them worse",
     "Lo que no se vio del Barça - Atlético: Kovács sacó de sus casillas a Flick, la frustración de Lamine y la primera piedra de la remontada",
     "Warriors to rest Steph (knee) vs. LeBron, Lakers",
     "Max Verstappen's inner circle is unravelling -- and so are Red Bull's hopes of keeping him",
@@ -412,15 +415,9 @@
     "McEvoy breaks long-standing 50m freestyle world record",
     "Olney: The 7 things I took away from MLB spring training",
     "Ronaldo to miss Portugal games vs. U.S., Mexico",
-    "'They're not even close': Why a Giannis trade might be even more complicated this summer",
-    "NFL to consider 5-year window for pick trades"
+    "'They're not even close': Why a Giannis trade might be even more complicated this summer"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775703420566",
-      "resourceType": "image",
-      "uploadedAt": 1775703421915
-    },
     {
       "publicId": "tvs_cards/card_1775714001201",
       "resourceType": "image",
@@ -465,6 +462,11 @@
       "publicId": "tvs_videos/video_1775784601105",
       "resourceType": "video",
       "uploadedAt": 1775784602661
+    },
+    {
+      "publicId": "tvs_cards/card_1775791770119",
+      "resourceType": "image",
+      "uploadedAt": 1775791770889
     }
   ]
 }
