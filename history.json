@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "Brewers",
     "Rise",
     "Ebuka",
@@ -8,16 +9,10 @@
     "Teams",
     "Barça",
     "Warriors",
-    "Rest",
-    "Verstappen",
-    "Lavonte",
-    "David",
-    "Ferrari",
-    "156",
-    "Ohtani",
-    "Makes"
+    "Rest"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/rafa-yuste-presidente-fc-barcelona-128915885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48429192/mlb-2026-power-rankings-week-2-dodgers-yankees-brewers-pirates-red-sox",
     "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
     "https://www.espn.com/mens-college-basketball/story/_/id/48440648/stanford-star-freshman-ebuka-okorie-declares-nba-draft",
@@ -216,10 +211,10 @@
     "https://www.mlb.com/news/andrew-painter-to-make-phillies-opening-day-roster-2026",
     "https://www.espn.com/nba/story/_/id/48185582/nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more",
     "https://www.espn.com/mens-college-basketball/story/_/id/48263821/ncaa-sues-draftkings-march-madness-trademark-infringement",
-    "https://www.espn.com/soccer/story/_/id/48256557/transfer-rumors-news-chelsea-want-extend-enzo-fernandez-amid-psg-real-madrid",
-    "https://www.bbc.com/sport/swimming/articles/c17vg19rx9eo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48256557/transfer-rumors-news-chelsea-want-extend-enzo-fernandez-amid-psg-real-madrid"
   ],
   "postedTitles": [
+    "Rafa Yuste, presidente del FC Barcelona: \"Cuando los árbitros se equivocan tanto hay que denunciarlo\"",
     "MLB Power Rankings: Brewers, Pirates rise as Red Sox fall in Week 2",
     "'Legend' Robertson to leave Liverpool in summer",
     "Stanford star freshman Okorie declares for draft",
@@ -418,15 +413,9 @@
     "Painter to make Phillies' Opening Day roster; MLB debut set for March 31",
     "Biggest questions, projections and more: Storylines to watch ahead of NBA playoffs",
     "NCAA sues DraftKings for trademark infringement",
-    "Transfer rumors, news: Mohamed Salah debating Saudi Pro League move",
-    "McEvoy breaks long-standing 50m freestyle world record"
+    "Transfer rumors, news: Mohamed Salah debating Saudi Pro League move"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775726392745",
-      "resourceType": "image",
-      "uploadedAt": 1775726393640
-    },
     {
       "publicId": "tvs_videos/video_1775739814681",
       "resourceType": "video",
@@ -476,6 +465,11 @@
       "publicId": "tvs_cards/card_1775812776545",
       "resourceType": "image",
       "uploadedAt": 1775812778363
+    },
+    {
+      "publicId": "tvs_videos/video_1775825420687",
+      "resourceType": "video",
+      "uploadedAt": 1775825423081
     }
   ]
 }
