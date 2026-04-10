@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "Warriors",
     "Rest",
     "Verstappen",
@@ -8,12 +9,10 @@
     "Ferrari",
     "156",
     "Ohtani",
-    "Makes",
-    "NBA",
-    "Teams",
-    "Retro"
+    "Makes"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/no-vio-barca-atletico-kovacs-flick-lamine-remontada-128886984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48440781/steph-lebron-play-regular-season-warriors-rest-curry",
     "https://www.espn.com/f1/story/_/id/48438624/max-verstappen-inner-circle-gianpiero-lambiase-unravelling-red-bull-hopes-keeping-f1-2026",
     "https://www.espn.com/nfl/story/_/id/48437813/lavonte-david-hall-fame-buccaneers",
@@ -212,10 +211,10 @@
     "https://www.espn.com/mlb/story/_/id/48251150/mlb-2026-spring-training-takeaways-lessons-mcgonigle-mclain-skubal-lombard",
     "https://www.espn.com/soccer/story/_/id/48257794/cristiano-ronaldo-not-portugal-squad-pre-world-cup-friendlies",
     "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry",
-    "https://www.espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out",
-    "https://www.espn.com/nfl/story/_/id/48243366/seattle-seahawks-running-back-plans-replace-ken-walker-zach-charbonnet-emanuel-wilson"
+    "https://www.espn.com/nfl/story/_/id/48243911/browns-propose-nfl-rule-change-allow-pick-trades-5-years-out"
   ],
   "postedTitles": [
+    "Lo que no se vio del Barça - Atlético: Kovács sacó de sus casillas a Flick, la frustración de Lamine y la primera piedra de la remontada",
     "Warriors to rest Steph (knee) vs. LeBron, Lakers",
     "Max Verstappen's inner circle is unravelling -- and so are Red Bull's hopes of keeping him",
     "How strong is former Bucs LB Lavonte David's Hall of Fame case? We compared it to legends in Canton",
@@ -414,15 +413,9 @@
     "Olney: The 7 things I took away from MLB spring training",
     "Ronaldo to miss Portugal games vs. U.S., Mexico",
     "'They're not even close': Why a Giannis trade might be even more complicated this summer",
-    "NFL to consider 5-year window for pick trades",
-    "After letting the Super Bowl MVP walk, what's the Seahawks' plan at running back?"
+    "NFL to consider 5-year window for pick trades"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775697608827",
-      "resourceType": "video",
-      "uploadedAt": 1775697610220
-    },
     {
       "publicId": "tvs_cards/card_1775703420566",
       "resourceType": "image",
@@ -467,6 +460,11 @@
       "publicId": "tvs_cards/card_1775768418386",
       "resourceType": "image",
       "uploadedAt": 1775768419366
+    },
+    {
+      "publicId": "tvs_videos/video_1775784601105",
+      "resourceType": "video",
+      "uploadedAt": 1775784602661
     }
   ]
 }
