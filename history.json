@@ -18,6 +18,7 @@
     "Rise"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48454128/muncy-caps-3-hr-night-walk-dodgers-rally-rangers",
     "https://www.espn.com/mlb/story/_/id/48370280/mlb-2026-free-agency-ranking-best-worst-free-agent-signings-ever-50th-anniversary",
     "https://www.mlb.com/news/brandon-valenzuela-hits-first-career-home-run-in-blue-jays-win",
     "https://www.espn.com/nba/story/_/id/48453474/nba-friday-slate-sees-least-168-injury-illness",
@@ -216,10 +217,10 @@
     "https://www.bbc.com/sport/basketball/articles/ckgwmwgg377o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/c15d3ll2yd9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48276200/kennard-hits-last-second-3-lakers-win-lebron-record-day",
-    "https://www.marca.com/futbol/elche/2026/03/21/elche-mallorca-horario-ver-hoy-tv-online-partido-liga.html",
-    "https://www.bbc.com/sport/football/articles/crk1dzp4kyyo?at_medium=RSS&at_campaign=rss"
+    "https://www.marca.com/futbol/elche/2026/03/21/elche-mallorca-horario-ver-hoy-tv-online-partido-liga.html"
   ],
   "postedTitles": [
+    "Dodgers' Muncy caps 3-HR night with walk-off shot",
     "Free agency turns 50: Ranking the best -- and worst -- signings in MLB history",
     "Valenzuela makes his mark with go-ahead blast for 1st MLB HR",
     "SGA, Jokic among at least 168 out NBA-wide Fri.",
@@ -418,15 +419,9 @@
     "James sets NBA appearance record in late Lakers win",
     "Kane & Olise score as Bayern beat Union Berlin",
     "Kennard steals show, wins it for red-hot Lakers",
-    "Elche - Mallorca: Horario y dónde ver hoy en TV y online el partido de la Liga",
-    "'It's not Allan, it's Arne' - Tudor explains viral moment"
+    "Elche - Mallorca: Horario y dónde ver hoy en TV y online el partido de la Liga"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775812776545",
-      "resourceType": "image",
-      "uploadedAt": 1775812778363
-    },
     {
       "publicId": "tvs_videos/video_1775825420687",
       "resourceType": "video",
@@ -476,6 +471,11 @@
       "publicId": "tvs_cards/card_1775897745596",
       "resourceType": "image",
       "uploadedAt": 1775897746517
+    },
+    {
+      "publicId": "tvs_videos/video_1775911101391",
+      "resourceType": "video",
+      "uploadedAt": 1775911103677
     }
   ]
 }
