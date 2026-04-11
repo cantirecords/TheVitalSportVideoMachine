@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Liverpool",
+    "Wins",
     "Barça",
     "Gets",
     "McIlroy",
@@ -22,6 +24,7 @@
     "Rise"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48459195/liverpool-arne-slot-=long-term-future-rio-ngumoha-scored-salah-goal",
     "https://www.espn.com/wnba/story/_/id/48413293/wnba-free-agency-trade-tracker-2026-deals-news-transactions",
     "https://www.sport.es/es/noticias/barca/posibles-regresos-sonados-once-barca-128966748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/golf/story/_/id/48451876/rory-mcilroy-leads-6-shots-set-36-hole-record-masters",
@@ -220,10 +223,10 @@
     "https://www.skysports.com/tennis/news/12040/13523245/miami-open-carlos-alcaraz-stunned-by-sebastian-korda-as-world-no-1-exits-tournament-early-again",
     "https://www.espn.com/soccer/report/_/gameId/761510",
     "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/basketball/articles/ckgwmwgg377o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Slot hails 'special' Ngumoha after Salah-like goal",
     "WNBA free agency and trade tracker: Skylar Diggins to Chicago, Satou Sabally to Liberty",
     "Dos posibles regresos sonados al once del Barça para el derbi",
     "Red-hot Rory sets Masters record with 6-shot lead",
@@ -422,15 +425,9 @@
     "Alcaraz stunned by Korda at Miami Open",
     "Messi keys Bronx rally in Miami win over NYCFC",
     "'Heartbreaking' - fighter pay debate laid bare at UFC London",
-    "Jorginho's criticism of Chappell Roan over daughter's tears goes viral",
-    "James sets NBA appearance record in late Lakers win"
+    "Jorginho's criticism of Chappell Roan over daughter's tears goes viral"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775846505957",
-      "resourceType": "video",
-      "uploadedAt": 1775846507721
-    },
     {
       "publicId": "tvs_cards/card_1775854188640",
       "resourceType": "image",
@@ -480,6 +477,11 @@
       "publicId": "tvs_videos/video_1775932385996",
       "resourceType": "video",
       "uploadedAt": 1775932387819
+    },
+    {
+      "publicId": "tvs_cards/card_1775940249909",
+      "resourceType": "image",
+      "uploadedAt": 1775940251291
     }
   ]
 }
