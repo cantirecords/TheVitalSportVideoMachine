@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Gets",
     "McIlroy",
     "Leads",
     "Barry",
@@ -20,6 +22,7 @@
     "Rise"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/posibles-regresos-sonados-once-barca-128966748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/golf/story/_/id/48451876/rory-mcilroy-leads-6-shots-set-36-hole-record-masters",
     "https://www.espn.com/mlb/story/_/id/48454128/muncy-caps-3-hr-night-walk-dodgers-rally-rangers",
     "https://www.espn.com/mlb/story/_/id/48370280/mlb-2026-free-agency-ranking-best-worst-free-agent-signings-ever-50th-anniversary",
@@ -218,10 +221,10 @@
     "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/ckgwmwgg377o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/videos/c15d3ll2yd9o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48276200/kennard-hits-last-second-3-lakers-win-lebron-record-day"
+    "https://www.bbc.com/sport/football/videos/c15d3ll2yd9o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Dos posibles regresos sonados al once del Barça para el derbi",
     "Red-hot Rory sets Masters record with 6-shot lead",
     "Dodgers' Muncy caps 3-HR night with walk-off shot",
     "Free agency turns 50: Ranking the best -- and worst -- signings in MLB history",
@@ -420,15 +423,9 @@
     "'Heartbreaking' - fighter pay debate laid bare at UFC London",
     "Jorginho's criticism of Chappell Roan over daughter's tears goes viral",
     "James sets NBA appearance record in late Lakers win",
-    "Kane & Olise score as Bayern beat Union Berlin",
-    "Kennard steals show, wins it for red-hot Lakers"
+    "Kane & Olise score as Bayern beat Union Berlin"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775827689678",
-      "resourceType": "image",
-      "uploadedAt": 1775827690546
-    },
     {
       "publicId": "tvs_cards/card_1775840301967",
       "resourceType": "image",
@@ -478,6 +475,11 @@
       "publicId": "tvs_cards/card_1775913347994",
       "resourceType": "image",
       "uploadedAt": 1775913348994
+    },
+    {
+      "publicId": "tvs_cards/card_1775926137272",
+      "resourceType": "image",
+      "uploadedAt": 1775926138158
     }
   ]
 }
