@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Walker",
+    "Dominates",
     "Ramirez",
     "Makes",
     "Rays",
@@ -34,6 +36,7 @@
     "Rise"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/jordan-walker-hits-sixth-home-run-in-eight-games",
     "https://www.sport.es/es/noticias/barca/dardo-lamine-yamal-espanyol-toca-128999605?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/jose-ramirez-first-cleveland-player-home-run-all-29-mlb-teams",
     "https://www.mlb.com/news/jonathan-aranda-drives-in-winner-as-rays-walk-off-yankees",
@@ -232,10 +235,10 @@
     "https://www.marca.com/futbol/real-madrid/2026/03/23/mensaje-trent-castigo-impuntualidad-madrid.html",
     "https://www.espn.com/mens-college-basketball/story/_/id/48288691/dan-hurley-looked-tom-izzo-advice-taking-lakers-job",
     "https://www.marca.com/futbol/real-madrid/2026/03/23/klopp-vuelve-descartar-madrid-me-hubiesen-llamado-habriamos-enterado.html",
-    "https://www.espn.com/mlb/story/_/id/48240870/mlb-2026-offseason-moves-season-preview-tucker-bichette-bregman-alonso-mets-dodgers-red-sox",
-    "https://www.espn.com/nba/story/_/id/48241616/nba-2025-2026-best-worst-moves-finals-trades-extensions"
+    "https://www.espn.com/mlb/story/_/id/48240870/mlb-2026-offseason-moves-season-preview-tucker-bichette-bregman-alonso-mets-dodgers-red-sox"
   ],
   "postedTitles": [
+    "Walker joins list of legendary Cardinals with 6th HR in 8 games",
     "El dardo de Lamine Yamal al Espanyol: \"Toca tragar, como siempre\"",
     "More history for J-Ram! 3B first Cleveland player with HR vs. other 29 MLB teams",
     "Rays pelt Yankees with small-ball tactics to walk it off in 10th",
@@ -434,15 +437,9 @@
     "El mensaje de Trent tras su castigo por impuntualidad: \"Madrid y nada más\"",
     "Hurley turned to Izzo for advice on Lakers job",
     "Klopp se vuelve a descartar para el Madrid: \"Si me hubiesen llamado, nos habríamos enterado\"",
-    "Are you ready for Opening Day? Here's your guide to the offseason chaos that rocked MLB",
-    "Ranking the 10 best and 10 worst NBA transactions since last summer"
+    "Are you ready for Opening Day? Here's your guide to the offseason chaos that rocked MLB"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775940249909",
-      "resourceType": "image",
-      "uploadedAt": 1775940251291
-    },
     {
       "publicId": "tvs_videos/video_1775958447378",
       "resourceType": "video",
@@ -487,6 +484,11 @@
       "publicId": "tvs_videos/video_1776018979278",
       "resourceType": "video",
       "uploadedAt": 1776018980635
+    },
+    {
+      "publicId": "tvs_cards/card_1776026804550",
+      "resourceType": "image",
+      "uploadedAt": 1776026805532
     }
   ]
 }
