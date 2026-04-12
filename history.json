@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Wacha",
+    "Dominates",
     "Liverpool",
     "Wins",
     "Barça",
@@ -24,6 +26,7 @@
     "Rise"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/michael-wacha-pitches-eight-innings-in-royals-win-vs-white-sox",
     "https://www.mlb.com/news/lowe-leads-the-way-for-reds-as-they-top-angels",
     "https://www.espn.com/soccer/story/_/id/48459195/liverpool-arne-slot-=long-term-future-rio-ngumoha-scored-salah-goal",
     "https://www.espn.com/wnba/story/_/id/48413293/wnba-free-agency-trade-tracker-2026-deals-news-transactions",
@@ -222,10 +225,10 @@
     "https://www.mlb.com/news/jorbit-vivas-trade-nationals-yankees",
     "https://www.mlb.com/news/hyeseong-kim-optioned-to-dodgers-triple-a-team",
     "https://www.skysports.com/tennis/news/12040/13523245/miami-open-carlos-alcaraz-stunned-by-sebastian-korda-as-world-no-1-exits-tournament-early-again",
-    "https://www.espn.com/soccer/report/_/gameId/761510",
-    "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/report/_/gameId/761510"
   ],
   "postedTitles": [
+    "Wacha's 8-inning scoreless gem drops ERA to MLB-best 0.43 mark",
     "Reds put up four-run first after entering Saturday with fewest runs in MLB",
     "Slot hails 'special' Ngumoha after Salah-like goal",
     "WNBA free agency and trade tracker: Skylar Diggins to Chicago, Satou Sabally to Liberty",
@@ -424,15 +427,9 @@
     "Yankees trade Vivas to Nationals for their No. 27 prospect",
     "Dodgers option Kim to Triple-A, clearing way for Freeland",
     "Alcaraz stunned by Korda at Miami Open",
-    "Messi keys Bronx rally in Miami win over NYCFC",
-    "'Heartbreaking' - fighter pay debate laid bare at UFC London"
+    "Messi keys Bronx rally in Miami win over NYCFC"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775876000200",
-      "resourceType": "image",
-      "uploadedAt": 1775876001183
-    },
     {
       "publicId": "tvs_cards/card_1775885801278",
       "resourceType": "image",
@@ -477,6 +474,11 @@
       "publicId": "tvs_videos/video_1775958447378",
       "resourceType": "video",
       "uploadedAt": 1775958448993
+    },
+    {
+      "publicId": "tvs_cards/card_1775964828902",
+      "resourceType": "image",
+      "uploadedAt": 1775964830886
     }
   ]
 }
