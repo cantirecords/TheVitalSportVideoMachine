@@ -24,6 +24,7 @@
     "Rise"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/lowe-leads-the-way-for-reds-as-they-top-angels",
     "https://www.espn.com/soccer/story/_/id/48459195/liverpool-arne-slot-=long-term-future-rio-ngumoha-scored-salah-goal",
     "https://www.espn.com/wnba/story/_/id/48413293/wnba-free-agency-trade-tracker-2026-deals-news-transactions",
     "https://www.sport.es/es/noticias/barca/posibles-regresos-sonados-once-barca-128966748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -222,10 +223,10 @@
     "https://www.mlb.com/news/hyeseong-kim-optioned-to-dodgers-triple-a-team",
     "https://www.skysports.com/tennis/news/12040/13523245/miami-open-carlos-alcaraz-stunned-by-sebastian-korda-as-world-no-1-exits-tournament-early-again",
     "https://www.espn.com/soccer/report/_/gameId/761510",
-    "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Reds put up four-run first after entering Saturday with fewest runs in MLB",
     "Slot hails 'special' Ngumoha after Salah-like goal",
     "WNBA free agency and trade tracker: Skylar Diggins to Chicago, Satou Sabally to Liberty",
     "Dos posibles regresos sonados al once del Barça para el derbi",
@@ -424,20 +425,9 @@
     "Dodgers option Kim to Triple-A, clearing way for Freeland",
     "Alcaraz stunned by Korda at Miami Open",
     "Messi keys Bronx rally in Miami win over NYCFC",
-    "'Heartbreaking' - fighter pay debate laid bare at UFC London",
-    "Jorginho's criticism of Chappell Roan over daughter's tears goes viral"
+    "'Heartbreaking' - fighter pay debate laid bare at UFC London"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775854188640",
-      "resourceType": "image",
-      "uploadedAt": 1775854189624
-    },
-    {
-      "publicId": "tvs_videos/video_1775870655973",
-      "resourceType": "video",
-      "uploadedAt": 1775870658316
-    },
     {
       "publicId": "tvs_cards/card_1775876000200",
       "resourceType": "image",
@@ -482,6 +472,11 @@
       "publicId": "tvs_cards/card_1775940249909",
       "resourceType": "image",
       "uploadedAt": 1775940251291
+    },
+    {
+      "publicId": "tvs_videos/video_1775958447378",
+      "resourceType": "video",
+      "uploadedAt": 1775958448993
     }
   ]
 }
