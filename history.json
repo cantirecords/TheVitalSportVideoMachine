@@ -30,6 +30,7 @@
     "Rise"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
     "https://www.espn.com/mlb/story/_/id/48429223/mlb-2026-seattle-mariners-cal-raleigh-breakdown-struggles",
     "https://www.bbc.com/sport/tennis/articles/c77mkkgk4mvo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48452102/bayern-munich-bundesliga-goal-record-st-pauli-leon-goretzka",
@@ -228,10 +229,10 @@
     "https://www.espn.com/nba/story/_/id/48241616/nba-2025-2026-best-worst-moves-finals-trades-extensions",
     "https://www.sport.es/es/noticias/barca/hay-fecha-clasico-barca-real-madrid-liga-camp-nou-128283826?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48285317/shohei-ohtani-wbc-jersey-goes-record-15m-auction",
-    "https://www.bbc.com/sport/tennis/articles/cg73g9m21n8o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/jorbit-vivas-trade-nationals-yankees"
+    "https://www.bbc.com/sport/tennis/articles/cg73g9m21n8o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Redick: 'Everybody' wants to face hobbled Lakers",
     "Breaking down Cal Raleigh's first 55 plate appearances of 2026 -- and what's gone wrong for the Mariners",
     "Alcaraz faces Sinner in Monte Carlo final",
     "Bayern Munich smash Bundesliga scoring record",
@@ -430,15 +431,9 @@
     "Ranking the 10 best and 10 worst NBA transactions since last summer",
     "¡Ya hay fecha para el clásico Barça - Real Madrid que puede decidir LaLiga!",
     "Ohtani jersey from WBC goes for record $1.5M",
-    "Alcaraz exits Miami Open after defeat by Korda",
-    "Yankees trade Vivas to Nationals for their No. 27 prospect"
+    "Alcaraz exits Miami Open after defeat by Korda"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775911101391",
-      "resourceType": "video",
-      "uploadedAt": 1775911103677
-    },
     {
       "publicId": "tvs_cards/card_1775913347994",
       "resourceType": "image",
@@ -483,6 +478,11 @@
       "publicId": "tvs_cards/card_1775984393769",
       "resourceType": "image",
       "uploadedAt": 1775984394587
+    },
+    {
+      "publicId": "tvs_videos/video_1775997710789",
+      "resourceType": "video",
+      "uploadedAt": 1775997712137
     }
   ]
 }
