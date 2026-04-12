@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Rays",
+    "Win",
     "Raleigh",
     "Struggles",
     "Bayern",
@@ -30,6 +32,7 @@
     "Rise"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/jonathan-aranda-drives-in-winner-as-rays-walk-off-yankees",
     "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
     "https://www.espn.com/mlb/story/_/id/48429223/mlb-2026-seattle-mariners-cal-raleigh-breakdown-struggles",
     "https://www.bbc.com/sport/tennis/articles/c77mkkgk4mvo?at_medium=RSS&at_campaign=rss",
@@ -228,10 +231,10 @@
     "https://www.espn.com/mlb/story/_/id/48240870/mlb-2026-offseason-moves-season-preview-tucker-bichette-bregman-alonso-mets-dodgers-red-sox",
     "https://www.espn.com/nba/story/_/id/48241616/nba-2025-2026-best-worst-moves-finals-trades-extensions",
     "https://www.sport.es/es/noticias/barca/hay-fecha-clasico-barca-real-madrid-liga-camp-nou-128283826?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/mlb/story/_/id/48285317/shohei-ohtani-wbc-jersey-goes-record-15m-auction",
-    "https://www.bbc.com/sport/tennis/articles/cg73g9m21n8o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/mlb/story/_/id/48285317/shohei-ohtani-wbc-jersey-goes-record-15m-auction"
   ],
   "postedTitles": [
+    "Rays pelt Yankees with small-ball tactics to walk it off in 10th",
     "Redick: 'Everybody' wants to face hobbled Lakers",
     "Breaking down Cal Raleigh's first 55 plate appearances of 2026 -- and what's gone wrong for the Mariners",
     "Alcaraz faces Sinner in Monte Carlo final",
@@ -430,15 +433,9 @@
     "Are you ready for Opening Day? Here's your guide to the offseason chaos that rocked MLB",
     "Ranking the 10 best and 10 worst NBA transactions since last summer",
     "¡Ya hay fecha para el clásico Barça - Real Madrid que puede decidir LaLiga!",
-    "Ohtani jersey from WBC goes for record $1.5M",
-    "Alcaraz exits Miami Open after defeat by Korda"
+    "Ohtani jersey from WBC goes for record $1.5M"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1775913347994",
-      "resourceType": "image",
-      "uploadedAt": 1775913348994
-    },
     {
       "publicId": "tvs_cards/card_1775926137272",
       "resourceType": "image",
@@ -483,6 +480,11 @@
       "publicId": "tvs_videos/video_1775997710789",
       "resourceType": "video",
       "uploadedAt": 1775997712137
+    },
+    {
+      "publicId": "tvs_cards/card_1775999880525",
+      "resourceType": "image",
+      "uploadedAt": 1775999881834
     }
   ]
 }
