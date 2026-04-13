@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Walker",
     "Dominates",
     "Ramirez",
@@ -8,34 +9,10 @@
     "Win",
     "Raleigh",
     "Struggles",
-    "Bayern",
-    "Smash",
-    "Wacha",
-    "Dominates",
-    "Liverpool",
-    "Wins",
-    "Barça",
-    "Gets",
-    "McIlroy",
-    "Leads",
-    "Barry",
-    "Bonds",
-    "Most",
-    "Players",
-    "Magic",
-    "Fined",
-    "Madrid",
-    "NFL",
-    "Draft",
-    "Mendoza",
-    "Tops",
-    "Top",
-    "Prospect",
-    "Barcelona",
-    "Brewers",
-    "Rise"
+    "Bayern"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-homers-off-first-pitch-from-jacob-degrom",
     "https://www.mlb.com/news/jordan-walker-hits-sixth-home-run-in-eight-games",
     "https://www.sport.es/es/noticias/barca/dardo-lamine-yamal-espanyol-toca-128999605?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/jose-ramirez-first-cleveland-player-home-run-all-29-mlb-teams",
@@ -234,10 +211,10 @@
     "https://www.espn.com/soccer/story/_/id/48285247/carabao-cup-manchester-city-arsenal-reaction-analysis-real-madrid-atletico-madrid-gab-marcotti",
     "https://www.marca.com/futbol/real-madrid/2026/03/23/mensaje-trent-castigo-impuntualidad-madrid.html",
     "https://www.espn.com/mens-college-basketball/story/_/id/48288691/dan-hurley-looked-tom-izzo-advice-taking-lakers-job",
-    "https://www.marca.com/futbol/real-madrid/2026/03/23/klopp-vuelve-descartar-madrid-me-hubiesen-llamado-habriamos-enterado.html",
-    "https://www.espn.com/mlb/story/_/id/48240870/mlb-2026-offseason-moves-season-preview-tucker-bichette-bregman-alonso-mets-dodgers-red-sox"
+    "https://www.marca.com/futbol/real-madrid/2026/03/23/klopp-vuelve-descartar-madrid-me-hubiesen-llamado-habriamos-enterado.html"
   ],
   "postedTitles": [
+    "Another day, another leadoff HR extends Ohtani's on-base streak",
     "Walker joins list of legendary Cardinals with 6th HR in 8 games",
     "El dardo de Lamine Yamal al Espanyol: \"Toca tragar, como siempre\"",
     "More history for J-Ram! 3B first Cleveland player with HR vs. other 29 MLB teams",
@@ -436,15 +413,9 @@
     "Carabao Cup reality check for Arsenal, Man City. Plus: Madrid's bravery rewarded in derby",
     "El mensaje de Trent tras su castigo por impuntualidad: \"Madrid y nada más\"",
     "Hurley turned to Izzo for advice on Lakers job",
-    "Klopp se vuelve a descartar para el Madrid: \"Si me hubiesen llamado, nos habríamos enterado\"",
-    "Are you ready for Opening Day? Here's your guide to the offseason chaos that rocked MLB"
+    "Klopp se vuelve a descartar para el Madrid: \"Si me hubiesen llamado, nos habríamos enterado\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1775958447378",
-      "resourceType": "video",
-      "uploadedAt": 1775958448993
-    },
     {
       "publicId": "tvs_cards/card_1775964828902",
       "resourceType": "image",
@@ -489,6 +460,11 @@
       "publicId": "tvs_cards/card_1776026804550",
       "resourceType": "image",
       "uploadedAt": 1776026805532
+    },
+    {
+      "publicId": "tvs_videos/video_1776045135155",
+      "resourceType": "video",
+      "uploadedAt": 1776045136831
     }
   ]
 }
