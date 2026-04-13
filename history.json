@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Faces",
     "Arozarena",
     "Wins",
     "Barcelona",
@@ -22,6 +24,7 @@
     "Bayern"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/bernal-descartado-jugar-atletico-madrid-129060125?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48476466/natalie-sago-third-woman-picked-referee-nba-playoff",
     "https://www.espn.com/mlb/story/_/id/48468546/mlb-2026-bat-flip-tracker-championship-belt-winner",
     "https://www.sport.es/es/noticias/barca/barca-inexpugnable-casa-16-16-129017209?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -220,10 +223,10 @@
     "https://www.sport.es/es/noticias/barca/tremendo-enfado-lamine-yamal-sustituido-128338939?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/espn/betting/story/_/id/48297871/nfl-sportsbooks-defendants-gambling-addiction-lawsuit",
-    "https://www.sport.es/es/noticias/barca/santiago-bernabeu-quiso-fichar-johan-122697496?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/college-sports/story/_/id/48281513/ncaa-men-hockey-frozen-four-teams-beat-players-watch"
+    "https://www.sport.es/es/noticias/barca/santiago-bernabeu-quiso-fichar-johan-122697496?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Bernal, muy justo para jugar ante el Atlético de Madrid",
     "Sago third woman picked to ref in NBA playoffs",
     "👀 MLB Bat Flip Champion: Who holds the belt?",
     "Un Barça inexpugnable en casa: 16/16 histórico y solo tres partidos para el pleno",
@@ -422,15 +425,9 @@
     "El tremendo enfado de Lamine Yamal: \"Siempre a mí, es de locos\"",
     "'It wasn't meant to end like this' - Salah exit tough but inevitable",
     "Gambling addiction suit targets NFL, sportsbooks",
-    "Cuando el presidente del Real Madrid, Santiago Bernabéu, quiso fichar a Johan Cruyff: \"No me gustó su jeta\"",
-    "Breaking down the men's hockey tournament: Who will make it to Vegas?"
+    "Cuando el presidente del Real Madrid, Santiago Bernabéu, quiso fichar a Johan Cruyff: \"No me gustó su jeta\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776026804550",
-      "resourceType": "image",
-      "uploadedAt": 1776026805532
-    },
     {
       "publicId": "tvs_videos/video_1776045135155",
       "resourceType": "video",
@@ -475,6 +472,11 @@
       "publicId": "tvs_videos/video_1776107059642",
       "resourceType": "video",
       "uploadedAt": 1776107061767
+    },
+    {
+      "publicId": "tvs_cards/card_1776114224776",
+      "resourceType": "image",
+      "uploadedAt": 1776114226027
     }
   ]
 }
