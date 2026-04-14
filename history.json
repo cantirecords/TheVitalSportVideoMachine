@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Dominates",
     "Barca",
     "Leads",
     "Barca",
@@ -26,6 +28,7 @@
     "Bayern"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/santi-canizares-alucina-futbolistas-barca-129031685?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/barcelona/2026/04/13/reflexion-canizares-toca-tragar-lamine-yamal-nadie-capaz-decirles.html",
     "https://www.espn.com/nfl/story/_/id/48456898/panel-rules-nflpa-says-not-enough-proof-collusion",
     "https://www.sport.es/es/noticias/barca/bernal-descartado-jugar-atletico-madrid-129060125?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -224,10 +227,10 @@
     "https://www.sport.es/es/noticias/barca/alba-oliveros-desvela-anecdota-lamine-128382317?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/jong-prefirio-barca-manchester-united-128347519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/shohei-ohtani-strikes-out-11-against-angels",
-    "https://www.sport.es/es/noticias/barca/tremendo-enfado-lamine-yamal-sustituido-128338939?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/tremendo-enfado-lamine-yamal-sustituido-128338939?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Santi Cañizares alucina con los futbolistas del Barça: \"No son capaces de decirles nada\"",
     "La reflexión de Cañizares tras el \"toca tragar\" de Lamine Yamal: \"Nadie es capaz de decirles nada\"",
     "Panel rules NFL teams didn't collude on QB deals",
     "Bernal, muy justo para jugar ante el Atlético de Madrid",
@@ -426,15 +429,9 @@
     "Alba Oliveros desvela su anécdota con Lamine Yamal: \"Fue maravilloso\"",
     "¿Por qué De Jong prefirió el Barça al Manchester United en 2022?",
     "'He's ready to go': Ohtani K's 11 in electric Spring Training finale",
-    "El tremendo enfado de Lamine Yamal: \"Siempre a mí, es de locos\"",
-    "'It wasn't meant to end like this' - Salah exit tough but inevitable"
+    "El tremendo enfado de Lamine Yamal: \"Siempre a mí, es de locos\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776051593022",
-      "resourceType": "image",
-      "uploadedAt": 1776051594366
-    },
     {
       "publicId": "tvs_cards/card_1776061379400",
       "resourceType": "image",
@@ -484,6 +481,11 @@
       "publicId": "tvs_cards/card_1776137390641",
       "resourceType": "image",
       "uploadedAt": 1776137391872
+    },
+    {
+      "publicId": "tvs_cards/card_1776146749954",
+      "resourceType": "image",
+      "uploadedAt": 1776146750955
     }
   ]
 }
