@@ -1,33 +1,18 @@
 {
   "recentKeywords": [
+    "LeBron",
     "Barça",
     "Dominates",
     "Barca",
     "Leads",
-    "Barca",
     "Faces",
     "Arozarena",
     "Wins",
     "Barcelona",
-    "Wins",
-    "Giannis",
-    "Future",
-    "Luka",
-    "Dominates",
-    "Stoichkov",
-    "Slams",
-    "Ohtani",
-    "Walker",
-    "Dominates",
-    "Ramirez",
-    "Makes",
-    "Rays",
-    "Win",
-    "Raleigh",
-    "Struggles",
-    "Bayern"
+    "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48475814/lamine-yamal-draws-inspiration-lebron-james-plots-barcelona-comeback",
     "https://www.sport.es/es/noticias/barca/santi-canizares-alucina-futbolistas-barca-129031685?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/barcelona/2026/04/13/reflexion-canizares-toca-tragar-lamine-yamal-nadie-capaz-decirles.html",
     "https://www.espn.com/nfl/story/_/id/48456898/panel-rules-nflpa-says-not-enough-proof-collusion",
@@ -226,10 +211,10 @@
     "https://www.skysports.com/football/news/12040/13524202/mohamed-salah-is-liverpool-star-the-premier-leagues-greatest-forward",
     "https://www.sport.es/es/noticias/barca/alba-oliveros-desvela-anecdota-lamine-128382317?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/jong-prefirio-barca-manchester-united-128347519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/shohei-ohtani-strikes-out-11-against-angels",
-    "https://www.sport.es/es/noticias/barca/tremendo-enfado-lamine-yamal-sustituido-128338939?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/shohei-ohtani-strikes-out-11-against-angels"
   ],
   "postedTitles": [
+    "Yamal inspired by LeBron for UCL comeback",
     "Santi Cañizares alucina con los futbolistas del Barça: \"No son capaces de decirles nada\"",
     "La reflexión de Cañizares tras el \"toca tragar\" de Lamine Yamal: \"Nadie es capaz de decirles nada\"",
     "Panel rules NFL teams didn't collude on QB deals",
@@ -428,15 +413,9 @@
     "Is Salah the Premier League's greatest forward?",
     "Alba Oliveros desvela su anécdota con Lamine Yamal: \"Fue maravilloso\"",
     "¿Por qué De Jong prefirió el Barça al Manchester United en 2022?",
-    "'He's ready to go': Ohtani K's 11 in electric Spring Training finale",
-    "El tremendo enfado de Lamine Yamal: \"Siempre a mí, es de locos\""
+    "'He's ready to go': Ohtani K's 11 in electric Spring Training finale"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776061379400",
-      "resourceType": "image",
-      "uploadedAt": 1776061380492
-    },
     {
       "publicId": "tvs_videos/video_1776066656747",
       "resourceType": "video",
@@ -486,6 +465,11 @@
       "publicId": "tvs_cards/card_1776146749954",
       "resourceType": "image",
       "uploadedAt": 1776146750955
+    },
+    {
+      "publicId": "tvs_videos/video_1776151233119",
+      "resourceType": "video",
+      "uploadedAt": 1776151234533
     }
   ]
 }
