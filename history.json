@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Curry",
+    "Faces",
     "Bayern",
     "Hunts",
     "LeBron",
@@ -14,6 +16,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48483414/curry-minutes-restriction-warriors-win-play-in",
     "https://www.sport.es/es/noticias/barca/cuenta-pendiente-lewandowski-champions-league-barcelona-metropolitano-atletico-129064199?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/bundesliga/2026/04/14/bayern-amenaza-madrid-records.html",
     "https://www.espn.com/soccer/story/_/id/48475814/lamine-yamal-draws-inspiration-lebron-james-plots-barcelona-comeback",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/mlb-abs-challenge-storylines-to-watch-on-opening-night-2026",
     "https://www.espn.com/wnba/story/_/id/48271630/wnba-cba-collective-bargaining-agreement-salary-supermax-rookie-wages-contracts",
     "https://www.bbc.com/sport/tennis/articles/c5yxv74z2pro?at_medium=RSS&at_campaign=rss",
-    "https://www.skysports.com/football/news/12040/13524202/mohamed-salah-is-liverpool-star-the-premier-leagues-greatest-forward",
-    "https://www.sport.es/es/noticias/barca/alba-oliveros-desvela-anecdota-lamine-128382317?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.skysports.com/football/news/12040/13524202/mohamed-salah-is-liverpool-star-the-premier-leagues-greatest-forward"
   ],
   "postedTitles": [
+    "Curry on minutes restriction in must-win play-in",
     "La cuenta pendiente de Lewandowski en la Champions League",
     "El Bayern amenaza al 'Madrid de los récords'",
     "Yamal inspired by LeBron for UCL comeback",
@@ -414,20 +417,9 @@
     "The 10 biggest storylines for MLB's first game with ball-strike challenges",
     "How the new WNBA CBA will impact every player's salary in 2026",
     "Sinner extends record run with Miami win",
-    "Is Salah the Premier League's greatest forward?",
-    "Alba Oliveros desvela su anécdota con Lamine Yamal: \"Fue maravilloso\""
+    "Is Salah the Premier League's greatest forward?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776085512898",
-      "resourceType": "video",
-      "uploadedAt": 1776085515118
-    },
-    {
-      "publicId": "tvs_cards/card_1776088784687",
-      "resourceType": "image",
-      "uploadedAt": 1776088785960
-    },
     {
       "publicId": "tvs_cards/card_1776100458047",
       "resourceType": "image",
@@ -472,6 +464,11 @@
       "publicId": "tvs_videos/video_1776171958368",
       "resourceType": "video",
       "uploadedAt": 1776171960861
+    },
+    {
+      "publicId": "tvs_cards/card_1776175394227",
+      "resourceType": "image",
+      "uploadedAt": 1776175395411
     }
   ]
 }
