@@ -24,6 +24,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48476034/2026-nba-playoff-predicting-series-including-finals",
     "https://www.espn.com/nfl/story/_/id/48487345/nfl-hires-brian-flinn-senior-vp-global-flag-football",
     "https://www.sport.es/es/noticias/barca/roberto-fresnedoso-quererlo-verdugos-dream-129049222?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/phillies-trade-former-prospect-griff-mcgarry-to-dodgers",
@@ -222,10 +223,10 @@
     "https://www.espn.com/nba/story/_/id/48304843/j-cole-fall-lebron-james-los-angeles-lakers",
     "https://www.espn.com/nba/story/_/id/48306789/nba-adam-silver-says-changes-draft-system-coming",
     "https://www.mlb.com/news/opening-day-2026-mlb-tv-espn-faq",
-    "https://www.espn.com/nba/story/_/id/48309525/murray-scores-53-jokic-nearly-20-20-20-game-nuggets-win",
-    "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting"
+    "https://www.espn.com/nba/story/_/id/48309525/murray-scores-53-jokic-nearly-20-20-20-game-nuggets-win"
   ],
   "postedTitles": [
+    "Predicting the entire NBA postseason -- with a surprise champion",
     "NFL hires Flinn as senior VP of global flag football",
     "Roberto Fresnedoso, leyenda del Atlético de Madrid: \"Sin quererlo, fuimos los verdugos del 'Dream Team' de Cruyff\"",
     "Phillies trade former highly touted prospect McGarry to Dodgers",
@@ -424,15 +425,9 @@
     "J. Cole breaks down why LeBron James was carrying his latest 'The Fall-Off' vinyl",
     "Silver: NBA ready to combat tanking 'full stop'",
     "ESPN is the new home of MLB.TV. Learn more",
-    "Murray drops 53, Jokic nearly has 20-20-20 game",
-    "NBA Futures: Lakers, Spurs title odds shorten; Nuggets, Pistons, Rockets odds get longer"
+    "Murray drops 53, Jokic nearly has 20-20-20 game"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776146749954",
-      "resourceType": "image",
-      "uploadedAt": 1776146750955
-    },
     {
       "publicId": "tvs_videos/video_1776151233119",
       "resourceType": "video",
@@ -482,6 +477,11 @@
       "publicId": "tvs_cards/card_1776233152249",
       "resourceType": "image",
       "uploadedAt": 1776233153515
+    },
+    {
+      "publicId": "tvs_videos/video_1776237685738",
+      "resourceType": "video",
+      "uploadedAt": 1776237687334
     }
   ]
 }
