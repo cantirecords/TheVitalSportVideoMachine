@@ -26,6 +26,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/48489727/wnba-draft-2026-reaction-best-picks-sleepers-steals-takeaways",
     "https://www.espn.com/soccer/story/_/id/48490831/neymar-scores-santos-draw-clashes-fans-vila-belmiro",
     "https://www.espn.com/nba/story/_/id/48476034/2026-nba-playoff-predicting-series-including-finals",
     "https://www.espn.com/nfl/story/_/id/48487345/nfl-hires-brian-flinn-senior-vp-global-flag-football",
@@ -224,10 +225,10 @@
     "https://www.espn.com/soccer/story/_/id/48310475/kylian-mbappe-world-cup-neymar-injury-brazil-squad-carlo-ancelotti",
     "https://www.sport.es/es/noticias/barca/fc-barcelona-mantiene-jan-virgili-128431849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48304843/j-cole-fall-lebron-james-los-angeles-lakers",
-    "https://www.espn.com/nba/story/_/id/48306789/nba-adam-silver-says-changes-draft-system-coming",
-    "https://www.mlb.com/news/opening-day-2026-mlb-tv-espn-faq"
+    "https://www.espn.com/nba/story/_/id/48306789/nba-adam-silver-says-changes-draft-system-coming"
   ],
   "postedTitles": [
+    "WNBA draft reaction: Breaking down best picks, shocking trade and more",
     "Neymar scores, confronts fans after Santos draw",
     "Predicting the entire NBA postseason -- with a surprise champion",
     "NFL hires Flinn as senior VP of global flag football",
@@ -426,8 +427,7 @@
     "Mbappé: 'Can't imagine' World Cup without Neymar",
     "El FC Barcelona mantiene a Jan Virgili en 'stand by'",
     "J. Cole breaks down why LeBron James was carrying his latest 'The Fall-Off' vinyl",
-    "Silver: NBA ready to combat tanking 'full stop'",
-    "ESPN is the new home of MLB.TV. Learn more"
+    "Silver: NBA ready to combat tanking 'full stop'"
   ],
   "cloudinaryAssets": [
     {
@@ -479,6 +479,11 @@
       "publicId": "tvs_cards/card_1776246201748",
       "resourceType": "image",
       "uploadedAt": 1776246203068
+    },
+    {
+      "publicId": "tvs_videos/video_1776258245933",
+      "resourceType": "video",
+      "uploadedAt": 1776258247950
     }
   ]
 }
