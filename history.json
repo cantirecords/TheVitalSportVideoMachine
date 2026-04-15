@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Murray",
+    "Ends",
     "Lamine",
     "Yamal",
     "Neymar",
@@ -28,6 +30,7 @@
     "Giannis"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-llego-metropolitano-saludo-129106194?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/wnba/story/_/id/48489727/wnba-draft-2026-reaction-best-picks-sleepers-steals-takeaways",
     "https://www.espn.com/soccer/story/_/id/48490831/neymar-scores-santos-draw-clashes-fans-vila-belmiro",
@@ -226,10 +229,10 @@
     "https://www.bbc.com/sport/tennis/articles/cjw84vw0enqo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48259765/2026-nfl-free-agency-class-rankings-teams-improved-better-worse-32-signings-deals",
     "https://www.espn.com/soccer/story/_/id/48310475/kylian-mbappe-world-cup-neymar-injury-brazil-squad-carlo-ancelotti",
-    "https://www.sport.es/es/noticias/barca/fc-barcelona-mantiene-jan-virgili-128431849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48304843/j-cole-fall-lebron-james-los-angeles-lakers"
+    "https://www.sport.es/es/noticias/barca/fc-barcelona-mantiene-jan-virgili-128431849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "British doubles legend Murray retires from tennis",
     "Lamine Yamal destrozó un récord de Mbappé con su primer gol",
     "WNBA draft reaction: Breaking down best picks, shocking trade and more",
     "Neymar scores, confronts fans after Santos draw",
@@ -428,15 +431,9 @@
     "30-0 - Sinner extends stunning run of sets to reach Miami semis",
     "Ranking all 32 NFL free agency classes: Which teams most improved their rosters?",
     "Mbappé: 'Can't imagine' World Cup without Neymar",
-    "El FC Barcelona mantiene a Jan Virgili en 'stand by'",
-    "J. Cole breaks down why LeBron James was carrying his latest 'The Fall-Off' vinyl"
+    "El FC Barcelona mantiene a Jan Virgili en 'stand by'"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776175394227",
-      "resourceType": "image",
-      "uploadedAt": 1776175395411
-    },
     {
       "publicId": "tvs_cards/card_1776187134994",
       "resourceType": "image",
@@ -486,6 +483,11 @@
       "publicId": "tvs_cards/card_1776261373108",
       "resourceType": "image",
       "uploadedAt": 1776261373923
+    },
+    {
+      "publicId": "tvs_cards/card_1776273327304",
+      "resourceType": "image",
+      "uploadedAt": 1776273328511
     }
   ]
 }
