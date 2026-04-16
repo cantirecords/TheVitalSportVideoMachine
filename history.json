@@ -18,6 +18,7 @@
     "Ends"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/milan-descarta-lewandowski-129142771?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48494162/2026-nfl-draft-32-teams-positions-picks-grades-predictions-needs-solak",
     "https://www.espn.com/nfl/story/_/id/48496049/nfl-2026-draft-chris-jones-kansas-city-chiefs",
@@ -216,10 +217,10 @@
     "https://www.mlb.com/news/munetaka-murakami-home-run-saves-him-from-shohei-ohtani-haircut",
     "https://www.mlb.com/news/an-oral-history-of-andrew-painter-s-journey-to-the-major-leagues",
     "https://www.espn.com/soccer/story/_/id/48319761/lionel-messi-undecided-will-play-2026-world-cup-lionel-scaloni",
-    "https://www.espn.com/nfl/story/_/id/48322280/florida-attorney-general-says-nfl-get-rid-rooney-rule",
-    "https://www.sport.es/es/noticias/barca/fernando-redondo-cocinero-masia-durante-128490116?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nfl/story/_/id/48322280/florida-attorney-general-says-nfl-get-rid-rooney-rule"
   ],
   "postedTitles": [
+    "Bellingham says Camavinga red 'a joke' as Real fury grows",
     "El Milan descarta a Lewandowski",
     "How all 32 teams can crush the NFL draft: We have prospects and positions to target",
     "How a 'big argument' and lucky draft moves led to the Chiefs selecting Chris Jones",
@@ -418,8 +419,7 @@
     "Murakami's home run saves new White Sox slugger from getting Ohtani's 1980s 'techno-cut' hairstyle",
     "Portrait of a prospect: Painter's MLB path from the beginning",
     "Scaloni: Messi undecided on playing '26 World Cup",
-    "Florida AG challenges NFL to abolish Rooney Rule",
-    "Fernando Redondo, cocinero de La Masía durante 28 años: \"Cuando pasaba con la bandeja me decía que le echara más comida\""
+    "Florida AG challenges NFL to abolish Rooney Rule"
   ],
   "cloudinaryAssets": [
     {
@@ -471,6 +471,11 @@
       "publicId": "tvs_cards/card_1776360252198",
       "resourceType": "image",
       "uploadedAt": 1776360254004
+    },
+    {
+      "publicId": "tvs_videos/video_1776366100001",
+      "resourceType": "video",
+      "uploadedAt": 1776366101767
     }
   ]
 }
