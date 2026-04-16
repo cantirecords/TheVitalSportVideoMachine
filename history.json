@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "NBA",
     "Season",
     "Messi",
@@ -8,14 +9,10 @@
     "Jackie",
     "Robinson",
     "Murray",
-    "Ends",
-    "Lamine",
-    "Yamal",
-    "Neymar",
-    "Scores",
-    "NFL"
+    "Ends"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/david-bernabeu-filtros-eliminacion-barca-champions-plantilla-129115269?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48487798/nba-postseason-grades-hornets-heat-trail-blazers-suns-all-30-teams-regular-season",
     "https://www.espn.com/soccer/story/_/id/48496977/messi-argentina-federation-sued-missed-exhibition-match",
     "https://www.bbc.com/sport/football/articles/c5yve05jrjeo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +211,10 @@
     "https://www.espn.com/mlb/story/_/id/48307128/mlb-opening-day-2026-most-interesting-giveaways",
     "https://www.espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
     "https://www.espn.com/soccer/story/_/id/48304840/how-alvaro-arbeloa-won-doubters-given-real-madrid-hope-vinicius-junior-kylian-mbappe-jude-bellingham",
-    "https://www.mlb.com/news/kevin-mcgonigle-hits-two-run-double-on-first-pitch-of-mlb-career",
-    "https://www.sport.es/es/noticias/barca/kochen-yaakobishvili-astralaga-szczesny-inaki-128387659?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/kevin-mcgonigle-hits-two-run-double-on-first-pitch-of-mlb-career"
   ],
   "postedTitles": [
+    "David Bernabéu, sin filtros tras la eliminación del Barça en Champions: \"No es una plantilla redonda\"",
     "Grading all 30 NBA teams' regular seasons",
     "Messi sued for missing $7M Argentina friendly",
     "Real Madrid set for rare trophyless season - will Arbeloa pay the price?",
@@ -416,8 +413,7 @@
     "Each MLB team's most interesting giveaway this season",
     "An early look at 2027 NFL free agency: Which playmakers could be available next March?",
     "Arbeloa has won over Real Madrid doubters. Can he lead them to a trophy?",
-    "'We're in for a fun year': McGonigle makes Tigers history with 4-hit MLB debut",
-    "Kochen, Yaakobishvili, Astralaga, Szczesny, Iñaki...las decisiones que vienen en la portería del Barça"
+    "'We're in for a fun year': McGonigle makes Tigers history with 4-hit MLB debut"
   ],
   "cloudinaryAssets": [
     {
@@ -469,6 +465,11 @@
       "publicId": "tvs_cards/card_1776319727771",
       "resourceType": "image",
       "uploadedAt": 1776319729157
+    },
+    {
+      "publicId": "tvs_videos/video_1776324108856",
+      "resourceType": "video",
+      "uploadedAt": 1776324110866
     }
   ]
 }
