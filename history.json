@@ -14,6 +14,7 @@
     "Ends"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48496049/nfl-2026-draft-chris-jones-kansas-city-chiefs",
     "https://www.espn.com/nfl/draft2026/story/_/id/48465658/nfl-draft-2026-akheem-mesidor-miami-hurricanes",
     "https://www.sport.es/es/noticias/barca/david-bernabeu-filtros-eliminacion-barca-champions-plantilla-129115269?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48487798/nba-postseason-grades-hornets-heat-trail-blazers-suns-all-30-teams-regular-season",
@@ -212,10 +213,10 @@
     "https://www.espn.com/nfl/story/_/id/48322280/florida-attorney-general-says-nfl-get-rid-rooney-rule",
     "https://www.sport.es/es/noticias/barca/fernando-redondo-cocinero-masia-durante-128490116?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48307128/mlb-opening-day-2026-most-interesting-giveaways",
-    "https://www.espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
-    "https://www.espn.com/soccer/story/_/id/48304840/how-alvaro-arbeloa-won-doubters-given-real-madrid-hope-vinicius-junior-kylian-mbappe-jude-bellingham"
+    "https://www.espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available"
   ],
   "postedTitles": [
+    "How a 'big argument' and lucky draft moves led to the Chiefs selecting Chris Jones",
     "Akheem Mesidor's long, long road to the NFL",
     "David Bernabéu, sin filtros tras la eliminación del Barça en Champions: \"No es una plantilla redonda\"",
     "Grading all 30 NBA teams' regular seasons",
@@ -414,20 +415,9 @@
     "Florida AG challenges NFL to abolish Rooney Rule",
     "Fernando Redondo, cocinero de La Masía durante 28 años: \"Cuando pasaba con la bandeja me decía que le echara más comida\"",
     "Each MLB team's most interesting giveaway this season",
-    "An early look at 2027 NFL free agency: Which playmakers could be available next March?",
-    "Arbeloa has won over Real Madrid doubters. Can he lead them to a trophy?"
+    "An early look at 2027 NFL free agency: Which playmakers could be available next March?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776246201748",
-      "resourceType": "image",
-      "uploadedAt": 1776246203068
-    },
-    {
-      "publicId": "tvs_videos/video_1776258245933",
-      "resourceType": "video",
-      "uploadedAt": 1776258247950
-    },
     {
       "publicId": "tvs_cards/card_1776261373108",
       "resourceType": "image",
@@ -472,6 +462,11 @@
       "publicId": "tvs_cards/card_1776331648945",
       "resourceType": "image",
       "uploadedAt": 1776331649552
+    },
+    {
+      "publicId": "tvs_videos/video_1776345020734",
+      "resourceType": "video",
+      "uploadedAt": 1776345023352
     }
   ]
 }
