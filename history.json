@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Trout",
+    "Judge",
     "Ohtani",
     "Dominates",
     "Lewandowski",
@@ -20,6 +22,7 @@
     "Ends"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mike-trout-aaron-judge-matchup-delivers-impressive-home-run-stats",
     "https://www.espn.com/soccer/story/_/id/48501487/record-transfer-isak-needs-step-liverpool-ekitike-injury",
     "https://www.mlb.com/news/dodgers-dave-roberts-shohei-ohtani-impression",
     "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss",
@@ -218,10 +221,10 @@
     "https://www.sport.es/es/noticias/barca/doble-brasileno-lamine-yamal-causa-sensacion-barcelona-rikelme-128496588?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/story/_/id/48312447/tom-brady-says-asked-nfl-possible-comeback",
     "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/munetaka-murakami-home-run-saves-him-from-shohei-ohtani-haircut",
-    "https://www.mlb.com/news/an-oral-history-of-andrew-painter-s-journey-to-the-major-leagues"
+    "https://www.mlb.com/news/munetaka-murakami-home-run-saves-him-from-shohei-ohtani-haircut"
   ],
   "postedTitles": [
+    "7 stats, facts from Trout, Judge's epic series in the Bronx",
     "Record-transfer Isak needs to step up for Liverpool after Ekitike injury",
     "Roberts gives his best Ohtani impression before another dazzling start",
     "Bellingham says Camavinga red 'a joke' as Real fury grows",
@@ -420,15 +423,9 @@
     "El doble brasileño de Lamine Yamal que causa sensación",
     "Brady on comeback: NFL didn't 'like that idea'",
     "Woods mugshot released after driving under influence charges laid",
-    "Murakami's home run saves new White Sox slugger from getting Ohtani's 1980s 'techno-cut' hairstyle",
-    "Portrait of a prospect: Painter's MLB path from the beginning"
+    "Murakami's home run saves new White Sox slugger from getting Ohtani's 1980s 'techno-cut' hairstyle"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776304302714",
-      "resourceType": "video",
-      "uploadedAt": 1776304304619
-    },
     {
       "publicId": "tvs_cards/card_1776310530399",
       "resourceType": "image",
@@ -478,6 +475,11 @@
       "publicId": "tvs_videos/video_1776390417215",
       "resourceType": "video",
       "uploadedAt": 1776390419345
+    },
+    {
+      "publicId": "tvs_cards/card_1776396693312",
+      "resourceType": "image",
+      "uploadedAt": 1776396694862
     }
   ]
 }
