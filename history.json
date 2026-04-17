@@ -16,6 +16,7 @@
     "Dominates"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
     "https://www.espn.com/nba/story/_/id/48478787/nba-playoffs-2026-top-50-most-impactful-players-shai-lebron-cade-booker-durant",
     "https://www.espn.com/fantasy/football/story/_/id/48476312/2026-nfl-draft-prospects-fantasy-football-rookies",
     "https://www.sport.es/es/noticias/barca/guino-rafa-leao-barca-extremo-129204508?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -214,10 +215,10 @@
     "https://www.espn.com/soccer/story/_/id/48332058/denver-summit-nwsl-record-attendance-crowd-washington-spirit-jeff-kassouf",
     "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
     "https://www.espn.com/mlb/story/_/id/48288779/mlb-2026-world-series-contender-tiers-dodgers-mets-phillies-braves-yankees-mariners",
-    "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring",
-    "https://www.sport.es/es/noticias/barca/pena-pase-momento-vestuario-barca-128514285?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring"
   ],
   "postedTitles": [
+    "Inside Hornets' metamorphosis into the NBA's buzziest team",
     "NBA Rank, playoffs edition: The 50 most impactful players in the 2026 postseason",
     "10 NFL draft prospects to put on your fantasy radar -- and three others to monitor",
     "El guiño de Rafa Leao al Barça: el extremo saldrá del Milan este verano",
@@ -416,15 +417,9 @@
     "Denver Summit's record NWSL crowd sets new standard for what's possible",
     "NBA playoff watch: 76ers, Hornets clash in key seeding matchup",
     "World Series contender tiers: How far away from winning it all is your favorite MLB team?",
-    "Raphinha ruled out 5 weeks in blow to Barcelona",
-    "\"Es una pena que pase en este momento\": el vestuario del Barça lamenta la lesión de Raphinha"
+    "Raphinha ruled out 5 weeks in blow to Barcelona"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776360252198",
-      "resourceType": "image",
-      "uploadedAt": 1776360254004
-    },
     {
       "publicId": "tvs_videos/video_1776366100001",
       "resourceType": "video",
@@ -474,6 +469,11 @@
       "publicId": "tvs_cards/card_1776445274598",
       "resourceType": "image",
       "uploadedAt": 1776445275385
+    },
+    {
+      "publicId": "tvs_videos/video_1776451606039",
+      "resourceType": "video",
+      "uploadedAt": 1776451607771
     }
   ]
 }
