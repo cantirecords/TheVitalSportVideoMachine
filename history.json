@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Mendoza",
+    "Leads",
     "Barça",
     "Liverpool",
     "Crashes",
@@ -12,6 +14,7 @@
     "Dominates"
   ],
   "postedUrls": [
+    "https://www.espn.com/fantasy/football/story/_/id/48476312/2026-nfl-draft-prospects-fantasy-football-rookies",
     "https://www.sport.es/es/noticias/barca/guino-rafa-leao-barca-extremo-129204508?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48495158/ucl-talking-points-slots-bizarre-choicesbayern-now-favorites",
     "https://www.espn.com/soccer/story/_/id/48504832/barcelona-uefa-complaint-champions-league-referee-atletico-madrid",
@@ -210,10 +213,10 @@
     "https://www.espn.com/mlb/story/_/id/48288779/mlb-2026-world-series-contender-tiers-dodgers-mets-phillies-braves-yankees-mariners",
     "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring",
     "https://www.sport.es/es/noticias/barca/pena-pase-momento-vestuario-barca-128514285?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48328543/transfer-rumors-news-salah-eyes-roma-liverpool-exit",
-    "https://www.bbc.com/sport/formula1/articles/cn78vxm44k1o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48328543/transfer-rumors-news-salah-eyes-roma-liverpool-exit"
   ],
   "postedTitles": [
+    "10 NFL draft prospects to put on your fantasy radar -- and three others to monitor",
     "El guiño de Rafa Leao al Barça: el extremo saldrá del Milan este verano",
     "UCL talking points: Bayern favorites after Madrid drama? Slot's bizarre choices",
     "Barcelona file fresh UEFA complaint over UCL refs",
@@ -412,15 +415,9 @@
     "World Series contender tiers: How far away from winning it all is your favorite MLB team?",
     "Raphinha ruled out 5 weeks in blow to Barcelona",
     "\"Es una pena que pase en este momento\": el vestuario del Barça lamenta la lesión de Raphinha",
-    "Transfer rumors, news: Salah eyes Roma after Liverpool exit",
-    "'A lot of stuff to figure out' for Verstappen - and F1's rule-makers"
+    "Transfer rumors, news: Salah eyes Roma after Liverpool exit"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776345020734",
-      "resourceType": "video",
-      "uploadedAt": 1776345023352
-    },
     {
       "publicId": "tvs_cards/card_1776348326420",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1776430794168",
       "resourceType": "video",
       "uploadedAt": 1776430796324
+    },
+    {
+      "publicId": "tvs_cards/card_1776433705114",
+      "resourceType": "image",
+      "uploadedAt": 1776433706429
     }
   ]
 }
