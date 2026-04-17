@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "Liverpool",
     "Crashes",
     "Barcelona",
@@ -8,12 +9,10 @@
     "Trout",
     "Judge",
     "Ohtani",
-    "Dominates",
-    "Lewandowski",
-    "Leaving",
-    "Cowboys"
+    "Dominates"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/guino-rafa-leao-barca-extremo-129204508?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48495158/ucl-talking-points-slots-bizarre-choicesbayern-now-favorites",
     "https://www.espn.com/soccer/story/_/id/48504832/barcelona-uefa-complaint-champions-league-referee-atletico-madrid",
     "https://www.mlb.com/news/chayce-mcdermott-traded-to-dodgers",
@@ -212,10 +211,10 @@
     "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring",
     "https://www.sport.es/es/noticias/barca/pena-pase-momento-vestuario-barca-128514285?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48328543/transfer-rumors-news-salah-eyes-roma-liverpool-exit",
-    "https://www.bbc.com/sport/formula1/articles/cn78vxm44k1o?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/doble-brasileno-lamine-yamal-causa-sensacion-barcelona-rikelme-128496588?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/formula1/articles/cn78vxm44k1o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "El guiño de Rafa Leao al Barça: el extremo saldrá del Milan este verano",
     "UCL talking points: Bayern favorites after Madrid drama? Slot's bizarre choices",
     "Barcelona file fresh UEFA complaint over UCL refs",
     "Righty McDermott heads to Dodgers in trade with Orioles",
@@ -414,15 +413,9 @@
     "Raphinha ruled out 5 weeks in blow to Barcelona",
     "\"Es una pena que pase en este momento\": el vestuario del Barça lamenta la lesión de Raphinha",
     "Transfer rumors, news: Salah eyes Roma after Liverpool exit",
-    "'A lot of stuff to figure out' for Verstappen - and F1's rule-makers",
-    "El doble brasileño de Lamine Yamal que causa sensación"
+    "'A lot of stuff to figure out' for Verstappen - and F1's rule-makers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776331648945",
-      "resourceType": "image",
-      "uploadedAt": 1776331649552
-    },
     {
       "publicId": "tvs_videos/video_1776345020734",
       "resourceType": "video",
@@ -472,6 +465,11 @@
       "publicId": "tvs_cards/card_1776418000584",
       "resourceType": "image",
       "uploadedAt": 1776418001366
+    },
+    {
+      "publicId": "tvs_videos/video_1776430794168",
+      "resourceType": "video",
+      "uploadedAt": 1776430796324
     }
   ]
 }
