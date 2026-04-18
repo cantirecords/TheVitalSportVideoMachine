@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Tragedy",
+    "Strikes",
     "LeBron",
     "Freeling",
     "Rises",
@@ -12,6 +14,7 @@
     "Steals"
   ],
   "postedUrls": [
+    "https://www.espn.com/racing/story/_/id/48524261/driver-dies-nurburgring-juha-miettinen-max-verstappen-adac-24h",
     "https://www.espn.com/nba/story/_/id/48506753/lebron-james-kevin-durant-revisiting-nba-playoff-matchups",
     "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
     "https://www.espn.com/nfl/story/_/id/48504635/nfl-draft-trade-jacksonville-jaguars-travis-hunter-cleveland-browns-mason-graham",
@@ -210,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/joan-laporta-presidente-fc-barcelona-128546498?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/inter-activa-suplir-posible-marcha-128549222?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48315231/nba-intel-wembanyama-spurs-thunder-bog-expansion-updates-east-race-injuries",
-    "https://www.bbc.com/sport/football/articles/cwykg07e994o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48325147/warriors-stephen-curry-2-more-games-due-lingering-knee-issue"
+    "https://www.bbc.com/sport/football/articles/cwykg07e994o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Driver dies in German race featuring Verstappen",
     "Revisiting each playoff matchup between LeBron James and Kevin Durant",
     "⬆ Players who have boosted their draft stock",
     "One year later: Who won the Jaguars-Browns draft-day trade for Travis Hunter?",
@@ -412,15 +415,9 @@
     "Joan Laporta, presidente del FC Barcelona, se reafirma: \"Fue una paliza, y se la merecían\"",
     "El Inter se activa para suplir la posible marcha de Bastoni al Barça",
     "Why NBA insiders are all-in on the Spurs: 'Victor breaks all the rules'",
-    "Bayern wary of Saudi interest in Kane - Monday's gossip",
-    "Sources: Curry (knee) ruled out another 2 games"
+    "Bayern wary of Saudi interest in Kane - Monday's gossip"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776451606039",
-      "resourceType": "video",
-      "uploadedAt": 1776451607771
-    },
     {
       "publicId": "tvs_cards/card_1776459383525",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1776537400599",
       "resourceType": "video",
       "uploadedAt": 1776537402189
+    },
+    {
+      "publicId": "tvs_cards/card_1776545216108",
+      "resourceType": "image",
+      "uploadedAt": 1776545216821
     }
   ]
 }
