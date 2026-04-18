@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Freeling",
+    "Rises",
     "Jaguars",
     "Steal",
     "Barça",
@@ -16,6 +18,7 @@
     "STORY"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
     "https://www.espn.com/nfl/story/_/id/48504635/nfl-draft-trade-jacksonville-jaguars-travis-hunter-cleveland-browns-mason-graham",
     "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
     "https://www.sport.es/es/noticias/barca/gran-problema-deco-planificacion-fichajes-129215187?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -214,10 +217,10 @@
     "https://www.espn.com/nba/story/_/id/48315231/nba-intel-wembanyama-spurs-thunder-bog-expansion-updates-east-race-injuries",
     "https://www.bbc.com/sport/football/articles/cwykg07e994o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48325147/warriors-stephen-curry-2-more-games-due-lingering-knee-issue",
-    "https://www.bbc.com/sport/articles/crm1jv3rvllo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/munetaka-murakami-homers-in-second-straight-game-to-start-mlb-career"
+    "https://www.bbc.com/sport/articles/crm1jv3rvllo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "⬆ Players who have boosted their draft stock",
     "One year later: Who won the Jaguars-Browns draft-day trade for Travis Hunter?",
     "NBA Futures: Thunder, Celtics favored to make Finals",
     "El gran problema de Deco en la planificación de fichajes del Barça",
@@ -416,15 +419,9 @@
     "Why NBA insiders are all-in on the Spurs: 'Victor breaks all the rules'",
     "Bayern wary of Saudi interest in Kane - Monday's gossip",
     "Sources: Curry (knee) ruled out another 2 games",
-    "Britain's Muir wins historic World Cup ski titles",
-    "Murakami's historic HR streak a bright spot in messy affair for White Sox"
+    "Britain's Muir wins historic World Cup ski titles"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776433705114",
-      "resourceType": "image",
-      "uploadedAt": 1776433706429
-    },
     {
       "publicId": "tvs_cards/card_1776445274598",
       "resourceType": "image",
@@ -474,6 +471,11 @@
       "publicId": "tvs_cards/card_1776518319422",
       "resourceType": "image",
       "uploadedAt": 1776518320851
+    },
+    {
+      "publicId": "tvs_cards/card_1776531187862",
+      "resourceType": "image",
+      "uploadedAt": 1776531189095
     }
   ]
 }
