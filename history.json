@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Williams",
+    "Takes",
     "Barça",
     "Signs",
     "Lakers",
@@ -16,6 +18,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/gavin-williams-11-strikeouts-quality-start-guardians-beat-orioles",
     "https://www.sport.es/es/noticias/barca/cancelo-sera-barca-o-129233061?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/news/articles/c0kr27j6z2vo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
@@ -214,10 +217,10 @@
     "https://www.espn.com/racing/f1/story/_/id/48347648/why-new-rules-max-verstappen-brink-walking-away-f1",
     "https://www.espn.com/nba/story/_/id/48347650/nikola-jokic-caitlin-clark-joking-explanation",
     "https://www.marca.com/futbol/valencia/2026/03/30/hugo-duro-envidia-gonzalo-gracias-madrid-me-quiso-valencia.html",
-    "https://www.espn.com/nba/story/_/id/48326062/nba-draft-big-questions-10-lottery-teams-bucks-giannis-grizzlies-morant",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller"
+    "https://www.espn.com/nba/story/_/id/48326062/nba-draft-big-questions-10-lottery-teams-bucks-giannis-grizzlies-morant"
   ],
   "postedTitles": [
+    "Williams breaks out new pitch mix in 11-K gem to grab MLB strikeouts lead",
     "Cancelo será del Barça sí o sí",
     "Britain's youngest F1 driver on his debut season so far - and learning to skateboard",
     "West playoffs: Nuggets and Lakers win as the playoffs begin",
@@ -416,15 +419,9 @@
     "Why new rules have Max Verstappen on the brink of walking away from F1",
     "'We have the same agent': Nikola Jokic jokes after Caitlin Clark's praise",
     "Hugo Duro: \"¿Envidia de Gonzalo?, gracias a que el Madrid no me quiso estoy en el Valencia\"",
-    "Future of Giannis and Ja, and the big questions facing every NBA lottery team",
-    "Miller's seven-round NFL mock draft: Let's project landing spots for 257 prospects"
+    "Future of Giannis and Ja, and the big questions facing every NBA lottery team"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776518319422",
-      "resourceType": "image",
-      "uploadedAt": 1776518320851
-    },
     {
       "publicId": "tvs_cards/card_1776531187862",
       "resourceType": "image",
@@ -474,6 +471,11 @@
       "publicId": "tvs_cards/card_1776604725546",
       "resourceType": "image",
       "uploadedAt": 1776604726857
+    },
+    {
+      "publicId": "tvs_cards/card_1776617593399",
+      "resourceType": "image",
+      "uploadedAt": 1776617594470
     }
   ]
 }
