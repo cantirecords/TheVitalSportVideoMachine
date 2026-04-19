@@ -18,6 +18,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/report/_/gameId/740916",
     "https://www.mlb.com/news/gavin-williams-11-strikeouts-quality-start-guardians-beat-orioles",
     "https://www.sport.es/es/noticias/barca/cancelo-sera-barca-o-129233061?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/news/articles/c0kr27j6z2vo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history",
     "https://www.espn.com/racing/f1/story/_/id/48347648/why-new-rules-max-verstappen-brink-walking-away-f1",
     "https://www.espn.com/nba/story/_/id/48347650/nikola-jokic-caitlin-clark-joking-explanation",
-    "https://www.marca.com/futbol/valencia/2026/03/30/hugo-duro-envidia-gonzalo-gracias-madrid-me-quiso-valencia.html",
-    "https://www.espn.com/nba/story/_/id/48326062/nba-draft-big-questions-10-lottery-teams-bucks-giannis-grizzlies-morant"
+    "https://www.marca.com/futbol/valencia/2026/03/30/hugo-duro-envidia-gonzalo-gracias-madrid-me-quiso-valencia.html"
   ],
   "postedTitles": [
+    "Haaland gives City edge over Arsenal in title race",
     "Williams breaks out new pitch mix in 11-K gem to grab MLB strikeouts lead",
     "Cancelo será del Barça sí o sí",
     "Britain's youngest F1 driver on his debut season so far - and learning to skateboard",
@@ -418,15 +419,9 @@
     "Wemby records fastest double-double ever in win",
     "Why new rules have Max Verstappen on the brink of walking away from F1",
     "'We have the same agent': Nikola Jokic jokes after Caitlin Clark's praise",
-    "Hugo Duro: \"¿Envidia de Gonzalo?, gracias a que el Madrid no me quiso estoy en el Valencia\"",
-    "Future of Giannis and Ja, and the big questions facing every NBA lottery team"
+    "Hugo Duro: \"¿Envidia de Gonzalo?, gracias a que el Madrid no me quiso estoy en el Valencia\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776531187862",
-      "resourceType": "image",
-      "uploadedAt": 1776531189095
-    },
     {
       "publicId": "tvs_videos/video_1776537400599",
       "resourceType": "video",
@@ -476,6 +471,11 @@
       "publicId": "tvs_cards/card_1776617593399",
       "resourceType": "image",
       "uploadedAt": 1776617594470
+    },
+    {
+      "publicId": "tvs_videos/video_1776623852396",
+      "resourceType": "video",
+      "uploadedAt": 1776623853857
     }
   ]
 }
