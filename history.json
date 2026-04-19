@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Bayern",
+    "Wins",
     "Williams",
     "Takes",
     "Barça",
@@ -18,6 +20,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48482014/bayern-munich-retain-bundesliga-title-stuttgart-thrashing",
     "https://www.espn.com/soccer/report/_/gameId/740916",
     "https://www.mlb.com/news/gavin-williams-11-strikeouts-quality-start-guardians-beat-orioles",
     "https://www.sport.es/es/noticias/barca/cancelo-sera-barca-o-129233061?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -216,10 +219,10 @@
     "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history",
     "https://www.espn.com/racing/f1/story/_/id/48347648/why-new-rules-max-verstappen-brink-walking-away-f1",
-    "https://www.espn.com/nba/story/_/id/48347650/nikola-jokic-caitlin-clark-joking-explanation",
-    "https://www.marca.com/futbol/valencia/2026/03/30/hugo-duro-envidia-gonzalo-gracias-madrid-me-quiso-valencia.html"
+    "https://www.espn.com/nba/story/_/id/48347650/nikola-jokic-caitlin-clark-joking-explanation"
   ],
   "postedTitles": [
+    "Kane scores as Bayern retain Bundesliga title",
     "Haaland gives City edge over Arsenal in title race",
     "Williams breaks out new pitch mix in 11-K gem to grab MLB strikeouts lead",
     "Cancelo será del Barça sí o sí",
@@ -418,20 +421,9 @@
     "El efecto dominó si Bastoni ficha por el FC Barcelona",
     "Wemby records fastest double-double ever in win",
     "Why new rules have Max Verstappen on the brink of walking away from F1",
-    "'We have the same agent': Nikola Jokic jokes after Caitlin Clark's praise",
-    "Hugo Duro: \"¿Envidia de Gonzalo?, gracias a que el Madrid no me quiso estoy en el Valencia\""
+    "'We have the same agent': Nikola Jokic jokes after Caitlin Clark's praise"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776537400599",
-      "resourceType": "video",
-      "uploadedAt": 1776537402189
-    },
-    {
-      "publicId": "tvs_cards/card_1776545216108",
-      "resourceType": "image",
-      "uploadedAt": 1776545216821
-    },
     {
       "publicId": "tvs_videos/video_1776563444422",
       "resourceType": "video",
@@ -476,6 +468,11 @@
       "publicId": "tvs_videos/video_1776623852396",
       "resourceType": "video",
       "uploadedAt": 1776623853857
+    },
+    {
+      "publicId": "tvs_cards/card_1776631736437",
+      "resourceType": "image",
+      "uploadedAt": 1776631737768
     }
   ]
 }
