@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Racer",
     "Dies",
     "NFL",
@@ -8,16 +9,10 @@
     "Strikes",
     "LeBron",
     "Freeling",
-    "Rises",
-    "Jaguars",
-    "Steal",
-    "Barça",
-    "Faces",
-    "Barcelona",
-    "Five",
-    "Steals"
+    "Rises"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-extends-on-base-streak-to-50-games-in-dodgers-loss",
     "https://www.bbc.com/sport/motorsport/articles/crl1wwdegkno?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48513002/2026-nfl-draft-riddick-favorite-prospects-class-sleepers-love-styles-cooper",
     "https://www.mlb.com/news/ryan-ward-dodgers-callup",
@@ -216,10 +211,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller",
     "https://www.espn.com/nba/story/_/id/48306024/2025-26-nba-rookie-rankings-end-regular-season-flagg-knueppel-edgecomb-rookie-year-race",
     "https://www.sport.es/es/noticias/barca/flick-recupera-mejor-version-lewandowski-128472219?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/nueva-vida-joan-laporta-presidente-128415886?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/joan-laporta-presidente-fc-barcelona-128546498?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/nueva-vida-joan-laporta-presidente-128415886?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Ohtani extends on-base streak to 50 games -- with 2 outs in 9th",
     "Miettinen dies in seven-car crash during Nurburgring race featuring Verstappen",
     "Riddick picks his favorite draft prospects: The guys he'd want on his team from Rounds 1-3",
     "Dodgers to call up No. 19 prospect Ryan Ward (report)",
@@ -418,15 +413,9 @@
     "Miller's seven-round NFL mock draft: Let's project landing spots for 257 prospects",
     "Updated NBA rookie rankings: Why the ROY race is all but over",
     "Flick recupera la mejor versión de Lewandowski en el FC Barcelona",
-    "La nueva vida de Joan Laporta como presidente electo del Barça",
-    "Joan Laporta, presidente del FC Barcelona, se reafirma: \"Fue una paliza, y se la merecían\""
+    "La nueva vida de Joan Laporta como presidente electo del Barça"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776495545987",
-      "resourceType": "video",
-      "uploadedAt": 1776495547507
-    },
     {
       "publicId": "tvs_cards/card_1776502820040",
       "resourceType": "image",
@@ -471,6 +460,11 @@
       "publicId": "tvs_cards/card_1776578668759",
       "resourceType": "image",
       "uploadedAt": 1776578670060
+    },
+    {
+      "publicId": "tvs_videos/video_1776582561164",
+      "resourceType": "video",
+      "uploadedAt": 1776582562456
     }
   ]
 }
