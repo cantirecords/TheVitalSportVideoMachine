@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "James",
+    "Reaches",
     "Raducanu",
     "Withdraws",
     "Cristiano",
@@ -26,6 +28,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48537702/brian-windhorst-lebron-lakers-five-lessons-first-weekend-nba-playoffs",
     "https://www.mlb.com/news/edwin-diaz-s-struggles-continue-in-dodgers-loss",
     "https://www.bbc.com/sport/tennis/articles/cwyx2d167n1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/cz907v58k0jo?at_medium=RSS&at_campaign=rss",
@@ -224,10 +227,10 @@
     "https://www.espn.com/nba/story/_/id/48359546/stephen-curry-cleared-scrimmage-latest-step-return",
     "https://www.mlb.com/news/yankees-chicken-bucket-ice-cream-dessert-for-2026-season",
     "https://www.espn.com/nba/story/_/id/48357900/lebron-bronny-james-one-one-los-angeles-lakers-broken-backboard",
-    "https://www.sport.es/es/noticias/barca/santi-denia-marmoush-objetivo-barca-128636205?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48355195/marc-cucurella-difficult-reject-barcelona-chelsea-bit-away-top-level"
+    "https://www.sport.es/es/noticias/barca/santi-denia-marmoush-objetivo-barca-128636205?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Windhorst: The five biggest lessons from the first weekend of the NBA playoffs",
     "Díaz (3 ER, 0 outs) continues to struggle as Dodgers seek answers",
     "Raducanu pulls out of Madrid Open",
     "Wembanyama stars for Spurs as Thunder and Celtics win",
@@ -426,15 +429,9 @@
     "Curry to scrimmage in latest step toward return",
     "Yankees unveil new dessert that looks like ... fried chicken?",
     "'That's like Miami Bron': LeBron James confirms breaking driveway backboard vs. Bronny",
-    "Santi Denia, sobre Marmoush, objetivo del Barça: \"Sería un gran fichaje para LaLiga\"",
-    "Cucurella: 'It would be difficult to reject' Barça"
+    "Santi Denia, sobre Marmoush, objetivo del Barça: \"Sería un gran fichaje para LaLiga\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776604725546",
-      "resourceType": "image",
-      "uploadedAt": 1776604726857
-    },
     {
       "publicId": "tvs_cards/card_1776617593399",
       "resourceType": "image",
@@ -479,6 +476,11 @@
       "publicId": "tvs_videos/video_1776690581541",
       "resourceType": "video",
       "uploadedAt": 1776690583483
+    },
+    {
+      "publicId": "tvs_cards/card_1776693774477",
+      "resourceType": "image",
+      "uploadedAt": 1776693776061
     }
   ]
 }
