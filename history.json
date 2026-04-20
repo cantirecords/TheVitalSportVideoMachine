@@ -30,6 +30,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/cp84xd25wg9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48538672/transfer-rumors-news-barcelona-step-interest-italy-right-back",
     "https://www.espn.com/nba/story/_/id/48537702/brian-windhorst-lebron-lakers-five-lessons-first-weekend-nba-playoffs",
     "https://www.mlb.com/news/edwin-diaz-s-struggles-continue-in-dodgers-loss",
@@ -228,10 +229,10 @@
     "https://www.espn.com/nfl/story/_/id/48360179/sources-beckham-jr-meets-harbaugh-giants-nfl-meetings",
     "https://www.espn.com/soccer/story/_/id/48359980/without-harry-kane-englands-chances-world-cup-slim",
     "https://www.espn.com/nba/story/_/id/48359546/stephen-curry-cleared-scrimmage-latest-step-return",
-    "https://www.mlb.com/news/yankees-chicken-bucket-ice-cream-dessert-for-2026-season",
-    "https://www.espn.com/nba/story/_/id/48357900/lebron-bronny-james-one-one-los-angeles-lakers-broken-backboard"
+    "https://www.mlb.com/news/yankees-chicken-bucket-ice-cream-dessert-for-2026-season"
   ],
   "postedTitles": [
+    "F1 makes changes to address new engine rules concerns",
     "Transfer rumors, news: Barcelona step up interest in Italy right back",
     "Windhorst: The five biggest lessons from the first weekend of the NBA playoffs",
     "Díaz (3 ER, 0 outs) continues to struggle as Dodgers seek answers",
@@ -430,15 +431,9 @@
     "Sources: OBJ meets with Giants at NFL meetings",
     "If England are going to win the World Cup, it's because of Harry Kane",
     "Curry to scrimmage in latest step toward return",
-    "Yankees unveil new dessert that looks like ... fried chicken?",
-    "'That's like Miami Bron': LeBron James confirms breaking driveway backboard vs. Bronny"
+    "Yankees unveil new dessert that looks like ... fried chicken?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776623852396",
-      "resourceType": "video",
-      "uploadedAt": 1776623853857
-    },
     {
       "publicId": "tvs_cards/card_1776631736437",
       "resourceType": "image",
@@ -483,6 +478,11 @@
       "publicId": "tvs_cards/card_1776705320304",
       "resourceType": "image",
       "uploadedAt": 1776705320983
+    },
+    {
+      "publicId": "tvs_videos/video_1776711281962",
+      "resourceType": "video",
+      "uploadedAt": 1776711283521
     }
   ]
 }
