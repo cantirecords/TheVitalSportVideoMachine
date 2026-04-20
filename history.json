@@ -20,6 +20,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
     "https://www.espn.com/soccer/story/_/id/48482014/bayern-munich-retain-bundesliga-title-stuttgart-thrashing",
     "https://www.espn.com/soccer/report/_/gameId/740916",
     "https://www.mlb.com/news/gavin-williams-11-strikeouts-quality-start-guardians-beat-orioles",
@@ -218,10 +219,10 @@
     "https://www.mlb.com/news/cal-raleigh-hits-walk-off-as-mariners-win-vs-yankees",
     "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history",
-    "https://www.espn.com/racing/f1/story/_/id/48347648/why-new-rules-max-verstappen-brink-walking-away-f1",
-    "https://www.espn.com/nba/story/_/id/48347650/nikola-jokic-caitlin-clark-joking-explanation"
+    "https://www.espn.com/racing/f1/story/_/id/48347648/why-new-rules-max-verstappen-brink-walking-away-f1"
   ],
   "postedTitles": [
+    "📸 Celebrity sightings at NBA playoffs games",
     "Kane scores as Bayern retain Bundesliga title",
     "Haaland gives City edge over Arsenal in title race",
     "Williams breaks out new pitch mix in 11-K gem to grab MLB strikeouts lead",
@@ -420,15 +421,9 @@
     "Big Dumper does it! Raleigh breaks out of slump with walk-off vs. Yankees",
     "El efecto dominó si Bastoni ficha por el FC Barcelona",
     "Wemby records fastest double-double ever in win",
-    "Why new rules have Max Verstappen on the brink of walking away from F1",
-    "'We have the same agent': Nikola Jokic jokes after Caitlin Clark's praise"
+    "Why new rules have Max Verstappen on the brink of walking away from F1"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776563444422",
-      "resourceType": "video",
-      "uploadedAt": 1776563446480
-    },
     {
       "publicId": "tvs_cards/card_1776569895722",
       "resourceType": "image",
@@ -473,6 +468,11 @@
       "publicId": "tvs_cards/card_1776631736437",
       "resourceType": "image",
       "uploadedAt": 1776631737768
+    },
+    {
+      "publicId": "tvs_videos/video_1776649978079",
+      "resourceType": "video",
+      "uploadedAt": 1776649980329
     }
   ]
 }
