@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Cristiano",
+    "Ronaldo",
     "MVP",
     "Finalists",
     "Bayern",
@@ -22,6 +24,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/segunda-division/2026/04/20/calleja-cristiano-ronaldo-fecha-caducidad.html",
     "https://www.espn.com/nba/story/_/id/48535860/wembanyama-gilgeous-alexander-jokic-named-mvp-finalists",
     "https://www.espn.com/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
     "https://www.espn.com/soccer/story/_/id/48482014/bayern-munich-retain-bundesliga-title-stuttgart-thrashing",
@@ -220,10 +223,10 @@
     "https://www.espn.com/soccer/story/_/id/48355195/marc-cucurella-difficult-reject-barcelona-chelsea-bit-away-top-level",
     "https://www.espn.com/tennis/story/_/id/48350226/indian-wells-miami-open-top-takeaways",
     "https://www.mlb.com/news/cal-raleigh-hits-walk-off-as-mariners-win-vs-yankees",
-    "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history"
+    "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Calleja: \"Cristiano Ronaldo no tiene fecha de caducidad\"",
     "Wembanyama joins SGA, Jokic as MVP finalist",
     "📸 Celebrity sightings at NBA playoffs games",
     "Kane scores as Bayern retain Bundesliga title",
@@ -422,15 +425,9 @@
     "Cucurella: 'It would be difficult to reject' Barça",
     "Sabalenka excels, Sinner back on track and more takeaways from Indian Wells and Miami Open",
     "Big Dumper does it! Raleigh breaks out of slump with walk-off vs. Yankees",
-    "El efecto dominó si Bastoni ficha por el FC Barcelona",
-    "Wemby records fastest double-double ever in win"
+    "El efecto dominó si Bastoni ficha por el FC Barcelona"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776578668759",
-      "resourceType": "image",
-      "uploadedAt": 1776578670060
-    },
     {
       "publicId": "tvs_videos/video_1776582561164",
       "resourceType": "video",
@@ -475,6 +472,11 @@
       "publicId": "tvs_cards/card_1776656394425",
       "resourceType": "image",
       "uploadedAt": 1776656395591
+    },
+    {
+      "publicId": "tvs_cards/card_1776666199305",
+      "resourceType": "image",
+      "uploadedAt": 1776666200063
     }
   ]
 }
