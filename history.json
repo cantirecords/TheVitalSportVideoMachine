@@ -24,6 +24,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/basketball/articles/cz907v58k0jo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/segunda-division/2026/04/20/calleja-cristiano-ronaldo-fecha-caducidad.html",
     "https://www.espn.com/nba/story/_/id/48535860/wembanyama-gilgeous-alexander-jokic-named-mvp-finalists",
     "https://www.espn.com/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
@@ -222,10 +223,10 @@
     "https://www.sport.es/es/noticias/barca/santi-denia-marmoush-objetivo-barca-128636205?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48355195/marc-cucurella-difficult-reject-barcelona-chelsea-bit-away-top-level",
     "https://www.espn.com/tennis/story/_/id/48350226/indian-wells-miami-open-top-takeaways",
-    "https://www.mlb.com/news/cal-raleigh-hits-walk-off-as-mariners-win-vs-yankees",
-    "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/cal-raleigh-hits-walk-off-as-mariners-win-vs-yankees"
   ],
   "postedTitles": [
+    "Wembanyama stars for Spurs as Thunder and Celtics win",
     "Calleja: \"Cristiano Ronaldo no tiene fecha de caducidad\"",
     "Wembanyama joins SGA, Jokic as MVP finalist",
     "📸 Celebrity sightings at NBA playoffs games",
@@ -424,15 +425,9 @@
     "Santi Denia, sobre Marmoush, objetivo del Barça: \"Sería un gran fichaje para LaLiga\"",
     "Cucurella: 'It would be difficult to reject' Barça",
     "Sabalenka excels, Sinner back on track and more takeaways from Indian Wells and Miami Open",
-    "Big Dumper does it! Raleigh breaks out of slump with walk-off vs. Yankees",
-    "El efecto dominó si Bastoni ficha por el FC Barcelona"
+    "Big Dumper does it! Raleigh breaks out of slump with walk-off vs. Yankees"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776582561164",
-      "resourceType": "video",
-      "uploadedAt": 1776582562456
-    },
     {
       "publicId": "tvs_cards/card_1776589356391",
       "resourceType": "image",
@@ -477,6 +472,11 @@
       "publicId": "tvs_cards/card_1776666199305",
       "resourceType": "image",
       "uploadedAt": 1776666200063
+    },
+    {
+      "publicId": "tvs_videos/video_1776671632895",
+      "resourceType": "video",
+      "uploadedAt": 1776671634686
     }
   ]
 }
