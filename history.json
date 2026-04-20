@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "MVP",
+    "Finalists",
     "Bayern",
     "Wins",
     "Williams",
@@ -20,6 +22,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48535860/wembanyama-gilgeous-alexander-jokic-named-mvp-finalists",
     "https://www.espn.com/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
     "https://www.espn.com/soccer/story/_/id/48482014/bayern-munich-retain-bundesliga-title-stuttgart-thrashing",
     "https://www.espn.com/soccer/report/_/gameId/740916",
@@ -218,10 +221,10 @@
     "https://www.espn.com/tennis/story/_/id/48350226/indian-wells-miami-open-top-takeaways",
     "https://www.mlb.com/news/cal-raleigh-hits-walk-off-as-mariners-win-vs-yankees",
     "https://www.sport.es/es/noticias/barca/efecto-domino-bastoni-ficha-fc-128599756?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history",
-    "https://www.espn.com/racing/f1/story/_/id/48347648/why-new-rules-max-verstappen-brink-walking-away-f1"
+    "https://www.espn.com/nba/story/_/id/48352523/victor-wembanyama-records-fastest-double-double-history"
   ],
   "postedTitles": [
+    "Wembanyama joins SGA, Jokic as MVP finalist",
     "📸 Celebrity sightings at NBA playoffs games",
     "Kane scores as Bayern retain Bundesliga title",
     "Haaland gives City edge over Arsenal in title race",
@@ -420,15 +423,9 @@
     "Sabalenka excels, Sinner back on track and more takeaways from Indian Wells and Miami Open",
     "Big Dumper does it! Raleigh breaks out of slump with walk-off vs. Yankees",
     "El efecto dominó si Bastoni ficha por el FC Barcelona",
-    "Wemby records fastest double-double ever in win",
-    "Why new rules have Max Verstappen on the brink of walking away from F1"
+    "Wemby records fastest double-double ever in win"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776569895722",
-      "resourceType": "image",
-      "uploadedAt": 1776569896632
-    },
     {
       "publicId": "tvs_cards/card_1776578668759",
       "resourceType": "image",
@@ -473,6 +470,11 @@
       "publicId": "tvs_videos/video_1776649978079",
       "resourceType": "video",
       "uploadedAt": 1776649980329
+    },
+    {
+      "publicId": "tvs_cards/card_1776656394425",
+      "resourceType": "image",
+      "uploadedAt": 1776656395591
     }
   ]
 }
