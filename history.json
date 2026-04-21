@@ -42,6 +42,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/articles/ce3dr56r9g3o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/f1/story/_/id/48548710/explained-f1-2026-rule-tweaks-changed-impact-difference-driver-criticism-max-verstappen",
     "https://www.sport.es/es/noticias/barca/festin-lamine-yamal-ganar-premio-129339032?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/yankees-red-sox-first-2026-series-schedule-starting-pitchers-preview",
@@ -240,10 +241,10 @@
     "https://www.espn.com/mlb/story/_/id/48356211/2026-mlb-ace-rankings-best-starting-pitchers-skenes-skubal-crochet-yamamoto",
     "https://www.espn.com/nba/story/_/id/48315335/nba-2025-2026-playoff-kryptonite-opponents-avoid-eastern-western-conference",
     "https://www.sport.es/es/noticias/barca/dardo-envenenado-szczesny-bardghji-lewandowski-128662296?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nfl/story/_/id/48352133/18-game-regular-season-cba-nfl-owners-coaches-weigh-league-meetings-phoenix",
-    "https://www.bbc.com/sport/basketball/articles/ckge4pp40xlo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/story/_/id/48352133/18-game-regular-season-cba-nfl-owners-coaches-weigh-league-meetings-phoenix"
   ],
   "postedTitles": [
+    "Bellingham invests in Birmingham Hundred franchise",
     "F1's rule tweaks: What's changed after driver criticism, and will it make a difference?",
     "Así fue el festín de Lamine Yamal tras ganar el Premio Laureus",
     "Yankees, Red Sox set to renew rivalry for first time in '26",
@@ -442,20 +443,9 @@
     "MLB starting pitcher rankings: Who are baseball's 11 true aces?",
     "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?",
     "El dardo envenenado de Szczęsny y Bardghji a Lewandowski: \"Todavía se lo cree\"",
-    "18-game regular season? Mixed reaction by NFL owners, coaches",
-    "Billion-dollar bids made for NBA Europe teams"
+    "18-game regular season? Mixed reaction by NFL owners, coaches"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776705320304",
-      "resourceType": "image",
-      "uploadedAt": 1776705320983
-    },
-    {
-      "publicId": "tvs_videos/video_1776711281962",
-      "resourceType": "video",
-      "uploadedAt": 1776711283521
-    },
     {
       "publicId": "tvs_cards/card_1776718668191",
       "resourceType": "image",
@@ -500,6 +490,11 @@
       "publicId": "tvs_cards/card_1776791525659",
       "resourceType": "image",
       "uploadedAt": 1776791527045
+    },
+    {
+      "publicId": "tvs_videos/video_1776798026488",
+      "resourceType": "video",
+      "uploadedAt": 1776798027939
     }
   ]
 }
