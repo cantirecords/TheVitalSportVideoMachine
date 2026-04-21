@@ -32,6 +32,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/48508230/wnba-training-camp-2026-season-opener-preview-biggest-question-projected-lineups-stats",
     "https://www.bbc.com/sport/articles/cdrmv8zm678o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/cp84xd25wg9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48538672/transfer-rumors-news-barcelona-step-interest-italy-right-back",
@@ -230,10 +231,10 @@
     "https://www.espn.com/soccer/story/_/id/48363223/messi-leads-argentina-5-0-victory-final-home-world-cup-tune-up",
     "https://www.bbc.com/sport/football/articles/cn89z009kv3o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48360179/sources-beckham-jr-meets-harbaugh-giants-nfl-meetings",
-    "https://www.espn.com/soccer/story/_/id/48359980/without-harry-kane-englands-chances-world-cup-slim",
-    "https://www.espn.com/nba/story/_/id/48359546/stephen-curry-cleared-scrimmage-latest-step-return"
+    "https://www.espn.com/soccer/story/_/id/48359980/without-harry-kane-englands-chances-world-cup-slim"
   ],
   "postedTitles": [
+    "The biggest question facing every WNBA team in training camp",
     "McIlroy and Norris honoured at Laureus awards",
     "F1 makes changes to address new engine rules concerns",
     "Transfer rumors, news: Barcelona step up interest in Italy right back",
@@ -432,8 +433,7 @@
     "Messi guides Argentina to 5-0 win in WC send-off",
     "Lewandowski misses out on World Cup - who else won't be there?",
     "Sources: OBJ meets with Giants at NFL meetings",
-    "If England are going to win the World Cup, it's because of Harry Kane",
-    "Curry to scrimmage in latest step toward return"
+    "If England are going to win the World Cup, it's because of Harry Kane"
   ],
   "cloudinaryAssets": [
     {
@@ -485,6 +485,11 @@
       "publicId": "tvs_cards/card_1776718668191",
       "resourceType": "image",
       "uploadedAt": 1776718669758
+    },
+    {
+      "publicId": "tvs_videos/video_1776736065672",
+      "resourceType": "video",
+      "uploadedAt": 1776736066900
     }
   ]
 }
