@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Messi",
+    "Amazes",
     "Madrid",
     "Wins",
     "Youngest",
@@ -36,6 +38,7 @@
     "Rises"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/robert-moreno-alucino-messi-luis-129334704?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48538979/erling-haaland-partner-happy-scratches-left-body-premier-defenders",
     "https://www.espn.com/soccer/story/_/id/48543253/real-madrid-beats-brugge-uefa-youth-league-final",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-recibir-segundo-laureus-129325578?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -234,10 +237,10 @@
     "https://www.bbc.com/sport/basketball/articles/ckge4pp40xlo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/nueva-vida-victor-font-elecciones-128613382?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48323320/next-lebron-nba-insiders-lakers-warriors-cavs-free-agency-options",
-    "https://www.espn.com/soccer/story/_/id/48365742/transfer-rumors-news-real-madrid-eye-liverpool-hugo-ekitike-erling-haaland",
-    "https://www.espn.com/soccer/story/_/id/48363223/messi-leads-argentina-5-0-victory-final-home-world-cup-tune-up"
+    "https://www.espn.com/soccer/story/_/id/48365742/transfer-rumors-news-real-madrid-eye-liverpool-hugo-ekitike-erling-haaland"
   ],
   "postedTitles": [
+    "Robert Moreno alucinó con lo que hacía Messi junto a Luis Suárez en los entrenamientos: \"No me lo sabían explicar\"",
     "Haaland's partner not happy with game 'scratches'",
     "Madrid beat Brugge to win UEFA Youth League",
     "Lamine Yamal, tras recibir su segundo Laureus: \"Ojalá pueda seguir el camino de Messi\"",
@@ -436,15 +439,9 @@
     "Billion-dollar bids made for NBA Europe teams",
     "La nueva vida de Víctor Font tras las elecciones del Barça",
     "Six free agency options for LeBron, according to NBA coaches, execs and scouts",
-    "Transfer rumors, news: Real Madrid eye Liverpool's Ekitike over Haaland",
-    "Messi guides Argentina to 5-0 win in WC send-off"
+    "Transfer rumors, news: Real Madrid eye Liverpool's Ekitike over Haaland"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776671632895",
-      "resourceType": "video",
-      "uploadedAt": 1776671634686
-    },
     {
       "publicId": "tvs_cards/card_1776679544090",
       "resourceType": "image",
@@ -494,6 +491,11 @@
       "publicId": "tvs_videos/video_1776756294951",
       "resourceType": "video",
       "uploadedAt": 1776756296659
+    },
+    {
+      "publicId": "tvs_cards/card_1776764816916",
+      "resourceType": "image",
+      "uploadedAt": 1776764818223
     }
   ]
 }
