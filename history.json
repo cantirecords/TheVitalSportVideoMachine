@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "NFL",
     "Draft",
     "Giants",
@@ -8,20 +9,10 @@
     "Destroys",
     "Barça",
     "Closing",
-    "Raiders",
-    "Land",
-    "Mahomes",
-    "Pitchers",
-    "Reach",
-    "F1",
-    "Tweaks",
-    "Lamine",
-    "Yamal",
-    "Messi",
-    "Amazes",
-    "Madrid"
+    "Raiders"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/can-shohei-ohtani-get-even-better-in-2026",
     "https://www.espn.com/nfl/story/_/id/48503427/2026-nfl-draft-cheat-sheet-top-prospect-sleepers-fits-picks-rankings-stats-mocks",
     "https://www.espn.com/nfl/story/_/id/48552003/new-york-giants-most-likely-2026-nfl-draft-caleb-downs",
     "https://www.espn.com/nba/story/_/id/48543958/what-make-victor-wembanyama-historic-game-1-performance-san-antonio-spurs-houston-rockets-nba-playoffs",
@@ -220,10 +211,10 @@
     "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego",
     "https://www.espn.com/fantasy/baseball/story/_/id/48376171/fantasy-baseball-espn-news-mlb-surprised-2026-april-2",
     "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/padre-lamine-yamal-alza-voz-128694107?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/basketball/articles/c8dl6j3ym05o?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/padre-lamine-yamal-alza-voz-128694107?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Could peak Ohtani have an even higher gear than we've seen?",
     "👀 Draft cheat sheet: All that you need to know",
     "Caleb Downs tops annual most likely Giants draft pick list",
     "Tim Duncan, David Robinson ... LeBron: What Victor Wembanyama's Game 1 signals for the NBA",
@@ -422,15 +413,9 @@
     "✨ Messi, Ronaldo among LEGO's WC stars",
     "Alvarez a top-10 bat? Ohtani wins Cy Young? Perdomo for real? Don't be surprised",
     "300-1 winner at Kelso equals UK longest odds record",
-    "El padre de Lamine Yamal estalla por lo ocurrido en el RCDE Stadium: \"¿Qué problema tenéis?\"",
-    "Wembanyama's 41 points help Spurs win 10 in a row"
+    "El padre de Lamine Yamal estalla por lo ocurrido en el RCDE Stadium: \"¿Qué problema tenéis?\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776791525659",
-      "resourceType": "image",
-      "uploadedAt": 1776791527045
-    },
     {
       "publicId": "tvs_videos/video_1776798026488",
       "resourceType": "video",
@@ -475,6 +460,11 @@
       "publicId": "tvs_cards/card_1776877853477",
       "resourceType": "image",
       "uploadedAt": 1776877854338
+    },
+    {
+      "publicId": "tvs_videos/video_1776884500982",
+      "resourceType": "video",
+      "uploadedAt": 1776884503146
     }
   ]
 }
