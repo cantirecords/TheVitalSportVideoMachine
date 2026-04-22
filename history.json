@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "WNBA",
+    "Teams",
     "Ohtani",
     "NFL",
     "Draft",
@@ -12,6 +14,7 @@
     "Raiders"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/48555818/wnba-2026-ranking-offseason-free-agents-draft-picks-moves-rosters",
     "https://www.mlb.com/news/can-shohei-ohtani-get-even-better-in-2026",
     "https://www.espn.com/nfl/story/_/id/48503427/2026-nfl-draft-cheat-sheet-top-prospect-sleepers-fits-picks-rankings-stats-mocks",
     "https://www.espn.com/nfl/story/_/id/48552003/new-york-giants-most-likely-2026-nfl-draft-caleb-downs",
@@ -210,10 +213,10 @@
     "https://www.espn.com/soccer/story/_/id/48380168/barcelona-alexia-putellas-hails-fans-magical-camp-nou-night",
     "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego",
     "https://www.espn.com/fantasy/baseball/story/_/id/48376171/fantasy-baseball-espn-news-mlb-surprised-2026-april-2",
-    "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/padre-lamine-yamal-alza-voz-128694107?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ranking every WNBA team's offseason, from Aces to Fire",
     "Could peak Ohtani have an even higher gear than we've seen?",
     "👀 Draft cheat sheet: All that you need to know",
     "Caleb Downs tops annual most likely Giants draft pick list",
@@ -412,20 +415,9 @@
     "Putellas hails Barcelona fans on 'magical' night",
     "✨ Messi, Ronaldo among LEGO's WC stars",
     "Alvarez a top-10 bat? Ohtani wins Cy Young? Perdomo for real? Don't be surprised",
-    "300-1 winner at Kelso equals UK longest odds record",
-    "El padre de Lamine Yamal estalla por lo ocurrido en el RCDE Stadium: \"¿Qué problema tenéis?\""
+    "300-1 winner at Kelso equals UK longest odds record"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776798026488",
-      "resourceType": "video",
-      "uploadedAt": 1776798027939
-    },
-    {
-      "publicId": "tvs_cards/card_1776805284801",
-      "resourceType": "image",
-      "uploadedAt": 1776805286292
-    },
     {
       "publicId": "tvs_videos/video_1776821520328",
       "resourceType": "video",
@@ -465,6 +457,11 @@
       "publicId": "tvs_videos/video_1776884500982",
       "resourceType": "video",
       "uploadedAt": 1776884503146
+    },
+    {
+      "publicId": "tvs_cards/card_1776891858274",
+      "resourceType": "image",
+      "uploadedAt": 1776891859266
     }
   ]
 }
