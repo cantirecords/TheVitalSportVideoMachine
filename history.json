@@ -16,6 +16,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
     "https://www.marca.com/futbol/primera-division/2026/04/21/calculadora-laliga-ea-sports-barca-cuenta-jornadas-campeon-descenso-arde.html",
     "https://www.espn.com/nfl/draft2026/story/_/id/48494104/mock-draft-2026-nfl-nation-first-round-predictions",
     "https://www.espn.com/nfl/story/_/id/48553270/justin-fields-wanted-join-chiefs-learn-patrick-mahomes",
@@ -214,10 +215,10 @@
     "https://www.bbc.com/sport/basketball/articles/c8dl6j3ym05o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48369237/nfl-draft-2026-flaws-top-quarterbacks-fernando-mendoza-ty-simpson",
     "https://www.espn.com/nfl/story/_/id/48361976/steelers-expect-decision-rodgers-draft-rooney-says",
-    "https://www.bbc.com/sport/cricket/articles/clyxqnwpx9zo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48346957/2026-nfl-draft-favorite-team-fits-20-top-prospects-reese-love-simpson"
+    "https://www.bbc.com/sport/cricket/articles/clyxqnwpx9zo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Draft rankings: Kiper finalizes his Big Board with top 150 prospects, best at every position",
     "La calculadora de LaLiga EA Sports: el Barça ya cuenta las jornadas para ser campeón y el descenso está que arde",
     "NFL Nation mock draft: Our team reporters predict landing spots in the first round",
     "Fields: Wanted to join KC to learn from Mahomes",
@@ -416,15 +417,9 @@
     "Wembanyama's 41 points help Spurs win 10 in a row",
     "These flaws could hold back the draft's top QBs",
     "Rooney: Rodgers to make decision before draft",
-    "NZ's Kerr hits 179 not out in record women's ODI chase",
-    "Best team fits for 20 draft prospects: We found matches for Delane, Downs, Boston"
+    "NZ's Kerr hits 179 not out in record women's ODI chase"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776751732456",
-      "resourceType": "image",
-      "uploadedAt": 1776751733164
-    },
     {
       "publicId": "tvs_videos/video_1776756294951",
       "resourceType": "video",
@@ -474,6 +469,11 @@
       "publicId": "tvs_cards/card_1776838123173",
       "resourceType": "image",
       "uploadedAt": 1776838123952
+    },
+    {
+      "publicId": "tvs_videos/video_1776842567087",
+      "resourceType": "video",
+      "uploadedAt": 1776842571809
     }
   ]
 }
