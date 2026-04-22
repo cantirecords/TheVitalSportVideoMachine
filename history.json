@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Giants",
+    "Locking",
     "Wembanyama",
     "Destroys",
     "Barça",
@@ -18,6 +20,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48552003/new-york-giants-most-likely-2026-nfl-draft-caleb-downs",
     "https://www.espn.com/nba/story/_/id/48543958/what-make-victor-wembanyama-historic-game-1-performance-san-antonio-spurs-houston-rockets-nba-playoffs",
     "https://www.espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
     "https://www.marca.com/futbol/primera-division/2026/04/21/calculadora-laliga-ea-sports-barca-cuenta-jornadas-campeon-descenso-arde.html",
@@ -216,10 +219,10 @@
     "https://www.bbc.com/sport/horse-racing/articles/c74vzqlex5wo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/padre-lamine-yamal-alza-voz-128694107?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/basketball/articles/c8dl6j3ym05o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48369237/nfl-draft-2026-flaws-top-quarterbacks-fernando-mendoza-ty-simpson",
-    "https://www.espn.com/nfl/story/_/id/48361976/steelers-expect-decision-rodgers-draft-rooney-says"
+    "https://www.espn.com/nfl/draft2026/story/_/id/48369237/nfl-draft-2026-flaws-top-quarterbacks-fernando-mendoza-ty-simpson"
   ],
   "postedTitles": [
+    "Caleb Downs tops annual most likely Giants draft pick list",
     "Tim Duncan, David Robinson ... LeBron: What Victor Wembanyama's Game 1 signals for the NBA",
     "Draft rankings: Kiper finalizes his Big Board with top 150 prospects, best at every position",
     "La calculadora de LaLiga EA Sports: el Barça ya cuenta las jornadas para ser campeón y el descenso está que arde",
@@ -418,15 +421,9 @@
     "300-1 winner at Kelso equals UK longest odds record",
     "El padre de Lamine Yamal estalla por lo ocurrido en el RCDE Stadium: \"¿Qué problema tenéis?\"",
     "Wembanyama's 41 points help Spurs win 10 in a row",
-    "These flaws could hold back the draft's top QBs",
-    "Rooney: Rodgers to make decision before draft"
+    "These flaws could hold back the draft's top QBs"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776776658548",
-      "resourceType": "video",
-      "uploadedAt": 1776776660941
-    },
     {
       "publicId": "tvs_cards/card_1776780077103",
       "resourceType": "image",
@@ -471,6 +468,11 @@
       "publicId": "tvs_cards/card_1776851076233",
       "resourceType": "image",
       "uploadedAt": 1776851076998
+    },
+    {
+      "publicId": "tvs_cards/card_1776866496826",
+      "resourceType": "image",
+      "uploadedAt": 1776866497597
     }
   ]
 }
