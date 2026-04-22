@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Mahomes",
     "Pitchers",
     "Reach",
     "F1",
@@ -8,42 +9,10 @@
     "Yamal",
     "Messi",
     "Amazes",
-    "Madrid",
-    "Wins",
-    "Youngest",
-    "Player",
-    "McIlroy",
-    "Wins",
-    "Barcelona",
-    "Targets",
-    "James",
-    "Reaches",
-    "Raducanu",
-    "Withdraws",
-    "Cristiano",
-    "Ronaldo",
-    "MVP",
-    "Finalists",
-    "Bayern",
-    "Wins",
-    "Williams",
-    "Takes",
-    "Barça",
-    "Signs",
-    "Lakers",
-    "Rise",
-    "Ohtani",
-    "Racer",
-    "Dies",
-    "NFL",
-    "Draft",
-    "Tragedy",
-    "Strikes",
-    "LeBron",
-    "Freeling",
-    "Rises"
+    "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48553270/justin-fields-wanted-join-chiefs-learn-patrick-mahomes",
     "https://www.espn.com/mlb/story/_/id/48542956/mlb-2026-100-mph-velocity-pitching-fastballs",
     "https://www.bbc.com/sport/articles/ce3dr56r9g3o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/f1/story/_/id/48548710/explained-f1-2026-rule-tweaks-changed-impact-difference-driver-criticism-max-verstappen",
@@ -242,10 +211,10 @@
     "https://www.bbc.com/sport/cricket/articles/clyxqnwpx9zo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48346957/2026-nfl-draft-favorite-team-fits-20-top-prospects-reese-love-simpson",
     "https://www.espn.com/mlb/story/_/id/48356211/2026-mlb-ace-rankings-best-starting-pitchers-skenes-skubal-crochet-yamamoto",
-    "https://www.espn.com/nba/story/_/id/48315335/nba-2025-2026-playoff-kryptonite-opponents-avoid-eastern-western-conference",
-    "https://www.sport.es/es/noticias/barca/dardo-envenenado-szczesny-bardghji-lewandowski-128662296?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nba/story/_/id/48315335/nba-2025-2026-playoff-kryptonite-opponents-avoid-eastern-western-conference"
   ],
   "postedTitles": [
+    "Fields: Wanted to join KC to learn from Mahomes",
     "'It's 100 or die': How throwing 100 mph went from a novelty to the norm in MLB",
     "Bellingham invests in Birmingham Hundred franchise",
     "F1's rule tweaks: What's changed after driver criticism, and will it make a difference?",
@@ -444,8 +413,7 @@
     "NZ's Kerr hits 179 not out in record women's ODI chase",
     "Best team fits for 20 draft prospects: We found matches for Delane, Downs, Boston",
     "MLB starting pitcher rankings: Who are baseball's 11 true aces?",
-    "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?",
-    "El dardo envenenado de Szczęsny y Bardghji a Lewandowski: \"Todavía se lo cree\""
+    "Kryptonite for 10 NBA title contenders: Which weaknesses could sink playoff teams?"
   ],
   "cloudinaryAssets": [
     {
@@ -497,6 +465,11 @@
       "publicId": "tvs_cards/card_1776805284801",
       "resourceType": "image",
       "uploadedAt": 1776805286292
+    },
+    {
+      "publicId": "tvs_videos/video_1776821520328",
+      "resourceType": "video",
+      "uploadedAt": 1776821522116
     }
   ]
 }
