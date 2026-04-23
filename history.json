@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Stays",
     "WNBA",
     "Teams",
     "Ohtani",
@@ -14,6 +16,7 @@
     "Raiders"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48564281/silver-nba-committed-memphis-suggests-nashville-games",
     "https://www.espn.com/nba/story/_/id/48558342/marcus-smart-helps-short-handed-lakers-win-game-2-vs-rockets",
     "https://www.espn.com/wnba/story/_/id/48555818/wnba-2026-ranking-offseason-free-agents-draft-picks-moves-rosters",
     "https://www.mlb.com/news/can-shohei-ohtani-get-even-better-in-2026",
@@ -212,10 +215,10 @@
     "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams",
     "https://www.sport.es/es/noticias/barca/ter-stegen-desesperacion-mundial-lucha-128397802?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48380168/barcelona-alexia-putellas-hails-fans-magical-camp-nou-night",
-    "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego",
-    "https://www.espn.com/fantasy/baseball/story/_/id/48376171/fantasy-baseball-espn-news-mlb-surprised-2026-april-2"
+    "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego"
   ],
   "postedTitles": [
+    "Silver reaffirms NBA's commitment to Memphis",
     "Smart's defense on KD helps Lakers to 2-0 lead",
     "Ranking every WNBA team's offseason, from Aces to Fire",
     "Could peak Ohtani have an even higher gear than we've seen?",
@@ -414,15 +417,9 @@
     "NBA Power Rankings: What to watch over the final two weeks for all 30 teams",
     "Ter Stegen, de la desesperación al Mundial: su lucha bajo la supervisión del Barça",
     "Putellas hails Barcelona fans on 'magical' night",
-    "✨ Messi, Ronaldo among LEGO's WC stars",
-    "Alvarez a top-10 bat? Ohtani wins Cy Young? Perdomo for real? Don't be surprised"
+    "✨ Messi, Ronaldo among LEGO's WC stars"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776828632594",
-      "resourceType": "image",
-      "uploadedAt": 1776828633924
-    },
     {
       "publicId": "tvs_cards/card_1776838123173",
       "resourceType": "image",
@@ -462,6 +459,11 @@
       "publicId": "tvs_videos/video_1776909093070",
       "resourceType": "video",
       "uploadedAt": 1776909095091
+    },
+    {
+      "publicId": "tvs_cards/card_1776915220917",
+      "resourceType": "image",
+      "uploadedAt": 1776915222170
     }
   ]
 }
