@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Leads",
     "Barca",
     "Takes",
     "NBA",
@@ -18,6 +20,7 @@
     "Raiders"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/cuando-puede-ganar-barcelona-laliga-129368946?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48553796/mlb-2026-early-season-stats-walk-rate-average-miller-astros-mets-red-sox",
     "https://www.marca.com/futbol/primera-division/2026/04/20/a-que-hora-juega-el-barcelona-contra-el-celta-de-vigo-horario-y-donde-ver-en-hoy-tv-el-partido-de-laliga-ea-sports.html",
     "https://www.espn.com/nba/story/_/id/48564281/silver-nba-committed-memphis-suggests-nashville-games",
@@ -216,10 +219,10 @@
     "https://www.mlb.com/news/konnor-griffin-pirates-introduction-mlb-debut",
     "https://www.espn.com/soccer/story/_/id/47650854/nba-greats-kerr-nash-ups-downs-owning-spanish-soccer-team-mallorca",
     "https://www.espn.com/nfl/draft2026/story/_/id/47455728/2026-nfl-draft-board-prospects-first-round-grades-comps",
-    "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams",
-    "https://www.sport.es/es/noticias/barca/ter-stegen-desesperacion-mundial-lucha-128397802?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams"
   ],
   "postedTitles": [
+    "¿Cuándo puede ganar el Barcelona LaLiga?",
     "The eight most astounding stats of MLB's season start",
     "A qué hora juega el Barcelona contra el Celta de Vigo: horario y dónde ver en hoy TV el partido de LaLiga EA Sports",
     "Silver reaffirms NBA's commitment to Memphis",
@@ -418,15 +421,9 @@
     "19-year-old Griffin will realize MLB dream with Pirates debut",
     "What NBA greats Kerr, Nash & Co. learned owning LaLiga's Mallorca",
     "Draft prospects with true Round 1 grade: The 12 clear first-rounders",
-    "NBA Power Rankings: What to watch over the final two weeks for all 30 teams",
-    "Ter Stegen, de la desesperación al Mundial: su lucha bajo la supervisión del Barça"
+    "NBA Power Rankings: What to watch over the final two weeks for all 30 teams"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776851076233",
-      "resourceType": "image",
-      "uploadedAt": 1776851076998
-    },
     {
       "publicId": "tvs_cards/card_1776866496826",
       "resourceType": "image",
@@ -466,6 +463,11 @@
       "publicId": "tvs_videos/video_1776929094995",
       "resourceType": "video",
       "uploadedAt": 1776929096734
+    },
+    {
+      "publicId": "tvs_cards/card_1776937916675",
+      "resourceType": "image",
+      "uploadedAt": 1776937917430
     }
   ]
 }
