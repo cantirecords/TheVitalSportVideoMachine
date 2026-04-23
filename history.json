@@ -18,6 +18,7 @@
     "Raiders"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48553796/mlb-2026-early-season-stats-walk-rate-average-miller-astros-mets-red-sox",
     "https://www.marca.com/futbol/primera-division/2026/04/20/a-que-hora-juega-el-barcelona-contra-el-celta-de-vigo-horario-y-donde-ver-en-hoy-tv-el-partido-de-laliga-ea-sports.html",
     "https://www.espn.com/nba/story/_/id/48564281/silver-nba-committed-memphis-suggests-nashville-games",
     "https://www.espn.com/nba/story/_/id/48558342/marcus-smart-helps-short-handed-lakers-win-game-2-vs-rockets",
@@ -216,10 +217,10 @@
     "https://www.espn.com/soccer/story/_/id/47650854/nba-greats-kerr-nash-ups-downs-owning-spanish-soccer-team-mallorca",
     "https://www.espn.com/nfl/draft2026/story/_/id/47455728/2026-nfl-draft-board-prospects-first-round-grades-comps",
     "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams",
-    "https://www.sport.es/es/noticias/barca/ter-stegen-desesperacion-mundial-lucha-128397802?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48380168/barcelona-alexia-putellas-hails-fans-magical-camp-nou-night"
+    "https://www.sport.es/es/noticias/barca/ter-stegen-desesperacion-mundial-lucha-128397802?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "The eight most astounding stats of MLB's season start",
     "A qué hora juega el Barcelona contra el Celta de Vigo: horario y dónde ver en hoy TV el partido de LaLiga EA Sports",
     "Silver reaffirms NBA's commitment to Memphis",
     "Smart's defense on KD helps Lakers to 2-0 lead",
@@ -418,15 +419,9 @@
     "What NBA greats Kerr, Nash & Co. learned owning LaLiga's Mallorca",
     "Draft prospects with true Round 1 grade: The 12 clear first-rounders",
     "NBA Power Rankings: What to watch over the final two weeks for all 30 teams",
-    "Ter Stegen, de la desesperación al Mundial: su lucha bajo la supervisión del Barça",
-    "Putellas hails Barcelona fans on 'magical' night"
+    "Ter Stegen, de la desesperación al Mundial: su lucha bajo la supervisión del Barça"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776842567087",
-      "resourceType": "video",
-      "uploadedAt": 1776842571809
-    },
     {
       "publicId": "tvs_cards/card_1776851076233",
       "resourceType": "image",
@@ -466,6 +461,11 @@
       "publicId": "tvs_cards/card_1776924739163",
       "resourceType": "image",
       "uploadedAt": 1776924740544
+    },
+    {
+      "publicId": "tvs_videos/video_1776929094995",
+      "resourceType": "video",
+      "uploadedAt": 1776929096734
     }
   ]
 }
