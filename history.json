@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Takes",
     "NBA",
     "Stays",
     "WNBA",
@@ -16,6 +18,7 @@
     "Raiders"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/04/20/a-que-hora-juega-el-barcelona-contra-el-celta-de-vigo-horario-y-donde-ver-en-hoy-tv-el-partido-de-laliga-ea-sports.html",
     "https://www.espn.com/nba/story/_/id/48564281/silver-nba-committed-memphis-suggests-nashville-games",
     "https://www.espn.com/nba/story/_/id/48558342/marcus-smart-helps-short-handed-lakers-win-game-2-vs-rockets",
     "https://www.espn.com/wnba/story/_/id/48555818/wnba-2026-ranking-offseason-free-agents-draft-picks-moves-rosters",
@@ -214,10 +217,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/47455728/2026-nfl-draft-board-prospects-first-round-grades-comps",
     "https://www.espn.com/nba/story/_/id/48356634/nba-power-rankings-watch-final-two-weeks-all-30-teams",
     "https://www.sport.es/es/noticias/barca/ter-stegen-desesperacion-mundial-lucha-128397802?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48380168/barcelona-alexia-putellas-hails-fans-magical-camp-nou-night",
-    "https://www.espn.com/soccer/story/_/id/48376425/lionel-messi-cristiano-ronaldo-world-cup-stars-feature-lego"
+    "https://www.espn.com/soccer/story/_/id/48380168/barcelona-alexia-putellas-hails-fans-magical-camp-nou-night"
   ],
   "postedTitles": [
+    "A qué hora juega el Barcelona contra el Celta de Vigo: horario y dónde ver en hoy TV el partido de LaLiga EA Sports",
     "Silver reaffirms NBA's commitment to Memphis",
     "Smart's defense on KD helps Lakers to 2-0 lead",
     "Ranking every WNBA team's offseason, from Aces to Fire",
@@ -416,15 +419,9 @@
     "Draft prospects with true Round 1 grade: The 12 clear first-rounders",
     "NBA Power Rankings: What to watch over the final two weeks for all 30 teams",
     "Ter Stegen, de la desesperación al Mundial: su lucha bajo la supervisión del Barça",
-    "Putellas hails Barcelona fans on 'magical' night",
-    "✨ Messi, Ronaldo among LEGO's WC stars"
+    "Putellas hails Barcelona fans on 'magical' night"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776838123173",
-      "resourceType": "image",
-      "uploadedAt": 1776838123952
-    },
     {
       "publicId": "tvs_videos/video_1776842567087",
       "resourceType": "video",
@@ -464,6 +461,11 @@
       "publicId": "tvs_cards/card_1776915220917",
       "resourceType": "image",
       "uploadedAt": 1776915222170
+    },
+    {
+      "publicId": "tvs_cards/card_1776924739163",
+      "resourceType": "image",
+      "uploadedAt": 1776924740544
     }
   ]
 }
