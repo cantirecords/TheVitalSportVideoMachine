@@ -14,6 +14,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/c17v4g1nq7ko?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lewandowski-merece-le-tratando-flick-129466464?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/betis/2026/04/23/diego-llorente-antony-novedades-lista-frente-real-madrid.html",
     "https://www.mlb.com/news/kyle-tucker-dropped-to-cleanup-spot-in-dodgers-lineup",
@@ -212,10 +213,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/48377191/2026-nfl-draft-latest-buzz-rumors-news-mocks-sleepers-mccoy-nussmeier-beck",
     "https://www.espn.com/nfl/story/_/id/48378935/lb-anthony-walker-retires-nfl-nine-seasons",
     "https://www.espn.com/soccer/story/_/id/48387012/cristiano-ronaldo-return-al-nassr-injury-t-al-najma",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-infancia-play-nintendo-pokemon-dv-127533284?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48357403/2026-nfl-draft-all-tape-team-best-prospects-every-position-nussmeier-bernard-barham"
+    "https://www.sport.es/es/noticias/barca/lamine-yamal-infancia-play-nintendo-pokemon-dv-127533284?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Turkey to return to F1 calendar in 2027",
     "\"Lewandowski no se merece cómo le está tratando Flick\"",
     "Diego Llorente y Antony, novedades en la lista frente al Real Madrid",
     "Moving Tucker down in lineup pays off for Dodgers in finale win",
@@ -414,15 +415,9 @@
     "Latest NFL draft buzz: What we're hearing on Jermod McCoy's pro day",
     "'Thank you football': LB Walker retires from NFL",
     "Ronaldo scores 2 vital goals on return from injury",
-    "Lamine Yamal se confiesa sobre su infancia: \"No podíamos comprar la Play o la Nintendo y jugaba con cartas de Pokémon de un euro\"",
-    "Solak's favorite NFL draft prospects to watch at every position: The best tape in the class"
+    "Lamine Yamal se confiesa sobre su infancia: \"No podíamos comprar la Play o la Nintendo y jugaba con cartas de Pokémon de un euro\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776937916675",
-      "resourceType": "image",
-      "uploadedAt": 1776937917430
-    },
     {
       "publicId": "tvs_videos/video_1776949490523",
       "resourceType": "video",
@@ -472,6 +467,11 @@
       "publicId": "tvs_cards/card_1777024283196",
       "resourceType": "image",
       "uploadedAt": 1777024284002
+    },
+    {
+      "publicId": "tvs_videos/video_1777035778731",
+      "resourceType": "video",
+      "uploadedAt": 1777035780936
     }
   ]
 }
