@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Tucker",
+    "Moves",
     "Yamal",
     "Out",
     "Barca",
@@ -28,6 +30,7 @@
     "Raiders"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/kyle-tucker-dropped-to-cleanup-spot-in-dodgers-lineup",
     "https://www.sport.es/es/noticias/barca/mundial-peligra-lamine-yamal-129438188?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/yankees-cam-schlittler-dominates-with-three-fastballs",
     "https://www.sport.es/es/noticias/barca/primeras-palabras-lamine-yamal-lesion-129446875?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -226,10 +229,10 @@
     "https://www.sport.es/es/noticias/barca/lamine-yamal-infancia-play-nintendo-pokemon-dv-127533284?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48357403/2026-nfl-draft-all-tape-team-best-prospects-every-position-nussmeier-bernard-barham",
     "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-    "https://www.sport.es/es/noticias/barca/atletico-barca-quitaron-liga-128642336?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy"
+    "https://www.sport.es/es/noticias/barca/atletico-barca-quitaron-liga-128642336?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Moving Tucker down in lineup pays off for Dodgers in finale win",
     "Oficial: El Mundial no peligra para Lamine Yamal",
     "How nasty is Yankees phenom's 3-fastball arsenal? Let him break it down for you",
     "Las primeras palabras de Lamine Yamal tras su lesión: \"Duele más de lo que puedo explicar\"",
@@ -428,15 +431,9 @@
     "Lamine Yamal se confiesa sobre su infancia: \"No podíamos comprar la Play o la Nintendo y jugaba con cartas de Pokémon de un euro\"",
     "Solak's favorite NFL draft prospects to watch at every position: The best tape in the class",
     "👀 Latest NBA buzz after Luka's injury",
-    "El día que Atlético y Barça se quitaron una Liga",
-    "Sources: NBA investigating Bucks, Giannis' health"
+    "El día que Atlético y Barça se quitaron una Liga"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776924739163",
-      "resourceType": "image",
-      "uploadedAt": 1776924740544
-    },
     {
       "publicId": "tvs_videos/video_1776929094995",
       "resourceType": "video",
@@ -481,6 +478,11 @@
       "publicId": "tvs_cards/card_1777001770345",
       "resourceType": "image",
       "uploadedAt": 1777001771574
+    },
+    {
+      "publicId": "tvs_cards/card_1777011419424",
+      "resourceType": "image",
+      "uploadedAt": 1777011420484
     }
   ]
 }
