@@ -26,6 +26,7 @@
     "Raiders"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-cam-schlittler-dominates-with-three-fastballs",
     "https://www.sport.es/es/noticias/barca/primeras-palabras-lamine-yamal-lesion-129446875?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/cew79nkyn1wo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/mounir-nasraoui-padre-lamine-yamal-129434115?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -224,10 +225,10 @@
     "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
     "https://www.sport.es/es/noticias/barca/atletico-barca-quitaron-liga-128642336?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
-    "https://www.espn.com/soccer/story/_/id/48383733/uwcl-talking-points-chelsea-season-failure-madrid-capitulate-barcelona",
-    "https://www.espn.com/nfl/story/_/id/48370913/caleb-downs-nfl-draft-how-high-too-high-safety"
+    "https://www.espn.com/soccer/story/_/id/48383733/uwcl-talking-points-chelsea-season-failure-madrid-capitulate-barcelona"
   ],
   "postedTitles": [
+    "How nasty is Yankees phenom's 3-fastball arsenal? Let him break it down for you",
     "Las primeras palabras de Lamine Yamal tras su lesión: \"Duele más de lo que puedo explicar\"",
     "Captain Salah one last time? FPL team of the week",
     "Mounir Nasraoui, padre de Lamine Yamal, recurre al rezo tras su lesión",
@@ -426,15 +427,9 @@
     "👀 Latest NBA buzz after Luka's injury",
     "El día que Atlético y Barça se quitaron una Liga",
     "Sources: NBA investigating Bucks, Giannis' health",
-    "Talking points: Chelsea's season a failure? Madrid capitulate at Barcelona",
-    "Safety 'savant' Caleb Downs to test NFL's thirst for his position"
+    "Talking points: Chelsea's season a failure? Madrid capitulate at Barcelona"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1776891858274",
-      "resourceType": "image",
-      "uploadedAt": 1776891859266
-    },
     {
       "publicId": "tvs_videos/video_1776909093070",
       "resourceType": "video",
@@ -484,6 +479,11 @@
       "publicId": "tvs_cards/card_1776978038198",
       "resourceType": "image",
       "uploadedAt": 1776978039552
+    },
+    {
+      "publicId": "tvs_videos/video_1776995452194",
+      "resourceType": "video",
+      "uploadedAt": 1776995453863
     }
   ]
 }
