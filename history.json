@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Edges",
     "England",
     "Dominates",
     "Steelers",
@@ -30,6 +32,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/flick-liga-no-hemos-celebrado-129518507?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48569632/panic-streets-london-how-arsenal-spurs-fans-influence-premier-league-title-relegation-race",
     "https://www.bbc.com/sport/rugby-union/videos/c2lw5wrz258o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/american-football/articles/c0e7v5qgpj9o?at_medium=RSS&at_campaign=rss",
@@ -228,10 +231,10 @@
     "https://www.espn.com/soccer/story/_/id/48405282/psv-clinch-3rd-straight-eredivisie-feyenoord-draw",
     "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
     "https://www.mlb.com/news/roki-sasaki-allows-six-runs-dodgers-rally-win-vs-nationals",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48359548/2026-nfl-draft-edge-rusher-projections-rankings-historical-comps-prospects",
-    "https://www.bbc.com/sport/basketball/articles/c1krzxx9ml2o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/draft2026/story/_/id/48359548/2026-nfl-draft-edge-rusher-projections-rankings-historical-comps-prospects"
   ],
   "postedTitles": [
+    "Flick: \"¿La Liga? No hemos celebrado nada, quedan cinco partidos\"",
     "'Panic on the streets of London': How Arsenal, Spurs fans can influence season finale",
     "England run riot against Wales to maintain 100% record",
     "Steelers draft QB with Rodgers future still unclear",
@@ -430,15 +433,9 @@
     "PSV clinch 3rd-straight Eredivisie in record time",
     "📝 Messi tracker: Goals, assists, key moments",
     "Dodgers rally from 5 runs down for 5th comeback win",
-    "What does the SackSEER model say about the top edge rushers in the 2026 NFL draft?",
-    "Jokic outshines Wembanyama as Denver end Spurs' run"
+    "What does the SackSEER model say about the top edge rushers in the 2026 NFL draft?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777056013604",
-      "resourceType": "video",
-      "uploadedAt": 1777056015035
-    },
     {
       "publicId": "tvs_cards/card_1777064355123",
       "resourceType": "image",
@@ -488,6 +485,11 @@
       "publicId": "tvs_videos/video_1777142345476",
       "resourceType": "video",
       "uploadedAt": 1777142346827
+    },
+    {
+      "publicId": "tvs_cards/card_1777150226355",
+      "resourceType": "image",
+      "uploadedAt": 1777150227524
     }
   ]
 }
