@@ -24,6 +24,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48580001/benfica-gianluca-prestianni-six-match-ban-anti-gay-conduct-vinicius-junior",
     "https://www.bbc.com/sport/american-football/articles/c98mr7zn3vdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/crk1gdp05k5o?at_medium=RSS&at_campaign=rss",
@@ -222,10 +223,10 @@
     "https://www.espn.com/mens-college-basketball/story/_/id/48400637/michigan-demolishes-arizona-historic-beatdown-1-seeds",
     "https://www.sport.es/es/noticias/barca/italia-lamine-yamal-jugaria-segunda-128757062?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/luis-gil-return-to-yankees-rotation",
-    "https://www.sport.es/es/noticias/barca/cabreo-lamine-yamal-128753077?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/mens-college-basketball/story/_/id/48391223/braylon-mullins-hometown-hero-greenfield-indiana-uconn-huskies-final-four"
+    "https://www.sport.es/es/noticias/barca/cabreo-lamine-yamal-128753077?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Defending champion Alcaraz to miss French Open",
     "Prestianni banned for anti-gay slur to Vini Jr.",
     "How mum's struggle inspired Mendoza's rise to top NFL draft pick",
     "Ex-F1 driver McNish named Audi racing director",
@@ -424,15 +425,9 @@
     "U-M advances with historic beatdown of Arizona",
     "\"En Italia, Lamine Yamal jugaría en Segunda\"",
     "Gil set to return to Yankees' rotation",
-    "Cabreo de Lamine Yamal",
-    "Welcome to Mullins Drive: How a small Indiana town is embracing its new March legend"
+    "Cabreo de Lamine Yamal"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777011419424",
-      "resourceType": "image",
-      "uploadedAt": 1777011420484
-    },
     {
       "publicId": "tvs_videos/video_1777017074178",
       "resourceType": "video",
@@ -482,6 +477,11 @@
       "publicId": "tvs_cards/card_1777096388038",
       "resourceType": "image",
       "uploadedAt": 1777096388978
+    },
+    {
+      "publicId": "tvs_videos/video_1777100707453",
+      "resourceType": "video",
+      "uploadedAt": 1777100709642
     }
   ]
 }
