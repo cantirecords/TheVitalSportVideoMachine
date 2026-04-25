@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Steelers",
+    "Select",
     "Lakers",
     "Take",
     "Prestianni",
@@ -26,6 +28,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/american-football/articles/c0e7v5qgpj9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/ailana-agbayani-drafted-by-athletes-unlimited-softball-league",
     "https://www.bbc.com/sport/basketball/articles/cn8d012gqdeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
@@ -224,10 +227,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/48359548/2026-nfl-draft-edge-rusher-projections-rankings-historical-comps-prospects",
     "https://www.bbc.com/sport/basketball/articles/c1krzxx9ml2o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
-    "https://www.espn.com/mens-college-basketball/story/_/id/48400637/michigan-demolishes-arizona-historic-beatdown-1-seeds",
-    "https://www.sport.es/es/noticias/barca/italia-lamine-yamal-jugaria-segunda-128757062?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/mens-college-basketball/story/_/id/48400637/michigan-demolishes-arizona-historic-beatdown-1-seeds"
   ],
   "postedTitles": [
+    "Steelers draft QB with Rodgers future still unclear",
     "Agbayani drafted by AUSL, looks to continue family legacy",
     "James leads Lakers to brink of play-off series win",
     "Defending champion Alcaraz to miss French Open",
@@ -426,15 +429,9 @@
     "What does the SackSEER model say about the top edge rushers in the 2026 NFL draft?",
     "Jokic outshines Wembanyama as Denver end Spurs' run",
     "NFL probe finds no reason to discipline Chiefs' Rice",
-    "U-M advances with historic beatdown of Arizona",
-    "\"En Italia, Lamine Yamal jugaría en Segunda\""
+    "U-M advances with historic beatdown of Arizona"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777035778731",
-      "resourceType": "video",
-      "uploadedAt": 1777035780936
-    },
     {
       "publicId": "tvs_cards/card_1777038975946",
       "resourceType": "image",
@@ -484,6 +481,11 @@
       "publicId": "tvs_videos/video_1777121009853",
       "resourceType": "video",
       "uploadedAt": 1777121012248
+    },
+    {
+      "publicId": "tvs_cards/card_1777123305119",
+      "resourceType": "image",
+      "uploadedAt": 1777123306615
     }
   ]
 }
