@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "First",
+    "Pick",
     "Feltner",
     "Hits",
     "Giants",
@@ -20,6 +22,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/american-football/articles/c98mr7zn3vdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/crk1gdp05k5o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/ryan-feltner-right-ulnar-nerve-inflammation",
     "https://www.mlb.com/news/spencer-jones-role-with-yankees-in-2026-analyzed",
@@ -218,10 +221,10 @@
     "https://www.mlb.com/news/luis-gil-return-to-yankees-rotation",
     "https://www.sport.es/es/noticias/barca/cabreo-lamine-yamal-128753077?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mens-college-basketball/story/_/id/48391223/braylon-mullins-hometown-hero-greenfield-indiana-uconn-huskies-final-four",
-    "https://www.espn.com/nba/story/_/id/48397148/lakers-reaves-oblique-remainder-regular-season",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-activo-estrategico-mundo-128744868?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nba/story/_/id/48397148/lakers-reaves-oblique-remainder-regular-season"
   ],
   "postedTitles": [
+    "How mum's struggle inspired Mendoza's rise to top NFL draft pick",
     "Ex-F1 driver McNish named Audi racing director",
     "Feltner goes on IL with right ulnar nerve inflammation",
     "What should the Yankees do with Spencer Jones?",
@@ -420,15 +423,9 @@
     "Gil set to return to Yankees' rotation",
     "Cabreo de Lamine Yamal",
     "Welcome to Mullins Drive: How a small Indiana town is embracing its new March legend",
-    "Sources: Lakers' Reaves (oblique) out 4-6 weeks",
-    "Lamine Yamal, un activo estratégico en el mundo del marketing deportivo: registra 7 marcas comerciales válidas hasta 2035"
+    "Sources: Lakers' Reaves (oblique) out 4-6 weeks"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1776995452194",
-      "resourceType": "video",
-      "uploadedAt": 1776995453863
-    },
     {
       "publicId": "tvs_cards/card_1777001770345",
       "resourceType": "image",
@@ -478,6 +475,11 @@
       "publicId": "tvs_videos/video_1777080586812",
       "resourceType": "video",
       "uploadedAt": 1777080589498
+    },
+    {
+      "publicId": "tvs_cards/card_1777087242594",
+      "resourceType": "image",
+      "uploadedAt": 1777087243874
     }
   ]
 }
