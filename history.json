@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Salah",
+    "Injury",
     "Barcelona",
     "Edges",
     "England",
@@ -32,6 +34,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48591369/arne-slot-know-mohamed-salah-final-game-liverpool",
     "https://www.bbc.com/sport/football/videos/c8jk43nv4pzo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/flick-liga-no-hemos-celebrado-129518507?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48569632/panic-streets-london-how-arsenal-spurs-fans-influence-premier-league-title-relegation-race",
@@ -230,10 +233,10 @@
     "https://www.espn.com/soccer/story/_/id/48410071/transfer-rumors-news-premier-league-clubs-real-madrid-vinicius-jr-alert-psg-bayern-keen",
     "https://www.espn.com/nba/story/_/id/48400333/jokic-outduels-wembanyama-amazing-ot-thriller",
     "https://www.espn.com/soccer/story/_/id/48405282/psv-clinch-3rd-straight-eredivisie-feyenoord-draw",
-    "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
-    "https://www.mlb.com/news/roki-sasaki-allows-six-runs-dodgers-rally-win-vs-nationals"
+    "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats"
   ],
   "postedTitles": [
+    "Slot unsure if Salah has played last Liverpool game",
     "Isak and Wirtz on scoresheet as Liverpool beat Palace",
     "Flick: \"¿La Liga? No hemos celebrado nada, quedan cinco partidos\"",
     "'Panic on the streets of London': How Arsenal, Spurs fans can influence season finale",
@@ -432,15 +435,9 @@
     "Transfer rumors, news: Europe's top clubs on alert over Vinicius Jr. move",
     "Jokic outduels Wemby in 'amazing' OT thriller",
     "PSV clinch 3rd-straight Eredivisie in record time",
-    "📝 Messi tracker: Goals, assists, key moments",
-    "Dodgers rally from 5 runs down for 5th comeback win"
+    "📝 Messi tracker: Goals, assists, key moments"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777087242594",
-      "resourceType": "image",
-      "uploadedAt": 1777087243874
-    },
     {
       "publicId": "tvs_cards/card_1777096388038",
       "resourceType": "image",
@@ -485,6 +482,11 @@
       "publicId": "tvs_videos/video_1777168397486",
       "resourceType": "video",
       "uploadedAt": 1777168399266
+    },
+    {
+      "publicId": "tvs_cards/card_1777174972914",
+      "resourceType": "image",
+      "uploadedAt": 1777174974032
     }
   ]
 }
