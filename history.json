@@ -42,6 +42,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/videos/cql7l017yp9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/how-mlb-players-break-in-their-gloves",
     "https://www.bbc.com/sport/athletics/videos/cj0v0qgm9reo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48593107/browns-select-qb-taylen-green-round-6-nfl-draft",
@@ -240,10 +241,10 @@
     "https://www.espn.com/nba/story/_/id/48387069/what-watch-biggest-question-last-week-2025-2026-nba-regular-season-playoffs-postseason-standings",
     "https://www.espn.com/nba/story/_/id/48407895/milwaukee-bucks-poke-fun-lebron-james-memphis-nba-comments",
     "https://www.sport.es/es/noticias/barca/manolo-lama-piedad-lamine-yamal-128783876?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
-    "https://www.espn.com/mlb/story/_/id/48403630/mlb-2026-season-ranking-most-fun-teams-phillies-dodgers-mets-red-sox-yankees"
+    "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby"
   ],
   "postedTitles": [
+    "Record-equalling Kerr helps Chelsea dominate Everton",
     "A microwave and a steamer? How MLB players break in their gloves",
     "'How dare you' - Hassan reacts to Sawe's record-breaking victory",
     "Browns draft Green, will proceed with 4-QB room",
@@ -442,8 +443,7 @@
     "Everything that is at stake in the final week of the NBA regular season",
     "Bucks poke fun at LeBron James with caption referencing 'everyone's two favorite cities'",
     "Manolo Lama, sin piedad con Lamine Yamal: \"A este chaval la fama le ha llegado muy pronto\"",
-    "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
-    "MLB Watchability Index: Which teams are the most fun to watch this season?"
+    "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby"
   ],
   "cloudinaryAssets": [
     {
@@ -495,6 +495,11 @@
       "publicId": "tvs_cards/card_1777222522075",
       "resourceType": "image",
       "uploadedAt": 1777222523455
+    },
+    {
+      "publicId": "tvs_videos/video_1777228835460",
+      "resourceType": "video",
+      "uploadedAt": 1777228837803
     }
   ]
 }
