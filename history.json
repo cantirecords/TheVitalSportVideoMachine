@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Sawe",
+    "Breaks",
     "Red",
     "Sox",
     "Miller",
@@ -38,6 +40,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/athletics/videos/cj0v0qgm9reo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48593107/browns-select-qb-taylen-green-round-6-nfl-draft",
     "https://www.mlb.com/news/red-sox-hit-three-home-runs-in-ninth-inning",
     "https://www.espn.com/nfl/draft2026/story/_/page/nfldrafttradetracker48440450/2026-nfl-draft-trade-tracker-picks-current-future-players-deals",
@@ -236,10 +239,10 @@
     "https://www.sport.es/es/noticias/barca/manolo-lama-piedad-lamine-yamal-128783876?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48373315/2026-nfl-mock-draft-all-trades-barnwell-deals-32-round-1-picks-players-mccarthy-crosby",
     "https://www.espn.com/mlb/story/_/id/48403630/mlb-2026-season-ranking-most-fun-teams-phillies-dodgers-mets-red-sox-yankees",
-    "https://www.espn.com/mens-college-basketball/story/_/id/48406601/inside-origin-story-one-shining-moment-march-madness-2026",
-    "https://www.mlb.com/news/mlb-power-rankings-april-6-2026"
+    "https://www.espn.com/mens-college-basketball/story/_/id/48406601/inside-origin-story-one-shining-moment-march-madness-2026"
   ],
   "postedTitles": [
+    "'How dare you' - Hassan reacts to Sawe's record-breaking victory",
     "Browns draft Green, will proceed with 4-QB room",
     "1, 2, 3, history! Red Sox mash in record ninth inning",
     "Tracking every single trade in the 2026 NFL draft",
@@ -438,15 +441,9 @@
     "Manolo Lama, sin piedad con Lamine Yamal: \"A este chaval la fama le ha llegado muy pronto\"",
     "Trade offers for every first-round NFL draft pick: We made deals for J.J. McCarthy, Maxx Crosby",
     "MLB Watchability Index: Which teams are the most fun to watch this season?",
-    "How 'One Shining Moment' became men's college hoops legend",
-    "Hard-charging teams challenge Dodgers atop Power Rankings"
+    "How 'One Shining Moment' became men's college hoops legend"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777123305119",
-      "resourceType": "image",
-      "uploadedAt": 1777123306615
-    },
     {
       "publicId": "tvs_cards/card_1777136077940",
       "resourceType": "image",
@@ -491,6 +488,11 @@
       "publicId": "tvs_videos/video_1777207525049",
       "resourceType": "video",
       "uploadedAt": 1777207526317
+    },
+    {
+      "publicId": "tvs_cards/card_1777209769661",
+      "resourceType": "image",
+      "uploadedAt": 1777209770345
     }
   ]
 }
