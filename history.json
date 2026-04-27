@@ -50,6 +50,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/draft2026/story/_/id/48583341/2026-nfl-draft-best-picks-trades-qb-fits-predictions",
     "https://www.espn.com/college-football/story/_/id/48571879/nfl-draft-2027-college-football-qb-poll-oregon-dante-moore-texas-arch-manning",
     "https://www.bbc.com/sport/american-football/articles/cql7qwzgq30o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-jasson-dominguez-callup",
@@ -248,10 +249,10 @@
     "https://www.espn.com/nba/story/_/id/48417190/jokic-rallies-nuggets-vs-blazers-move-denver-3-seed",
     "https://www.marca.com/futbol/primera-division/opinion/2026/04/07/respeto-real-madrid-mbappe.html",
     "https://www.sport.es/es/noticias/barca/carles-puyol-exjugador-fc-barcelona-128816047?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks",
-    "https://www.bbc.com/sport/cricket/articles/cz0e8rmmejzo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks"
   ],
   "postedTitles": [
+    "The best, worst and most confusing of the 2026 NFL draft: Our experts answer 29 questions",
     "Poll: Oregon's Dante Moore the early QB favorite for 2027 draft",
     "The winners & losers from the 2026 NFL Draft",
     "Yankees calling up Domínguez from Triple-A (source)",
@@ -450,15 +451,9 @@
     "Jokic rallies Nuggets as Denver moves to 3 seed",
     "Respeto para el Real Madrid y Mbappé",
     "Carles Puyol, exjugador del FC Barcelona: \"Me encanta comer, pero si tengo que escoger un plato, chuletón\"",
-    "'It feels like a funeral': Inside the seasonlong conflict between Giannis and the Bucks",
-    "Record stand as Surrey draw with Warwickshire"
+    "'It feels like a funeral': Inside the seasonlong conflict between Giannis and the Bucks"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777207525049",
-      "resourceType": "video",
-      "uploadedAt": 1777207526317
-    },
     {
       "publicId": "tvs_cards/card_1777209769661",
       "resourceType": "image",
@@ -503,6 +498,11 @@
       "publicId": "tvs_cards/card_1777285510804",
       "resourceType": "image",
       "uploadedAt": 1777285512145
+    },
+    {
+      "publicId": "tvs_videos/video_1777296063286",
+      "resourceType": "video",
+      "uploadedAt": 1777296064937
     }
   ]
 }
