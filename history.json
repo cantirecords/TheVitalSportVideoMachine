@@ -44,6 +44,7 @@
     "Points"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48604975/jokic-randle-fined-no-suspensions-nuggets-wolves-skirmish",
     "https://www.mlb.com/news/spencer-torkelson-ties-tigers-record-with-homer-in-5th-straight-game",
     "https://www.bbc.com/sport/football/videos/cql7l017yp9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/how-mlb-players-break-in-their-gloves",
@@ -242,10 +243,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/46532548/2026-nfl-draft-ranking-top-quarterbacks-hot-board-team-fits-strengths-weaknesses",
     "https://www.sport.es/es/noticias/barca/alarma-barca-champions-league-4-apercibidos-sancion-atletico-128804765?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48387069/what-watch-biggest-question-last-week-2025-2026-nba-regular-season-playoffs-postseason-standings",
-    "https://www.espn.com/nba/story/_/id/48407895/milwaukee-bucks-poke-fun-lebron-james-memphis-nba-comments",
-    "https://www.sport.es/es/noticias/barca/manolo-lama-piedad-lamine-yamal-128783876?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nba/story/_/id/48407895/milwaukee-bucks-poke-fun-lebron-james-memphis-nba-comments"
   ],
   "postedTitles": [
+    "Jokic, Randle fined; no suspensions for skirmish",
     "Who else? Tork homers in 5th straight game to tie Tigers record",
     "Record-equalling Kerr helps Chelsea dominate Everton",
     "A microwave and a steamer? How MLB players break in their gloves",
@@ -444,15 +445,9 @@
     "Draft QB Hot Board: Reid on strengths and weaknesses for the top 12 passers",
     "Alarma para el Barça en la Champions League: 4 apercibidos de sanción",
     "Everything that is at stake in the final week of the NBA regular season",
-    "Bucks poke fun at LeBron James with caption referencing 'everyone's two favorite cities'",
-    "Manolo Lama, sin piedad con Lamine Yamal: \"A este chaval la fama le ha llegado muy pronto\""
+    "Bucks poke fun at LeBron James with caption referencing 'everyone's two favorite cities'"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777168397486",
-      "resourceType": "video",
-      "uploadedAt": 1777168399266
-    },
     {
       "publicId": "tvs_cards/card_1777174972914",
       "resourceType": "image",
@@ -497,6 +492,11 @@
       "publicId": "tvs_cards/card_1777236675007",
       "resourceType": "image",
       "uploadedAt": 1777236676016
+    },
+    {
+      "publicId": "tvs_videos/video_1777255000418",
+      "resourceType": "video",
+      "uploadedAt": 1777255002116
     }
   ]
 }
