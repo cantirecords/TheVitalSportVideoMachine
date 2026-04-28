@@ -52,6 +52,7 @@
     "Barca"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/aaron-hicks-tyler-clippard-former-mlb-stars-try-to-qualify-for-golf-s-u-s-open",
     "https://www.mlb.com/news/max-scherzer-injured-list-forearm-ankle-injuries",
     "https://www.bbc.com/sport/basketball/articles/cq6j6j8n9l9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/snooker/articles/c3r3r5q3pl3o?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.espn.com/nba/story/_/id/48380547/nba-mvp-award-straw-poll-sga-wemby-luka-jokic-lead-final-2025-26-update",
     "https://www.espn.com/mens-college-basketball/story/_/id/48425089/malone-sees-chance-part-special-unc",
     "https://www.espn.com/nfl/draft2026/story/_/id/48408193/2026-nfl-mock-draft-peter-schrager-insider-intel-first-round-picks-predictions",
-    "https://www.espn.com/nfl/story/_/id/48421461/sources-fernando-mendoza-not-planning-attend-nfl-draft",
-    "https://www.bbc.com/sport/formula1/articles/c1j7zn503eko?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/story/_/id/48421461/sources-fernando-mendoza-not-planning-attend-nfl-draft"
   ],
   "postedTitles": [
+    "Trio of ex-MLB stars competing at U.S. Open qualifying",
     "Scherzer placed on IL with forearm tendinitis, ankle inflammation",
     "Spurs win again on Wembanyama's play-off return",
     "Higgins recovers to beat O'Sullivan in Crucible epic",
@@ -452,15 +453,9 @@
     "🏆 Final NBA MVP and ROY straw poll",
     "NBA vet Malone sees 'special' opportunity at UNC",
     "New mock draft: Schrager projects every first-round pick based on what he's hearing",
-    "Sources: Mendoza not planning to attend draft",
-    "Why Honda engine is not the only issue with Aston Martin - F1 Q&A"
+    "Sources: Mendoza not planning to attend draft"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777255000418",
-      "resourceType": "video",
-      "uploadedAt": 1777255002116
-    },
     {
       "publicId": "tvs_cards/card_1777261729902",
       "resourceType": "image",
@@ -505,6 +500,11 @@
       "publicId": "tvs_cards/card_1777324303445",
       "resourceType": "image",
       "uploadedAt": 1777324304567
+    },
+    {
+      "publicId": "tvs_videos/video_1777341848319",
+      "resourceType": "video",
+      "uploadedAt": 1777341850379
     }
   ]
 }
