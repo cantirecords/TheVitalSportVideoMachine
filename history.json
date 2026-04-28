@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "PSG",
+    "Wins",
     "Fantasy",
     "Draft",
     "Barça",
@@ -16,6 +18,7 @@
     "Higgins"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48620511/psg-edge-bayern-munich-historic-9-goal-ucl-semifinal",
     "https://www.espn.com/mlb/story/_/id/48610090/mlb-2026-april-all-stars-biggest-early-disappointments-players-watch",
     "https://www.espn.com/fantasy/womens-basketball/story/_/id/48609863/espn-wnba-fantasy-womens-basketball-expert-mock-draft-collier",
     "https://www.sport.es/es/noticias/barca/julian-comunicado-atletico-quiere-irse-129599335?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -214,10 +217,10 @@
     "https://www.espn.com/nba/story/_/id/48414627/nba-tanking-adam-silver-league-problem-solutions-epidemic",
     "https://www.bbc.com/sport/articles/c98gx75eyl1o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lewandowski-aval-estadistico-volver-once-128847523?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48430707/mohamed-salah-bench-liverpool-quarterfinal-psg-champions-league",
-    "https://www.bbc.com/sport/formula1/articles/cp9v7ppd004o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48430707/mohamed-salah-bench-liverpool-quarterfinal-psg-champions-league"
   ],
   "postedTitles": [
+    "PSG edge Bayern in historic 9-goal UCL semifinal",
     "Meet MLB's All-April team -- and the biggest early...",
     "Mock draft: When to draft Napheesa Collier and others",
     "\"Julián Álvarez ha comunicado al Atlético que quiere irse al Barça\"",
@@ -416,15 +419,9 @@
     "Inside the 'strange phenomenon' the NBA is struggling to contain",
     "Why La Liga teams will play in retro shirts this weekend",
     "Lewandowski, el aval estadístico para volver al once de la Champions",
-    "Salah benched for Liverpool quarterfinal with PSG",
-    "Why tweaks - not major changes -  expected to F1's rules"
+    "Salah benched for Liverpool quarterfinal with PSG"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777324303445",
-      "resourceType": "image",
-      "uploadedAt": 1777324304567
-    },
     {
       "publicId": "tvs_videos/video_1777341848319",
       "resourceType": "video",
@@ -469,6 +466,11 @@
       "publicId": "tvs_videos/video_1777404156969",
       "resourceType": "video",
       "uploadedAt": 1777404158297
+    },
+    {
+      "publicId": "tvs_cards/card_1777410808592",
+      "resourceType": "image",
+      "uploadedAt": 1777410809838
     }
   ]
 }
