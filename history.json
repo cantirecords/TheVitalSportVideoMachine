@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Targets",
     "Madrid",
     "Ohtani",
     "Returns",
@@ -12,6 +14,7 @@
     "Higgins"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/julian-comunicado-atletico-quiere-irse-129599335?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/primera-division/2026/04/28/ocho-nuevas-detenciones-incidentes-osasuna-real-madrid-febrero.html",
     "https://www.mlb.com/news/shohei-ohtani-to-start-vs-marlins-but-dh-status-unclear",
     "https://www.bbc.com/sport/formula1/articles/c87w70zp5l0o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.espn.com/soccer/story/_/id/48430707/mohamed-salah-bench-liverpool-quarterfinal-psg-champions-league",
     "https://www.bbc.com/sport/formula1/articles/cp9v7ppd004o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48423164/nba-power-rankings-where-all-30-teams-stack-end-2025-2026-regular-season",
-    "https://www.sport.es/es/noticias/barca/barcelona-atletico-champions-directo-128859683?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/formula1/articles/cx2ly12kppzo?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/barcelona-atletico-champions-directo-128859683?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "\"Julián Álvarez ha comunicado al Atlético que quiere irse al Barça\"",
     "Ocho nuevas detenciones por los incidentes tras el Osasuna-Real Madrid de febrero",
     "Ohtani (0.38 ERA) returns to mound tonight vs. Marlins -- but will not hit",
     "Will rule changes make noticeable difference in Miami? F1 Q&A",
@@ -412,15 +415,9 @@
     "Salah benched for Liverpool quarterfinal with PSG",
     "Why tweaks - not major changes -  expected to F1's rules",
     "NBA Power Rankings: Where all 30 teams land",
-    "Barcelona - Atlético, en directo: última hora de la Champions League y toda la previa, en vivo",
-    "Can you name every F1 constructors' champion?"
+    "Barcelona - Atlético, en directo: última hora de la Champions League y toda la previa, en vivo"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777299266282",
-      "resourceType": "image",
-      "uploadedAt": 1777299267279
-    },
     {
       "publicId": "tvs_cards/card_1777311469502",
       "resourceType": "image",
@@ -465,6 +462,11 @@
       "publicId": "tvs_videos/video_1777383101324",
       "resourceType": "video",
       "uploadedAt": 1777383103039
+    },
+    {
+      "publicId": "tvs_cards/card_1777386768753",
+      "resourceType": "image",
+      "uploadedAt": 1777386770346
     }
   ]
 }
