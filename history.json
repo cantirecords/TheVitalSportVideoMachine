@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Griezmann",
+    "Leads",
     "Jones",
     "Hits",
     "Lewandowski",
@@ -20,6 +22,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48560885/antoine-griezmann-atletico-madrid-laliga-great-champions-league-barcelona-mls-orlando-city",
     "https://www.mlb.com/news/yankees-prospect-spencer-jones-hits-two-home-runs",
     "https://www.bbc.com/sport/basketball/articles/c9v389ynzlvo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/fabrizio-ravanelli-ex-juventus-fichar-lewandowski-barcelona-paso-atras-129630261?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -218,10 +221,10 @@
     "https://www.espn.com/nba/story/_/id/48440781/steph-lebron-play-regular-season-warriors-rest-curry",
     "https://www.espn.com/f1/story/_/id/48438624/max-verstappen-inner-circle-gianpiero-lambiase-unravelling-red-bull-hopes-keeping-f1-2026",
     "https://www.espn.com/nfl/story/_/id/48437813/lavonte-david-hall-fame-buccaneers",
-    "https://www.bbc.com/sport/formula1/articles/ce3dy3z10ddo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/racing/f1/story/_/id/48428690/the-good-bad-ugly-f1-new-2026-regulationsthe-good-bad-ugly-f1-new-2026-regulations"
+    "https://www.bbc.com/sport/formula1/articles/ce3dy3z10ddo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Griezmann is already an Atlético legend. Can he wi...",
     "Yankees No. 6 prospect Jones goes deep twice in first multi-homer game of 2026",
     "Wembanyama double-double helps Spurs clinch series",
     "Fabrizio Ravanelli, ex de la Juventus: \"Fichar a Lewandowski sería un paso atrás\"",
@@ -420,15 +423,9 @@
     "Warriors to rest Steph (knee) vs. LeBron, Lakers",
     "Max Verstappen's inner circle is unravelling -- and so are Red Bull's hopes of keeping him",
     "How strong is former Bucs LB Lavonte David's Hall of Fame case? We compared it to legends in Canton",
-    "What do you think is the most beautiful F1 car of all time?",
-    "The good, the bad and the ugly of F1's new 2026 regulations"
+    "What do you think is the most beautiful F1 car of all time?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777386768753",
-      "resourceType": "image",
-      "uploadedAt": 1777386770346
-    },
     {
       "publicId": "tvs_cards/card_1777398761906",
       "resourceType": "image",
@@ -473,6 +470,11 @@
       "publicId": "tvs_cards/card_1777472502780",
       "resourceType": "image",
       "uploadedAt": 1777472503755
+    },
+    {
+      "publicId": "tvs_cards/card_1777484685631",
+      "resourceType": "image",
+      "uploadedAt": 1777484686663
     }
   ]
 }
