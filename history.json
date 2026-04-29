@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Jones",
+    "Hits",
     "Lewandowski",
     "Transfer",
     "Pistons",
@@ -18,6 +20,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-prospect-spencer-jones-hits-two-home-runs",
     "https://www.bbc.com/sport/basketball/articles/c9v389ynzlvo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/fabrizio-ravanelli-ex-juventus-fichar-lewandowski-barcelona-paso-atras-129630261?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
@@ -216,10 +219,10 @@
     "https://www.espn.com/f1/story/_/id/48438624/max-verstappen-inner-circle-gianpiero-lambiase-unravelling-red-bull-hopes-keeping-f1-2026",
     "https://www.espn.com/nfl/story/_/id/48437813/lavonte-david-hall-fame-buccaneers",
     "https://www.bbc.com/sport/formula1/articles/ce3dy3z10ddo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/racing/f1/story/_/id/48428690/the-good-bad-ugly-f1-new-2026-regulationsthe-good-bad-ugly-f1-new-2026-regulations",
-    "https://www.mlb.com/news/shohei-ohtani-start-vs-blue-jays"
+    "https://www.espn.com/racing/f1/story/_/id/48428690/the-good-bad-ugly-f1-new-2026-regulationsthe-good-bad-ugly-f1-new-2026-regulations"
   ],
   "postedTitles": [
+    "Yankees No. 6 prospect Jones goes deep twice in first multi-homer game of 2026",
     "Wembanyama double-double helps Spurs clinch series",
     "Fabrizio Ravanelli, ex de la Juventus: \"Fichar a Lewandowski sería un paso atrás\"",
     "NBA Futures: No. 1 seed Pistons fall to 45-1 to wi...",
@@ -418,15 +421,9 @@
     "Max Verstappen's inner circle is unravelling -- and so are Red Bull's hopes of keeping him",
     "How strong is former Bucs LB Lavonte David's Hall of Fame case? We compared it to legends in Canton",
     "What do you think is the most beautiful F1 car of all time?",
-    "The good, the bad and the ugly of F1's new 2026 regulations",
-    "Ohtani ties Ichiro for longest on-base streak by Japanese-born player"
+    "The good, the bad and the ugly of F1's new 2026 regulations"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777383101324",
-      "resourceType": "video",
-      "uploadedAt": 1777383103039
-    },
     {
       "publicId": "tvs_cards/card_1777386768753",
       "resourceType": "image",
@@ -471,6 +468,11 @@
       "publicId": "tvs_videos/video_1777469182761",
       "resourceType": "video",
       "uploadedAt": 1777469184373
+    },
+    {
+      "publicId": "tvs_cards/card_1777472502780",
+      "resourceType": "image",
+      "uploadedAt": 1777472503755
     }
   ]
 }
