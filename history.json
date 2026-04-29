@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "PSG",
     "Wins",
     "Fantasy",
@@ -8,16 +9,10 @@
     "Targets",
     "Madrid",
     "Ohtani",
-    "Returns",
-    "Chiefs",
-    "Still",
-    "Florida",
-    "Leads",
-    "Scherzer",
-    "Hits",
-    "Higgins"
+    "Returns"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/raphinha-relata-anos-duros-infancia-brasil-129595185?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48620511/psg-edge-bayern-munich-historic-9-goal-ucl-semifinal",
     "https://www.espn.com/mlb/story/_/id/48610090/mlb-2026-april-all-stars-biggest-early-disappointments-players-watch",
     "https://www.espn.com/fantasy/womens-basketball/story/_/id/48609863/espn-wnba-fantasy-womens-basketball-expert-mock-draft-collier",
@@ -216,10 +211,10 @@
     "https://www.mlb.com/news/blue-jays-come-back-to-beat-dodgers-snap-six-game-losing-streak",
     "https://www.espn.com/nba/story/_/id/48414627/nba-tanking-adam-silver-league-problem-solutions-epidemic",
     "https://www.bbc.com/sport/articles/c98gx75eyl1o?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/lewandowski-aval-estadistico-volver-once-128847523?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48430707/mohamed-salah-bench-liverpool-quarterfinal-psg-champions-league"
+    "https://www.sport.es/es/noticias/barca/lewandowski-aval-estadistico-volver-once-128847523?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Raphinha, futbolista del FC Barcelona, sobre su infancia: \"Tenía entre 12 y 14 años y pasaba 8 o 9 horas sin comer, con lo justo para pagar el autobús de vuelta a casa\"",
     "PSG edge Bayern in historic 9-goal UCL semifinal",
     "Meet MLB's All-April team -- and the biggest early...",
     "Mock draft: When to draft Napheesa Collier and others",
@@ -418,8 +413,7 @@
     "Blue Jays' rally over Dodgers a sign of life from gritty '25 identity",
     "Inside the 'strange phenomenon' the NBA is struggling to contain",
     "Why La Liga teams will play in retro shirts this weekend",
-    "Lewandowski, el aval estadístico para volver al once de la Champions",
-    "Salah benched for Liverpool quarterfinal with PSG"
+    "Lewandowski, el aval estadístico para volver al once de la Champions"
   ],
   "cloudinaryAssets": [
     {
@@ -471,6 +465,11 @@
       "publicId": "tvs_cards/card_1777410808592",
       "resourceType": "image",
       "uploadedAt": 1777410809838
+    },
+    {
+      "publicId": "tvs_videos/video_1777428327839",
+      "resourceType": "video",
+      "uploadedAt": 1777428330755
     }
   ]
 }
