@@ -24,6 +24,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/sale-luz-cita-lamine-yamal-129679863?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/brandon-nimmo-exits-game-with-hamstring-injury",
     "https://www.mlb.com/news/elmer-rodriguez-yankees-callup",
     "https://www.espn.com/soccer/story/_/id/48560885/antoine-griezmann-atletico-madrid-laliga-great-champions-league-barcelona-mls-orlando-city",
@@ -222,10 +223,10 @@
     "https://www.espn.com/mens-college-basketball/story/_/id/48440648/stanford-star-freshman-ebuka-okorie-declares-nba-draft",
     "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications",
     "https://www.sport.es/es/noticias/barca/no-vio-barca-atletico-kovacs-flick-lamine-remontada-128886984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48440781/steph-lebron-play-regular-season-warriors-rest-curry",
-    "https://www.espn.com/f1/story/_/id/48438624/max-verstappen-inner-circle-gianpiero-lambiase-unravelling-red-bull-hopes-keeping-f1-2026"
+    "https://www.espn.com/nba/story/_/id/48440781/steph-lebron-play-regular-season-warriors-rest-curry"
   ],
   "postedTitles": [
+    "Sale a la luz la cita de Lamine Yamal con su nuevo amor",
     "Nimmo (hamstring tightness) exits early vs. Yankees",
     "Pause the game, you're getting the call: Yanks No. 3 prospect Rodríguez set for MLB debut",
     "Griezmann is already an Atlético legend. Can he wi...",
@@ -424,15 +425,9 @@
     "Stanford star freshman Okorie declares for draft",
     "NBA teams all want to play faster -- but it might be making them worse",
     "Lo que no se vio del Barça - Atlético: Kovács sacó de sus casillas a Flick, la frustración de Lamine y la primera piedra de la remontada",
-    "Warriors to rest Steph (knee) vs. LeBron, Lakers",
-    "Max Verstappen's inner circle is unravelling -- and so are Red Bull's hopes of keeping him"
+    "Warriors to rest Steph (knee) vs. LeBron, Lakers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777410808592",
-      "resourceType": "image",
-      "uploadedAt": 1777410809838
-    },
     {
       "publicId": "tvs_videos/video_1777428327839",
       "resourceType": "video",
@@ -477,6 +472,11 @@
       "publicId": "tvs_cards/card_1777497239968",
       "resourceType": "image",
       "uploadedAt": 1777497241741
+    },
+    {
+      "publicId": "tvs_videos/video_1777514719250",
+      "resourceType": "video",
+      "uploadedAt": 1777514720791
     }
   ]
 }
