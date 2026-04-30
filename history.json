@@ -34,6 +34,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/cafe-batidos-bebida-toma-lamine-129712885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48634767/rockets-outlast-lakers-reaves-return-force-game-6",
     "https://www.mlb.com/news/pete-crow-armstrong-hits-two-run-homer-in-cubs-win-vs-padres",
     "https://www.bbc.com/sport/football/articles/crlp8npylnpo?at_medium=RSS&at_campaign=rss",
@@ -232,10 +233,10 @@
     "https://www.espn.com/soccer/story/_/id/48445152/transfer-rumors-news-arsenal-look-raise-100m-double-exit",
     "https://www.espn.com/nfl/draft2026/story/_/id/48420486/2026-nfl-draft-experts-pick-superteams-top-prospects-positions-kiper-miller-reid-yates",
     "https://www.sport.es/es/noticias/barca/lewandowski-ofrece-milan-hay-opciones-128939816?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck",
-    "https://www.espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions"
+    "https://www.espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck"
   ],
   "postedTitles": [
+    "Ni café ni batidos: la bebida que toma Lamine Yamal en su tiempo libre",
     "Rockets outlast Lakers to push series to Game 6",
     "PCA! Cubs' slugger breaking out of slump with more than just homers",
     "Liverpool expect Salah return before end of season",
@@ -434,15 +435,9 @@
     "Transfer rumors, news: Real Madrid continue to eye move for Olise",
     "Our draft experts picked 10-man rosters from 2026 class: Who has the best superteam?",
     "¡Lewandowski se ofrece al Milan y hay opciones de acuerdo!",
-    "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215",
-    "Miller's final 2026 NFL draft rankings: Let's stack the 482 best prospects"
+    "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777484685631",
-      "resourceType": "image",
-      "uploadedAt": 1777484686663
-    },
     {
       "publicId": "tvs_videos/video_1777489896666",
       "resourceType": "video",
@@ -492,6 +487,11 @@
       "publicId": "tvs_cards/card_1777570771715",
       "resourceType": "image",
       "uploadedAt": 1777570773019
+    },
+    {
+      "publicId": "tvs_videos/video_1777576075351",
+      "resourceType": "video",
+      "uploadedAt": 1777576078429
     }
   ]
 }
