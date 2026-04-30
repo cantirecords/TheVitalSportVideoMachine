@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Red",
+    "Sox",
     "Cole",
     "Nears",
     "Valencia",
@@ -28,6 +30,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48620433/mlb-2026-panic-meter-struggling-teams-red-sox-mets-phillies-astros",
     "https://www.mlb.com/news/nathan-eovaldi-seven-scoreless-innings-rangers-win-over-yankees",
     "https://www.mlb.com/news/gerrit-cole-makes-third-rehab-start-of-2026",
     "https://www.marca.com/futbol/valencia/2026/04/29/valencia-sufre-mal-goles-suplentes-equipo-liga-recibe.html",
@@ -226,10 +229,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
     "https://www.sport.es/es/noticias/barca/rafa-yuste-presidente-fc-barcelona-128915885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48429192/mlb-2026-power-rankings-week-2-dodgers-yankees-brewers-pirates-red-sox",
-    "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
-    "https://www.espn.com/mens-college-basketball/story/_/id/48440648/stanford-star-freshman-ebuka-okorie-declares-nba-draft"
+    "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season"
   ],
   "postedTitles": [
+    "MLB panic meter: Which struggling teams have the m...",
     "Eovaldi halts Rangers' slide with 7-inning gem vs. Yankees",
     "Cole takes another big step toward Yankees return with 3rd rehab start",
     "El Valencia sufre el 'mal de los goles suplentes': el equipo de la Liga que más recibe",
@@ -428,15 +431,9 @@
     "Miller's final 2026 NFL draft rankings: Let's stack the 482 best prospects",
     "Rafa Yuste, presidente del FC Barcelona: \"Cuando los árbitros se equivocan tanto hay que denunciarlo\"",
     "MLB Power Rankings: Brewers, Pirates rise as Red Sox fall in Week 2",
-    "'Legend' Robertson to leave Liverpool in summer",
-    "Stanford star freshman Okorie declares for draft"
+    "'Legend' Robertson to leave Liverpool in summer"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777457573207",
-      "resourceType": "image",
-      "uploadedAt": 1777457574312
-    },
     {
       "publicId": "tvs_videos/video_1777469182761",
       "resourceType": "video",
@@ -481,6 +478,11 @@
       "publicId": "tvs_videos/video_1777536425446",
       "resourceType": "video",
       "uploadedAt": 1777536426953
+    },
+    {
+      "publicId": "tvs_cards/card_1777544056121",
+      "resourceType": "image",
+      "uploadedAt": 1777544056896
     }
   ]
 }
