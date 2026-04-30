@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Valencia",
+    "Suffers",
     "Nimmo",
     "Exits",
     "Griezmann",
@@ -24,6 +26,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/valencia/2026/04/29/valencia-sufre-mal-goles-suplentes-equipo-liga-recibe.html",
     "https://www.sport.es/es/noticias/barca/sale-luz-cita-lamine-yamal-129679863?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/brandon-nimmo-exits-game-with-hamstring-injury",
     "https://www.mlb.com/news/elmer-rodriguez-yankees-callup",
@@ -222,10 +225,10 @@
     "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
     "https://www.espn.com/mens-college-basketball/story/_/id/48440648/stanford-star-freshman-ebuka-okorie-declares-nba-draft",
     "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications",
-    "https://www.sport.es/es/noticias/barca/no-vio-barca-atletico-kovacs-flick-lamine-remontada-128886984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48440781/steph-lebron-play-regular-season-warriors-rest-curry"
+    "https://www.sport.es/es/noticias/barca/no-vio-barca-atletico-kovacs-flick-lamine-remontada-128886984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "El Valencia sufre el 'mal de los goles suplentes': el equipo de la Liga que más recibe",
     "Sale a la luz la cita de Lamine Yamal con su nuevo amor",
     "Nimmo (hamstring tightness) exits early vs. Yankees",
     "Pause the game, you're getting the call: Yanks No. 3 prospect Rodríguez set for MLB debut",
@@ -424,20 +427,9 @@
     "'Legend' Robertson to leave Liverpool in summer",
     "Stanford star freshman Okorie declares for draft",
     "NBA teams all want to play faster -- but it might be making them worse",
-    "Lo que no se vio del Barça - Atlético: Kovács sacó de sus casillas a Flick, la frustración de Lamine y la primera piedra de la remontada",
-    "Warriors to rest Steph (knee) vs. LeBron, Lakers"
+    "Lo que no se vio del Barça - Atlético: Kovács sacó de sus casillas a Flick, la frustración de Lamine y la primera piedra de la remontada"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777428327839",
-      "resourceType": "video",
-      "uploadedAt": 1777428330755
-    },
-    {
-      "publicId": "tvs_cards/card_1777434601618",
-      "resourceType": "image",
-      "uploadedAt": 1777434602760
-    },
     {
       "publicId": "tvs_cards/card_1777444231532",
       "resourceType": "image",
@@ -477,6 +469,11 @@
       "publicId": "tvs_videos/video_1777514719250",
       "resourceType": "video",
       "uploadedAt": 1777514720791
+    },
+    {
+      "publicId": "tvs_cards/card_1777521083839",
+      "resourceType": "image",
+      "uploadedAt": 1777521085546
     }
   ]
 }
