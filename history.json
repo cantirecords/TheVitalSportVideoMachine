@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Cubs",
+    "Slugger",
     "Red",
     "Sox",
     "Cole",
@@ -30,6 +32,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/pete-crow-armstrong-hits-two-run-homer-in-cubs-win-vs-padres",
     "https://www.bbc.com/sport/football/articles/crlp8npylnpo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48620433/mlb-2026-panic-meter-struggling-teams-red-sox-mets-phillies-astros",
     "https://www.mlb.com/news/nathan-eovaldi-seven-scoreless-innings-rangers-win-over-yankees",
@@ -228,10 +231,10 @@
     "https://www.sport.es/es/noticias/barca/lewandowski-ofrece-milan-hay-opciones-128939816?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck",
     "https://www.espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
-    "https://www.sport.es/es/noticias/barca/rafa-yuste-presidente-fc-barcelona-128915885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/mlb/story/_/id/48429192/mlb-2026-power-rankings-week-2-dodgers-yankees-brewers-pirates-red-sox"
+    "https://www.sport.es/es/noticias/barca/rafa-yuste-presidente-fc-barcelona-128915885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "PCA! Cubs' slugger breaking out of slump with more than just homers",
     "Liverpool expect Salah return before end of season",
     "MLB panic meter: Which struggling teams have the m...",
     "Eovaldi halts Rangers' slide with 7-inning gem vs. Yankees",
@@ -430,15 +433,9 @@
     "¡Lewandowski se ofrece al Milan y hay opciones de acuerdo!",
     "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215",
     "Miller's final 2026 NFL draft rankings: Let's stack the 482 best prospects",
-    "Rafa Yuste, presidente del FC Barcelona: \"Cuando los árbitros se equivocan tanto hay que denunciarlo\"",
-    "MLB Power Rankings: Brewers, Pirates rise as Red Sox fall in Week 2"
+    "Rafa Yuste, presidente del FC Barcelona: \"Cuando los árbitros se equivocan tanto hay que denunciarlo\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777469182761",
-      "resourceType": "video",
-      "uploadedAt": 1777469184373
-    },
     {
       "publicId": "tvs_cards/card_1777472502780",
       "resourceType": "image",
@@ -488,6 +485,11 @@
       "publicId": "tvs_videos/video_1777555411548",
       "resourceType": "video",
       "uploadedAt": 1777555413883
+    },
+    {
+      "publicId": "tvs_cards/card_1777558539786",
+      "resourceType": "image",
+      "uploadedAt": 1777558541248
     }
   ]
 }
