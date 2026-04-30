@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Cole",
+    "Nears",
     "Valencia",
     "Suffers",
     "Nimmo",
@@ -26,6 +28,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/gerrit-cole-makes-third-rehab-start-of-2026",
     "https://www.marca.com/futbol/valencia/2026/04/29/valencia-sufre-mal-goles-suplentes-equipo-liga-recibe.html",
     "https://www.sport.es/es/noticias/barca/sale-luz-cita-lamine-yamal-129679863?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/brandon-nimmo-exits-game-with-hamstring-injury",
@@ -224,10 +227,10 @@
     "https://www.espn.com/mlb/story/_/id/48429192/mlb-2026-power-rankings-week-2-dodgers-yankees-brewers-pirates-red-sox",
     "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
     "https://www.espn.com/mens-college-basketball/story/_/id/48440648/stanford-star-freshman-ebuka-okorie-declares-nba-draft",
-    "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications",
-    "https://www.sport.es/es/noticias/barca/no-vio-barca-atletico-kovacs-flick-lamine-remontada-128886984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications"
   ],
   "postedTitles": [
+    "Cole takes another big step toward Yankees return with 3rd rehab start",
     "El Valencia sufre el 'mal de los goles suplentes': el equipo de la Liga que más recibe",
     "Sale a la luz la cita de Lamine Yamal con su nuevo amor",
     "Nimmo (hamstring tightness) exits early vs. Yankees",
@@ -426,15 +429,9 @@
     "MLB Power Rankings: Brewers, Pirates rise as Red Sox fall in Week 2",
     "'Legend' Robertson to leave Liverpool in summer",
     "Stanford star freshman Okorie declares for draft",
-    "NBA teams all want to play faster -- but it might be making them worse",
-    "Lo que no se vio del Barça - Atlético: Kovács sacó de sus casillas a Flick, la frustración de Lamine y la primera piedra de la remontada"
+    "NBA teams all want to play faster -- but it might be making them worse"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777444231532",
-      "resourceType": "image",
-      "uploadedAt": 1777444232825
-    },
     {
       "publicId": "tvs_cards/card_1777457573207",
       "resourceType": "image",
@@ -474,6 +471,11 @@
       "publicId": "tvs_cards/card_1777521083839",
       "resourceType": "image",
       "uploadedAt": 1777521085546
+    },
+    {
+      "publicId": "tvs_cards/card_1777530859383",
+      "resourceType": "image",
+      "uploadedAt": 1777530860081
     }
   ]
 }
