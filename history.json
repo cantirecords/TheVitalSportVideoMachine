@@ -28,6 +28,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/nathan-eovaldi-seven-scoreless-innings-rangers-win-over-yankees",
     "https://www.mlb.com/news/gerrit-cole-makes-third-rehab-start-of-2026",
     "https://www.marca.com/futbol/valencia/2026/04/29/valencia-sufre-mal-goles-suplentes-equipo-liga-recibe.html",
     "https://www.sport.es/es/noticias/barca/sale-luz-cita-lamine-yamal-129679863?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -226,10 +227,10 @@
     "https://www.sport.es/es/noticias/barca/rafa-yuste-presidente-fc-barcelona-128915885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48429192/mlb-2026-power-rankings-week-2-dodgers-yankees-brewers-pirates-red-sox",
     "https://www.espn.com/soccer/story/_/id/48439685/andy-robertson-leave-liverpool-end-season",
-    "https://www.espn.com/mens-college-basketball/story/_/id/48440648/stanford-star-freshman-ebuka-okorie-declares-nba-draft",
-    "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications"
+    "https://www.espn.com/mens-college-basketball/story/_/id/48440648/stanford-star-freshman-ebuka-okorie-declares-nba-draft"
   ],
   "postedTitles": [
+    "Eovaldi halts Rangers' slide with 7-inning gem vs. Yankees",
     "Cole takes another big step toward Yankees return with 3rd rehab start",
     "El Valencia sufre el 'mal de los goles suplentes': el equipo de la Liga que más recibe",
     "Sale a la luz la cita de Lamine Yamal con su nuevo amor",
@@ -428,8 +429,7 @@
     "Rafa Yuste, presidente del FC Barcelona: \"Cuando los árbitros se equivocan tanto hay que denunciarlo\"",
     "MLB Power Rankings: Brewers, Pirates rise as Red Sox fall in Week 2",
     "'Legend' Robertson to leave Liverpool in summer",
-    "Stanford star freshman Okorie declares for draft",
-    "NBA teams all want to play faster -- but it might be making them worse"
+    "Stanford star freshman Okorie declares for draft"
   ],
   "cloudinaryAssets": [
     {
@@ -476,6 +476,11 @@
       "publicId": "tvs_cards/card_1777530859383",
       "resourceType": "image",
       "uploadedAt": 1777530860081
+    },
+    {
+      "publicId": "tvs_videos/video_1777536425446",
+      "resourceType": "video",
+      "uploadedAt": 1777536426953
     }
   ]
 }
