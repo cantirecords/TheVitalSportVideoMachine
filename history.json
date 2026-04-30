@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Skenes",
+    "Strikes",
     "Rockets",
     "Stun",
     "Cubs",
@@ -34,6 +36,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/paul-skenes-faces-former-high-school-teammate-nathan-church-in-mlb",
     "https://www.sport.es/es/noticias/barca/cafe-batidos-bebida-toma-lamine-129712885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48634767/rockets-outlast-lakers-reaves-return-force-game-6",
     "https://www.mlb.com/news/pete-crow-armstrong-hits-two-run-homer-in-cubs-win-vs-padres",
@@ -232,10 +235,10 @@
     "https://www.espn.com/nba/story/_/id/48440537/nba-fines-magic-25k-violating-injury-reporting-rules",
     "https://www.espn.com/soccer/story/_/id/48445152/transfer-rumors-news-arsenal-look-raise-100m-double-exit",
     "https://www.espn.com/nfl/draft2026/story/_/id/48420486/2026-nfl-draft-experts-pick-superteams-top-prospects-positions-kiper-miller-reid-yates",
-    "https://www.sport.es/es/noticias/barca/lewandowski-ofrece-milan-hay-opciones-128939816?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48421239/2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck2026-nfl-mock-draft-quarterback-team-fits-mendoza-simpson-nussmeier-allar-beck"
+    "https://www.sport.es/es/noticias/barca/lewandowski-ofrece-milan-hay-opciones-128939816?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "How did Skenes repay HS mentor? By striking him out in 1st MLB showdown",
     "Ni café ni batidos: la bebida que toma Lamine Yamal en su tiempo libre",
     "Rockets outlast Lakers to push series to Game 6",
     "PCA! Cubs' slugger breaking out of slump with more than just homers",
@@ -434,15 +437,9 @@
     "NBA fines Magic $25K for injury report violation",
     "Transfer rumors, news: Real Madrid continue to eye move for Olise",
     "Our draft experts picked 10-man rosters from 2026 class: Who has the best superteam?",
-    "¡Lewandowski se ofrece al Milan y hay opciones de acuerdo!",
-    "Projecting NFL draft quarterback landing spots, from No. 1 to No. 215"
+    "¡Lewandowski se ofrece al Milan y hay opciones de acuerdo!"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777489896666",
-      "resourceType": "video",
-      "uploadedAt": 1777489898147
-    },
     {
       "publicId": "tvs_cards/card_1777497239968",
       "resourceType": "image",
@@ -492,6 +489,11 @@
       "publicId": "tvs_videos/video_1777576075351",
       "resourceType": "video",
       "uploadedAt": 1777576078429
+    },
+    {
+      "publicId": "tvs_cards/card_1777583386241",
+      "resourceType": "image",
+      "uploadedAt": 1777583387718
     }
   ]
 }
