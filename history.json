@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Mind",
+    "Blowing",
     "Skenes",
     "Strikes",
     "Rockets",
@@ -36,6 +38,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-stats-of-the-week-ending-april-30-2026",
     "https://www.mlb.com/news/most-consecutive-games-with-a-walk-mlb-history",
     "https://www.mlb.com/news/paul-skenes-faces-former-high-school-teammate-nathan-church-in-mlb",
     "https://www.sport.es/es/noticias/barca/cafe-batidos-bebida-toma-lamine-129712885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -234,10 +237,10 @@
     "https://www.mlb.com/news/brandon-valenzuela-hits-first-career-home-run-in-blue-jays-win",
     "https://www.espn.com/nba/story/_/id/48453474/nba-friday-slate-sees-least-168-injury-illness",
     "https://www.espn.com/nba/story/_/id/48440537/nba-fines-magic-25k-violating-injury-reporting-rules",
-    "https://www.espn.com/soccer/story/_/id/48445152/transfer-rumors-news-arsenal-look-raise-100m-double-exit",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48420486/2026-nfl-draft-experts-pick-superteams-top-prospects-positions-kiper-miller-reid-yates"
+    "https://www.espn.com/soccer/story/_/id/48445152/transfer-rumors-news-arsenal-look-raise-100m-double-exit"
   ],
   "postedTitles": [
+    "Stats of the Week: home run records, mind-bending velocity and streaks",
     "The most consecutive games with a walk in MLB history",
     "How did Skenes repay HS mentor? By striking him out in 1st MLB showdown",
     "Ni café ni batidos: la bebida que toma Lamine Yamal en su tiempo libre",
@@ -436,15 +439,9 @@
     "Valenzuela makes his mark with go-ahead blast for 1st MLB HR",
     "SGA, Jokic among at least 168 out NBA-wide Fri.",
     "NBA fines Magic $25K for injury report violation",
-    "Transfer rumors, news: Real Madrid continue to eye move for Olise",
-    "Our draft experts picked 10-man rosters from 2026 class: Who has the best superteam?"
+    "Transfer rumors, news: Real Madrid continue to eye move for Olise"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777521083839",
-      "resourceType": "image",
-      "uploadedAt": 1777521085546
-    },
     {
       "publicId": "tvs_cards/card_1777530859383",
       "resourceType": "image",
@@ -489,6 +486,11 @@
       "publicId": "tvs_videos/video_1777601361419",
       "resourceType": "video",
       "uploadedAt": 1777601362957
+    },
+    {
+      "publicId": "tvs_cards/card_1777608167507",
+      "resourceType": "image",
+      "uploadedAt": 1777608168519
     }
   ]
 }
