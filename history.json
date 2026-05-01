@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lamine",
+    "Yamal",
     "Vargas",
     "Reaches",
     "Verstappen",
@@ -42,6 +44,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/flick-avanza-lamine-yamal-pasara-129742972?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/ildemaro-vargas-extends-historic-hit-streak-with-d-backs",
     "https://www.bbc.com/sport/football/articles/c4gxg1g1d74o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/cx21m4e2n1zo?at_medium=RSS&at_campaign=rss",
@@ -240,10 +243,10 @@
     "https://www.espn.com/wnba/story/_/id/48413293/wnba-free-agency-trade-tracker-2026-deals-news-transactions",
     "https://www.sport.es/es/noticias/barca/posibles-regresos-sonados-once-barca-128966748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/golf/story/_/id/48451876/rory-mcilroy-leads-6-shots-set-36-hole-record-masters",
-    "https://www.espn.com/mlb/story/_/id/48454128/muncy-caps-3-hr-night-walk-dodgers-rally-rangers",
-    "https://www.espn.com/mlb/story/_/id/48370280/mlb-2026-free-agency-ranking-best-worst-free-agent-signings-ever-50th-anniversary"
+    "https://www.espn.com/mlb/story/_/id/48454128/muncy-caps-3-hr-night-walk-dodgers-rally-rangers"
   ],
   "postedTitles": [
+    "Flick avanza el estado de Lamine Yamal y qué pasará con el Mundial",
     "23-game hit streak -- and that's not counting last season! Vargas on historic tear",
     "Time for Isak & Wirtz to prove they are the future for Liverpool",
     "Verstappen says F1 rule changes 'a tickle'",
@@ -442,15 +445,9 @@
     "WNBA free agency and trade tracker: Skylar Diggins to Chicago, Satou Sabally to Liberty",
     "Dos posibles regresos sonados al once del Barça para el derbi",
     "Red-hot Rory sets Masters record with 6-shot lead",
-    "Dodgers' Muncy caps 3-HR night with walk-off shot",
-    "Free agency turns 50: Ranking the best -- and worst -- signings in MLB history"
+    "Dodgers' Muncy caps 3-HR night with walk-off shot"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777558539786",
-      "resourceType": "image",
-      "uploadedAt": 1777558541248
-    },
     {
       "publicId": "tvs_cards/card_1777570771715",
       "resourceType": "image",
@@ -495,6 +492,11 @@
       "publicId": "tvs_cards/card_1777643082269",
       "resourceType": "image",
       "uploadedAt": 1777643083478
+    },
+    {
+      "publicId": "tvs_cards/card_1777655164045",
+      "resourceType": "image",
+      "uploadedAt": 1777655165262
     }
   ]
 }
