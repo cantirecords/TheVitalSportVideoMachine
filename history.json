@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Vargas",
+    "Reaches",
     "Verstappen",
     "Slams",
     "Mind",
@@ -40,6 +42,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/ildemaro-vargas-extends-historic-hit-streak-with-d-backs",
     "https://www.bbc.com/sport/football/articles/c4gxg1g1d74o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/cx21m4e2n1zo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/valdez-consistency-vierling-production-spur-tigers-win-over-braves",
@@ -238,10 +241,10 @@
     "https://www.sport.es/es/noticias/barca/posibles-regresos-sonados-once-barca-128966748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/golf/story/_/id/48451876/rory-mcilroy-leads-6-shots-set-36-hole-record-masters",
     "https://www.espn.com/mlb/story/_/id/48454128/muncy-caps-3-hr-night-walk-dodgers-rally-rangers",
-    "https://www.espn.com/mlb/story/_/id/48370280/mlb-2026-free-agency-ranking-best-worst-free-agent-signings-ever-50th-anniversary",
-    "https://www.mlb.com/news/brandon-valenzuela-hits-first-career-home-run-in-blue-jays-win"
+    "https://www.espn.com/mlb/story/_/id/48370280/mlb-2026-free-agency-ranking-best-worst-free-agent-signings-ever-50th-anniversary"
   ],
   "postedTitles": [
+    "23-game hit streak -- and that's not counting last season! Vargas on historic tear",
     "Time for Isak & Wirtz to prove they are the future for Liverpool",
     "Verstappen says F1 rule changes 'a tickle'",
     "Valdez continues to eat innings for Tigers as they top MLB-best Braves",
@@ -440,15 +443,9 @@
     "Dos posibles regresos sonados al once del Barça para el derbi",
     "Red-hot Rory sets Masters record with 6-shot lead",
     "Dodgers' Muncy caps 3-HR night with walk-off shot",
-    "Free agency turns 50: Ranking the best -- and worst -- signings in MLB history",
-    "Valenzuela makes his mark with go-ahead blast for 1st MLB HR"
+    "Free agency turns 50: Ranking the best -- and worst -- signings in MLB history"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777555411548",
-      "resourceType": "video",
-      "uploadedAt": 1777555413883
-    },
     {
       "publicId": "tvs_cards/card_1777558539786",
       "resourceType": "image",
@@ -493,6 +490,11 @@
       "publicId": "tvs_videos/video_1777640340778",
       "resourceType": "video",
       "uploadedAt": 1777640342993
+    },
+    {
+      "publicId": "tvs_cards/card_1777643082269",
+      "resourceType": "image",
+      "uploadedAt": 1777643083478
     }
   ]
 }
