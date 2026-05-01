@@ -38,6 +38,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/valdez-consistency-vierling-production-spur-tigers-win-over-braves",
     "https://www.mlb.com/news/mlb-stats-of-the-week-ending-april-30-2026",
     "https://www.mlb.com/news/most-consecutive-games-with-a-walk-mlb-history",
     "https://www.mlb.com/news/paul-skenes-faces-former-high-school-teammate-nathan-church-in-mlb",
@@ -236,10 +237,10 @@
     "https://www.espn.com/mlb/story/_/id/48370280/mlb-2026-free-agency-ranking-best-worst-free-agent-signings-ever-50th-anniversary",
     "https://www.mlb.com/news/brandon-valenzuela-hits-first-career-home-run-in-blue-jays-win",
     "https://www.espn.com/nba/story/_/id/48453474/nba-friday-slate-sees-least-168-injury-illness",
-    "https://www.espn.com/nba/story/_/id/48440537/nba-fines-magic-25k-violating-injury-reporting-rules",
-    "https://www.espn.com/soccer/story/_/id/48445152/transfer-rumors-news-arsenal-look-raise-100m-double-exit"
+    "https://www.espn.com/nba/story/_/id/48440537/nba-fines-magic-25k-violating-injury-reporting-rules"
   ],
   "postedTitles": [
+    "Valdez continues to eat innings for Tigers as they top MLB-best Braves",
     "Stats of the Week: home run records, mind-bending velocity and streaks",
     "The most consecutive games with a walk in MLB history",
     "How did Skenes repay HS mentor? By striking him out in 1st MLB showdown",
@@ -438,15 +439,9 @@
     "Free agency turns 50: Ranking the best -- and worst -- signings in MLB history",
     "Valenzuela makes his mark with go-ahead blast for 1st MLB HR",
     "SGA, Jokic among at least 168 out NBA-wide Fri.",
-    "NBA fines Magic $25K for injury report violation",
-    "Transfer rumors, news: Real Madrid continue to eye move for Olise"
+    "NBA fines Magic $25K for injury report violation"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777530859383",
-      "resourceType": "image",
-      "uploadedAt": 1777530860081
-    },
     {
       "publicId": "tvs_videos/video_1777536425446",
       "resourceType": "video",
@@ -491,6 +486,11 @@
       "publicId": "tvs_cards/card_1777608167507",
       "resourceType": "image",
       "uploadedAt": 1777608168519
+    },
+    {
+      "publicId": "tvs_videos/video_1777622669752",
+      "resourceType": "video",
+      "uploadedAt": 1777622671186
     }
   ]
 }
