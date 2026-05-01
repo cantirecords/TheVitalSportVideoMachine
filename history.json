@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Verstappen",
+    "Slams",
     "Mind",
     "Blowing",
     "Skenes",
@@ -38,6 +40,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/cx21m4e2n1zo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/valdez-consistency-vierling-production-spur-tigers-win-over-braves",
     "https://www.mlb.com/news/mlb-stats-of-the-week-ending-april-30-2026",
     "https://www.mlb.com/news/most-consecutive-games-with-a-walk-mlb-history",
@@ -236,10 +239,10 @@
     "https://www.espn.com/mlb/story/_/id/48454128/muncy-caps-3-hr-night-walk-dodgers-rally-rangers",
     "https://www.espn.com/mlb/story/_/id/48370280/mlb-2026-free-agency-ranking-best-worst-free-agent-signings-ever-50th-anniversary",
     "https://www.mlb.com/news/brandon-valenzuela-hits-first-career-home-run-in-blue-jays-win",
-    "https://www.espn.com/nba/story/_/id/48453474/nba-friday-slate-sees-least-168-injury-illness",
-    "https://www.espn.com/nba/story/_/id/48440537/nba-fines-magic-25k-violating-injury-reporting-rules"
+    "https://www.espn.com/nba/story/_/id/48453474/nba-friday-slate-sees-least-168-injury-illness"
   ],
   "postedTitles": [
+    "Verstappen says F1 rule changes 'a tickle'",
     "Valdez continues to eat innings for Tigers as they top MLB-best Braves",
     "Stats of the Week: home run records, mind-bending velocity and streaks",
     "The most consecutive games with a walk in MLB history",
@@ -438,15 +441,9 @@
     "Dodgers' Muncy caps 3-HR night with walk-off shot",
     "Free agency turns 50: Ranking the best -- and worst -- signings in MLB history",
     "Valenzuela makes his mark with go-ahead blast for 1st MLB HR",
-    "SGA, Jokic among at least 168 out NBA-wide Fri.",
-    "NBA fines Magic $25K for injury report violation"
+    "SGA, Jokic among at least 168 out NBA-wide Fri."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777536425446",
-      "resourceType": "video",
-      "uploadedAt": 1777536426953
-    },
     {
       "publicId": "tvs_cards/card_1777544056121",
       "resourceType": "image",
@@ -491,6 +488,11 @@
       "publicId": "tvs_videos/video_1777622669752",
       "resourceType": "video",
       "uploadedAt": 1777622671186
+    },
+    {
+      "publicId": "tvs_cards/card_1777629234857",
+      "resourceType": "image",
+      "uploadedAt": 1777629235871
     }
   ]
 }
