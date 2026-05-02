@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Alcantara",
+    "Leads",
     "Woodruff",
     "Hits",
     "Barcelona",
@@ -48,6 +50,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-execs-poll-biggest-name-2026-trade-deadline",
     "https://www.mlb.com/news/brandon-woodruff-injured-list-right-shoulder",
     "https://www.mlb.com/news/matt-brash-placed-on-il-with-right-lat-inflammation",
     "https://www.sport.es/es/noticias/barca/flick-guardara-sentenciar-liga-129739017?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -246,10 +249,10 @@
     "https://www.bbc.com/sport/tennis/articles/c77mkkgk4mvo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48452102/bayern-munich-bundesliga-goal-record-st-pauli-leon-goretzka",
     "https://www.mlb.com/news/michael-wacha-pitches-eight-innings-in-royals-win-vs-white-sox",
-    "https://www.mlb.com/news/lowe-leads-the-way-for-reds-as-they-top-angels",
-    "https://www.espn.com/soccer/story/_/id/48459195/liverpool-arne-slot-=long-term-future-rio-ngumoha-scored-salah-goal"
+    "https://www.mlb.com/news/lowe-leads-the-way-for-reds-as-they-top-angels"
   ],
   "postedTitles": [
+    "MLB execs poll: Biggest name moved at Trade Deadline will be ...",
     "Woodruff placed on IL with shoulder inflammation, but Crew relieved by diagnosis",
     "Mariners place Brash on 15-day IL with lat inflammation",
     "Flick no se guardará nada para sentenciar la Liga",
@@ -448,15 +451,9 @@
     "Alcaraz faces Sinner in Monte Carlo final",
     "Bayern Munich smash Bundesliga scoring record",
     "Wacha's 8-inning scoreless gem drops ERA to MLB-best 0.43 mark",
-    "Reds put up four-run first after entering Saturday with fewest runs in MLB",
-    "Slot hails 'special' Ngumoha after Salah-like goal"
+    "Reds put up four-run first after entering Saturday with fewest runs in MLB"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777608167507",
-      "resourceType": "image",
-      "uploadedAt": 1777608168519
-    },
     {
       "publicId": "tvs_videos/video_1777622669752",
       "resourceType": "video",
@@ -501,6 +498,11 @@
       "publicId": "tvs_cards/card_1777692943321",
       "resourceType": "image",
       "uploadedAt": 1777692944122
+    },
+    {
+      "publicId": "tvs_cards/card_1777702538133",
+      "resourceType": "image",
+      "uploadedAt": 1777702539444
     }
   ]
 }
