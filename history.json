@@ -52,6 +52,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48651461/nba-playoffs-2026-game-7-preview-celtics-76ers-pistons-magic-cavaliers-raptors",
     "https://www.espn.com/nfl/story/_/id/48610121/houston-texans-pay-cj-stroud-qb-market-nfl-execs",
     "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48648833/mohamed-salah-liverpool-exit-steven-gerrard",
@@ -250,10 +251,10 @@
     "https://www.sport.es/es/noticias/barca/dardo-lamine-yamal-espanyol-toca-128999605?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/jose-ramirez-first-cleveland-player-home-run-all-29-mlb-teams",
     "https://www.mlb.com/news/jonathan-aranda-drives-in-winner-as-rays-walk-off-yankees",
-    "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-    "https://www.espn.com/mlb/story/_/id/48429223/mlb-2026-seattle-mariners-cal-raleigh-breakdown-struggles"
+    "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us"
   ],
   "postedTitles": [
+    "The NBA playoffs' second round is waiting on three...",
     "Should the Texans pay C.J. Stroud? NFL execs from around the league weigh in",
     "Ex-F1 driver and Paralympic cycling champion Zanardi dies",
     "Liverpool's Salah: 'Time to go' after tough season...",
@@ -452,15 +453,9 @@
     "El dardo de Lamine Yamal al Espanyol: \"Toca tragar, como siempre\"",
     "More history for J-Ram! 3B first Cleveland player with HR vs. other 29 MLB teams",
     "Rays pelt Yankees with small-ball tactics to walk it off in 10th",
-    "Redick: 'Everybody' wants to face hobbled Lakers",
-    "Breaking down Cal Raleigh's first 55 plate appearances of 2026 -- and what's gone wrong for the Mariners"
+    "Redick: 'Everybody' wants to face hobbled Lakers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777655164045",
-      "resourceType": "image",
-      "uploadedAt": 1777655165262
-    },
     {
       "publicId": "tvs_videos/video_1777662003288",
       "resourceType": "video",
@@ -505,6 +500,11 @@
       "publicId": "tvs_cards/card_1777729097464",
       "resourceType": "image",
       "uploadedAt": 1777729098274
+    },
+    {
+      "publicId": "tvs_videos/video_1777747556145",
+      "resourceType": "video",
+      "uploadedAt": 1777747557740
     }
   ]
 }
