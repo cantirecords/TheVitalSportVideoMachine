@@ -46,6 +46,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/matt-brash-placed-on-il-with-right-lat-inflammation",
     "https://www.sport.es/es/noticias/barca/flick-guardara-sentenciar-liga-129739017?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/vladimir-guerrero-jr-byron-buxton-play-in-mlb-sunday-leadoff-game-on-peacock",
     "https://www.sport.es/es/noticias/barca/flick-avanza-lamine-yamal-pasara-129742972?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -244,10 +245,10 @@
     "https://www.mlb.com/news/michael-wacha-pitches-eight-innings-in-royals-win-vs-white-sox",
     "https://www.mlb.com/news/lowe-leads-the-way-for-reds-as-they-top-angels",
     "https://www.espn.com/soccer/story/_/id/48459195/liverpool-arne-slot-=long-term-future-rio-ngumoha-scored-salah-goal",
-    "https://www.espn.com/wnba/story/_/id/48413293/wnba-free-agency-trade-tracker-2026-deals-news-transactions",
-    "https://www.sport.es/es/noticias/barca/posibles-regresos-sonados-once-barca-128966748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/wnba/story/_/id/48413293/wnba-free-agency-trade-tracker-2026-deals-news-transactions"
   ],
   "postedTitles": [
+    "Mariners place Brash on 15-day IL with lat inflammation",
     "Flick no se guardará nada para sentenciar la Liga",
     "Vlad Jr., Buxton set to star in season debut of MLB Sunday Leadoff on Peacock",
     "Flick avanza el estado de Lamine Yamal y qué pasará con el Mundial",
@@ -446,15 +447,9 @@
     "Wacha's 8-inning scoreless gem drops ERA to MLB-best 0.43 mark",
     "Reds put up four-run first after entering Saturday with fewest runs in MLB",
     "Slot hails 'special' Ngumoha after Salah-like goal",
-    "WNBA free agency and trade tracker: Skylar Diggins to Chicago, Satou Sabally to Liberty",
-    "Dos posibles regresos sonados al once del Barça para el derbi"
+    "WNBA free agency and trade tracker: Skylar Diggins to Chicago, Satou Sabally to Liberty"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777583386241",
-      "resourceType": "image",
-      "uploadedAt": 1777583387718
-    },
     {
       "publicId": "tvs_videos/video_1777601361419",
       "resourceType": "video",
@@ -499,6 +494,11 @@
       "publicId": "tvs_cards/card_1777669321849",
       "resourceType": "image",
       "uploadedAt": 1777669323312
+    },
+    {
+      "publicId": "tvs_videos/video_1777686995984",
+      "resourceType": "video",
+      "uploadedAt": 1777686997788
     }
   ]
 }
