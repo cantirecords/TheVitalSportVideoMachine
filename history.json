@@ -50,6 +50,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/basketball/articles/c87qxrggrewo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-execs-poll-biggest-name-2026-trade-deadline",
     "https://www.mlb.com/news/brandon-woodruff-injured-list-right-shoulder",
     "https://www.mlb.com/news/matt-brash-placed-on-il-with-right-lat-inflammation",
@@ -248,10 +249,10 @@
     "https://www.espn.com/mlb/story/_/id/48429223/mlb-2026-seattle-mariners-cal-raleigh-breakdown-struggles",
     "https://www.bbc.com/sport/tennis/articles/c77mkkgk4mvo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48452102/bayern-munich-bundesliga-goal-record-st-pauli-leon-goretzka",
-    "https://www.mlb.com/news/michael-wacha-pitches-eight-innings-in-royals-win-vs-white-sox",
-    "https://www.mlb.com/news/lowe-leads-the-way-for-reds-as-they-top-angels"
+    "https://www.mlb.com/news/michael-wacha-pitches-eight-innings-in-royals-win-vs-white-sox"
   ],
   "postedTitles": [
+    "James stars as Lakers set up Thunder showdown",
     "MLB execs poll: Biggest name moved at Trade Deadline will be ...",
     "Woodruff placed on IL with shoulder inflammation, but Crew relieved by diagnosis",
     "Mariners place Brash on 15-day IL with lat inflammation",
@@ -450,8 +451,7 @@
     "Breaking down Cal Raleigh's first 55 plate appearances of 2026 -- and what's gone wrong for the Mariners",
     "Alcaraz faces Sinner in Monte Carlo final",
     "Bayern Munich smash Bundesliga scoring record",
-    "Wacha's 8-inning scoreless gem drops ERA to MLB-best 0.43 mark",
-    "Reds put up four-run first after entering Saturday with fewest runs in MLB"
+    "Wacha's 8-inning scoreless gem drops ERA to MLB-best 0.43 mark"
   ],
   "cloudinaryAssets": [
     {
@@ -503,6 +503,11 @@
       "publicId": "tvs_cards/card_1777702538133",
       "resourceType": "image",
       "uploadedAt": 1777702539444
+    },
+    {
+      "publicId": "tvs_videos/video_1777706512234",
+      "resourceType": "video",
+      "uploadedAt": 1777706514405
     }
   ]
 }
