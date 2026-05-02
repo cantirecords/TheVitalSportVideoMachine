@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "C.J.",
+    "Stroud",
     "Salah",
     "Says",
     "Alcantara",
@@ -47,11 +49,10 @@
     "Draft",
     "Barça",
     "Targets",
-    "Madrid",
-    "Ohtani",
-    "Returns"
+    "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48610121/houston-texans-pay-cj-stroud-qb-market-nfl-execs",
     "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48648833/mohamed-salah-liverpool-exit-steven-gerrard",
     "https://www.bbc.com/sport/basketball/articles/c87qxrggrewo?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/jose-ramirez-first-cleveland-player-home-run-all-29-mlb-teams",
     "https://www.mlb.com/news/jonathan-aranda-drives-in-winner-as-rays-walk-off-yankees",
     "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-    "https://www.espn.com/mlb/story/_/id/48429223/mlb-2026-seattle-mariners-cal-raleigh-breakdown-struggles",
-    "https://www.bbc.com/sport/tennis/articles/c77mkkgk4mvo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/mlb/story/_/id/48429223/mlb-2026-seattle-mariners-cal-raleigh-breakdown-struggles"
   ],
   "postedTitles": [
+    "Should the Texans pay C.J. Stroud? NFL execs from around the league weigh in",
     "Ex-F1 driver and Paralympic cycling champion Zanardi dies",
     "Liverpool's Salah: 'Time to go' after tough season...",
     "James stars as Lakers set up Thunder showdown",
@@ -452,15 +453,9 @@
     "More history for J-Ram! 3B first Cleveland player with HR vs. other 29 MLB teams",
     "Rays pelt Yankees with small-ball tactics to walk it off in 10th",
     "Redick: 'Everybody' wants to face hobbled Lakers",
-    "Breaking down Cal Raleigh's first 55 plate appearances of 2026 -- and what's gone wrong for the Mariners",
-    "Alcaraz faces Sinner in Monte Carlo final"
+    "Breaking down Cal Raleigh's first 55 plate appearances of 2026 -- and what's gone wrong for the Mariners"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777640340778",
-      "resourceType": "video",
-      "uploadedAt": 1777640342993
-    },
     {
       "publicId": "tvs_cards/card_1777643082269",
       "resourceType": "image",
@@ -510,6 +505,11 @@
       "publicId": "tvs_videos/video_1777726232893",
       "resourceType": "video",
       "uploadedAt": 1777726234823
+    },
+    {
+      "publicId": "tvs_cards/card_1777729097464",
+      "resourceType": "image",
+      "uploadedAt": 1777729098274
     }
   ]
 }
