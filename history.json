@@ -18,6 +18,7 @@
     "Stroud"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/draft2027/story/_/id/48611355/2027-nfl-mock-draft-early-first-round-predictions-32-picks-manning-smith",
     "https://www.bbc.com/sport/football/videos/c87q83eyzwwo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48652810/lakers-eliminate-rockets-game-6-rout",
     "https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.espn.com/mlb/story/_/id/48468546/mlb-2026-bat-flip-tracker-championship-belt-winner",
     "https://www.sport.es/es/noticias/barca/barca-inexpugnable-casa-16-16-129017209?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/wnba/story/_/id/48471425/wnba-mock-draft-2026-dallas-wings-no-1-pick-azzi-fudd-olivia-miles-awa-fam-lauren-betts",
-    "https://www.espn.com/nba/story/_/id/48471782/giannis-antetokounmpo-vents-bucks-rule-return",
-    "https://www.espn.com/nfl/story/_/id/48440687/nfl-draft-keyshawn-johnson-was-last-wr-go-no-1-30-years-ago-new-york-jets"
+    "https://www.espn.com/nba/story/_/id/48471782/giannis-antetokounmpo-vents-bucks-rule-return"
   ],
   "postedTitles": [
+    "🏈 Reid's early 2027 NFL mock draft: Arch No. 1?",
     "Kerr breaks Kirby's Chelsea goal record ",
     "Lakers blow out Rockets, advance to face Thunder",
     "Antonelli on Miami pole from revived Verstappen",
@@ -418,8 +419,7 @@
     "👀 MLB Bat Flip Champion: Who holds the belt?",
     "Un Barça inexpugnable en casa: 16/16 histórico y solo tres partidos para el pleno",
     "WNBA mock draft: Fudd returns to No. 1 in final projection",
-    "Giannis vents about Bucks, won't rule out return",
-    "How Keyshawn Johnson made draft history 30 years ago with the Jets"
+    "Giannis vents about Bucks, won't rule out return"
   ],
   "cloudinaryAssets": [
     {
@@ -466,6 +466,11 @@
       "publicId": "tvs_cards/card_1777827649740",
       "resourceType": "image",
       "uploadedAt": 1777827650616
+    },
+    {
+      "publicId": "tvs_videos/video_1777833990073",
+      "resourceType": "video",
+      "uploadedAt": 1777833991952
     }
   ]
 }
