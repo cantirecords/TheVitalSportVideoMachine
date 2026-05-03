@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Youngest",
+    "Pole",
     "Barcelona",
     "Barça",
     "Faces",
@@ -12,6 +14,7 @@
     "Stroud"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/alineacion-fc-barcelona-osasuna-partido-129775466?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/alerta-clasico-barca-tres-apercibidos-129769545?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.espn.com/nba/story/_/id/48471782/giannis-antetokounmpo-vents-bucks-rule-return",
     "https://www.espn.com/nfl/story/_/id/48440687/nfl-draft-keyshawn-johnson-was-last-wr-go-no-1-30-years-ago-new-york-jets",
     "https://www.espn.com/nba/story/_/id/48439299/nba-most-valuable-players-15-categories-scoring-shooting-rebounding-passing-more-2025-26",
-    "https://www.sport.es/es/noticias/barca/stoichkov-estalla-oportunistas-messi-129010399?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/shohei-ohtani-homers-off-first-pitch-from-jacob-degrom"
+    "https://www.sport.es/es/noticias/barca/stoichkov-estalla-oportunistas-messi-129010399?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Antonelli on Miami pole from revived Verstappen",
     "Alineación del FC Barcelona contra Osasuna para el partido de la jornada 34 de LaLiga EA Sports 2025/26",
     "Alerta para el Clásico en el Barça: tres apercibidos de sanción",
     "Norris takes dominant win in Miami sprint race",
@@ -412,15 +415,9 @@
     "Giannis vents about Bucks, won't rule out return",
     "How Keyshawn Johnson made draft history 30 years ago with the Jets",
     "🏀 NBA's most valuable players in 15 categories",
-    "Stoichkov estalla contra los oportunistas de Messi: \"¿Qué carajo has hecho tú?\"",
-    "Another day, another leadoff HR extends Ohtani's on-base streak"
+    "Stoichkov estalla contra los oportunistas de Messi: \"¿Qué carajo has hecho tú?\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777713302762",
-      "resourceType": "image",
-      "uploadedAt": 1777713304000
-    },
     {
       "publicId": "tvs_videos/video_1777726232893",
       "resourceType": "video",
@@ -460,6 +457,11 @@
       "publicId": "tvs_videos/video_1777794615296",
       "resourceType": "video",
       "uploadedAt": 1777794617282
+    },
+    {
+      "publicId": "tvs_cards/card_1777800407903",
+      "resourceType": "image",
+      "uploadedAt": 1777800408746
     }
   ]
 }
