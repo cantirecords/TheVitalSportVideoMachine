@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Faces",
     "Norris",
     "Wins",
     "Madrid",
@@ -14,6 +16,7 @@
     "Hits"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/alerta-clasico-barca-tres-apercibidos-129769545?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/flick-ver-espanyol-madrid-mago-129782676?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/munetaka-murakami-hits-13th-home-run-in-series-opener-vs-padres",
@@ -212,10 +215,10 @@
     "https://www.espn.com/nba/story/_/id/48439299/nba-most-valuable-players-15-categories-scoring-shooting-rebounding-passing-more-2025-26",
     "https://www.sport.es/es/noticias/barca/stoichkov-estalla-oportunistas-messi-129010399?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/shohei-ohtani-homers-off-first-pitch-from-jacob-degrom",
-    "https://www.mlb.com/news/jordan-walker-hits-sixth-home-run-in-eight-games",
-    "https://www.sport.es/es/noticias/barca/dardo-lamine-yamal-espanyol-toca-128999605?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/jordan-walker-hits-sixth-home-run-in-eight-games"
   ],
   "postedTitles": [
+    "Alerta para el Clásico en el Barça: tres apercibidos de sanción",
     "Norris takes dominant win in Miami sprint race",
     "Flick: “¿Ver el Espanyol - Madrid? Puede que vaya al Mago Pop”",
     "Murakami retakes HR lead with 13 as historic debut continues",
@@ -414,15 +417,9 @@
     "🏀 NBA's most valuable players in 15 categories",
     "Stoichkov estalla contra los oportunistas de Messi: \"¿Qué carajo has hecho tú?\"",
     "Another day, another leadoff HR extends Ohtani's on-base streak",
-    "Walker joins list of legendary Cardinals with 6th HR in 8 games",
-    "El dardo de Lamine Yamal al Espanyol: \"Toca tragar, como siempre\""
+    "Walker joins list of legendary Cardinals with 6th HR in 8 games"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777702538133",
-      "resourceType": "image",
-      "uploadedAt": 1777702539444
-    },
     {
       "publicId": "tvs_videos/video_1777706512234",
       "resourceType": "video",
@@ -462,6 +459,11 @@
       "publicId": "tvs_cards/card_1777780701260",
       "resourceType": "image",
       "uploadedAt": 1777780701866
+    },
+    {
+      "publicId": "tvs_cards/card_1777790019830",
+      "resourceType": "image",
+      "uploadedAt": 1777790020758
     }
   ]
 }
