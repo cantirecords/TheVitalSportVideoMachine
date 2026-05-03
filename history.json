@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Norris",
+    "Wins",
     "Madrid",
     "Murakami",
     "Leads",
@@ -12,6 +14,7 @@
     "Hits"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/flick-ver-espanyol-madrid-mago-129782676?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/munetaka-murakami-hits-13th-home-run-in-series-opener-vs-padres",
     "https://www.espn.com/nba/story/_/id/48651461/nba-playoffs-2026-game-7-preview-celtics-76ers-pistons-magic-cavaliers-raptors",
@@ -210,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/stoichkov-estalla-oportunistas-messi-129010399?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/shohei-ohtani-homers-off-first-pitch-from-jacob-degrom",
     "https://www.mlb.com/news/jordan-walker-hits-sixth-home-run-in-eight-games",
-    "https://www.sport.es/es/noticias/barca/dardo-lamine-yamal-espanyol-toca-128999605?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/jose-ramirez-first-cleveland-player-home-run-all-29-mlb-teams"
+    "https://www.sport.es/es/noticias/barca/dardo-lamine-yamal-espanyol-toca-128999605?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Norris takes dominant win in Miami sprint race",
     "Flick: “¿Ver el Espanyol - Madrid? Puede que vaya al Mago Pop”",
     "Murakami retakes HR lead with 13 as historic debut continues",
     "The NBA playoffs' second round is waiting on three...",
@@ -412,15 +415,9 @@
     "Stoichkov estalla contra los oportunistas de Messi: \"¿Qué carajo has hecho tú?\"",
     "Another day, another leadoff HR extends Ohtani's on-base streak",
     "Walker joins list of legendary Cardinals with 6th HR in 8 games",
-    "El dardo de Lamine Yamal al Espanyol: \"Toca tragar, como siempre\"",
-    "More history for J-Ram! 3B first Cleveland player with HR vs. other 29 MLB teams"
+    "El dardo de Lamine Yamal al Espanyol: \"Toca tragar, como siempre\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777692943321",
-      "resourceType": "image",
-      "uploadedAt": 1777692944122
-    },
     {
       "publicId": "tvs_cards/card_1777702538133",
       "resourceType": "image",
@@ -460,6 +457,11 @@
       "publicId": "tvs_videos/video_1777773558393",
       "resourceType": "video",
       "uploadedAt": 1777773559755
+    },
+    {
+      "publicId": "tvs_cards/card_1777780701260",
+      "resourceType": "image",
+      "uploadedAt": 1777780701866
     }
   ]
 }
