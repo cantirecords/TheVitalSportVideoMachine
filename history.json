@@ -30,6 +30,7 @@
     "Stroud"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/videos/cg5p2jvlem9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/athletes-unlimited-softball-league-airs-college-draft-monday",
     "https://www.mlb.com/news/john-sterling-passes-away",
     "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
@@ -228,10 +229,10 @@
     "https://www.sport.es/es/noticias/barca/cuenta-pendiente-lewandowski-champions-league-barcelona-metropolitano-atletico-129064199?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/bundesliga/2026/04/14/bayern-amenaza-madrid-records.html",
     "https://www.espn.com/soccer/story/_/id/48475814/lamine-yamal-draws-inspiration-lebron-james-plots-barcelona-comeback",
-    "https://www.sport.es/es/noticias/barca/santi-canizares-alucina-futbolistas-barca-129031685?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.marca.com/futbol/barcelona/2026/04/13/reflexion-canizares-toca-tragar-lamine-yamal-nadie-capaz-decirles.html"
+    "https://www.sport.es/es/noticias/barca/santi-canizares-alucina-futbolistas-barca-129031685?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Montoya demands penalties for drivers disrespecting F1 ",
     "What to know as 2026 AUSL College Draft kicks off Monday night",
     "John Sterling, beloved longtime Yankees radio voice, passes at 87",
     "Updated top 10 prospect rankings for all 30 MLB te...",
@@ -430,15 +431,9 @@
     "La cuenta pendiente de Lewandowski en la Champions League",
     "El Bayern amenaza al 'Madrid de los récords'",
     "Yamal inspired by LeBron for UCL comeback",
-    "Santi Cañizares alucina con los futbolistas del Barça: \"No son capaces de decirles nada\"",
-    "La reflexión de Cañizares tras el \"toca tragar\" de Lamine Yamal: \"Nadie es capaz de decirles nada\""
+    "Santi Cañizares alucina con los futbolistas del Barça: \"No son capaces de decirles nada\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777833990073",
-      "resourceType": "video",
-      "uploadedAt": 1777833991952
-    },
     {
       "publicId": "tvs_cards/card_1777841737276",
       "resourceType": "image",
@@ -473,6 +468,11 @@
       "publicId": "tvs_cards/card_1777916867864",
       "resourceType": "image",
       "uploadedAt": 1777916869189
+    },
+    {
+      "publicId": "tvs_videos/video_1777922189362",
+      "resourceType": "video",
+      "uploadedAt": 1777922192187
     }
   ]
 }
