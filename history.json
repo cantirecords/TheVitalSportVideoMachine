@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Raphinha",
+    "Transfer",
     "NBA",
     "Playoffs",
     "Ohtani",
@@ -14,6 +16,7 @@
     "Vinicius"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/pini-zahavi-gestionaria-oferta-arabia-129815536?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48629118/2026-nba-playoff-expert-picks-second-round-conference-semi-finals",
     "https://www.mlb.com/news/shohei-ohtani-pitch-dh-against-astros",
     "https://www.bbc.com/sport/formula1/videos/cg5p2jvlem9o?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.espn.com/nba/story/_/id/48477183/doncic-return-spain-friday-status-unknown",
     "https://www.marca.com/futbol/betis/2026/04/14/dobles-digitos-abde-impulsan-betis-liga-europa.html",
     "https://www.espn.com/nba/story/_/id/48483414/curry-minutes-restriction-warriors-win-play-in",
-    "https://www.sport.es/es/noticias/barca/cuenta-pendiente-lewandowski-champions-league-barcelona-metropolitano-atletico-129064199?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.marca.com/futbol/bundesliga/2026/04/14/bayern-amenaza-madrid-records.html"
+    "https://www.sport.es/es/noticias/barca/cuenta-pendiente-lewandowski-champions-league-barcelona-metropolitano-atletico-129064199?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Pini Zahavi gestionaría la oferta millonaria de Arabia al Barça por Raphinha",
     "Copy of NBA experts' picks for Thunder-Lakers and every se...",
     "Ohtani (0.60 ERA) set to face Astros on Tuesday -- on the mound and as DH",
     "Montoya demands penalties for drivers disrespecting F1 ",
@@ -414,15 +417,9 @@
     "Doncic to return from Spain on Friday; status TBD",
     "Los dobles dígitos de Abde impulsan al Betis en la la Liga y en Europa",
     "Curry on minutes restriction in must-win play-in",
-    "La cuenta pendiente de Lewandowski en la Champions League",
-    "El Bayern amenaza al 'Madrid de los récords'"
+    "La cuenta pendiente de Lewandowski en la Champions League"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777866910435",
-      "resourceType": "image",
-      "uploadedAt": 1777866911735
-    },
     {
       "publicId": "tvs_cards/card_1777877254308",
       "resourceType": "image",
@@ -462,6 +459,11 @@
       "publicId": "tvs_cards/card_1777952201450",
       "resourceType": "image",
       "uploadedAt": 1777952202199
+    },
+    {
+      "publicId": "tvs_cards/card_1777962289198",
+      "resourceType": "image",
+      "uploadedAt": 1777962290029
     }
   ]
 }
