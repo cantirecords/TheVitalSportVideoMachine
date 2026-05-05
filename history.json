@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "Timberwolves",
     "Take",
     "Barça",
@@ -8,12 +9,10 @@
     "NBA",
     "Playoffs",
     "Ohtani",
-    "17",
-    "Players",
-    "Yankees",
-    "Legend"
+    "17"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/patricio-pacifico-operado-exito-barcelona-129838620?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/basketball/articles/ce3pnvpyxnro?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/recibiria-barca-trofeo-liga-europa-129820839?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pini-zahavi-gestionaria-oferta-arabia-129815536?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -212,10 +211,10 @@
     "https://www.sport.es/es/noticias/barca/roberto-fresnedoso-quererlo-verdugos-dream-129049222?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/phillies-trade-former-prospect-griff-mcgarry-to-dodgers",
     "https://www.espn.com/nfl/draft2026/story/_/id/48455868/nfl-draft-2026-gennings-dunker-iowa-hawkeyes-viral-star",
-    "https://www.espn.com/nba/story/_/id/48477183/doncic-return-spain-friday-status-unknown",
-    "https://www.marca.com/futbol/betis/2026/04/14/dobles-digitos-abde-impulsan-betis-liga-europa.html"
+    "https://www.espn.com/nba/story/_/id/48477183/doncic-return-spain-friday-status-unknown"
   ],
   "postedTitles": [
+    "Patricio Pacífico, operado con éxito en Barcelona",
     "Timberwolves draw first blood despite Wembanyama record",
     "¿Cuándo recibiría el Barça el trofeo de Liga? Así se hace en Europa",
     "Pini Zahavi gestionaría la oferta millonaria de Arabia al Barça por Raphinha",
@@ -414,15 +413,9 @@
     "Roberto Fresnedoso, leyenda del Atlético de Madrid: \"Sin quererlo, fuimos los verdugos del 'Dream Team' de Cruyff\"",
     "Phillies trade former highly touted prospect McGarry to Dodgers",
     "From Culver's, with love: Meet Gennings Dunker, the NFL draft's viral star",
-    "Doncic to return from Spain on Friday; status TBD",
-    "Los dobles dígitos de Abde impulsan al Betis en la la Liga y en Europa"
+    "Doncic to return from Spain on Friday; status TBD"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777890080131",
-      "resourceType": "image",
-      "uploadedAt": 1777890081393
-    },
     {
       "publicId": "tvs_cards/card_1777904509502",
       "resourceType": "image",
@@ -462,6 +455,11 @@
       "publicId": "tvs_cards/card_1777975757044",
       "resourceType": "image",
       "uploadedAt": 1777975757884
+    },
+    {
+      "publicId": "tvs_videos/video_1777986994875",
+      "resourceType": "video",
+      "uploadedAt": 1777986996574
     }
   ]
 }
