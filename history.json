@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Playoffs",
     "Ohtani",
     "17",
     "Players",
@@ -12,6 +14,7 @@
     "Vinicius"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48629118/2026-nba-playoff-expert-picks-second-round-conference-semi-finals",
     "https://www.mlb.com/news/shohei-ohtani-pitch-dh-against-astros",
     "https://www.bbc.com/sport/formula1/videos/cg5p2jvlem9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/athletes-unlimited-softball-league-airs-college-draft-monday",
@@ -210,10 +213,10 @@
     "https://www.marca.com/futbol/betis/2026/04/14/dobles-digitos-abde-impulsan-betis-liga-europa.html",
     "https://www.espn.com/nba/story/_/id/48483414/curry-minutes-restriction-warriors-win-play-in",
     "https://www.sport.es/es/noticias/barca/cuenta-pendiente-lewandowski-champions-league-barcelona-metropolitano-atletico-129064199?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.marca.com/futbol/bundesliga/2026/04/14/bayern-amenaza-madrid-records.html",
-    "https://www.espn.com/soccer/story/_/id/48475814/lamine-yamal-draws-inspiration-lebron-james-plots-barcelona-comeback"
+    "https://www.marca.com/futbol/bundesliga/2026/04/14/bayern-amenaza-madrid-records.html"
   ],
   "postedTitles": [
+    "Copy of NBA experts' picks for Thunder-Lakers and every se...",
     "Ohtani (0.60 ERA) set to face Astros on Tuesday -- on the mound and as DH",
     "Montoya demands penalties for drivers disrespecting F1 ",
     "What to know as 2026 AUSL College Draft kicks off Monday night",
@@ -412,8 +415,7 @@
     "Los dobles dígitos de Abde impulsan al Betis en la la Liga y en Europa",
     "Curry on minutes restriction in must-win play-in",
     "La cuenta pendiente de Lewandowski en la Champions League",
-    "El Bayern amenaza al 'Madrid de los récords'",
-    "Yamal inspired by LeBron for UCL comeback"
+    "El Bayern amenaza al 'Madrid de los récords'"
   ],
   "cloudinaryAssets": [
     {
@@ -455,6 +457,11 @@
       "publicId": "tvs_videos/video_1777946466783",
       "resourceType": "video",
       "uploadedAt": 1777946468169
+    },
+    {
+      "publicId": "tvs_cards/card_1777952201450",
+      "resourceType": "image",
+      "uploadedAt": 1777952202199
     }
   ]
 }
