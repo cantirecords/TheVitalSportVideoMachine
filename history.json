@@ -16,6 +16,7 @@
     "17"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yoshinobu-yamamoto-faces-astros-for-the-first-time-in-his-career",
     "https://www.espn.com/nba/story/_/id/48682688/victor-wembanyama-12-block-triple-double-spurs-game-1-loss-timberwolves",
     "https://www.mlb.com/news/michael-kay-tribute-to-john-sterling-on-aaron-judge-homer",
     "https://www.sport.es/es/noticias/barca/patricio-pacifico-operado-exito-barcelona-129838620?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -214,10 +215,10 @@
     "https://www.espn.com/soccer/story/_/id/48490831/neymar-scores-santos-draw-clashes-fans-vila-belmiro",
     "https://www.espn.com/nba/story/_/id/48476034/2026-nba-playoff-predicting-series-including-finals",
     "https://www.espn.com/nfl/story/_/id/48487345/nfl-hires-brian-flinn-senior-vp-global-flag-football",
-    "https://www.sport.es/es/noticias/barca/roberto-fresnedoso-quererlo-verdugos-dream-129049222?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/phillies-trade-former-prospect-griff-mcgarry-to-dodgers"
+    "https://www.sport.es/es/noticias/barca/roberto-fresnedoso-quererlo-verdugos-dream-129049222?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Yamamoto (8 K's) rebounds as Dodgers' offense comes back to life in Houston",
     "Wemby laments energy misuse amid historic night",
     "'THEEEE YANKEES WIN!' Sweep-capping rout a perfect homage to Sterling",
     "Patricio Pacífico, operado con éxito en Barcelona",
@@ -416,15 +417,9 @@
     "Neymar scores, confronts fans after Santos draw",
     "Predicting the entire NBA postseason -- with a surprise champion",
     "NFL hires Flinn as senior VP of global flag football",
-    "Roberto Fresnedoso, leyenda del Atlético de Madrid: \"Sin quererlo, fuimos los verdugos del 'Dream Team' de Cruyff\"",
-    "Phillies trade former highly touted prospect McGarry to Dodgers"
+    "Roberto Fresnedoso, leyenda del Atlético de Madrid: \"Sin quererlo, fuimos los verdugos del 'Dream Team' de Cruyff\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777916867864",
-      "resourceType": "image",
-      "uploadedAt": 1777916869189
-    },
     {
       "publicId": "tvs_videos/video_1777922189362",
       "resourceType": "video",
@@ -469,6 +464,11 @@
       "publicId": "tvs_cards/card_1778003057154",
       "resourceType": "image",
       "uploadedAt": 1778003058104
+    },
+    {
+      "publicId": "tvs_videos/video_1778008056001",
+      "resourceType": "video",
+      "uploadedAt": 1778008057734
     }
   ]
 }
