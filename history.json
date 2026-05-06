@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Thunder",
+    "Rolls",
     "Barca",
     "Faces",
     "Yanks",
@@ -22,6 +24,7 @@
     "17"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48690344/thunder-roll-lakers-game-1-west-semifinals",
     "https://www.espn.com/nfl/story/_/id/48688152/sources-nflra-schedules-vote-ratify-new-cba-nfl",
     "https://www.sport.es/es/noticias/barca/quien-hara-lamine-yamal-clasico-madrid-pros-contras-bardghji-rashford-raphinha-129842493?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/jazz-chisholm-jr-s-tiebreaking-homer-lifts-yankees",
@@ -220,10 +223,10 @@
     "https://www.bbc.com/sport/football/articles/c5yve05jrjeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jackie-robinson-day-2026",
     "https://www.sport.es/es/noticias/barca/champions-lewandowski-barcelona-atletico-metropolitano-129110275?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-llego-metropolitano-saludo-129106194?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Thunder roll past Lakers in Game 1 of West semis",
     "Sources: NFL, refs on verge of agreeing on CBA",
     "¿Quién hará de Lamine Yamal en el clásico? Pros y contras de las tres opciones que baraja Hansi Flick",
     "Chisholm rips tiebreaking HR, adds epic bat flip as Yanks keep rolling",
@@ -422,15 +425,9 @@
     "Real Madrid set for rare trophyless season - will Arbeloa pay the price?",
     "How MLB is commemorating Jackie Robinson Day",
     "¿Fin de Champions para Lewandowski?",
-    "British doubles legend Murray retires from tennis",
-    "Lamine Yamal destrozó un récord de Mbappé con su primer gol"
+    "British doubles legend Murray retires from tennis"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777975757044",
-      "resourceType": "image",
-      "uploadedAt": 1777975757884
-    },
     {
       "publicId": "tvs_videos/video_1777986994875",
       "resourceType": "video",
@@ -475,6 +472,11 @@
       "publicId": "tvs_videos/video_1778055045756",
       "resourceType": "video",
       "uploadedAt": 1778055047701
+    },
+    {
+      "publicId": "tvs_cards/card_1778063132594",
+      "resourceType": "image",
+      "uploadedAt": 1778063133937
     }
   ]
 }
