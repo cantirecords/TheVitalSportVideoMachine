@@ -28,6 +28,7 @@
     "17"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/videos/cvgz8zn3nyxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48678873/pittsburgh-steelers-2026-draft-class-rookies-tiers-starters-projects",
     "https://www.espn.com/nba/story/_/id/48689173/clippers-poke-fun-pacers-ahead-2026-nba-draft-lottery",
     "https://www.espn.com/nba/story/_/id/48691002/austin-reaves-shooting-woes-persist-lakers-game-1-loss-thunder",
@@ -226,10 +227,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/48465658/nfl-draft-2026-akheem-mesidor-miami-hurricanes",
     "https://www.sport.es/es/noticias/barca/david-bernabeu-filtros-eliminacion-barca-champions-plantilla-129115269?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48487798/nba-postseason-grades-hornets-heat-trail-blazers-suns-all-30-teams-regular-season",
-    "https://www.espn.com/soccer/story/_/id/48496977/messi-argentina-federation-sued-missed-exhibition-match",
-    "https://www.bbc.com/sport/football/articles/c5yve05jrjeo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48496977/messi-argentina-federation-sued-missed-exhibition-match"
   ],
   "postedTitles": [
+    "Watch: Kane gives Dunfermline play-off advantage",
     "Steelers' 2026 draft picks ranked from starters to...",
     "Clippers troll Pacers ahead of draft lottery with ...",
     "Lakers' Reaves 3-for-16 as shooting woes persist",
@@ -428,15 +429,9 @@
     "Akheem Mesidor's long, long road to the NFL",
     "David Bernabéu, sin filtros tras la eliminación del Barça en Champions: \"No es una plantilla redonda\"",
     "Grading all 30 NBA teams' regular seasons",
-    "Messi sued for missing $7M Argentina friendly",
-    "Real Madrid set for rare trophyless season - will Arbeloa pay the price?"
+    "Messi sued for missing $7M Argentina friendly"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778008056001",
-      "resourceType": "video",
-      "uploadedAt": 1778008057734
-    },
     {
       "publicId": "tvs_cards/card_1778015397261",
       "resourceType": "image",
@@ -481,6 +476,11 @@
       "publicId": "tvs_cards/card_1778089679848",
       "resourceType": "image",
       "uploadedAt": 1778089681375
+    },
+    {
+      "publicId": "tvs_videos/video_1778095536191",
+      "resourceType": "video",
+      "uploadedAt": 1778095537715
     }
   ]
 }
