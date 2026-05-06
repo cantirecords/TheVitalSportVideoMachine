@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Faces",
     "Yanks",
     "Keep",
     "LaLiga",
@@ -20,6 +22,7 @@
     "17"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/quien-hara-lamine-yamal-clasico-madrid-pros-contras-bardghji-rashford-raphinha-129842493?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/jazz-chisholm-jr-s-tiebreaking-homer-lifts-yankees",
     "https://www.bbc.com/sport/formula1/articles/c4g4z98xk1po?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/05/05/liga-importa-futbol-aleman-terzic-ultimo-lista-grandes-exitos-fracaso.html",
@@ -218,10 +221,10 @@
     "https://www.sport.es/es/noticias/barca/champions-lewandowski-barcelona-atletico-metropolitano-129110275?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-llego-metropolitano-saludo-129106194?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/wnba/story/_/id/48489727/wnba-draft-2026-reaction-best-picks-sleepers-steals-takeaways",
-    "https://www.espn.com/soccer/story/_/id/48490831/neymar-scores-santos-draw-clashes-fans-vila-belmiro"
+    "https://www.espn.com/wnba/story/_/id/48489727/wnba-draft-2026-reaction-best-picks-sleepers-steals-takeaways"
   ],
   "postedTitles": [
+    "¿Quién hará de Lamine Yamal en el clásico? Pros y contras de las tres opciones que baraja Hansi Flick",
     "Chisholm rips tiebreaking HR, adds epic bat flip as Yanks keep rolling",
     "What does Antonelli's improvement mean for Russell? F1 Q&A",
     "La Liga importa fútbol alemán: Terzic, el último de una lista con grandes éxitos y un fracaso",
@@ -420,15 +423,9 @@
     "¿Fin de Champions para Lewandowski?",
     "British doubles legend Murray retires from tennis",
     "Lamine Yamal destrozó un récord de Mbappé con su primer gol",
-    "WNBA draft reaction: Breaking down best picks, shocking trade and more",
-    "Neymar scores, confronts fans after Santos draw"
+    "WNBA draft reaction: Breaking down best picks, shocking trade and more"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1777962289198",
-      "resourceType": "image",
-      "uploadedAt": 1777962290029
-    },
     {
       "publicId": "tvs_videos/video_1777967807318",
       "resourceType": "video",
@@ -473,6 +470,11 @@
       "publicId": "tvs_cards/card_1778039520881",
       "resourceType": "image",
       "uploadedAt": 1778039522313
+    },
+    {
+      "publicId": "tvs_cards/card_1778049453296",
+      "resourceType": "image",
+      "uploadedAt": 1778049453944
     }
   ]
 }
