@@ -24,6 +24,7 @@
     "17"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48691002/austin-reaves-shooting-woes-persist-lakers-game-1-loss-thunder",
     "https://www.espn.com/nba/story/_/id/48690344/thunder-roll-lakers-game-1-west-semifinals",
     "https://www.espn.com/nfl/story/_/id/48688152/sources-nflra-schedules-vote-ratify-new-cba-nfl",
     "https://www.sport.es/es/noticias/barca/quien-hara-lamine-yamal-clasico-madrid-pros-contras-bardghji-rashford-raphinha-129842493?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -222,10 +223,10 @@
     "https://www.espn.com/soccer/story/_/id/48496977/messi-argentina-federation-sued-missed-exhibition-match",
     "https://www.bbc.com/sport/football/articles/c5yve05jrjeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jackie-robinson-day-2026",
-    "https://www.sport.es/es/noticias/barca/champions-lewandowski-barcelona-atletico-metropolitano-129110275?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/tennis/articles/cgk00p2p8j2o?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/champions-lewandowski-barcelona-atletico-metropolitano-129110275?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Lakers' Reaves 3-for-16 as shooting woes persist",
     "Thunder roll past Lakers in Game 1 of West semis",
     "Sources: NFL, refs on verge of agreeing on CBA",
     "¿Quién hará de Lamine Yamal en el clásico? Pros y contras de las tres opciones que baraja Hansi Flick",
@@ -424,15 +425,9 @@
     "Messi sued for missing $7M Argentina friendly",
     "Real Madrid set for rare trophyless season - will Arbeloa pay the price?",
     "How MLB is commemorating Jackie Robinson Day",
-    "¿Fin de Champions para Lewandowski?",
-    "British doubles legend Murray retires from tennis"
+    "¿Fin de Champions para Lewandowski?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1777986994875",
-      "resourceType": "video",
-      "uploadedAt": 1777986996574
-    },
     {
       "publicId": "tvs_cards/card_1777990498303",
       "resourceType": "image",
@@ -477,6 +472,11 @@
       "publicId": "tvs_cards/card_1778063132594",
       "resourceType": "image",
       "uploadedAt": 1778063133937
+    },
+    {
+      "publicId": "tvs_videos/video_1778074663278",
+      "resourceType": "video",
+      "uploadedAt": 1778074665581
     }
   ]
 }
