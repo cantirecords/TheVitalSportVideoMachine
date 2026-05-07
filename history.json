@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lewandowski",
+    "Future",
     "Barça",
     "Targets",
     "Madrid",
@@ -14,6 +16,7 @@
     "Faces"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/pini-zahavi-llega-barcelona-definir-129919820?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/joao-pedro-alternativa-barca-suplir-129884639?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48680082/why-real-madrid-reunion-jose-mourinho-seems-increasingly-likely",
     "https://www.sport.es/es/noticias/barca/kounde-vinicius-jugador-problemas-dado-129911959?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/milan-descarta-lewandowski-129142771?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/draft2026/story/_/id/48494162/2026-nfl-draft-32-teams-positions-picks-grades-predictions-needs-solak",
-    "https://www.espn.com/nfl/story/_/id/48496049/nfl-2026-draft-chris-jones-kansas-city-chiefs",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48465658/nfl-draft-2026-akheem-mesidor-miami-hurricanes"
+    "https://www.espn.com/nfl/story/_/id/48496049/nfl-2026-draft-chris-jones-kansas-city-chiefs"
   ],
   "postedTitles": [
+    "Pini Zahavi llega a Barcelona para definir el futuro de Robert Lewandowski: \"Hablaremos luego\"",
     "João Pedro, la alternativa del Barça para suplir Lewandowski",
     "Why Madrid's Mourinho reunion seems increasingly l...",
     "Koundé: \"Vinicius es el jugador que más problemas me ha dado\"",
@@ -414,20 +417,9 @@
     "Bellingham says Camavinga red 'a joke' as Real fury grows",
     "El Milan descarta a Lewandowski",
     "How all 32 teams can crush the NFL draft: We have prospects and positions to target",
-    "How a 'big argument' and lucky draft moves led to the Chiefs selecting Chris Jones",
-    "Akheem Mesidor's long, long road to the NFL"
+    "How a 'big argument' and lucky draft moves led to the Chiefs selecting Chris Jones"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778039520881",
-      "resourceType": "image",
-      "uploadedAt": 1778039522313
-    },
-    {
-      "publicId": "tvs_cards/card_1778049453296",
-      "resourceType": "image",
-      "uploadedAt": 1778049453944
-    },
     {
       "publicId": "tvs_videos/video_1778055045756",
       "resourceType": "video",
@@ -472,6 +464,11 @@
       "publicId": "tvs_cards/card_1778125836720",
       "resourceType": "image",
       "uploadedAt": 1778125837689
+    },
+    {
+      "publicId": "tvs_cards/card_1778136293689",
+      "resourceType": "image",
+      "uploadedAt": 1778136294711
     }
   ]
 }
