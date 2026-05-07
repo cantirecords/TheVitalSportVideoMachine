@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Mbappé",
     "Kane",
     "Scores",
     "Barca",
@@ -8,18 +9,10 @@
     "Future",
     "Barça",
     "Targets",
-    "Madrid",
-    "Barca",
-    "Eyes",
-    "Steelers",
-    "Draft",
-    "Clippers",
-    "Need",
-    "Thunder",
-    "Rolls",
-    "Faces"
+    "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe",
     "https://www.bbc.com/sport/football/articles/cj0pq152zejo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48687450/nba-playoffs-2026-conference-semifinals-rankings-knicks-76ers-spurs-wolves-thunder-lakers-pistons-cavs",
     "https://www.sport.es/es/noticias/barca/javier-saviola-44-anos-inicios-129923596?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -218,10 +211,10 @@
     "https://www.espn.com/soccer/story/_/id/48504832/barcelona-uefa-complaint-champions-league-referee-atletico-madrid",
     "https://www.mlb.com/news/chayce-mcdermott-traded-to-dodgers",
     "https://www.mlb.com/news/mike-trout-aaron-judge-matchup-delivers-impressive-home-run-stats",
-    "https://www.espn.com/soccer/story/_/id/48501487/record-transfer-isak-needs-step-liverpool-ekitike-injury",
-    "https://www.mlb.com/news/dodgers-dave-roberts-shohei-ohtani-impression"
+    "https://www.espn.com/soccer/story/_/id/48501487/record-transfer-isak-needs-step-liverpool-ekitike-injury"
   ],
   "postedTitles": [
+    "Clásico combined XI: With no Yamal or Mbappé, who'...",
     "How Kane goal could earn Germany extra Champions League spot",
     "Stacking the remaining NBA teams, from 1 to 8: Can...",
     "Javier Saviola (44 años), sobre los inicios de Lamine Yamal: \"Lo veíamos diferente al resto\"",
@@ -420,15 +413,9 @@
     "Barcelona file fresh UEFA complaint over UCL refs",
     "Righty McDermott heads to Dodgers in trade with Orioles",
     "7 stats, facts from Trout, Judge's epic series in the Bronx",
-    "Record-transfer Isak needs to step up for Liverpool after Ekitike injury",
-    "Roberts gives his best Ohtani impression before another dazzling start"
+    "Record-transfer Isak needs to step up for Liverpool after Ekitike injury"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778095536191",
-      "resourceType": "video",
-      "uploadedAt": 1778095537715
-    },
     {
       "publicId": "tvs_cards/card_1778102250663",
       "resourceType": "image",
@@ -468,6 +455,11 @@
       "publicId": "tvs_cards/card_1778176512506",
       "resourceType": "image",
       "uploadedAt": 1778176514095
+    },
+    {
+      "publicId": "tvs_videos/video_1778182086888",
+      "resourceType": "video",
+      "uploadedAt": 1778182088630
     }
   ]
 }
