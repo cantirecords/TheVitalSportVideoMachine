@@ -18,6 +18,7 @@
     "Faces"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48687450/nba-playoffs-2026-conference-semifinals-rankings-knicks-76ers-spurs-wolves-thunder-lakers-pistons-cavs",
     "https://www.sport.es/es/noticias/barca/javier-saviola-44-anos-inicios-129923596?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
     "https://www.sport.es/es/noticias/barca/pini-zahavi-llega-barcelona-definir-129919820?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -216,10 +217,10 @@
     "https://www.mlb.com/news/mike-trout-aaron-judge-matchup-delivers-impressive-home-run-stats",
     "https://www.espn.com/soccer/story/_/id/48501487/record-transfer-isak-needs-step-liverpool-ekitike-injury",
     "https://www.mlb.com/news/dodgers-dave-roberts-shohei-ohtani-impression",
-    "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/milan-descarta-lewandowski-129142771?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Stacking the remaining NBA teams, from 1 to 8: Can...",
     "Javier Saviola (44 años), sobre los inicios de Lamine Yamal: \"Lo veíamos diferente al resto\"",
     "NBA playoff takeaways: Spurs blow out Wolves by 38...",
     "Pini Zahavi llega a Barcelona para definir el futuro de Robert Lewandowski: \"Hablaremos luego\"",
@@ -418,8 +419,7 @@
     "7 stats, facts from Trout, Judge's epic series in the Bronx",
     "Record-transfer Isak needs to step up for Liverpool after Ekitike injury",
     "Roberts gives his best Ohtani impression before another dazzling start",
-    "Bellingham says Camavinga red 'a joke' as Real fury grows",
-    "El Milan descarta a Lewandowski"
+    "Bellingham says Camavinga red 'a joke' as Real fury grows"
   ],
   "cloudinaryAssets": [
     {
@@ -471,6 +471,11 @@
       "publicId": "tvs_cards/card_1778149911838",
       "resourceType": "image",
       "uploadedAt": 1778149912926
+    },
+    {
+      "publicId": "tvs_videos/video_1778160665838",
+      "resourceType": "video",
+      "uploadedAt": 1778160667852
     }
   ]
 }
