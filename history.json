@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Star",
     "Lewandowski",
     "Future",
     "Barça",
@@ -16,6 +18,7 @@
     "Faces"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/javier-saviola-44-anos-inicios-129923596?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
     "https://www.sport.es/es/noticias/barca/pini-zahavi-llega-barcelona-definir-129919820?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/joao-pedro-alternativa-barca-suplir-129884639?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -214,10 +217,10 @@
     "https://www.espn.com/soccer/story/_/id/48501487/record-transfer-isak-needs-step-liverpool-ekitike-injury",
     "https://www.mlb.com/news/dodgers-dave-roberts-shohei-ohtani-impression",
     "https://www.bbc.com/sport/football/articles/cvg0zwl4zwko?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/milan-descarta-lewandowski-129142771?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48494162/2026-nfl-draft-32-teams-positions-picks-grades-predictions-needs-solak"
+    "https://www.sport.es/es/noticias/barca/milan-descarta-lewandowski-129142771?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Javier Saviola (44 años), sobre los inicios de Lamine Yamal: \"Lo veíamos diferente al resto\"",
     "NBA playoff takeaways: Spurs blow out Wolves by 38...",
     "Pini Zahavi llega a Barcelona para definir el futuro de Robert Lewandowski: \"Hablaremos luego\"",
     "João Pedro, la alternativa del Barça para suplir Lewandowski",
@@ -416,15 +419,9 @@
     "Record-transfer Isak needs to step up for Liverpool after Ekitike injury",
     "Roberts gives his best Ohtani impression before another dazzling start",
     "Bellingham says Camavinga red 'a joke' as Real fury grows",
-    "El Milan descarta a Lewandowski",
-    "How all 32 teams can crush the NFL draft: We have prospects and positions to target"
+    "El Milan descarta a Lewandowski"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778063132594",
-      "resourceType": "image",
-      "uploadedAt": 1778063133937
-    },
     {
       "publicId": "tvs_videos/video_1778074663278",
       "resourceType": "video",
@@ -469,6 +466,11 @@
       "publicId": "tvs_videos/video_1778141877918",
       "resourceType": "video",
       "uploadedAt": 1778141880005
+    },
+    {
+      "publicId": "tvs_cards/card_1778149911838",
+      "resourceType": "image",
+      "uploadedAt": 1778149912926
     }
   ]
 }
