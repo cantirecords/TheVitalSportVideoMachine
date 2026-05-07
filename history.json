@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Rays",
+    "Seek",
     "Mbappé",
     "Kane",
     "Scores",
@@ -12,6 +14,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/red-sox-rays-cardinals-padres-in-espn-exclusive-doubleheader-on-may-7",
     "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe",
     "https://www.bbc.com/sport/football/articles/cj0pq152zejo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48687450/nba-playoffs-2026-conference-semifinals-rankings-knicks-76ers-spurs-wolves-thunder-lakers-pistons-cavs",
@@ -210,10 +213,10 @@
     "https://www.espn.com/soccer/story/_/id/48495158/ucl-talking-points-slots-bizarre-choicesbayern-now-favorites",
     "https://www.espn.com/soccer/story/_/id/48504832/barcelona-uefa-complaint-champions-league-referee-atletico-madrid",
     "https://www.mlb.com/news/chayce-mcdermott-traded-to-dodgers",
-    "https://www.mlb.com/news/mike-trout-aaron-judge-matchup-delivers-impressive-home-run-stats",
-    "https://www.espn.com/soccer/story/_/id/48501487/record-transfer-isak-needs-step-liverpool-ekitike-injury"
+    "https://www.mlb.com/news/mike-trout-aaron-judge-matchup-delivers-impressive-home-run-stats"
   ],
   "postedTitles": [
+    "MLB's hottest team headlines ESPN-exclusive doubleheader tonight",
     "Clásico combined XI: With no Yamal or Mbappé, who'...",
     "How Kane goal could earn Germany extra Champions League spot",
     "Stacking the remaining NBA teams, from 1 to 8: Can...",
@@ -412,8 +415,7 @@
     "UCL talking points: Bayern favorites after Madrid drama? Slot's bizarre choices",
     "Barcelona file fresh UEFA complaint over UCL refs",
     "Righty McDermott heads to Dodgers in trade with Orioles",
-    "7 stats, facts from Trout, Judge's epic series in the Bronx",
-    "Record-transfer Isak needs to step up for Liverpool after Ekitike injury"
+    "7 stats, facts from Trout, Judge's epic series in the Bronx"
   ],
   "cloudinaryAssets": [
     {
@@ -460,6 +462,11 @@
       "publicId": "tvs_videos/video_1778182086888",
       "resourceType": "video",
       "uploadedAt": 1778182088630
+    },
+    {
+      "publicId": "tvs_cards/card_1778188296199",
+      "resourceType": "image",
+      "uploadedAt": 1778188297030
     }
   ]
 }
