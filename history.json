@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Barca",
     "Eyes",
     "Steelers",
@@ -8,28 +9,10 @@
     "Need",
     "Thunder",
     "Rolls",
-    "Barca",
-    "Faces",
-    "Yanks",
-    "Keep",
-    "LaLiga",
-    "Signs",
-    "Youngest",
-    "12",
-    "Yankees",
-    "Sweep",
-    "Barcelona",
-    "Timberwolves",
-    "Take",
-    "Barça",
-    "Raphinha",
-    "Transfer",
-    "NBA",
-    "Playoffs",
-    "Ohtani",
-    "17"
+    "Faces"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48680082/why-real-madrid-reunion-jose-mourinho-seems-increasingly-likely",
     "https://www.sport.es/es/noticias/barca/kounde-vinicius-jugador-problemas-dado-129911959?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/videos/cvgz8zn3nyxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48678873/pittsburgh-steelers-2026-draft-class-rookies-tiers-starters-projects",
@@ -228,10 +211,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/48494162/2026-nfl-draft-32-teams-positions-picks-grades-predictions-needs-solak",
     "https://www.espn.com/nfl/story/_/id/48496049/nfl-2026-draft-chris-jones-kansas-city-chiefs",
     "https://www.espn.com/nfl/draft2026/story/_/id/48465658/nfl-draft-2026-akheem-mesidor-miami-hurricanes",
-    "https://www.sport.es/es/noticias/barca/david-bernabeu-filtros-eliminacion-barca-champions-plantilla-129115269?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48487798/nba-postseason-grades-hornets-heat-trail-blazers-suns-all-30-teams-regular-season"
+    "https://www.sport.es/es/noticias/barca/david-bernabeu-filtros-eliminacion-barca-champions-plantilla-129115269?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Why Madrid's Mourinho reunion seems increasingly l...",
     "Koundé: \"Vinicius es el jugador que más problemas me ha dado\"",
     "Watch: Kane gives Dunfermline play-off advantage",
     "Steelers' 2026 draft picks ranked from starters to...",
@@ -430,15 +413,9 @@
     "How all 32 teams can crush the NFL draft: We have prospects and positions to target",
     "How a 'big argument' and lucky draft moves led to the Chiefs selecting Chris Jones",
     "Akheem Mesidor's long, long road to the NFL",
-    "David Bernabéu, sin filtros tras la eliminación del Barça en Champions: \"No es una plantilla redonda\"",
-    "Grading all 30 NBA teams' regular seasons"
+    "David Bernabéu, sin filtros tras la eliminación del Barça en Champions: \"No es una plantilla redonda\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778032764821",
-      "resourceType": "video",
-      "uploadedAt": 1778032766284
-    },
     {
       "publicId": "tvs_cards/card_1778039520881",
       "resourceType": "image",
@@ -483,6 +460,11 @@
       "publicId": "tvs_cards/card_1778102250663",
       "resourceType": "image",
       "uploadedAt": 1778102251464
+    },
+    {
+      "publicId": "tvs_videos/video_1778119399232",
+      "resourceType": "video",
+      "uploadedAt": 1778119401185
     }
   ]
 }
