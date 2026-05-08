@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Draft",
     "MLB",
     "Honors",
     "Messi",
@@ -24,6 +26,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48704514/windhorst-why-stakes-2026-nba-draft-lottery-enormous-possibly-game-changing",
     "https://www.espn.com/nba/story/_/id/48686847/2026-nba-draft-lottery-odds-every-team-potential-picks-wizards-pacers-nets-kings-grizzlies",
     "https://www.mlb.com/news/mlb-celebrates-mother-s-day-2026",
     "https://www.sport.es/es/noticias/barca/messi-bendice-heredero-recuerda-joven-129986548?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -222,10 +225,10 @@
     "https://www.sport.es/es/noticias/barca/gran-problema-deco-planificacion-fichajes-129215187?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/tennis/articles/c747y8jj1zgo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48495253/2026-nfl-draft-latest-buzz-steals-news-downs-tyson-sadiq-eagles-giants-steelers",
-    "https://www.espn.com/olympics/basketball/story/_/id/48515207/oscar-schmidt-dies-68",
-    "https://www.bbc.com/sport/tennis/articles/cqj81rzp1dwo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/olympics/basketball/story/_/id/48515207/oscar-schmidt-dies-68"
   ],
   "postedTitles": [
+    "Windhorst: Why the stakes of this NBA draft lotter...",
     "Most likely picks for every NBA lottery team",
     "MLB to celebrate Mother's Day, raise awareness in fight against breast cancer",
     "Messi bendice a Lamine Yamal como su heredero: \"Me recuerda a mí de joven\"",
@@ -424,15 +427,9 @@
     "El gran problema de Deco en la planificación de fichajes del Barça",
     "Norrie knocked out of Barcelona Open by Jodar",
     "Latest draft buzz: Downs' range, Day 2 steals, DT class, more",
-    "Brazil basketball legend Oscar Schmidt dies at 68",
-    "Injured Alcaraz & Djokovic pull out of Madrid Open"
+    "Brazil basketball legend Oscar Schmidt dies at 68"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778182086888",
-      "resourceType": "video",
-      "uploadedAt": 1778182088630
-    },
     {
       "publicId": "tvs_cards/card_1778188296199",
       "resourceType": "image",
@@ -482,6 +479,11 @@
       "publicId": "tvs_videos/video_1778267206779",
       "resourceType": "video",
       "uploadedAt": 1778267208047
+    },
+    {
+      "publicId": "tvs_cards/card_1778274656972",
+      "resourceType": "image",
+      "uploadedAt": 1778274658574
     }
   ]
 }
