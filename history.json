@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Veterans",
+    "On",
     "Rays",
     "Seek",
     "Mbappé",
@@ -14,6 +16,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48675818/2026-nfl-offseason-draft-veteran-hot-seats-position-battles-rookies",
     "https://www.bbc.com/sport/tennis/articles/cz92nwlg8q1o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/red-sox-rays-cardinals-padres-in-espn-exclusive-doubleheader-on-may-7",
     "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe",
@@ -212,10 +215,10 @@
     "https://www.espn.com/fantasy/football/story/_/id/48476312/2026-nfl-draft-prospects-fantasy-football-rookies",
     "https://www.sport.es/es/noticias/barca/guino-rafa-leao-barca-extremo-129204508?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48495158/ucl-talking-points-slots-bizarre-choicesbayern-now-favorites",
-    "https://www.espn.com/soccer/story/_/id/48504832/barcelona-uefa-complaint-champions-league-referee-atletico-madrid",
-    "https://www.mlb.com/news/chayce-mcdermott-traded-to-dodgers"
+    "https://www.espn.com/soccer/story/_/id/48504832/barcelona-uefa-complaint-champions-league-referee-atletico-madrid"
   ],
   "postedTitles": [
+    "Who is on the hot seat after the NFL draft? 14 vet...",
     "Players not getting the respect they deserve - Sinner",
     "MLB's hottest team headlines ESPN-exclusive doubleheader tonight",
     "Clásico combined XI: With no Yamal or Mbappé, who'...",
@@ -414,8 +417,7 @@
     "10 NFL draft prospects to put on your fantasy radar -- and three others to monitor",
     "El guiño de Rafa Leao al Barça: el extremo saldrá del Milan este verano",
     "UCL talking points: Bayern favorites after Madrid drama? Slot's bizarre choices",
-    "Barcelona file fresh UEFA complaint over UCL refs",
-    "Righty McDermott heads to Dodgers in trade with Orioles"
+    "Barcelona file fresh UEFA complaint over UCL refs"
   ],
   "cloudinaryAssets": [
     {
@@ -462,6 +464,11 @@
       "publicId": "tvs_videos/video_1778206138792",
       "resourceType": "video",
       "uploadedAt": 1778206140707
+    },
+    {
+      "publicId": "tvs_cards/card_1778211714684",
+      "resourceType": "image",
+      "uploadedAt": 1778211715397
     }
   ]
 }
