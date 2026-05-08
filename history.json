@@ -20,6 +20,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/c202lg07wq8o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-may-7",
     "https://www.bbc.com/sport/athletics/articles/ceqpjdgge2zo?at_medium=RSS&at_campaign=rss",
@@ -218,10 +219,10 @@
     "https://www.bbc.com/sport/tennis/articles/cqj81rzp1dwo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48495894/victor-wembanyama-top-10-plays-2025-26-nba-season-mvp-awards-race",
     "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
-    "https://www.espn.com/nba/story/_/id/48478787/nba-playoffs-2026-top-50-most-impactful-players-shai-lebron-cade-booker-durant",
-    "https://www.espn.com/fantasy/football/story/_/id/48476312/2026-nfl-draft-prospects-fantasy-football-rookies"
+    "https://www.espn.com/nba/story/_/id/48478787/nba-playoffs-2026-top-50-most-impactful-players-shai-lebron-cade-booker-durant"
   ],
   "postedTitles": [
+    "FPL talking point: Time to triple captain Haaland?",
     "The biggest remaining roster hole for every NFL te...",
     "Here is the first official 2026 mock draft!",
     "Mashed potato & 19 minutes' sleep - Entrekin's epic race",
@@ -420,15 +421,9 @@
     "Injured Alcaraz & Djokovic pull out of Madrid Open",
     "Slams, blocks and game winners: Top 10 plays from Wemby's record-setting season",
     "Inside Hornets' metamorphosis into the NBA's buzziest team",
-    "NBA Rank, playoffs edition: The 50 most impactful players in the 2026 postseason",
-    "10 NFL draft prospects to put on your fantasy radar -- and three others to monitor"
+    "NBA Rank, playoffs edition: The 50 most impactful players in the 2026 postseason"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778149911838",
-      "resourceType": "image",
-      "uploadedAt": 1778149912926
-    },
     {
       "publicId": "tvs_videos/video_1778160665838",
       "resourceType": "video",
@@ -473,6 +468,11 @@
       "publicId": "tvs_cards/card_1778233615042",
       "resourceType": "image",
       "uploadedAt": 1778233616184
+    },
+    {
+      "publicId": "tvs_videos/video_1778245902831",
+      "resourceType": "video",
+      "uploadedAt": 1778245904409
     }
   ]
 }
