@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Messi",
+    "Hails",
     "NFL",
     "Teams",
     "Rachel",
@@ -20,6 +22,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/messi-bendice-heredero-recuerda-joven-129986548?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c202lg07wq8o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-may-7",
@@ -218,10 +221,10 @@
     "https://www.espn.com/olympics/basketball/story/_/id/48515207/oscar-schmidt-dies-68",
     "https://www.bbc.com/sport/tennis/articles/cqj81rzp1dwo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48495894/victor-wembanyama-top-10-plays-2025-26-nba-season-mvp-awards-race",
-    "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
-    "https://www.espn.com/nba/story/_/id/48478787/nba-playoffs-2026-top-50-most-impactful-players-shai-lebron-cade-booker-durant"
+    "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat"
   ],
   "postedTitles": [
+    "Messi bendice a Lamine Yamal como su heredero: \"Me recuerda a mí de joven\"",
     "FPL talking point: Time to triple captain Haaland?",
     "The biggest remaining roster hole for every NFL te...",
     "Here is the first official 2026 mock draft!",
@@ -420,15 +423,9 @@
     "Brazil basketball legend Oscar Schmidt dies at 68",
     "Injured Alcaraz & Djokovic pull out of Madrid Open",
     "Slams, blocks and game winners: Top 10 plays from Wemby's record-setting season",
-    "Inside Hornets' metamorphosis into the NBA's buzziest team",
-    "NBA Rank, playoffs edition: The 50 most impactful players in the 2026 postseason"
+    "Inside Hornets' metamorphosis into the NBA's buzziest team"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778160665838",
-      "resourceType": "video",
-      "uploadedAt": 1778160667852
-    },
     {
       "publicId": "tvs_cards/card_1778176512506",
       "resourceType": "image",
@@ -473,6 +470,11 @@
       "publicId": "tvs_videos/video_1778245902831",
       "resourceType": "video",
       "uploadedAt": 1778245904409
+    },
+    {
+      "publicId": "tvs_cards/card_1778249204817",
+      "resourceType": "image",
+      "uploadedAt": 1778249206393
     }
   ]
 }
