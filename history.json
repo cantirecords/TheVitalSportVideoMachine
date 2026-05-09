@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Misiorowski",
+    "Throws",
     "F1",
     "Engine",
     "NBA",
@@ -28,6 +30,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48717076/brewers-jacob-misiorowski-hits-1036-mph-fastest-pitch-starter-statcast-era",
     "https://www.bbc.com/sport/formula1/articles/c8jvee3x3wro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jacob-misiorowski-throws-fastest-tracked-pitches-by-starter",
     "https://www.espn.com/nba/story/_/id/48704514/windhorst-why-stakes-2026-nba-draft-lottery-enormous-possibly-game-changing",
@@ -226,10 +229,10 @@
     "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
     "https://www.espn.com/nfl/story/_/id/48504635/nfl-draft-trade-jacksonville-jaguars-travis-hunter-cleveland-browns-mason-graham",
     "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
-    "https://www.sport.es/es/noticias/barca/gran-problema-deco-planificacion-fichajes-129215187?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/tennis/articles/c747y8jj1zgo?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/gran-problema-deco-planificacion-fichajes-129215187?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Historic heat: Misiorowski tops 103 mph 10 times",
     "F1 bosses agree to engine design change for 2027",
     "Facing Yanks for first time, Miz amps up heater to record heights",
     "Windhorst: Why the stakes of this NBA draft lotter...",
@@ -428,15 +431,9 @@
     "⬆ Players who have boosted their draft stock",
     "One year later: Who won the Jaguars-Browns draft-day trade for Travis Hunter?",
     "NBA Futures: Thunder, Celtics favored to make Finals",
-    "El gran problema de Deco en la planificación de fichajes del Barça",
-    "Norrie knocked out of Barcelona Open by Jodar"
+    "El gran problema de Deco en la planificación de fichajes del Barça"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778220264849",
-      "resourceType": "image",
-      "uploadedAt": 1778220266248
-    },
     {
       "publicId": "tvs_videos/video_1778224710824",
       "resourceType": "video",
@@ -481,6 +478,11 @@
       "publicId": "tvs_cards/card_1778298147561",
       "resourceType": "image",
       "uploadedAt": 1778298148321
+    },
+    {
+      "publicId": "tvs_cards/card_1778307769998",
+      "resourceType": "image",
+      "uploadedAt": 1778307770852
     }
   ]
 }
