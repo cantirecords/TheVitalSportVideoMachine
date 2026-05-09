@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Murakami",
+    "Ties",
     "Misiorowski",
     "Throws",
     "F1",
@@ -30,6 +32,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/munetaka-murakami-ties-aaron-judge-in-mlb-home-runs",
     "https://www.mlb.com/news/freddie-freeman-hits-100th-dodgers-home-run",
     "https://www.espn.com/mlb/story/_/id/48717076/brewers-jacob-misiorowski-hits-1036-mph-fastest-pitch-starter-statcast-era",
     "https://www.bbc.com/sport/formula1/articles/c8jvee3x3wro?at_medium=RSS&at_campaign=rss",
@@ -228,10 +231,10 @@
     "https://www.espn.com/racing/story/_/id/48524261/driver-dies-nurburgring-juha-miettinen-max-verstappen-adac-24h",
     "https://www.espn.com/nba/story/_/id/48506753/lebron-james-kevin-durant-revisiting-nba-playoff-matchups",
     "https://www.espn.com/nfl/draft2026/story/_/id/48443025/2026-nfl-draft-risers-prospects-freeling-thieneman-iheanachor",
-    "https://www.espn.com/nfl/story/_/id/48504635/nfl-draft-trade-jacksonville-jaguars-travis-hunter-cleveland-browns-mason-graham",
-    "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting"
+    "https://www.espn.com/nfl/story/_/id/48504635/nfl-draft-trade-jacksonville-jaguars-travis-hunter-cleveland-browns-mason-graham"
   ],
   "postedTitles": [
+    "Murakami ties Judge for HR lead with record-setting blast",
     "Freeman hits 100th Dodgers homer -- against his former club",
     "Historic heat: Misiorowski tops 103 mph 10 times",
     "F1 bosses agree to engine design change for 2027",
@@ -430,8 +433,7 @@
     "Driver dies in German race featuring Verstappen",
     "Revisiting each playoff matchup between LeBron James and Kevin Durant",
     "⬆ Players who have boosted their draft stock",
-    "One year later: Who won the Jaguars-Browns draft-day trade for Travis Hunter?",
-    "NBA Futures: Thunder, Celtics favored to make Finals"
+    "One year later: Who won the Jaguars-Browns draft-day trade for Travis Hunter?"
   ],
   "cloudinaryAssets": [
     {
@@ -483,6 +485,11 @@
       "publicId": "tvs_videos/video_1778312725176",
       "resourceType": "video",
       "uploadedAt": 1778312727223
+    },
+    {
+      "publicId": "tvs_cards/card_1778318792790",
+      "resourceType": "image",
+      "uploadedAt": 1778318793535
     }
   ]
 }
