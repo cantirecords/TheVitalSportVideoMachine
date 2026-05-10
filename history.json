@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Faces",
     "Dubois",
     "Beats",
     "Sinner",
@@ -38,6 +40,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/mensaje-hernandez-hernandez-vinicius-pedri-130074720?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/cvgzpv1g3dvo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48702612/mlb-2026-teams-beat-dodgers-threepeat-braves-yankees-cubs-pirates-phillies-mariners",
@@ -236,10 +239,10 @@
     "https://www.mlb.com/news/shohei-ohtani-extends-on-base-streak-to-50-games-in-dodgers-loss",
     "https://www.bbc.com/sport/motorsport/articles/crl1wwdegkno?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2026/story/_/id/48513002/2026-nfl-draft-riddick-favorite-prospects-class-sleepers-love-styles-cooper",
-    "https://www.mlb.com/news/ryan-ward-dodgers-callup",
-    "https://www.espn.com/racing/story/_/id/48524261/driver-dies-nurburgring-juha-miettinen-max-verstappen-adac-24h"
+    "https://www.mlb.com/news/ryan-ward-dodgers-callup"
   ],
   "postedTitles": [
+    "El mensaje de Hernández Hernández a Vinicius y Pedri antes del Clásico: \"Si tenemos a veinte tíos alrededor...\"",
     "Dubois beats Wardley in epic world title fight",
     "Sinner begins bid for history with win in Rome",
     "Who can keep the Dodgers from three-peating? We id...",
@@ -438,19 +441,18 @@
     "Ohtani extends on-base streak to 50 games -- with 2 outs in 9th",
     "Miettinen dies in seven-car crash during Nurburgring race featuring Verstappen",
     "Riddick picks his favorite draft prospects: The guys he'd want on his team from Rounds 1-3",
-    "Dodgers to call up No. 19 prospect Ryan Ward (report)",
-    "Driver dies in German race featuring Verstappen"
+    "Dodgers to call up No. 19 prospect Ryan Ward (report)"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778360088506",
-      "resourceType": "image",
-      "uploadedAt": 1778360090352
-    },
     {
       "publicId": "tvs_cards/card_1778420717199",
       "resourceType": "image",
       "uploadedAt": 1778420718070
+    },
+    {
+      "publicId": "tvs_cards/card_1778446672177",
+      "resourceType": "image",
+      "uploadedAt": 1778446673419
     }
   ]
 }
