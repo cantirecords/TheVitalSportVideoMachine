@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Wins",
     "Rays",
     "Seek",
     "Barca",
@@ -42,6 +44,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/pedri-presenta-nueva-novia-ganar-130081128?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/mlb-series-to-watch-for-week-of-may-11",
     "https://www.mlb.com/news/brice-turang-hits-walk-off-homer-brewers-sweep-yankees",
     "https://www.sport.es/es/noticias/barca/mensaje-hernandez-hernandez-vinicius-pedri-130074720?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -240,10 +243,10 @@
     "https://www.sport.es/es/noticias/barca/cancelo-sera-barca-o-129233061?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/news/articles/c0kr27j6z2vo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways",
-    "https://www.mlb.com/news/shohei-ohtani-extends-on-base-streak-to-50-games-in-dodgers-loss",
-    "https://www.bbc.com/sport/motorsport/articles/crl1wwdegkno?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/shohei-ohtani-extends-on-base-streak-to-50-games-in-dodgers-loss"
   ],
   "postedTitles": [
+    "Pedri presenta a su nueva novia tras ganar la Liga",
     "Yankees-Mets 'Rivalry Weekend' matchup highlights 5 series to watch this week",
     "Turang's walk-off blast gives Brewers first sweep of Yankees this century",
     "El mensaje de Hernández Hernández a Vinicius y Pedri antes del Clásico: \"Si tenemos a veinte tíos alrededor...\"",
@@ -442,8 +445,7 @@
     "Cancelo será del Barça sí o sí",
     "Britain's youngest F1 driver on his debut season so far - and learning to skateboard",
     "West playoffs: Nuggets and Lakers win as the playoffs begin",
-    "Ohtani extends on-base streak to 50 games -- with 2 outs in 9th",
-    "Miettinen dies in seven-car crash during Nurburgring race featuring Verstappen"
+    "Ohtani extends on-base streak to 50 games -- with 2 outs in 9th"
   ],
   "cloudinaryAssets": [
     {
@@ -465,6 +467,11 @@
       "publicId": "tvs_cards/card_1778472645528",
       "resourceType": "image",
       "uploadedAt": 1778472646558
+    },
+    {
+      "publicId": "tvs_cards/card_1778499137503",
+      "resourceType": "image",
+      "uploadedAt": 1778499138751
     }
   ]
 }
