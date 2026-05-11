@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Wins",
     "Nico",
     "Williams",
     "Barca",
@@ -46,6 +48,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/show-laporta-luz-gas-fiesta-130080988?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/athletic/2026/05/11/nico-dice-adios-liga-cruza-dedos-llegar-mundial.html",
     "https://www.sport.es/es/noticias/barca/cuesta-bolso-utilizo-lamine-yamal-130087499?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pedri-presenta-nueva-novia-ganar-130081128?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -244,10 +247,10 @@
     "https://www.espn.com/soccer/story/_/id/48482014/bayern-munich-retain-bundesliga-title-stuttgart-thrashing",
     "https://www.espn.com/soccer/report/_/gameId/740916",
     "https://www.mlb.com/news/gavin-williams-11-strikeouts-quality-start-guardians-beat-orioles",
-    "https://www.sport.es/es/noticias/barca/cancelo-sera-barca-o-129233061?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/news/articles/c0kr27j6z2vo?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/cancelo-sera-barca-o-129233061?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "El 'show' de Laporta en Luz de Gas en la fiesta de celebración de la Liga",
     "Nico dice adiós a la Liga y cruza los dedos para llegar al Mundial",
     "¿Cuánto cuesta el bolso que utilizó Lamine Yamal para el Clásico?",
     "Pedri presenta a su nueva novia tras ganar la Liga",
@@ -446,8 +449,7 @@
     "Kane scores as Bayern retain Bundesliga title",
     "Haaland gives City edge over Arsenal in title race",
     "Williams breaks out new pitch mix in 11-K gem to grab MLB strikeouts lead",
-    "Cancelo será del Barça sí o sí",
-    "Britain's youngest F1 driver on his debut season so far - and learning to skateboard"
+    "Cancelo será del Barça sí o sí"
   ],
   "cloudinaryAssets": [
     {
@@ -479,6 +481,11 @@
       "publicId": "tvs_cards/card_1778513355493",
       "resourceType": "image",
       "uploadedAt": 1778513356454
+    },
+    {
+      "publicId": "tvs_cards/card_1778522419248",
+      "resourceType": "image",
+      "uploadedAt": 1778522421325
     }
   ]
 }
