@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Nico",
+    "Williams",
     "Barca",
     "Wins",
     "Rays",
@@ -44,6 +46,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/athletic/2026/05/11/nico-dice-adios-liga-cruza-dedos-llegar-mundial.html",
     "https://www.sport.es/es/noticias/barca/cuesta-bolso-utilizo-lamine-yamal-130087499?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pedri-presenta-nueva-novia-ganar-130081128?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/mlb-series-to-watch-for-week-of-may-11",
@@ -242,10 +245,10 @@
     "https://www.espn.com/soccer/report/_/gameId/740916",
     "https://www.mlb.com/news/gavin-williams-11-strikeouts-quality-start-guardians-beat-orioles",
     "https://www.sport.es/es/noticias/barca/cancelo-sera-barca-o-129233061?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/news/articles/c0kr27j6z2vo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48506452/2026-nba-playoffs-western-conference-round-one-takeaways"
+    "https://www.bbc.com/news/articles/c0kr27j6z2vo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Nico dice adiós a la Liga y cruza los dedos para llegar al Mundial",
     "¿Cuánto cuesta el bolso que utilizó Lamine Yamal para el Clásico?",
     "Pedri presenta a su nueva novia tras ganar la Liga",
     "Yankees-Mets 'Rivalry Weekend' matchup highlights 5 series to watch this week",
@@ -444,8 +447,7 @@
     "Haaland gives City edge over Arsenal in title race",
     "Williams breaks out new pitch mix in 11-K gem to grab MLB strikeouts lead",
     "Cancelo será del Barça sí o sí",
-    "Britain's youngest F1 driver on his debut season so far - and learning to skateboard",
-    "West playoffs: Nuggets and Lakers win as the playoffs begin"
+    "Britain's youngest F1 driver on his debut season so far - and learning to skateboard"
   ],
   "cloudinaryAssets": [
     {
@@ -472,6 +474,11 @@
       "publicId": "tvs_videos/video_1778509821042",
       "resourceType": "video",
       "uploadedAt": 1778509823433
+    },
+    {
+      "publicId": "tvs_cards/card_1778513355493",
+      "resourceType": "image",
+      "uploadedAt": 1778513356454
     }
   ]
 }
