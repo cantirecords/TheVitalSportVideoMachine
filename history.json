@@ -14,6 +14,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48704131/2026-nfl-schedule-release-bold-predictions-takeaways-revenge-games-all-32-teams",
     "https://www.sport.es/es/noticias/barca/1x1-barca-campeon-laliga-notas-jugadores-129716790?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/radio/2026/05/11/tote-madrid-me-crie-primero-te-ensenaban-valores-luego-ganar.html",
     "https://www.mlb.com/news/andres-gimenez-has-2-homers-5-rbis-for-blue-jays",
@@ -212,10 +213,10 @@
     "https://www.espn.com/nba/story/_/id/48537702/brian-windhorst-lebron-lakers-five-lessons-first-weekend-nba-playoffs",
     "https://www.mlb.com/news/edwin-diaz-s-struggles-continue-in-dodgers-loss",
     "https://www.bbc.com/sport/tennis/articles/cwyx2d167n1o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/basketball/articles/cz907v58k0jo?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/segunda-division/2026/04/20/calleja-cristiano-ronaldo-fecha-caducidad.html"
+    "https://www.bbc.com/sport/basketball/articles/cz907v58k0jo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "2026 NFL schedule: Everything we're hearing ahead ...",
     "El 1x1 del Barça campeón de LaLiga EA Sports 2025-26",
     "Tote: \"En el Madrid en el que me crié, primero te enseñaban valores y luego, a ganar, pero ahora...\"",
     "'He's incredible': Giménez records first career multi-home run game",
@@ -414,15 +415,9 @@
     "Windhorst: The five biggest lessons from the first weekend of the NBA playoffs",
     "Díaz (3 ER, 0 outs) continues to struggle as Dodgers seek answers",
     "Raducanu pulls out of Madrid Open",
-    "Wembanyama stars for Spurs as Thunder and Celtics win",
-    "Calleja: \"Cristiano Ronaldo no tiene fecha de caducidad\""
+    "Wembanyama stars for Spurs as Thunder and Celtics win"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778499137503",
-      "resourceType": "image",
-      "uploadedAt": 1778499138751
-    },
     {
       "publicId": "tvs_videos/video_1778509821042",
       "resourceType": "video",
@@ -467,6 +462,11 @@
       "publicId": "tvs_cards/card_1778582357096",
       "resourceType": "image",
       "uploadedAt": 1778582358825
+    },
+    {
+      "publicId": "tvs_videos/video_1778594283447",
+      "resourceType": "video",
+      "uploadedAt": 1778594288499
     }
   ]
 }
