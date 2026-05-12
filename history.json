@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Wins",
     "Madrid",
     "Giménez",
     "Goes",
@@ -12,6 +14,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/1x1-barca-campeon-laliga-notas-jugadores-129716790?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/radio/2026/05/11/tote-madrid-me-crie-primero-te-ensenaban-valores-luego-ganar.html",
     "https://www.mlb.com/news/andres-gimenez-has-2-homers-5-rbis-for-blue-jays",
     "https://www.espn.com/soccer/story/_/id/48741972/lamine-yamal-teases-jude-bellingham-barcelona-clasico-win",
@@ -210,10 +213,10 @@
     "https://www.mlb.com/news/edwin-diaz-s-struggles-continue-in-dodgers-loss",
     "https://www.bbc.com/sport/tennis/articles/cwyx2d167n1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/cz907v58k0jo?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/segunda-division/2026/04/20/calleja-cristiano-ronaldo-fecha-caducidad.html",
-    "https://www.espn.com/nba/story/_/id/48535860/wembanyama-gilgeous-alexander-jokic-named-mvp-finalists"
+    "https://www.marca.com/futbol/segunda-division/2026/04/20/calleja-cristiano-ronaldo-fecha-caducidad.html"
   ],
   "postedTitles": [
+    "El 1x1 del Barça campeón de LaLiga EA Sports 2025-26",
     "Tote: \"En el Madrid en el que me crié, primero te enseñaban valores y luego, a ganar, pero ahora...\"",
     "'He's incredible': Giménez records first career multi-home run game",
     "'Talk is cheap': Yamal teases Jude after Clásico w...",
@@ -412,8 +415,7 @@
     "Díaz (3 ER, 0 outs) continues to struggle as Dodgers seek answers",
     "Raducanu pulls out of Madrid Open",
     "Wembanyama stars for Spurs as Thunder and Celtics win",
-    "Calleja: \"Cristiano Ronaldo no tiene fecha de caducidad\"",
-    "Wembanyama joins SGA, Jokic as MVP finalist"
+    "Calleja: \"Cristiano Ronaldo no tiene fecha de caducidad\""
   ],
   "cloudinaryAssets": [
     {
@@ -460,6 +462,11 @@
       "publicId": "tvs_videos/video_1778574511183",
       "resourceType": "video",
       "uploadedAt": 1778574512625
+    },
+    {
+      "publicId": "tvs_cards/card_1778582357096",
+      "resourceType": "image",
+      "uploadedAt": 1778582358825
     }
   ]
 }
