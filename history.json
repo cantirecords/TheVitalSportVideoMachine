@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Claims",
     "Gavi",
     "Loves",
     "Barca",
@@ -50,6 +52,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48741972/lamine-yamal-teases-jude-bellingham-barcelona-clasico-win",
     "https://www.sport.es/es/noticias/barca/emotivo-mensaje-gavi-dembele-ganar-130079268?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/cm2p62jq70qo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/show-laporta-luz-gas-fiesta-130080988?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -248,10 +251,10 @@
     "https://www.marca.com/futbol/segunda-division/2026/04/20/calleja-cristiano-ronaldo-fecha-caducidad.html",
     "https://www.espn.com/nba/story/_/id/48535860/wembanyama-gilgeous-alexander-jokic-named-mvp-finalists",
     "https://www.espn.com/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
-    "https://www.espn.com/soccer/story/_/id/48482014/bayern-munich-retain-bundesliga-title-stuttgart-thrashing",
-    "https://www.espn.com/soccer/report/_/gameId/740916"
+    "https://www.espn.com/soccer/story/_/id/48482014/bayern-munich-retain-bundesliga-title-stuttgart-thrashing"
   ],
   "postedTitles": [
+    "'Talk is cheap': Yamal teases Jude after Clásico w...",
     "El emotivo mensaje de Gavi a Dembélé tras ganar la Liga: \"Es más que un amigo. Hablamos todos los días\"",
     "'It breaks my heart' – legend Mead to leave Arsenal",
     "El 'show' de Laporta en Luz de Gas en la fiesta de celebración de la Liga",
@@ -450,15 +453,9 @@
     "Calleja: \"Cristiano Ronaldo no tiene fecha de caducidad\"",
     "Wembanyama joins SGA, Jokic as MVP finalist",
     "📸 Celebrity sightings at NBA playoffs games",
-    "Kane scores as Bayern retain Bundesliga title",
-    "Haaland gives City edge over Arsenal in title race"
+    "Kane scores as Bayern retain Bundesliga title"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778465590999",
-      "resourceType": "video",
-      "uploadedAt": 1778465593600
-    },
     {
       "publicId": "tvs_cards/card_1778472645528",
       "resourceType": "image",
@@ -493,6 +490,11 @@
       "publicId": "tvs_cards/card_1778534639240",
       "resourceType": "image",
       "uploadedAt": 1778534640425
+    },
+    {
+      "publicId": "tvs_cards/card_1778558069954",
+      "resourceType": "image",
+      "uploadedAt": 1778558071594
     }
   ]
 }
