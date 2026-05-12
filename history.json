@@ -18,6 +18,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/flick-moja-futuro-rashford-lewandowski-130137045?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48742800/mlb-2026-closer-bullpen-struggles-impact-rest-season-deadline",
     "https://www.espn.com/wnba/story/_/id/48742961/wnba-2026-power-rankings-valkyries-liberty-aces",
     "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48704131/2026-nfl-schedule-release-bold-predictions-takeaways-revenge-games-all-32-teams",
@@ -216,10 +217,10 @@
     "https://www.bbc.com/sport/articles/cdrmv8zm678o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/cp84xd25wg9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48538672/transfer-rumors-news-barcelona-step-interest-italy-right-back",
-    "https://www.espn.com/nba/story/_/id/48537702/brian-windhorst-lebron-lakers-five-lessons-first-weekend-nba-playoffs",
-    "https://www.mlb.com/news/edwin-diaz-s-struggles-continue-in-dodgers-loss"
+    "https://www.espn.com/nba/story/_/id/48537702/brian-windhorst-lebron-lakers-five-lessons-first-weekend-nba-playoffs"
   ],
   "postedTitles": [
+    "Flick se moja sobre el futuro de Rashford y Lewandowski",
     "How MLB's closer struggles will impact the rest of...",
     "WNBA Power Rankings: Unbeaten Liberty, Valkyries o...",
     "2026 NFL schedule: Everything we're hearing ahead ...",
@@ -418,8 +419,7 @@
     "McIlroy and Norris honoured at Laureus awards",
     "F1 makes changes to address new engine rules concerns",
     "Transfer rumors, news: Barcelona step up interest in Italy right back",
-    "Windhorst: The five biggest lessons from the first weekend of the NBA playoffs",
-    "Díaz (3 ER, 0 outs) continues to struggle as Dodgers seek answers"
+    "Windhorst: The five biggest lessons from the first weekend of the NBA playoffs"
   ],
   "cloudinaryAssets": [
     {
@@ -466,6 +466,11 @@
       "publicId": "tvs_cards/card_1778609187946",
       "resourceType": "image",
       "uploadedAt": 1778609189231
+    },
+    {
+      "publicId": "tvs_videos/video_1778614217765",
+      "resourceType": "video",
+      "uploadedAt": 1778614219233
     }
   ]
 }
