@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Garcia",
+    "On",
     "NBA",
     "Legend",
     "Deco",
@@ -26,6 +28,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/orioles-rico-garcia-one-hit-allowed-first-64-batters-in-2026",
     "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/american-football/articles/c809d5le7mmo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/obsesion-deco-durante-mercado-fichajes-130148343?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -224,10 +227,10 @@
     "https://www.espn.com/f1/story/_/id/48548710/explained-f1-2026-rule-tweaks-changed-impact-difference-driver-criticism-max-verstappen",
     "https://www.sport.es/es/noticias/barca/festin-lamine-yamal-ganar-premio-129339032?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/yankees-red-sox-first-2026-series-schedule-starting-pitchers-preview",
-    "https://www.sport.es/es/noticias/barca/robert-moreno-alucino-messi-luis-129334704?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48538979/erling-haaland-partner-happy-scratches-left-body-premier-defenders"
+    "https://www.sport.es/es/noticias/barca/robert-moreno-alucino-messi-luis-129334704?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "64 batters faced. 1 hit allowed. This veteran reliever is on a historic run",
     "Collins, first openly gay NBA player, dies aged 47",
     "Eagles to play in London during 2026 NFL season",
     "La obsesión de Deco durante el mercado de fichajes",
@@ -426,15 +429,9 @@
     "F1's rule tweaks: What's changed after driver criticism, and will it make a difference?",
     "Así fue el festín de Lamine Yamal tras ganar el Premio Laureus",
     "Yankees, Red Sox set to renew rivalry for first time in '26",
-    "Robert Moreno alucinó con lo que hacía Messi junto a Luis Suárez en los entrenamientos: \"No me lo sabían explicar\"",
-    "Haaland's partner not happy with game 'scratches'"
+    "Robert Moreno alucinó con lo que hacía Messi junto a Luis Suárez en los entrenamientos: \"No me lo sabían explicar\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778609187946",
-      "resourceType": "image",
-      "uploadedAt": 1778609189231
-    },
     {
       "publicId": "tvs_videos/video_1778614217765",
       "resourceType": "video",
@@ -474,6 +471,11 @@
       "publicId": "tvs_cards/card_1778683900179",
       "resourceType": "image",
       "uploadedAt": 1778683901729
+    },
+    {
+      "publicId": "tvs_cards/card_1778695652581",
+      "resourceType": "image",
+      "uploadedAt": 1778695653493
     }
   ]
 }
