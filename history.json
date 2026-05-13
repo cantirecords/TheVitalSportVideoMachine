@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ohtani",
+    "Breaks",
     "Grizzlies",
     "Mourn",
     "Seven",
@@ -20,6 +22,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-pitches-vs-giants",
     "https://www.mlb.com/news/alek-thomas-dodgers-trade",
     "https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/flick-moja-futuro-rashford-lewandowski-130137045?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -218,10 +221,10 @@
     "https://www.espn.com/soccer/story/_/id/48543253/real-madrid-beats-brugge-uefa-youth-league-final",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-recibir-segundo-laureus-129325578?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/wnba/story/_/id/48508230/wnba-training-camp-2026-season-opener-preview-biggest-question-projected-lineups-stats",
-    "https://www.bbc.com/sport/articles/cdrmv8zm678o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/formula1/articles/cp84xd25wg9o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/articles/cdrmv8zm678o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Looking to break out of slump, Ohtani homers on eve of start vs. Giants",
     "Dodgers get OF Alek Thomas for prospect in trade with D-backs",
     "NBA player Clarke dies aged 29",
     "Flick se moja sobre el futuro de Rashford y Lewandowski",
@@ -420,15 +423,9 @@
     "Madrid beat Brugge to win UEFA Youth League",
     "Lamine Yamal, tras recibir su segundo Laureus: \"Ojalá pueda seguir el camino de Messi\"",
     "The biggest question facing every WNBA team in training camp",
-    "McIlroy and Norris honoured at Laureus awards",
-    "F1 makes changes to address new engine rules concerns"
+    "McIlroy and Norris honoured at Laureus awards"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778558069954",
-      "resourceType": "image",
-      "uploadedAt": 1778558071594
-    },
     {
       "publicId": "tvs_cards/card_1778568169856",
       "resourceType": "image",
@@ -473,6 +470,11 @@
       "publicId": "tvs_videos/video_1778638432283",
       "resourceType": "video",
       "uploadedAt": 1778638435432
+    },
+    {
+      "publicId": "tvs_cards/card_1778644972112",
+      "resourceType": "image",
+      "uploadedAt": 1778644973652
     }
   ]
 }
