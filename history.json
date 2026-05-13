@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Legend",
     "Deco",
     "Drives",
     "Ohtani",
@@ -24,6 +26,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/american-football/articles/c809d5le7mmo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/obsesion-deco-durante-mercado-fichajes-130148343?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/basketball/articles/cdepzew0zzpo?at_medium=RSS&at_campaign=rss",
@@ -222,10 +225,10 @@
     "https://www.sport.es/es/noticias/barca/festin-lamine-yamal-ganar-premio-129339032?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/yankees-red-sox-first-2026-series-schedule-starting-pitchers-preview",
     "https://www.sport.es/es/noticias/barca/robert-moreno-alucino-messi-luis-129334704?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48538979/erling-haaland-partner-happy-scratches-left-body-premier-defenders",
-    "https://www.espn.com/soccer/story/_/id/48543253/real-madrid-beats-brugge-uefa-youth-league-final"
+    "https://www.espn.com/soccer/story/_/id/48538979/erling-haaland-partner-happy-scratches-left-body-premier-defenders"
   ],
   "postedTitles": [
+    "Collins, first openly gay NBA player, dies aged 47",
     "Eagles to play in London during 2026 NFL season",
     "La obsesión de Deco durante el mercado de fichajes",
     "Wembanyama stars to put Spurs on verge of Western final",
@@ -424,15 +427,9 @@
     "Así fue el festín de Lamine Yamal tras ganar el Premio Laureus",
     "Yankees, Red Sox set to renew rivalry for first time in '26",
     "Robert Moreno alucinó con lo que hacía Messi junto a Luis Suárez en los entrenamientos: \"No me lo sabían explicar\"",
-    "Haaland's partner not happy with game 'scratches'",
-    "Madrid beat Brugge to win UEFA Youth League"
+    "Haaland's partner not happy with game 'scratches'"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778596912559",
-      "resourceType": "image",
-      "uploadedAt": 1778596913747
-    },
     {
       "publicId": "tvs_cards/card_1778609187946",
       "resourceType": "image",
@@ -472,6 +469,11 @@
       "publicId": "tvs_videos/video_1778681586538",
       "resourceType": "video",
       "uploadedAt": 1778681588286
+    },
+    {
+      "publicId": "tvs_cards/card_1778683900179",
+      "resourceType": "image",
+      "uploadedAt": 1778683901729
     }
   ]
 }
