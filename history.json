@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Deco",
+    "Drives",
     "Ohtani",
     "Breaks",
     "Grizzlies",
@@ -22,6 +24,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/obsesion-deco-durante-mercado-fichajes-130148343?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/basketball/articles/cdepzew0zzpo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-pitches-vs-giants",
     "https://www.mlb.com/news/alek-thomas-dodgers-trade",
@@ -220,10 +223,10 @@
     "https://www.sport.es/es/noticias/barca/robert-moreno-alucino-messi-luis-129334704?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48538979/erling-haaland-partner-happy-scratches-left-body-premier-defenders",
     "https://www.espn.com/soccer/story/_/id/48543253/real-madrid-beats-brugge-uefa-youth-league-final",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-recibir-segundo-laureus-129325578?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/wnba/story/_/id/48508230/wnba-training-camp-2026-season-opener-preview-biggest-question-projected-lineups-stats"
+    "https://www.sport.es/es/noticias/barca/lamine-yamal-recibir-segundo-laureus-129325578?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "La obsesión de Deco durante el mercado de fichajes",
     "Wembanyama stars to put Spurs on verge of Western final",
     "Looking to break out of slump, Ohtani homers on eve of start vs. Giants",
     "Dodgers get OF Alek Thomas for prospect in trade with D-backs",
@@ -422,8 +425,7 @@
     "Robert Moreno alucinó con lo que hacía Messi junto a Luis Suárez en los entrenamientos: \"No me lo sabían explicar\"",
     "Haaland's partner not happy with game 'scratches'",
     "Madrid beat Brugge to win UEFA Youth League",
-    "Lamine Yamal, tras recibir su segundo Laureus: \"Ojalá pueda seguir el camino de Messi\"",
-    "The biggest question facing every WNBA team in training camp"
+    "Lamine Yamal, tras recibir su segundo Laureus: \"Ojalá pueda seguir el camino de Messi\""
   ],
   "cloudinaryAssets": [
     {
@@ -470,6 +472,11 @@
       "publicId": "tvs_videos/video_1778661341954",
       "resourceType": "video",
       "uploadedAt": 1778661344000
+    },
+    {
+      "publicId": "tvs_cards/card_1778668662717",
+      "resourceType": "image",
+      "uploadedAt": 1778668664275
     }
   ]
 }
