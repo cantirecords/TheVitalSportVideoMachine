@@ -34,6 +34,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/c2e2zmglvp9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/fantasy/baseball/story/_/id/48759020/2026-fantasy-baseball-stars-slumps-stats-13",
     "https://www.sport.es/es/noticias/barca/lewandowski-oporto-opcion-proxima-temporada-130209067?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/cycling/articles/ckgpynkj4jno?at_medium=RSS&at_campaign=rss",
@@ -232,10 +233,10 @@
     "https://www.espn.com/nba/story/_/id/48543958/what-make-victor-wembanyama-historic-game-1-performance-san-antonio-spurs-houston-rockets-nba-playoffs",
     "https://www.espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions",
     "https://www.marca.com/futbol/primera-division/2026/04/21/calculadora-laliga-ea-sports-barca-cuenta-jornadas-campeon-descenso-arde.html",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48494104/mock-draft-2026-nfl-nation-first-round-predictions",
-    "https://www.espn.com/nfl/story/_/id/48553270/justin-fields-wanted-join-chiefs-learn-patrick-mahomes"
+    "https://www.espn.com/nfl/draft2026/story/_/id/48494104/mock-draft-2026-nfl-nation-first-round-predictions"
   ],
   "postedTitles": [
+    "Will F1 go back to the future with its engines?",
     "Why are MLB's stars not so 'starry' in 2026?",
     "Lewandowski ya sabe que el Oporto no es una opción para la próxima temporada",
     "Arrieta beats Eulalio to win epic wet Giro stage ",
@@ -434,15 +435,9 @@
     "Tim Duncan, David Robinson ... LeBron: What Victor Wembanyama's Game 1 signals for the NBA",
     "Draft rankings: Kiper finalizes his Big Board with top 150 prospects, best at every position",
     "La calculadora de LaLiga EA Sports: el Barça ya cuenta las jornadas para ser campeón y el descenso está que arde",
-    "NFL Nation mock draft: Our team reporters predict landing spots in the first round",
-    "Fields: Wanted to join KC to learn from Mahomes"
+    "NFL Nation mock draft: Our team reporters predict landing spots in the first round"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778668662717",
-      "resourceType": "image",
-      "uploadedAt": 1778668664275
-    },
     {
       "publicId": "tvs_videos/video_1778681586538",
       "resourceType": "video",
@@ -487,6 +482,11 @@
       "publicId": "tvs_cards/card_1778754470196",
       "resourceType": "image",
       "uploadedAt": 1778754471199
+    },
+    {
+      "publicId": "tvs_videos/video_1778766501508",
+      "resourceType": "video",
+      "uploadedAt": 1778766503953
     }
   ]
 }
