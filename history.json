@@ -32,6 +32,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/lewandowski-oporto-opcion-proxima-temporada-130209067?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/cycling/articles/ckgpynkj4jno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jake-mccarthy-records-unassisted-double-play-from-left-field",
     "https://www.espn.com/nfl/story/_/id/48762073/nfl-ended-minority-offensive-assistant-mandate-25-season",
@@ -230,10 +231,10 @@
     "https://www.marca.com/futbol/primera-division/2026/04/21/calculadora-laliga-ea-sports-barca-cuenta-jornadas-campeon-descenso-arde.html",
     "https://www.espn.com/nfl/draft2026/story/_/id/48494104/mock-draft-2026-nfl-nation-first-round-predictions",
     "https://www.espn.com/nfl/story/_/id/48553270/justin-fields-wanted-join-chiefs-learn-patrick-mahomes",
-    "https://www.espn.com/mlb/story/_/id/48542956/mlb-2026-100-mph-velocity-pitching-fastballs",
-    "https://www.bbc.com/sport/articles/ce3dr56r9g3o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/mlb/story/_/id/48542956/mlb-2026-100-mph-velocity-pitching-fastballs"
   ],
   "postedTitles": [
+    "Lewandowski ya sabe que el Oporto no es una opción para la próxima temporada",
     "Arrieta beats Eulalio to win epic wet Giro stage ",
     "An unassisted DP ... from left?! McCarthy's a Rockies first, MLB first in 13 years",
     "NFL nixed minority offensive asst. mandate in '25",
@@ -432,15 +433,9 @@
     "La calculadora de LaLiga EA Sports: el Barça ya cuenta las jornadas para ser campeón y el descenso está que arde",
     "NFL Nation mock draft: Our team reporters predict landing spots in the first round",
     "Fields: Wanted to join KC to learn from Mahomes",
-    "'It's 100 or die': How throwing 100 mph went from a novelty to the norm in MLB",
-    "Bellingham invests in Birmingham Hundred franchise"
+    "'It's 100 or die': How throwing 100 mph went from a novelty to the norm in MLB"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778644972112",
-      "resourceType": "image",
-      "uploadedAt": 1778644973652
-    },
     {
       "publicId": "tvs_videos/video_1778661341954",
       "resourceType": "video",
@@ -485,6 +480,11 @@
       "publicId": "tvs_cards/card_1778731312870",
       "resourceType": "image",
       "uploadedAt": 1778731313605
+    },
+    {
+      "publicId": "tvs_videos/video_1778747399407",
+      "resourceType": "video",
+      "uploadedAt": 1778747401039
     }
   ]
 }
