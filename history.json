@@ -38,6 +38,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48750350/mlb-2026-power-rankings-week-7-braves-dodgers-cubs-yankees-rays",
     "https://www.mlb.com/news/padres-gavin-sheets-is-mlb-s-new-clutch-home-run-king-after-beating-brewers",
     "https://www.bbc.com/sport/tennis/articles/cqlpe4xr9qpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/c2e2zmglvp9o?at_medium=RSS&at_campaign=rss",
@@ -236,10 +237,10 @@
     "https://www.mlb.com/news/can-shohei-ohtani-get-even-better-in-2026",
     "https://www.espn.com/nfl/story/_/id/48503427/2026-nfl-draft-cheat-sheet-top-prospect-sleepers-fits-picks-rankings-stats-mocks",
     "https://www.espn.com/nfl/story/_/id/48552003/new-york-giants-most-likely-2026-nfl-draft-caleb-downs",
-    "https://www.espn.com/nba/story/_/id/48543958/what-make-victor-wembanyama-historic-game-1-performance-san-antonio-spurs-houston-rockets-nba-playoffs",
-    "https://www.espn.com/nfl/draft2026/story/_/id/46573669/2026-nfl-draft-rankings-mel-kiper-big-board-top-prospects-players-positions"
+    "https://www.espn.com/nba/story/_/id/48543958/what-make-victor-wembanyama-historic-game-1-performance-san-antonio-spurs-houston-rockets-nba-playoffs"
   ],
   "postedTitles": [
+    "MLB Power Rankings: A new No. 1! Who replaced the ...",
     "MLB has a new clutch home run king, and he did it again",
     "Italian Open tennis match delayed by cup final fireworks",
     "Will F1 go back to the future with its engines?",
@@ -438,15 +439,9 @@
     "Could peak Ohtani have an even higher gear than we've seen?",
     "👀 Draft cheat sheet: All that you need to know",
     "Caleb Downs tops annual most likely Giants draft pick list",
-    "Tim Duncan, David Robinson ... LeBron: What Victor Wembanyama's Game 1 signals for the NBA",
-    "Draft rankings: Kiper finalizes his Big Board with top 150 prospects, best at every position"
+    "Tim Duncan, David Robinson ... LeBron: What Victor Wembanyama's Game 1 signals for the NBA"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778695652581",
-      "resourceType": "image",
-      "uploadedAt": 1778695653493
-    },
     {
       "publicId": "tvs_videos/video_1778701386811",
       "resourceType": "video",
@@ -491,6 +486,11 @@
       "publicId": "tvs_cards/card_1778781725655",
       "resourceType": "image",
       "uploadedAt": 1778781726703
+    },
+    {
+      "publicId": "tvs_videos/video_1778787015517",
+      "resourceType": "video",
+      "uploadedAt": 1778787017841
     }
   ]
 }
