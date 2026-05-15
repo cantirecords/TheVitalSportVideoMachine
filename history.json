@@ -42,6 +42,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/will-smith-hits-leadoff-home-run-as-dodgers-beat-giants",
     "https://www.mlb.com/news/jj-bleday-chase-burns-reds-blowout-nationals",
     "https://www.mlb.com/news/golden-spikes-award-semifinalists-2026",
     "https://www.bbc.com/sport/football/articles/c9d307x3q54o?at_medium=RSS&at_campaign=rss",
@@ -240,10 +241,10 @@
     "https://www.marca.com/futbol/primera-division/2026/04/20/a-que-hora-juega-el-barcelona-contra-el-celta-de-vigo-horario-y-donde-ver-en-hoy-tv-el-partido-de-laliga-ea-sports.html",
     "https://www.espn.com/nba/story/_/id/48564281/silver-nba-committed-memphis-suggests-nashville-games",
     "https://www.espn.com/nba/story/_/id/48558342/marcus-smart-helps-short-handed-lakers-win-game-2-vs-rockets",
-    "https://www.espn.com/wnba/story/_/id/48555818/wnba-2026-ranking-offseason-free-agents-draft-picks-moves-rosters",
-    "https://www.mlb.com/news/can-shohei-ohtani-get-even-better-in-2026"
+    "https://www.espn.com/wnba/story/_/id/48555818/wnba-2026-ranking-offseason-free-agents-draft-picks-moves-rosters"
   ],
   "postedTitles": [
+    "No Sho, no problem: Smith's leadoff HR sparks Dodgers vs. SF",
     "The key to waking up the Reds? Breaking out the Tito speedo",
     "Top college Draft prospects headline Golden Spikes Award semifinalists",
     "Mbappe and Dembele lead France World Cup squad",
@@ -442,15 +443,9 @@
     "A qué hora juega el Barcelona contra el Celta de Vigo: horario y dónde ver en hoy TV el partido de LaLiga EA Sports",
     "Silver reaffirms NBA's commitment to Memphis",
     "Smart's defense on KD helps Lakers to 2-0 lead",
-    "Ranking every WNBA team's offseason, from Aces to Fire",
-    "Could peak Ohtani have an even higher gear than we've seen?"
+    "Ranking every WNBA team's offseason, from Aces to Fire"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778747399407",
-      "resourceType": "video",
-      "uploadedAt": 1778747401039
-    },
     {
       "publicId": "tvs_cards/card_1778754470196",
       "resourceType": "image",
@@ -490,6 +485,11 @@
       "publicId": "tvs_cards/card_1778818027311",
       "resourceType": "image",
       "uploadedAt": 1778818028691
+    },
+    {
+      "publicId": "tvs_videos/video_1778834449659",
+      "resourceType": "video",
+      "uploadedAt": 1778834451521
     }
   ]
 }
