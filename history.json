@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Reds",
+    "Rout",
     "Mbappe",
     "Leads",
     "First",
@@ -40,6 +42,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/jj-bleday-chase-burns-reds-blowout-nationals",
     "https://www.mlb.com/news/golden-spikes-award-semifinalists-2026",
     "https://www.bbc.com/sport/football/articles/c9d307x3q54o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48750350/mlb-2026-power-rankings-week-7-braves-dodgers-cubs-yankees-rays",
@@ -238,10 +241,10 @@
     "https://www.espn.com/nba/story/_/id/48564281/silver-nba-committed-memphis-suggests-nashville-games",
     "https://www.espn.com/nba/story/_/id/48558342/marcus-smart-helps-short-handed-lakers-win-game-2-vs-rockets",
     "https://www.espn.com/wnba/story/_/id/48555818/wnba-2026-ranking-offseason-free-agents-draft-picks-moves-rosters",
-    "https://www.mlb.com/news/can-shohei-ohtani-get-even-better-in-2026",
-    "https://www.espn.com/nfl/story/_/id/48503427/2026-nfl-draft-cheat-sheet-top-prospect-sleepers-fits-picks-rankings-stats-mocks"
+    "https://www.mlb.com/news/can-shohei-ohtani-get-even-better-in-2026"
   ],
   "postedTitles": [
+    "The key to waking up the Reds? Breaking out the Tito speedo",
     "Top college Draft prospects headline Golden Spikes Award semifinalists",
     "Mbappe and Dembele lead France World Cup squad",
     "MLB Power Rankings: A new No. 1! Who replaced the ...",
@@ -440,20 +443,9 @@
     "Silver reaffirms NBA's commitment to Memphis",
     "Smart's defense on KD helps Lakers to 2-0 lead",
     "Ranking every WNBA team's offseason, from Aces to Fire",
-    "Could peak Ohtani have an even higher gear than we've seen?",
-    "👀 Draft cheat sheet: All that you need to know"
+    "Could peak Ohtani have an even higher gear than we've seen?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778724965427",
-      "resourceType": "video",
-      "uploadedAt": 1778724966763
-    },
-    {
-      "publicId": "tvs_cards/card_1778731312870",
-      "resourceType": "image",
-      "uploadedAt": 1778731313605
-    },
     {
       "publicId": "tvs_videos/video_1778747399407",
       "resourceType": "video",
@@ -493,6 +485,11 @@
       "publicId": "tvs_videos/video_1778811274590",
       "resourceType": "video",
       "uploadedAt": 1778811280371
+    },
+    {
+      "publicId": "tvs_cards/card_1778818027311",
+      "resourceType": "image",
+      "uploadedAt": 1778818028691
     }
   ]
 }
