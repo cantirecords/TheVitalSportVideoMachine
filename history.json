@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Benny",
+    "Meets",
     "Arbeloa",
     "Favours",
     "Newcastle",
@@ -48,6 +50,7 @@
     "Nico"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/encuentro-mascotas-virales-benny-the-bull-barcelona-chicago-bulls-130281628?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/pipeline-inbox-could-the-giants-draft-roch-cholowsky-and-more",
     "https://www.marca.com/futbol/real-madrid/2026/05/15/brutal-diferencia-palabras-arbeloa-vinicius-mbappe.html",
     "https://www.bbc.com/sport/football/articles/cewpdvqxy8no?at_medium=RSS&at_campaign=rss",
@@ -246,10 +249,10 @@
     "https://www.bbc.com/sport/football/articles/cew79nkyn1wo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/mounir-nasraoui-padre-lamine-yamal-129434115?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/c0kr03vynjro?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/yankees-players-propose-alternate-road-jerseys",
-    "https://www.sport.es/es/noticias/barca/cuando-puede-ganar-barcelona-laliga-129368946?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/yankees-players-propose-alternate-road-jerseys"
   ],
   "postedTitles": [
+    "El encuentro entre las dos mascotas más virales: Benny the Bull visita a CAT en el Spotify Camp Nou",
     "Inbox: Do the Giants have a chance at top Draft prospect Cholowsky?",
     "La brutal diferencia entre las palabras de Arbeloa a Vinicius y Mbappé",
     "Why Newcastle's history makers are breaking up",
@@ -448,15 +451,9 @@
     "Captain Salah one last time? FPL team of the week",
     "Mounir Nasraoui, padre de Lamine Yamal, recurre al rezo tras su lesión",
     "How Russell is surprising himself in F1 title race",
-    "Will Yankees add their first alternate road uni? Players are in favor",
-    "¿Cuándo puede ganar el Barcelona LaLiga?"
+    "Will Yankees add their first alternate road uni? Players are in favor"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778787015517",
-      "resourceType": "video",
-      "uploadedAt": 1778787017841
-    },
     {
       "publicId": "tvs_cards/card_1778793384175",
       "resourceType": "image",
@@ -501,6 +498,11 @@
       "publicId": "tvs_videos/video_1778872800289",
       "resourceType": "video",
       "uploadedAt": 1778872804289
+    },
+    {
+      "publicId": "tvs_cards/card_1778879694586",
+      "resourceType": "image",
+      "uploadedAt": 1778879696227
     }
   ]
 }
