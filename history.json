@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "Snell",
     "Hits",
     "Curry",
@@ -8,12 +9,10 @@
     "Benny",
     "Meets",
     "Arbeloa",
-    "Favours",
-    "Newcastle",
-    "United",
-    "Messi"
+    "Favours"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/masa-liberal-lewandoowski-libera-barca-130293218?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/blake-snell-scratched-from-start-against-angels",
     "https://www.espn.com/nba/story/_/id/48781971/james-harden-overtakes-stephen-curry-10th-playoff-scoring",
     "https://www.bbc.com/sport/rugby-union/articles/cwy234p4dewo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +211,10 @@
     "https://www.marca.com/futbol/betis/2026/04/23/diego-llorente-antony-novedades-lista-frente-real-madrid.html",
     "https://www.mlb.com/news/kyle-tucker-dropped-to-cleanup-spot-in-dodgers-lineup",
     "https://www.sport.es/es/noticias/barca/mundial-peligra-lamine-yamal-129438188?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/yankees-cam-schlittler-dominates-with-three-fastballs",
-    "https://www.sport.es/es/noticias/barca/primeras-palabras-lamine-yamal-lesion-129446875?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/yankees-cam-schlittler-dominates-with-three-fastballs"
   ],
   "postedTitles": [
+    "La masa salarial que Lewandowski libera del Barça: una cifra que permitirá un gran fichaje",
     "Dodgers place Snell on IL with loose bodies in elbow; surgery not ruled out",
     "Harden overtakes Curry for 10th in playoff points",
     "Saints humiliate Bristol 94-33 in record-breaking game",
@@ -414,15 +413,9 @@
     "Diego Llorente y Antony, novedades en la lista frente al Real Madrid",
     "Moving Tucker down in lineup pays off for Dodgers in finale win",
     "Oficial: El Mundial no peligra para Lamine Yamal",
-    "How nasty is Yankees phenom's 3-fastball arsenal? Let him break it down for you",
-    "Las primeras palabras de Lamine Yamal tras su lesión: \"Duele más de lo que puedo explicar\""
+    "How nasty is Yankees phenom's 3-fastball arsenal? Let him break it down for you"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778841243931",
-      "resourceType": "image",
-      "uploadedAt": 1778841245348
-    },
     {
       "publicId": "tvs_videos/video_1778852723119",
       "resourceType": "video",
@@ -467,6 +460,11 @@
       "publicId": "tvs_cards/card_1778924878897",
       "resourceType": "image",
       "uploadedAt": 1778924879566
+    },
+    {
+      "publicId": "tvs_videos/video_1778936511358",
+      "resourceType": "video",
+      "uploadedAt": 1778936512494
     }
   ]
 }
