@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Faces",
     "Lewandowski",
     "Leaving",
     "Barça",
@@ -14,6 +16,7 @@
     "Favours"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/05/16/compra-tus-entradas-duelo-liguero-fc-barcelona-real-betis-camp-nou.html",
     "https://www.bbc.com/sport/football/articles/cx2103kqxnzo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/masa-liberal-lewandoowski-libera-barca-130293218?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/blake-snell-scratched-from-start-against-angels",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/formula1/articles/c17v4g1nq7ko?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lewandowski-merece-le-tratando-flick-129466464?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/betis/2026/04/23/diego-llorente-antony-novedades-lista-frente-real-madrid.html",
-    "https://www.mlb.com/news/kyle-tucker-dropped-to-cleanup-spot-in-dodgers-lineup",
-    "https://www.sport.es/es/noticias/barca/mundial-peligra-lamine-yamal-129438188?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/kyle-tucker-dropped-to-cleanup-spot-in-dodgers-lineup"
   ],
   "postedTitles": [
+    "Compra ya tus entradas para el duelo liguero entre FC Barcelona y Real Betis en el Camp Nou",
     "Lewandowski to leave Barcelona as 'mission is complete'",
     "La masa salarial que Lewandowski libera del Barça: una cifra que permitirá un gran fichaje",
     "Dodgers place Snell on IL with loose bodies in elbow; surgery not ruled out",
@@ -414,15 +417,9 @@
     "Turkey to return to F1 calendar in 2027",
     "\"Lewandowski no se merece cómo le está tratando Flick\"",
     "Diego Llorente y Antony, novedades en la lista frente al Real Madrid",
-    "Moving Tucker down in lineup pays off for Dodgers in finale win",
-    "Oficial: El Mundial no peligra para Lamine Yamal"
+    "Moving Tucker down in lineup pays off for Dodgers in finale win"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778855125185",
-      "resourceType": "image",
-      "uploadedAt": 1778855126291
-    },
     {
       "publicId": "tvs_cards/card_1778867356777",
       "resourceType": "image",
@@ -467,6 +464,11 @@
       "publicId": "tvs_cards/card_1778939325494",
       "resourceType": "image",
       "uploadedAt": 1778939326709
+    },
+    {
+      "publicId": "tvs_cards/card_1778951234676",
+      "resourceType": "image",
+      "uploadedAt": 1778951236004
     }
   ]
 }
