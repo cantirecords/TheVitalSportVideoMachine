@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Snell",
+    "Hits",
     "Curry",
     "Saints",
     "Destroy",
@@ -12,6 +14,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/blake-snell-scratched-from-start-against-angels",
     "https://www.espn.com/nba/story/_/id/48781971/james-harden-overtakes-stephen-curry-10th-playoff-scoring",
     "https://www.bbc.com/sport/rugby-union/articles/cwy234p4dewo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.mlb.com/news/kyle-tucker-dropped-to-cleanup-spot-in-dodgers-lineup",
     "https://www.sport.es/es/noticias/barca/mundial-peligra-lamine-yamal-129438188?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/yankees-cam-schlittler-dominates-with-three-fastballs",
-    "https://www.sport.es/es/noticias/barca/primeras-palabras-lamine-yamal-lesion-129446875?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/football/articles/cew79nkyn1wo?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/primeras-palabras-lamine-yamal-lesion-129446875?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Dodgers place Snell on IL with loose bodies in elbow; surgery not ruled out",
     "Harden overtakes Curry for 10th in playoff points",
     "Saints humiliate Bristol 94-33 in record-breaking game",
     "'We crumbled' - another loss, another unwanted record for leaky Liverpool",
@@ -412,15 +415,9 @@
     "Moving Tucker down in lineup pays off for Dodgers in finale win",
     "Oficial: El Mundial no peligra para Lamine Yamal",
     "How nasty is Yankees phenom's 3-fastball arsenal? Let him break it down for you",
-    "Las primeras palabras de Lamine Yamal tras su lesión: \"Duele más de lo que puedo explicar\"",
-    "Captain Salah one last time? FPL team of the week"
+    "Las primeras palabras de Lamine Yamal tras su lesión: \"Duele más de lo que puedo explicar\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778834449659",
-      "resourceType": "video",
-      "uploadedAt": 1778834451521
-    },
     {
       "publicId": "tvs_cards/card_1778841243931",
       "resourceType": "image",
@@ -465,6 +462,11 @@
       "publicId": "tvs_videos/video_1778917932260",
       "resourceType": "video",
       "uploadedAt": 1778917934173
+    },
+    {
+      "publicId": "tvs_cards/card_1778924878897",
+      "resourceType": "image",
+      "uploadedAt": 1778924879566
     }
   ]
 }
