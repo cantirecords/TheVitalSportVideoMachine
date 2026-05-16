@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lewandowski",
+    "Leaving",
     "Barça",
     "Snell",
     "Hits",
@@ -12,6 +14,7 @@
     "Favours"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/cx2103kqxnzo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/masa-liberal-lewandoowski-libera-barca-130293218?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/blake-snell-scratched-from-start-against-angels",
     "https://www.espn.com/nba/story/_/id/48781971/james-harden-overtakes-stephen-curry-10th-playoff-scoring",
@@ -210,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/lewandowski-merece-le-tratando-flick-129466464?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/betis/2026/04/23/diego-llorente-antony-novedades-lista-frente-real-madrid.html",
     "https://www.mlb.com/news/kyle-tucker-dropped-to-cleanup-spot-in-dodgers-lineup",
-    "https://www.sport.es/es/noticias/barca/mundial-peligra-lamine-yamal-129438188?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/yankees-cam-schlittler-dominates-with-three-fastballs"
+    "https://www.sport.es/es/noticias/barca/mundial-peligra-lamine-yamal-129438188?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Lewandowski to leave Barcelona as 'mission is complete'",
     "La masa salarial que Lewandowski libera del Barça: una cifra que permitirá un gran fichaje",
     "Dodgers place Snell on IL with loose bodies in elbow; surgery not ruled out",
     "Harden overtakes Curry for 10th in playoff points",
@@ -412,15 +415,9 @@
     "\"Lewandowski no se merece cómo le está tratando Flick\"",
     "Diego Llorente y Antony, novedades en la lista frente al Real Madrid",
     "Moving Tucker down in lineup pays off for Dodgers in finale win",
-    "Oficial: El Mundial no peligra para Lamine Yamal",
-    "How nasty is Yankees phenom's 3-fastball arsenal? Let him break it down for you"
+    "Oficial: El Mundial no peligra para Lamine Yamal"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778852723119",
-      "resourceType": "video",
-      "uploadedAt": 1778852725137
-    },
     {
       "publicId": "tvs_cards/card_1778855125185",
       "resourceType": "image",
@@ -465,6 +462,11 @@
       "publicId": "tvs_videos/video_1778936511358",
       "resourceType": "video",
       "uploadedAt": 1778936512494
+    },
+    {
+      "publicId": "tvs_cards/card_1778939325494",
+      "resourceType": "image",
+      "uploadedAt": 1778939326709
     }
   ]
 }
