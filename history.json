@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Draft",
     "Barcelona",
     "Faces",
     "Lewandowski",
@@ -16,6 +18,7 @@
     "Favours"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48751836/2026-nba-draft-combine-prospects-highlights-measurements-standouts-dybantsa-peterson",
     "https://www.bbc.com/sport/football/articles/cq5pjqn4v0go?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/05/16/compra-tus-entradas-duelo-liguero-fc-barcelona-real-betis-camp-nou.html",
     "https://www.bbc.com/sport/football/articles/cx2103kqxnzo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +217,10 @@
     "https://www.mlb.com/news/logan-webb-hits-dalton-rushing-with-pitch-in-finale-of-dodgers-giants-series",
     "https://www.sport.es/es/noticias/barca/adios-definitivo-central-marcos-senesi-129480111?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/c17v4g1nq7ko?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/lewandowski-merece-le-tratando-flick-129466464?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.marca.com/futbol/betis/2026/04/23/diego-llorente-antony-novedades-lista-frente-real-madrid.html"
+    "https://www.sport.es/es/noticias/barca/lewandowski-merece-le-tratando-flick-129466464?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Draft combine highlights: Biggest questions, riser...",
     "In better form than Kane - why Watkins is no longer being 'written off'",
     "Compra ya tus entradas para el duelo liguero entre FC Barcelona y Real Betis en el Camp Nou",
     "Lewandowski to leave Barcelona as 'mission is complete'",
@@ -416,15 +419,9 @@
     "Dodgers-Giants friction continues with HBP, hard slide",
     "Adiós definitivo del central Marcos Senesi al Barça",
     "Turkey to return to F1 calendar in 2027",
-    "\"Lewandowski no se merece cómo le está tratando Flick\"",
-    "Diego Llorente y Antony, novedades en la lista frente al Real Madrid"
+    "\"Lewandowski no se merece cómo le está tratando Flick\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778872800289",
-      "resourceType": "video",
-      "uploadedAt": 1778872804289
-    },
     {
       "publicId": "tvs_cards/card_1778879694586",
       "resourceType": "image",
@@ -469,6 +466,11 @@
       "publicId": "tvs_videos/video_1778957568395",
       "resourceType": "video",
       "uploadedAt": 1778957570261
+    },
+    {
+      "publicId": "tvs_cards/card_1778965157150",
+      "resourceType": "image",
+      "uploadedAt": 1778965158230
     }
   ]
 }
