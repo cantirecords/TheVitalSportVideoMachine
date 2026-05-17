@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ireland",
+    "Thrash",
     "Liverpool",
     "Crisis",
     "Ohtani",
@@ -14,6 +16,7 @@
     "Barcelona"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/rugby-union/articles/cp3pxx50qdxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-hits-little-league-homer-in-dodgers-rout-of-angels",
     "https://www.sport.es/es/noticias/barca/hora-juega-barca-betis-laliga-130305608?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/basketball/articles/cn8d012gqdeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48580001/benfica-gianluca-prestianni-six-match-ban-anti-gay-conduct-vinicius-junior",
-    "https://www.bbc.com/sport/american-football/articles/c98mr7zn3vdo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/formula1/articles/crk1gdp05k5o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/american-football/articles/c98mr7zn3vdo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ireland thrash Scotland in front of record crowd",
     "The Alonso dream is over - but Salah's outburst keeps heat on Slot",
     "You've never seen an Ohtani 'homer' quite like this one",
     "A qué hora juega el Barça contra el Betis en LaLiga EA Sports y dónde ver por TV el partido en directo",
@@ -414,15 +417,9 @@
     "James leads Lakers to brink of play-off series win",
     "Defending champion Alcaraz to miss French Open",
     "Prestianni banned for anti-gay slur to Vini Jr.",
-    "How mum's struggle inspired Mendoza's rise to top NFL draft pick",
-    "Ex-F1 driver McNish named Audi racing director"
+    "How mum's struggle inspired Mendoza's rise to top NFL draft pick"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778939325494",
-      "resourceType": "image",
-      "uploadedAt": 1778939326709
-    },
     {
       "publicId": "tvs_cards/card_1778951234676",
       "resourceType": "image",
@@ -467,6 +464,11 @@
       "publicId": "tvs_cards/card_1779025714146",
       "resourceType": "image",
       "uploadedAt": 1779025715675
+    },
+    {
+      "publicId": "tvs_cards/card_1779037550707",
+      "resourceType": "image",
+      "uploadedAt": 1779037552146
     }
   ]
 }
