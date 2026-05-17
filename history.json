@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "NBA",
     "Draft",
     "Barcelona",
@@ -8,16 +9,10 @@
     "Leaving",
     "Barça",
     "Snell",
-    "Hits",
-    "Curry",
-    "Saints",
-    "Destroy",
-    "Benny",
-    "Meets",
-    "Arbeloa",
-    "Favours"
+    "Hits"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/05/17/sevilla-real-madrid-pizjuan-quiere-aliron.html",
     "https://www.espn.com/nba/story/_/id/48751836/2026-nba-draft-combine-prospects-highlights-measurements-standouts-dybantsa-peterson",
     "https://www.bbc.com/sport/football/articles/cq5pjqn4v0go?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/05/16/compra-tus-entradas-duelo-liguero-fc-barcelona-real-betis-camp-nou.html",
@@ -216,10 +211,10 @@
     "https://www.mlb.com/news/spencer-jones-role-with-yankees-in-2026-analyzed",
     "https://www.mlb.com/news/logan-webb-hits-dalton-rushing-with-pitch-in-finale-of-dodgers-giants-series",
     "https://www.sport.es/es/noticias/barca/adios-definitivo-central-marcos-senesi-129480111?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/formula1/articles/c17v4g1nq7ko?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/lewandowski-merece-le-tratando-flick-129466464?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/formula1/articles/c17v4g1nq7ko?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Sevilla - Real Madrid: El Pizjuán quiere su alirón",
     "Draft combine highlights: Biggest questions, riser...",
     "In better form than Kane - why Watkins is no longer being 'written off'",
     "Compra ya tus entradas para el duelo liguero entre FC Barcelona y Real Betis en el Camp Nou",
@@ -418,20 +413,9 @@
     "What should the Yankees do with Spencer Jones?",
     "Dodgers-Giants friction continues with HBP, hard slide",
     "Adiós definitivo del central Marcos Senesi al Barça",
-    "Turkey to return to F1 calendar in 2027",
-    "\"Lewandowski no se merece cómo le está tratando Flick\""
+    "Turkey to return to F1 calendar in 2027"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778879694586",
-      "resourceType": "image",
-      "uploadedAt": 1778879696227
-    },
-    {
-      "publicId": "tvs_videos/video_1778897173775",
-      "resourceType": "video",
-      "uploadedAt": 1778897175259
-    },
     {
       "publicId": "tvs_cards/card_1778903364809",
       "resourceType": "image",
@@ -471,6 +455,11 @@
       "publicId": "tvs_cards/card_1778965157150",
       "resourceType": "image",
       "uploadedAt": 1778965158230
+    },
+    {
+      "publicId": "tvs_videos/video_1778983810055",
+      "resourceType": "video",
+      "uploadedAt": 1778983812840
     }
   ]
 }
