@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Fernandes",
+    "Makes",
     "Ireland",
     "Thrash",
     "Liverpool",
@@ -16,6 +18,7 @@
     "Barcelona"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne",
     "https://www.sport.es/es/noticias/barca/despedira-lewandowski-camp-nou-130300243?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/rugby-union/articles/cp3pxx50qdxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss",
@@ -214,10 +217,10 @@
     "https://www.bbc.com/sport/american-football/articles/c0e7v5qgpj9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/ailana-agbayani-drafted-by-athletes-unlimited-softball-league",
     "https://www.bbc.com/sport/basketball/articles/cn8d012gqdeo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/48580001/benfica-gianluca-prestianni-six-match-ban-anti-gay-conduct-vinicius-junior"
+    "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Man Utd's Bruno Fernandes equals PL assist record",
     "Así se despedirá Lewandowski del Camp Nou",
     "Ireland thrash Scotland in front of record crowd",
     "The Alonso dream is over - but Salah's outburst keeps heat on Slot",
@@ -416,15 +419,9 @@
     "Steelers draft QB with Rodgers future still unclear",
     "Agbayani drafted by AUSL, looks to continue family legacy",
     "James leads Lakers to brink of play-off series win",
-    "Defending champion Alcaraz to miss French Open",
-    "Prestianni banned for anti-gay slur to Vini Jr."
+    "Defending champion Alcaraz to miss French Open"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778965157150",
-      "resourceType": "image",
-      "uploadedAt": 1778965158230
-    },
     {
       "publicId": "tvs_videos/video_1778983810055",
       "resourceType": "video",
@@ -464,6 +461,11 @@
       "publicId": "tvs_videos/video_1779044215576",
       "resourceType": "video",
       "uploadedAt": 1779044217374
+    },
+    {
+      "publicId": "tvs_cards/card_1779051772576",
+      "resourceType": "image",
+      "uploadedAt": 1779051773639
     }
   ]
 }
