@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Rivalry",
+    "Weekend",
     "Madrid",
     "NBA",
     "Draft",
@@ -12,6 +14,7 @@
     "Hits"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-tv-has-free-preview-for-rivalry-weekend-2026",
     "https://www.marca.com/futbol/primera-division/2026/05/17/sevilla-real-madrid-pizjuan-quiere-aliron.html",
     "https://www.espn.com/nba/story/_/id/48751836/2026-nba-draft-combine-prospects-highlights-measurements-standouts-dybantsa-peterson",
     "https://www.bbc.com/sport/football/articles/cq5pjqn4v0go?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.mlb.com/news/ryan-feltner-right-ulnar-nerve-inflammation",
     "https://www.mlb.com/news/spencer-jones-role-with-yankees-in-2026-analyzed",
     "https://www.mlb.com/news/logan-webb-hits-dalton-rushing-with-pitch-in-finale-of-dodgers-giants-series",
-    "https://www.sport.es/es/noticias/barca/adios-definitivo-central-marcos-senesi-129480111?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/formula1/articles/c17v4g1nq7ko?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/adios-definitivo-central-marcos-senesi-129480111?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Watch out-of-market Rivalry Weekend games free today on MLB.TV",
     "Sevilla - Real Madrid: El Pizjuán quiere su alirón",
     "Draft combine highlights: Biggest questions, riser...",
     "In better form than Kane - why Watkins is no longer being 'written off'",
@@ -412,15 +415,9 @@
     "Feltner goes on IL with right ulnar nerve inflammation",
     "What should the Yankees do with Spencer Jones?",
     "Dodgers-Giants friction continues with HBP, hard slide",
-    "Adiós definitivo del central Marcos Senesi al Barça",
-    "Turkey to return to F1 calendar in 2027"
+    "Adiós definitivo del central Marcos Senesi al Barça"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778903364809",
-      "resourceType": "image",
-      "uploadedAt": 1778903366151
-    },
     {
       "publicId": "tvs_videos/video_1778917932260",
       "resourceType": "video",
@@ -460,6 +457,11 @@
       "publicId": "tvs_videos/video_1778983810055",
       "resourceType": "video",
       "uploadedAt": 1778983812840
+    },
+    {
+      "publicId": "tvs_cards/card_1778990797498",
+      "resourceType": "image",
+      "uploadedAt": 1778990798933
     }
   ]
 }
