@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Liverpool",
+    "Crisis",
     "Ohtani",
     "Barça",
     "Faces",
@@ -12,6 +14,7 @@
     "Barcelona"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-hits-little-league-homer-in-dodgers-rout-of-angels",
     "https://www.sport.es/es/noticias/barca/hora-juega-barca-betis-laliga-130305608?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48771822/drake-new-album-iceman-make-remember-los-angeles-lakers-lebron-james-diss-record",
@@ -210,10 +213,10 @@
     "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48580001/benfica-gianluca-prestianni-six-match-ban-anti-gay-conduct-vinicius-junior",
     "https://www.bbc.com/sport/american-football/articles/c98mr7zn3vdo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/formula1/articles/crk1gdp05k5o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/ryan-feltner-right-ulnar-nerve-inflammation"
+    "https://www.bbc.com/sport/formula1/articles/crk1gdp05k5o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "The Alonso dream is over - but Salah's outburst keeps heat on Slot",
     "You've never seen an Ohtani 'homer' quite like this one",
     "A qué hora juega el Barça contra el Betis en LaLiga EA Sports y dónde ver por TV el partido en directo",
     "Drake references LeBron James multiple times on ne...",
@@ -412,15 +415,9 @@
     "Defending champion Alcaraz to miss French Open",
     "Prestianni banned for anti-gay slur to Vini Jr.",
     "How mum's struggle inspired Mendoza's rise to top NFL draft pick",
-    "Ex-F1 driver McNish named Audi racing director",
-    "Feltner goes on IL with right ulnar nerve inflammation"
+    "Ex-F1 driver McNish named Audi racing director"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1778936511358",
-      "resourceType": "video",
-      "uploadedAt": 1778936512494
-    },
     {
       "publicId": "tvs_cards/card_1778939325494",
       "resourceType": "image",
@@ -465,6 +462,11 @@
       "publicId": "tvs_videos/video_1779022772177",
       "resourceType": "video",
       "uploadedAt": 1779022774591
+    },
+    {
+      "publicId": "tvs_cards/card_1779025714146",
+      "resourceType": "image",
+      "uploadedAt": 1779025715675
     }
   ]
 }
