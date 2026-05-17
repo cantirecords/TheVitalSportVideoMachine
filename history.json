@@ -16,6 +16,7 @@
     "Barcelona"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/despedira-lewandowski-camp-nou-130300243?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/rugby-union/articles/cp3pxx50qdxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-hits-little-league-homer-in-dodgers-rout-of-angels",
@@ -214,10 +215,10 @@
     "https://www.mlb.com/news/ailana-agbayani-drafted-by-athletes-unlimited-softball-league",
     "https://www.bbc.com/sport/basketball/articles/cn8d012gqdeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/48580001/benfica-gianluca-prestianni-six-match-ban-anti-gay-conduct-vinicius-junior",
-    "https://www.bbc.com/sport/american-football/articles/c98mr7zn3vdo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48580001/benfica-gianluca-prestianni-six-match-ban-anti-gay-conduct-vinicius-junior"
   ],
   "postedTitles": [
+    "Así se despedirá Lewandowski del Camp Nou",
     "Ireland thrash Scotland in front of record crowd",
     "The Alonso dream is over - but Salah's outburst keeps heat on Slot",
     "You've never seen an Ohtani 'homer' quite like this one",
@@ -416,20 +417,9 @@
     "Agbayani drafted by AUSL, looks to continue family legacy",
     "James leads Lakers to brink of play-off series win",
     "Defending champion Alcaraz to miss French Open",
-    "Prestianni banned for anti-gay slur to Vini Jr.",
-    "How mum's struggle inspired Mendoza's rise to top NFL draft pick"
+    "Prestianni banned for anti-gay slur to Vini Jr."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778951234676",
-      "resourceType": "image",
-      "uploadedAt": 1778951236004
-    },
-    {
-      "publicId": "tvs_videos/video_1778957568395",
-      "resourceType": "video",
-      "uploadedAt": 1778957570261
-    },
     {
       "publicId": "tvs_cards/card_1778965157150",
       "resourceType": "image",
@@ -469,6 +459,11 @@
       "publicId": "tvs_cards/card_1779037550707",
       "resourceType": "image",
       "uploadedAt": 1779037552146
+    },
+    {
+      "publicId": "tvs_videos/video_1779044215576",
+      "resourceType": "video",
+      "uploadedAt": 1779044217374
     }
   ]
 }
