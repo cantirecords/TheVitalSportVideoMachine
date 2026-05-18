@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Reporter",
+    "Misses",
     "Fernandes",
     "Makes",
     "Ireland",
@@ -18,6 +20,7 @@
     "Barcelona"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/marlins-reporter-nearly-catches-foul-with-cap",
     "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne",
     "https://www.sport.es/es/noticias/barca/despedira-lewandowski-camp-nou-130300243?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/rugby-union/articles/cp3pxx50qdxo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.bbc.com/sport/rugby-union/videos/c2lw5wrz258o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/american-football/articles/c0e7v5qgpj9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/ailana-agbayani-drafted-by-athletes-unlimited-softball-league",
-    "https://www.bbc.com/sport/basketball/articles/cn8d012gqdeo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/tennis/articles/c15de9d91jwo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/basketball/articles/cn8d012gqdeo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "MLB.com reporter whiffs on foul ball, but at least the laptop survived",
     "Man Utd's Bruno Fernandes equals PL assist record",
     "Así se despedirá Lewandowski del Camp Nou",
     "Ireland thrash Scotland in front of record crowd",
@@ -418,15 +421,9 @@
     "England run riot against Wales to maintain 100% record",
     "Steelers draft QB with Rodgers future still unclear",
     "Agbayani drafted by AUSL, looks to continue family legacy",
-    "James leads Lakers to brink of play-off series win",
-    "Defending champion Alcaraz to miss French Open"
+    "James leads Lakers to brink of play-off series win"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1778990797498",
-      "resourceType": "image",
-      "uploadedAt": 1778990798933
-    },
     {
       "publicId": "tvs_videos/video_1779005544473",
       "resourceType": "video",
@@ -461,6 +458,11 @@
       "publicId": "tvs_cards/card_1779051772576",
       "resourceType": "image",
       "uploadedAt": 1779051773639
+    },
+    {
+      "publicId": "tvs_cards/card_1779077961149",
+      "resourceType": "image",
+      "uploadedAt": 1779077961810
     }
   ]
 }
