@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Salah",
+    "Faces",
     "Lewandowski",
     "Leaves",
     "Reporter",
@@ -22,6 +24,7 @@
     "Barcelona"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/videos/c332pyem3m2o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48803547/robert-lewandowski-leaves-barcelona-leading-low-ebb-back-top-laliga",
     "https://www.mlb.com/news/marlins-reporter-nearly-catches-foul-with-cap",
     "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne",
@@ -220,10 +223,10 @@
     "https://www.sport.es/es/noticias/barca/flick-liga-no-hemos-celebrado-129518507?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48569632/panic-streets-london-how-arsenal-spurs-fans-influence-premier-league-title-relegation-race",
     "https://www.bbc.com/sport/rugby-union/videos/c2lw5wrz258o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/american-football/articles/c0e7v5qgpj9o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/ailana-agbayani-drafted-by-athletes-unlimited-softball-league"
+    "https://www.bbc.com/sport/american-football/articles/c0e7v5qgpj9o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "If I was Slot I'd have Salah nowhere near the stadium - Rooney",
     "'Catalonia is my place on earth': Lewandowski leav...",
     "MLB.com reporter whiffs on foul ball, but at least the laptop survived",
     "Man Utd's Bruno Fernandes equals PL assist record",
@@ -422,8 +425,7 @@
     "Flick: \"¿La Liga? No hemos celebrado nada, quedan cinco partidos\"",
     "'Panic on the streets of London': How Arsenal, Spurs fans can influence season finale",
     "England run riot against Wales to maintain 100% record",
-    "Steelers draft QB with Rodgers future still unclear",
-    "Agbayani drafted by AUSL, looks to continue family legacy"
+    "Steelers draft QB with Rodgers future still unclear"
   ],
   "cloudinaryAssets": [
     {
@@ -450,6 +452,11 @@
       "publicId": "tvs_cards/card_1779105044964",
       "resourceType": "image",
       "uploadedAt": 1779105046758
+    },
+    {
+      "publicId": "tvs_cards/card_1779119420384",
+      "resourceType": "image",
+      "uploadedAt": 1779119422016
     }
   ]
 }
