@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Face",
     "Sinner",
     "Makes",
     "Salah",
@@ -26,6 +28,7 @@
     "Barcelona"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/preview-padres-face-dodgers-for-1st-time-in-2026",
     "https://www.bbc.com/sport/tennis/videos/c62xv3126qlo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/c332pyem3m2o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48803547/robert-lewandowski-leaves-barcelona-leading-low-ebb-back-top-laliga",
@@ -224,10 +227,10 @@
     "https://www.espn.com/soccer/story/_/id/48591369/arne-slot-know-mohamed-salah-final-game-liverpool",
     "https://www.bbc.com/sport/football/videos/c8jk43nv4pzo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/flick-liga-no-hemos-celebrado-129518507?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48569632/panic-streets-london-how-arsenal-spurs-fans-influence-premier-league-title-relegation-race",
-    "https://www.bbc.com/sport/rugby-union/videos/c2lw5wrz258o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48569632/panic-streets-london-how-arsenal-spurs-fans-influence-premier-league-title-relegation-race"
   ],
   "postedTitles": [
+    "Padres, Dodgers separated by slimmest of margins entering first '26 showdown",
     "Sinner completes 'Golden Masters' with win in Rome",
     "If I was Slot I'd have Salah nowhere near the stadium - Rooney",
     "'Catalonia is my place on earth': Lewandowski leav...",
@@ -426,15 +429,9 @@
     "Slot unsure if Salah has played last Liverpool game",
     "Isak and Wirtz on scoresheet as Liverpool beat Palace",
     "Flick: \"¿La Liga? No hemos celebrado nada, quedan cinco partidos\"",
-    "'Panic on the streets of London': How Arsenal, Spurs fans can influence season finale",
-    "England run riot against Wales to maintain 100% record"
+    "'Panic on the streets of London': How Arsenal, Spurs fans can influence season finale"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779051772576",
-      "resourceType": "image",
-      "uploadedAt": 1779051773639
-    },
     {
       "publicId": "tvs_cards/card_1779077961149",
       "resourceType": "image",
@@ -454,6 +451,11 @@
       "publicId": "tvs_cards/card_1779127558660",
       "resourceType": "image",
       "uploadedAt": 1779127560622
+    },
+    {
+      "publicId": "tvs_cards/card_1779139203286",
+      "resourceType": "image",
+      "uploadedAt": 1779139204096
     }
   ]
 }
