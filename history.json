@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Rise",
+    "Of",
     "Alcaraz",
     "Withdraws",
     "Curry",
@@ -14,6 +16,7 @@
     "Salah"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/ronald-araujo-27-anos-futbolista-barcelona-padres-uruguay-130384985?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/tennis/articles/c87qlqw1nj0o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/marlins-trounce-braves-behind-xavier-edwards-javier-sanoja",
     "https://www.bbc.com/sport/football/articles/c759vdlyr2wo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.espn.com/nfl/story/_/id/48593107/browns-select-qb-taylen-green-round-6-nfl-draft",
     "https://www.mlb.com/news/red-sox-hit-three-home-runs-in-ninth-inning",
     "https://www.espn.com/nfl/draft2026/story/_/page/nfldrafttradetracker48440450/2026-nfl-draft-trade-tracker-picks-current-future-players-deals",
-    "https://www.mlb.com/news/mason-miller-sets-padres-scoreless-innings-streak-record",
-    "https://www.espn.com/soccer/story/_/id/48591369/arne-slot-know-mohamed-salah-final-game-liverpool"
+    "https://www.mlb.com/news/mason-miller-sets-padres-scoreless-innings-streak-record"
   ],
   "postedTitles": [
+    "Ronald Araujo (27 años), futbolista del FC Barcelona: \"A los 16 años seguía viviendo con mis padres en un pueblo de Uruguay\"",
     "Two-time winner Alcaraz out of Wimbledon with injury",
     "A numerical look at Miami's historic win over NL-best Braves",
     "Neymar included in Brazil's 26-man World Cup squad",
@@ -414,20 +417,9 @@
     "Browns draft Green, will proceed with 4-QB room",
     "1, 2, 3, history! Red Sox mash in record ninth inning",
     "Tracking every single trade in the 2026 NFL draft",
-    "Miller stands alone, setting record for longest scoreless streak in Padres history",
-    "Slot unsure if Salah has played last Liverpool game"
+    "Miller stands alone, setting record for longest scoreless streak in Padres history"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779119420384",
-      "resourceType": "image",
-      "uploadedAt": 1779119422016
-    },
-    {
-      "publicId": "tvs_cards/card_1779127558660",
-      "resourceType": "image",
-      "uploadedAt": 1779127560622
-    },
     {
       "publicId": "tvs_cards/card_1779139203286",
       "resourceType": "image",
@@ -447,6 +439,11 @@
       "publicId": "tvs_cards/card_1779205270589",
       "resourceType": "image",
       "uploadedAt": 1779205271411
+    },
+    {
+      "publicId": "tvs_cards/card_1779214264586",
+      "resourceType": "image",
+      "uploadedAt": 1779214265406
     }
   ]
 }
