@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Alcaraz",
+    "Withdraws",
     "Curry",
     "Marlins",
     "Smash",
@@ -12,6 +14,7 @@
     "Salah"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/tennis/articles/c87qlqw1nj0o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/marlins-trounce-braves-behind-xavier-edwards-javier-sanoja",
     "https://www.bbc.com/sport/football/articles/c759vdlyr2wo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/preview-padres-face-dodgers-for-1st-time-in-2026",
@@ -210,10 +213,10 @@
     "https://www.mlb.com/news/red-sox-hit-three-home-runs-in-ninth-inning",
     "https://www.espn.com/nfl/draft2026/story/_/page/nfldrafttradetracker48440450/2026-nfl-draft-trade-tracker-picks-current-future-players-deals",
     "https://www.mlb.com/news/mason-miller-sets-padres-scoreless-innings-streak-record",
-    "https://www.espn.com/soccer/story/_/id/48591369/arne-slot-know-mohamed-salah-final-game-liverpool",
-    "https://www.bbc.com/sport/football/videos/c8jk43nv4pzo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48591369/arne-slot-know-mohamed-salah-final-game-liverpool"
   ],
   "postedTitles": [
+    "Two-time winner Alcaraz out of Wimbledon with injury",
     "A numerical look at Miami's historic win over NL-best Braves",
     "Neymar included in Brazil's 26-man World Cup squad",
     "Padres, Dodgers separated by slimmest of margins entering first '26 showdown",
@@ -412,8 +415,7 @@
     "1, 2, 3, history! Red Sox mash in record ninth inning",
     "Tracking every single trade in the 2026 NFL draft",
     "Miller stands alone, setting record for longest scoreless streak in Padres history",
-    "Slot unsure if Salah has played last Liverpool game",
-    "Isak and Wirtz on scoresheet as Liverpool beat Palace"
+    "Slot unsure if Salah has played last Liverpool game"
   ],
   "cloudinaryAssets": [
     {
@@ -440,6 +442,11 @@
       "publicId": "tvs_cards/card_1779190092693",
       "resourceType": "image",
       "uploadedAt": 1779190093653
+    },
+    {
+      "publicId": "tvs_cards/card_1779205270589",
+      "resourceType": "image",
+      "uploadedAt": 1779205271411
     }
   ]
 }
