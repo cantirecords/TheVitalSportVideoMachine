@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Targets",
     "Mallorca",
     "Faces",
     "Barca",
@@ -24,6 +26,7 @@
     "Salah"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/formula-utilizar-barca-fichar-rashford-130446420?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/barca-pendiente-posible-descenso-mallorca-130420609?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/barcelona/2026/05/19/barcelona-volvera-1-1-verano.html",
     "https://www.sport.es/es/noticias/barca/joan-garcia-exigencia-barca-parecida-130393262?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -222,10 +225,10 @@
     "https://www.espn.com/nba/story/_/id/48604975/jokic-randle-fined-no-suspensions-nuggets-wolves-skirmish",
     "https://www.mlb.com/news/spencer-torkelson-ties-tigers-record-with-homer-in-5th-straight-game",
     "https://www.bbc.com/sport/football/videos/cql7l017yp9o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/how-mlb-players-break-in-their-gloves",
-    "https://www.bbc.com/sport/athletics/videos/cj0v0qgm9reo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/how-mlb-players-break-in-their-gloves"
   ],
   "postedTitles": [
+    "La fórmula que propondrá el Barça para fichar a Rashford",
     "El Barça, pendiente del posible descenso del Mallorca",
     "El Barcelona volverá al 1:1 este verano",
     "Joan Garcia: \"La exigencia del Barça es la más parecida a la de un Mundial; estoy listo\"",
@@ -424,15 +427,9 @@
     "Jokic, Randle fined; no suspensions for skirmish",
     "Who else? Tork homers in 5th straight game to tie Tigers record",
     "Record-equalling Kerr helps Chelsea dominate Everton",
-    "A microwave and a steamer? How MLB players break in their gloves",
-    "'How dare you' - Hassan reacts to Sawe's record-breaking victory"
+    "A microwave and a steamer? How MLB players break in their gloves"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779214264586",
-      "resourceType": "image",
-      "uploadedAt": 1779214265406
-    },
     {
       "publicId": "tvs_cards/card_1779226031605",
       "resourceType": "image",
@@ -452,6 +449,11 @@
       "publicId": "tvs_cards/card_1779291780429",
       "resourceType": "image",
       "uploadedAt": 1779291781178
+    },
+    {
+      "publicId": "tvs_cards/card_1779301571897",
+      "resourceType": "image",
+      "uploadedAt": 1779301573413
     }
   ]
 }
