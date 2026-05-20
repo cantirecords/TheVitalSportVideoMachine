@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Garcia",
+    "Ready",
     "Olmo",
     "Empowers",
     "Rise",
@@ -18,6 +20,7 @@
     "Salah"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/joan-garcia-exigencia-barca-parecida-130393262?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/dani-olmo-impulsa-proyecto-social-130424483?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/ronald-araujo-27-anos-futbolista-barcelona-padres-uruguay-130384985?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/tennis/articles/c87qlqw1nj0o?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.mlb.com/news/how-mlb-players-break-in-their-gloves",
     "https://www.bbc.com/sport/athletics/videos/cj0v0qgm9reo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48593107/browns-select-qb-taylen-green-round-6-nfl-draft",
-    "https://www.mlb.com/news/red-sox-hit-three-home-runs-in-ninth-inning",
-    "https://www.espn.com/nfl/draft2026/story/_/page/nfldrafttradetracker48440450/2026-nfl-draft-trade-tracker-picks-current-future-players-deals"
+    "https://www.mlb.com/news/red-sox-hit-three-home-runs-in-ninth-inning"
   ],
   "postedTitles": [
+    "Joan Garcia: \"La exigencia del Barça es la más parecida a la de un Mundial; estoy listo\"",
     "Dani Olmo impulsa un proyecto social en Barcelona y Badalona para apoyar a jóvenes a través del fútbol",
     "Ronald Araujo (27 años), futbolista del FC Barcelona: \"A los 16 años seguía viviendo con mis padres en un pueblo de Uruguay\"",
     "Two-time winner Alcaraz out of Wimbledon with injury",
@@ -418,15 +421,9 @@
     "A microwave and a steamer? How MLB players break in their gloves",
     "'How dare you' - Hassan reacts to Sawe's record-breaking victory",
     "Browns draft Green, will proceed with 4-QB room",
-    "1, 2, 3, history! Red Sox mash in record ninth inning",
-    "Tracking every single trade in the 2026 NFL draft"
+    "1, 2, 3, history! Red Sox mash in record ninth inning"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779164082408",
-      "resourceType": "image",
-      "uploadedAt": 1779164083969
-    },
     {
       "publicId": "tvs_cards/card_1779190092693",
       "resourceType": "image",
@@ -446,6 +443,11 @@
       "publicId": "tvs_cards/card_1779226031605",
       "resourceType": "image",
       "uploadedAt": 1779226033274
+    },
+    {
+      "publicId": "tvs_cards/card_1779250536461",
+      "resourceType": "image",
+      "uploadedAt": 1779250537306
     }
   ]
 }
