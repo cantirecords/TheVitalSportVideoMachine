@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Rays",
+    "Complete",
     "Ohtani",
     "Homers",
     "Barcelona",
@@ -14,6 +16,7 @@
     "Garcia"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/rays-rally-with-four-run-eighth-to-sweep-orioles",
     "https://www.mlb.com/news/jackson-merrill-exits-with-apparent-injury-against-dodgers",
     "https://www.mlb.com/news/yankees-giancarlo-stanton-on-lending-pants-to-jazz-chisholm-jr",
     "https://www.sport.es/es/noticias/barca/formula-utilizar-barca-fichar-rashford-130446420?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/american-football/articles/cql7qwzgq30o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-jasson-dominguez-callup",
     "https://www.mlb.com/news/lane-thomas-hits-walk-off-home-run-in-extra-innings-win-for-royals",
-    "https://www.espn.com/nba/story/_/id/48604975/jokic-randle-fined-no-suspensions-nuggets-wolves-skirmish",
-    "https://www.mlb.com/news/spencer-torkelson-ties-tigers-record-with-homer-in-5th-straight-game"
+    "https://www.espn.com/nba/story/_/id/48604975/jokic-randle-fined-no-suspensions-nuggets-wolves-skirmish"
   ],
   "postedTitles": [
+    "There's no quit in these Rays (33-15) as 4-run 8th secures MLB-best 6th sweep",
     "Merrill exits with apparent injury after attempting to rob Ohtani's homer",
     "'They've got homers in them': Stanton happy to lend slump-breaking pants to Jazz",
     "La fórmula que propondrá el Barça para fichar a Rashford",
@@ -414,15 +417,9 @@
     "The winners & losers from the 2026 NFL Draft",
     "Yankees calling up Domínguez from Triple-A (source)",
     "Wet and wild walk-off! Royals pull off epic, rain-soaked comeback win in extras  ",
-    "Jokic, Randle fined; no suspensions for skirmish",
-    "Who else? Tork homers in 5th straight game to tie Tigers record"
+    "Jokic, Randle fined; no suspensions for skirmish"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779275639663",
-      "resourceType": "image",
-      "uploadedAt": 1779275640677
-    },
     {
       "publicId": "tvs_cards/card_1779291780429",
       "resourceType": "image",
@@ -442,6 +439,11 @@
       "publicId": "tvs_cards/card_1779337432166",
       "resourceType": "image",
       "uploadedAt": 1779337433895
+    },
+    {
+      "publicId": "tvs_cards/card_1779363204605",
+      "resourceType": "image",
+      "uploadedAt": 1779363205570
     }
   ]
 }
