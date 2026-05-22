@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NBA",
+    "Draft",
     "Cazorla",
     "Makes",
     "Yankees",
@@ -18,6 +20,7 @@
     "Play"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48809706/nba-draft-2026-asset-rankings-30-teams-spurs-thunder-nets-hornets",
     "https://www.marca.com/futbol/oviedo/2026/05/22/cazorla-ultima-oportunidad-historia-95-anos-liga-90-minutos-goleador-viejo-todos-tiempos.html",
     "https://www.mlb.com/news/spencer-jones-yovanny-cruz-optioned-to-triple-a-by-yankees",
     "https://www.bbc.com/sport/formula1/articles/c152xglxk1go?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.espn.com/mens-college-basketball/story/_/id/48609697/mens-ncaa-basketball-2026-27-way-too-early-top-25-rankings-transfer-portal",
     "https://www.mlb.com/news/aaron-hicks-tyler-clippard-former-mlb-stars-try-to-qualify-for-golf-s-u-s-open",
     "https://www.mlb.com/news/max-scherzer-injured-list-forearm-ankle-injuries",
-    "https://www.bbc.com/sport/basketball/articles/cq6j6j8n9l9o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/snooker/articles/c3r3r5q3pl3o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/basketball/articles/cq6j6j8n9l9o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "NBA draft asset tiers: Why OKC and San Antonio are...",
     "Cazorla ante la última oportunidad de hacer historia en 95 años de la Liga: ¡90 minutos para ser el goleador más 'viejo' de todos los tiempos!",
     "Yankees option Jones, Cruz with Cole, Caballero expected back today",
     "Verstappen hints at F1 stay with racing set to go 'back to normal'",
@@ -418,8 +421,7 @@
     "Men's Way-Too-Early Top 25: Biggest risers, fallers after portal, draft deadlines",
     "Trio of ex-MLB stars competing at U.S. Open qualifying",
     "Scherzer placed on IL with forearm tendinitis, ankle inflammation",
-    "Spurs win again on Wembanyama's play-off return",
-    "Higgins recovers to beat O'Sullivan in Crucible epic"
+    "Spurs win again on Wembanyama's play-off return"
   ],
   "cloudinaryAssets": [
     {
@@ -446,6 +448,11 @@
       "publicId": "tvs_cards/card_1779472744304",
       "resourceType": "image",
       "uploadedAt": 1779472745779
+    },
+    {
+      "publicId": "tvs_cards/card_1779484692587",
+      "resourceType": "image",
+      "uploadedAt": 1779484693332
     }
   ]
 }
