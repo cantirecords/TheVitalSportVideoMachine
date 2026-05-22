@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Yankees",
+    "Option",
     "Verstappen",
     "Backs",
     "Barça",
@@ -14,6 +16,7 @@
     "Play"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/spencer-jones-yovanny-cruz-optioned-to-triple-a-by-yankees",
     "https://www.bbc.com/sport/formula1/articles/c152xglxk1go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c232g9lpdpgo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/camiseta-viral-utilizo-szczesny-valorada-130489807?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/max-scherzer-injured-list-forearm-ankle-injuries",
     "https://www.bbc.com/sport/basketball/articles/cq6j6j8n9l9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/snooker/articles/c3r3r5q3pl3o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/top-draft-prospect-roch-cholowsky-multihomer-game",
-    "https://www.espn.com/nfl/draft2026/story/_/id/48583341/2026-nfl-draft-best-picks-trades-qb-fits-predictions"
+    "https://www.mlb.com/news/top-draft-prospect-roch-cholowsky-multihomer-game"
   ],
   "postedTitles": [
+    "Yankees option Jones, Cruz with Cole, Caballero expected back today",
     "Verstappen hints at F1 stay with racing set to go 'back to normal'",
     "Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title",
     "Esta es la camiseta viral que utilizó Szczesny, valorada en 750 euros",
@@ -414,8 +417,7 @@
     "Scherzer placed on IL with forearm tendinitis, ankle inflammation",
     "Spurs win again on Wembanyama's play-off return",
     "Higgins recovers to beat O'Sullivan in Crucible epic",
-    "No. 1 Draft prospect caps big week with 4th multi-HR game of season",
-    "The best, worst and most confusing of the 2026 NFL draft: Our experts answer 29 questions"
+    "No. 1 Draft prospect caps big week with 4th multi-HR game of season"
   ],
   "cloudinaryAssets": [
     {
@@ -442,6 +444,11 @@
       "publicId": "tvs_cards/card_1779447451262",
       "resourceType": "image",
       "uploadedAt": 1779447452556
+    },
+    {
+      "publicId": "tvs_cards/card_1779461652924",
+      "resourceType": "image",
+      "uploadedAt": 1779461654170
     }
   ]
 }
