@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ronaldo",
+    "Wins",
     "Szczesny",
     "Rocks",
     "Hamilton",
@@ -14,6 +16,7 @@
     "Barcelona"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/c232g9lpdpgo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/camiseta-viral-utilizo-szczesny-valorada-130489807?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pelea-arabia-lewandowski-130475984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c0m29wj3p3eo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/snooker/articles/c3r3r5q3pl3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/top-draft-prospect-roch-cholowsky-multihomer-game",
     "https://www.espn.com/nfl/draft2026/story/_/id/48583341/2026-nfl-draft-best-picks-trades-qb-fits-predictions",
-    "https://www.espn.com/college-football/story/_/id/48571879/nfl-draft-2027-college-football-qb-poll-oregon-dante-moore-texas-arch-manning",
-    "https://www.bbc.com/sport/american-football/articles/cql7qwzgq30o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/college-football/story/_/id/48571879/nfl-draft-2027-college-football-qb-poll-oregon-dante-moore-texas-arch-manning"
   ],
   "postedTitles": [
+    "Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title",
     "Esta es la camiseta viral que utilizó Szczesny, valorada en 750 euros",
     "Pelea en Arabia por Lewandowski",
     "How Warnock became play-offs' record-breaking boss",
@@ -414,8 +417,7 @@
     "Higgins recovers to beat O'Sullivan in Crucible epic",
     "No. 1 Draft prospect caps big week with 4th multi-HR game of season",
     "The best, worst and most confusing of the 2026 NFL draft: Our experts answer 29 questions",
-    "Poll: Oregon's Dante Moore the early QB favorite for 2027 draft",
-    "The winners & losers from the 2026 NFL Draft"
+    "Poll: Oregon's Dante Moore the early QB favorite for 2027 draft"
   ],
   "cloudinaryAssets": [
     {
@@ -442,6 +444,11 @@
       "publicId": "tvs_cards/card_1779399769716",
       "resourceType": "image",
       "uploadedAt": 1779399770449
+    },
+    {
+      "publicId": "tvs_cards/card_1779423533355",
+      "resourceType": "image",
+      "uploadedAt": 1779423568667
     }
   ]
 }
