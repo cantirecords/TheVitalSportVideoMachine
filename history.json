@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Two",
+    "Time",
     "Real",
     "Madrid",
     "Barcelona",
@@ -16,6 +18,7 @@
     "Barça"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/chris-taylor-dodgers-postseason-hero-retires",
     "https://www.bbc.com/sport/football/articles/cvgz3wgy9vvo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/05/23/valencia-vs-barcelona-cruzan-dedos.html",
     "https://www.espn.com/nba/story/_/id/48809706/nba-draft-2026-asset-rankings-30-teams-spurs-thunder-nets-hornets",
@@ -214,10 +217,10 @@
     "https://www.mlb.com/news/shohei-ohtani-to-start-vs-marlins-but-dh-status-unclear",
     "https://www.bbc.com/sport/formula1/articles/c87w70zp5l0o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-    "https://www.espn.com/mens-college-basketball/story/_/id/48609697/mens-ncaa-basketball-2026-27-way-too-early-top-25-rankings-transfer-portal",
-    "https://www.mlb.com/news/aaron-hicks-tyler-clippard-former-mlb-stars-try-to-qualify-for-golf-s-u-s-open"
+    "https://www.espn.com/mens-college-basketball/story/_/id/48609697/mens-ncaa-basketball-2026-27-way-too-early-top-25-rankings-transfer-portal"
   ],
   "postedTitles": [
+    "Taylor, Dodgers' postseason hero and 2-time World Series champ, retires",
     "Real Madrid head coach Arbeloa confirms departure",
     "Valencia vs Barcelona: Cruzan los dedos",
     "NBA draft asset tiers: Why OKC and San Antonio are...",
@@ -416,8 +419,7 @@
     "Ohtani (0.38 ERA) returns to mound tonight vs. Marlins -- but will not hit",
     "Will rule changes make noticeable difference in Miami? F1 Q&A",
     "NFL futures: Hierarchy largely unchanged after draft; Rams still favorites",
-    "Men's Way-Too-Early Top 25: Biggest risers, fallers after portal, draft deadlines",
-    "Trio of ex-MLB stars competing at U.S. Open qualifying"
+    "Men's Way-Too-Early Top 25: Biggest risers, fallers after portal, draft deadlines"
   ],
   "cloudinaryAssets": [
     {
@@ -449,6 +451,11 @@
       "publicId": "tvs_cards/card_1779518474777",
       "resourceType": "image",
       "uploadedAt": 1779518476085
+    },
+    {
+      "publicId": "tvs_cards/card_1779530455615",
+      "resourceType": "image",
+      "uploadedAt": 1779530456897
     }
   ]
 }
