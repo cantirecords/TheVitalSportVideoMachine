@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Felix",
+    "Beats",
     "Spurs",
     "Fall",
     "Two",
@@ -20,6 +22,7 @@
     "Barça"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48847256/joao-felix-cristiano-ronaldo-saudi-pro-league-best-player-award",
     "https://www.bbc.com/sport/basketball/articles/c4g4qvkg1pqo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/chris-taylor-dodgers-postseason-hero-retires",
     "https://www.bbc.com/sport/football/articles/cvgz3wgy9vvo?at_medium=RSS&at_campaign=rss",
@@ -218,10 +221,10 @@
     "https://www.sport.es/es/noticias/barca/julian-comunicado-atletico-quiere-irse-129599335?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/primera-division/2026/04/28/ocho-nuevas-detenciones-incidentes-osasuna-real-madrid-febrero.html",
     "https://www.mlb.com/news/shohei-ohtani-to-start-vs-marlins-but-dh-status-unclear",
-    "https://www.bbc.com/sport/formula1/articles/c87w70zp5l0o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    "https://www.bbc.com/sport/formula1/articles/c87w70zp5l0o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "João Félix beats Ronaldo to win Saudi best player",
     "'I need to be better team player' - Wembanyama after Spurs lose again",
     "Taylor, Dodgers' postseason hero and 2-time World Series champ, retires",
     "Real Madrid head coach Arbeloa confirms departure",
@@ -420,15 +423,9 @@
     "\"Julián Álvarez ha comunicado al Atlético que quiere irse al Barça\"",
     "Ocho nuevas detenciones por los incidentes tras el Osasuna-Real Madrid de febrero",
     "Ohtani (0.38 ERA) returns to mound tonight vs. Marlins -- but will not hit",
-    "Will rule changes make noticeable difference in Miami? F1 Q&A",
-    "NFL futures: Hierarchy largely unchanged after draft; Rams still favorites"
+    "Will rule changes make noticeable difference in Miami? F1 Q&A"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779461652924",
-      "resourceType": "image",
-      "uploadedAt": 1779461654170
-    },
     {
       "publicId": "tvs_cards/card_1779472744304",
       "resourceType": "image",
@@ -458,6 +455,11 @@
       "publicId": "tvs_cards/card_1779544427724",
       "resourceType": "image",
       "uploadedAt": 1779544428919
+    },
+    {
+      "publicId": "tvs_cards/card_1779556307434",
+      "resourceType": "image",
+      "uploadedAt": 1779556308387
     }
   ]
 }
