@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Wembanyama",
+    "Scores",
     "Barcelona",
     "Spain",
     "Squad",
@@ -12,6 +14,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/basketball/articles/c1722g05y9do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/barca-inspira-nueva-aventura-politica-130602051?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48862153/bruno-fernandes-breaks-record-most-assists-premier-league-season",
@@ -210,10 +213,10 @@
     "https://www.mlb.com/news/elmer-rodriguez-yankees-callup",
     "https://www.espn.com/soccer/story/_/id/48560885/antoine-griezmann-atletico-madrid-laliga-great-champions-league-barcelona-mls-orlando-city",
     "https://www.mlb.com/news/yankees-prospect-spencer-jones-hits-two-home-runs",
-    "https://www.bbc.com/sport/basketball/articles/c9v389ynzlvo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/fabrizio-ravanelli-ex-juventus-fichar-lewandowski-barcelona-paso-atras-129630261?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/basketball/articles/c9v389ynzlvo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Wembanyama stars as Spurs level NBA play-offs",
     "Lamine Yamal in Spain squad but no Real Madrid players",
     "El Barça inspira la nueva aventura política de Tsipras",
     "Fernandes claims Premier League assist record",
@@ -412,15 +415,9 @@
     "Pause the game, you're getting the call: Yanks No. 3 prospect Rodríguez set for MLB debut",
     "Griezmann is already an Atlético legend. Can he wi...",
     "Yankees No. 6 prospect Jones goes deep twice in first multi-homer game of 2026",
-    "Wembanyama double-double helps Spurs clinch series",
-    "Fabrizio Ravanelli, ex de la Juventus: \"Fichar a Lewandowski sería un paso atrás\""
+    "Wembanyama double-double helps Spurs clinch series"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779656677572",
-      "resourceType": "image",
-      "uploadedAt": 1779656679421
-    },
     {
       "publicId": "tvs_cards/card_1779683988722",
       "resourceType": "image",
@@ -440,6 +437,11 @@
       "publicId": "tvs_cards/card_1779731386217",
       "resourceType": "image",
       "uploadedAt": 1779731386978
+    },
+    {
+      "publicId": "tvs_cards/card_1779743857862",
+      "resourceType": "image",
+      "uploadedAt": 1779743858717
     }
   ]
 }
