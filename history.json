@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Inspires",
     "Fernandes",
     "Breaks",
     "Hamilton",
@@ -14,6 +16,7 @@
     "Mark"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/barca-inspira-nueva-aventura-politica-130602051?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48862153/bruno-fernandes-breaks-record-most-assists-premier-league-season",
     "https://www.bbc.com/sport/tennis/articles/cy821evgv5go?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryan-torres-homers-in-major-league-debut",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/yankees-prospect-spencer-jones-hits-two-home-runs",
     "https://www.bbc.com/sport/basketball/articles/c9v389ynzlvo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/fabrizio-ravanelli-ex-juventus-fichar-lewandowski-barcelona-paso-atras-129630261?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-    "https://www.espn.com/soccer/story/_/id/48616356/2026-fifa-world-cup-kits-pets-dress-your-dog-lionel-messi-argentina-colombia-japan-mexico"
+    "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting"
   ],
   "postedTitles": [
+    "El Barça inspira la nueva aventura política de Tsipras",
     "Fernandes claims Premier League assist record",
     "Djokovic shakes off rust to sidestep Mpetshi Perricard",
     "MLB debuts are always special. This one was unbelievable",
@@ -414,8 +417,7 @@
     "Yankees No. 6 prospect Jones goes deep twice in first multi-homer game of 2026",
     "Wembanyama double-double helps Spurs clinch series",
     "Fabrizio Ravanelli, ex de la Juventus: \"Fichar a Lewandowski sería un paso atrás\"",
-    "NBA Futures: No. 1 seed Pistons fall to 45-1 to wi...",
-    "World Cup kits for pets! Now you can dress your dog like Messi"
+    "NBA Futures: No. 1 seed Pistons fall to 45-1 to wi..."
   ],
   "cloudinaryAssets": [
     {
@@ -437,6 +439,11 @@
       "publicId": "tvs_cards/card_1779710295513",
       "resourceType": "image",
       "uploadedAt": 1779710297140
+    },
+    {
+      "publicId": "tvs_cards/card_1779722788347",
+      "resourceType": "image",
+      "uploadedAt": 1779722789184
     }
   ]
 }
