@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Kane",
+    "Wins",
     "Madrid",
     "Dodgers",
     "Rally",
@@ -12,6 +14,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/2026/05/26/asi-queda-bota-oro-sale-luz-receta-esconde-goles-kane.html",
     "https://www.mlb.com/news/dodgers-bullpen-s-scoreless-streak-ends-in-comeback-win",
     "https://www.bbc.com/sport/basketball/articles/c1722g05y9do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/sale-luz-cita-lamine-yamal-129679863?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/brandon-nimmo-exits-game-with-hamstring-injury",
     "https://www.mlb.com/news/elmer-rodriguez-yankees-callup",
-    "https://www.espn.com/soccer/story/_/id/48560885/antoine-griezmann-atletico-madrid-laliga-great-champions-league-barcelona-mls-orlando-city",
-    "https://www.mlb.com/news/yankees-prospect-spencer-jones-hits-two-home-runs"
+    "https://www.espn.com/soccer/story/_/id/48560885/antoine-griezmann-atletico-madrid-laliga-great-champions-league-barcelona-mls-orlando-city"
   ],
   "postedTitles": [
+    "Así queda la Bota de Oro: sale a la luz la receta que se esconde tras los goles de Kane",
     "Dodgers mount comeback after bullpen's historic scoreless streak ends",
     "Wembanyama stars as Spurs level NBA play-offs",
     "Lamine Yamal in Spain squad but no Real Madrid players",
@@ -412,20 +415,9 @@
     "Sale a la luz la cita de Lamine Yamal con su nuevo amor",
     "Nimmo (hamstring tightness) exits early vs. Yankees",
     "Pause the game, you're getting the call: Yanks No. 3 prospect Rodríguez set for MLB debut",
-    "Griezmann is already an Atlético legend. Can he wi...",
-    "Yankees No. 6 prospect Jones goes deep twice in first multi-homer game of 2026"
+    "Griezmann is already an Atlético legend. Can he wi..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779722788347",
-      "resourceType": "image",
-      "uploadedAt": 1779722789184
-    },
-    {
-      "publicId": "tvs_cards/card_1779731386217",
-      "resourceType": "image",
-      "uploadedAt": 1779731386978
-    },
     {
       "publicId": "tvs_cards/card_1779743857862",
       "resourceType": "image",
@@ -435,6 +427,11 @@
       "publicId": "tvs_cards/card_1779768874793",
       "resourceType": "image",
       "uploadedAt": 1779768876138
+    },
+    {
+      "publicId": "tvs_cards/card_1779820474441",
+      "resourceType": "image",
+      "uploadedAt": 1779820475921
     }
   ]
 }
