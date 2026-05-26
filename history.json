@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Sinner",
+    "Dominates",
     "Kane",
     "Wins",
     "Madrid",
@@ -14,6 +16,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/tennis/articles/ceqpp35xvr1o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/2026/05/26/asi-queda-bota-oro-sale-luz-receta-esconde-goles-kane.html",
     "https://www.mlb.com/news/dodgers-bullpen-s-scoreless-streak-ends-in-comeback-win",
     "https://www.bbc.com/sport/basketball/articles/c1722g05y9do?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.marca.com/futbol/valencia/2026/04/29/valencia-sufre-mal-goles-suplentes-equipo-liga-recibe.html",
     "https://www.sport.es/es/noticias/barca/sale-luz-cita-lamine-yamal-129679863?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/brandon-nimmo-exits-game-with-hamstring-injury",
-    "https://www.mlb.com/news/elmer-rodriguez-yankees-callup",
-    "https://www.espn.com/soccer/story/_/id/48560885/antoine-griezmann-atletico-madrid-laliga-great-champions-league-barcelona-mls-orlando-city"
+    "https://www.mlb.com/news/elmer-rodriguez-yankees-callup"
   ],
   "postedTitles": [
+    "Efficient Sinner underlines status as French Open favourite with routine win",
     "Así queda la Bota de Oro: sale a la luz la receta que se esconde tras los goles de Kane",
     "Dodgers mount comeback after bullpen's historic scoreless streak ends",
     "Wembanyama stars as Spurs level NBA play-offs",
@@ -414,15 +417,9 @@
     "El Valencia sufre el 'mal de los goles suplentes': el equipo de la Liga que más recibe",
     "Sale a la luz la cita de Lamine Yamal con su nuevo amor",
     "Nimmo (hamstring tightness) exits early vs. Yankees",
-    "Pause the game, you're getting the call: Yanks No. 3 prospect Rodríguez set for MLB debut",
-    "Griezmann is already an Atlético legend. Can he wi..."
+    "Pause the game, you're getting the call: Yanks No. 3 prospect Rodríguez set for MLB debut"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779743857862",
-      "resourceType": "image",
-      "uploadedAt": 1779743858717
-    },
     {
       "publicId": "tvs_cards/card_1779768874793",
       "resourceType": "image",
@@ -432,6 +429,11 @@
       "publicId": "tvs_cards/card_1779820474441",
       "resourceType": "image",
       "uploadedAt": 1779820475921
+    },
+    {
+      "publicId": "tvs_cards/card_1779832365230",
+      "resourceType": "image",
+      "uploadedAt": 1779832365910
     }
   ]
 }
