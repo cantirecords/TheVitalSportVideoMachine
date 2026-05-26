@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Rally",
     "Wembanyama",
     "Scores",
     "Barcelona",
@@ -14,6 +16,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-bullpen-s-scoreless-streak-ends-in-comeback-win",
     "https://www.bbc.com/sport/basketball/articles/c1722g05y9do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/barca-inspira-nueva-aventura-politica-130602051?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/brandon-nimmo-exits-game-with-hamstring-injury",
     "https://www.mlb.com/news/elmer-rodriguez-yankees-callup",
     "https://www.espn.com/soccer/story/_/id/48560885/antoine-griezmann-atletico-madrid-laliga-great-champions-league-barcelona-mls-orlando-city",
-    "https://www.mlb.com/news/yankees-prospect-spencer-jones-hits-two-home-runs",
-    "https://www.bbc.com/sport/basketball/articles/c9v389ynzlvo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/yankees-prospect-spencer-jones-hits-two-home-runs"
   ],
   "postedTitles": [
+    "Dodgers mount comeback after bullpen's historic scoreless streak ends",
     "Wembanyama stars as Spurs level NBA play-offs",
     "Lamine Yamal in Spain squad but no Real Madrid players",
     "El Barça inspira la nueva aventura política de Tsipras",
@@ -414,8 +417,7 @@
     "Nimmo (hamstring tightness) exits early vs. Yankees",
     "Pause the game, you're getting the call: Yanks No. 3 prospect Rodríguez set for MLB debut",
     "Griezmann is already an Atlético legend. Can he wi...",
-    "Yankees No. 6 prospect Jones goes deep twice in first multi-homer game of 2026",
-    "Wembanyama double-double helps Spurs clinch series"
+    "Yankees No. 6 prospect Jones goes deep twice in first multi-homer game of 2026"
   ],
   "cloudinaryAssets": [
     {
@@ -442,6 +444,11 @@
       "publicId": "tvs_cards/card_1779743857862",
       "resourceType": "image",
       "uploadedAt": 1779743858717
+    },
+    {
+      "publicId": "tvs_cards/card_1779768874793",
+      "resourceType": "image",
+      "uploadedAt": 1779768876138
     }
   ]
 }
