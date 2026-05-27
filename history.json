@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Hitting",
+    "Below",
     "Kurtz",
     "Ends",
     "Roly",
@@ -22,6 +24,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48881417/mlb-2026-bad-hitters-stay-lineup-study-bailey-clarke-ortiz-scott-semien",
     "https://www.mlb.com/news/nick-kurtz-historic-48-game-on-base-streak-ends",
     "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48883359/sources-allen-graves-likely-1st-round-pick-stay-nba-draft",
@@ -220,10 +223,10 @@
     "https://www.bbc.com/sport/football/articles/crlp8npylnpo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48620433/mlb-2026-panic-meter-struggling-teams-red-sox-mets-phillies-astros",
     "https://www.mlb.com/news/nathan-eovaldi-seven-scoreless-innings-rangers-win-over-yankees",
-    "https://www.mlb.com/news/gerrit-cole-makes-third-rehab-start-of-2026",
-    "https://www.marca.com/futbol/valencia/2026/04/29/valencia-sufre-mal-goles-suplentes-equipo-liga-recibe.html"
+    "https://www.mlb.com/news/gerrit-cole-makes-third-rehab-start-of-2026"
   ],
   "postedTitles": [
+    ".143, .170, .194 ... How bad can these 7 MLB regul...",
     "Kurtz settles for share of A's record as on-base streak ends at 48 games",
     "The footballer setting record straight after 46 years",
     "Sources: Santa Clara's Graves to stay in draft",
@@ -422,15 +425,9 @@
     "Liverpool expect Salah return before end of season",
     "MLB panic meter: Which struggling teams have the m...",
     "Eovaldi halts Rangers' slide with 7-inning gem vs. Yankees",
-    "Cole takes another big step toward Yankees return with 3rd rehab start",
-    "El Valencia sufre el 'mal de los goles suplentes': el equipo de la Liga que más recibe"
+    "Cole takes another big step toward Yankees return with 3rd rehab start"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779832365230",
-      "resourceType": "image",
-      "uploadedAt": 1779832365910
-    },
     {
       "publicId": "tvs_cards/card_1779856068404",
       "resourceType": "image",
@@ -445,6 +442,11 @@
       "publicId": "tvs_cards/card_1779897782298",
       "resourceType": "image",
       "uploadedAt": 1779897783791
+    },
+    {
+      "publicId": "tvs_cards/card_1779919542783",
+      "resourceType": "image",
+      "uploadedAt": 1779919543643
     }
   ]
 }
