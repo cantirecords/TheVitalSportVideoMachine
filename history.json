@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Roly",
+    "Gregoire",
     "Graves",
     "Stays",
     "Sinner",
@@ -18,6 +20,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48883359/sources-allen-graves-likely-1st-round-pick-stay-nba-draft",
     "https://www.bbc.com/sport/tennis/articles/ceqpp35xvr1o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/2026/05/26/asi-queda-bota-oro-sale-luz-receta-esconde-goles-kane.html",
@@ -216,10 +219,10 @@
     "https://www.mlb.com/news/nathan-eovaldi-seven-scoreless-innings-rangers-win-over-yankees",
     "https://www.mlb.com/news/gerrit-cole-makes-third-rehab-start-of-2026",
     "https://www.marca.com/futbol/valencia/2026/04/29/valencia-sufre-mal-goles-suplentes-equipo-liga-recibe.html",
-    "https://www.sport.es/es/noticias/barca/sale-luz-cita-lamine-yamal-129679863?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/brandon-nimmo-exits-game-with-hamstring-injury"
+    "https://www.sport.es/es/noticias/barca/sale-luz-cita-lamine-yamal-129679863?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "The footballer setting record straight after 46 years",
     "Sources: Santa Clara's Graves to stay in draft",
     "Efficient Sinner underlines status as French Open favourite with routine win",
     "Así queda la Bota de Oro: sale a la luz la receta que se esconde tras los goles de Kane",
@@ -418,8 +421,7 @@
     "Eovaldi halts Rangers' slide with 7-inning gem vs. Yankees",
     "Cole takes another big step toward Yankees return with 3rd rehab start",
     "El Valencia sufre el 'mal de los goles suplentes': el equipo de la Liga que más recibe",
-    "Sale a la luz la cita de Lamine Yamal con su nuevo amor",
-    "Nimmo (hamstring tightness) exits early vs. Yankees"
+    "Sale a la luz la cita de Lamine Yamal con su nuevo amor"
   ],
   "cloudinaryAssets": [
     {
@@ -436,6 +438,11 @@
       "publicId": "tvs_cards/card_1779856068404",
       "resourceType": "image",
       "uploadedAt": 1779856069441
+    },
+    {
+      "publicId": "tvs_cards/card_1779882313778",
+      "resourceType": "image",
+      "uploadedAt": 1779882314533
     }
   ]
 }
