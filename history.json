@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Herrington",
+    "Faces",
     "Hitting",
     "Below",
     "Kurtz",
@@ -24,6 +26,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup",
     "https://www.espn.com/mlb/story/_/id/48881417/mlb-2026-bad-hitters-stay-lineup-study-bailey-clarke-ortiz-scott-semien",
     "https://www.mlb.com/news/nick-kurtz-historic-48-game-on-base-streak-ends",
     "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss",
@@ -222,10 +225,10 @@
     "https://www.mlb.com/news/pete-crow-armstrong-hits-two-run-homer-in-cubs-win-vs-padres",
     "https://www.bbc.com/sport/football/articles/crlp8npylnpo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48620433/mlb-2026-panic-meter-struggling-teams-red-sox-mets-phillies-astros",
-    "https://www.mlb.com/news/nathan-eovaldi-seven-scoreless-innings-rangers-win-over-yankees",
-    "https://www.mlb.com/news/gerrit-cole-makes-third-rehab-start-of-2026"
+    "https://www.mlb.com/news/nathan-eovaldi-seven-scoreless-innings-rangers-win-over-yankees"
   ],
   "postedTitles": [
+    "Messi, MLS has Herrington primed for World Cup",
     ".143, .170, .194 ... How bad can these 7 MLB regul...",
     "Kurtz settles for share of A's record as on-base streak ends at 48 games",
     "The footballer setting record straight after 46 years",
@@ -424,8 +427,7 @@
     "PCA! Cubs' slugger breaking out of slump with more than just homers",
     "Liverpool expect Salah return before end of season",
     "MLB panic meter: Which struggling teams have the m...",
-    "Eovaldi halts Rangers' slide with 7-inning gem vs. Yankees",
-    "Cole takes another big step toward Yankees return with 3rd rehab start"
+    "Eovaldi halts Rangers' slide with 7-inning gem vs. Yankees"
   ],
   "cloudinaryAssets": [
     {
@@ -447,6 +449,11 @@
       "publicId": "tvs_cards/card_1779919542783",
       "resourceType": "image",
       "uploadedAt": 1779919543643
+    },
+    {
+      "publicId": "tvs_cards/card_1779941869283",
+      "resourceType": "image",
+      "uploadedAt": 1779941870635
     }
   ]
 }
