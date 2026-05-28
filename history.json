@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ohtani",
+    "Dominates",
     "Herrington",
     "Faces",
     "Hitting",
@@ -26,6 +28,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-starts-against-rockies",
     "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup",
     "https://www.espn.com/mlb/story/_/id/48881417/mlb-2026-bad-hitters-stay-lineup-study-bailey-clarke-ortiz-scott-semien",
     "https://www.mlb.com/news/nick-kurtz-historic-48-game-on-base-streak-ends",
@@ -224,10 +227,10 @@
     "https://www.espn.com/nba/story/_/id/48634767/rockets-outlast-lakers-reaves-return-force-game-6",
     "https://www.mlb.com/news/pete-crow-armstrong-hits-two-run-homer-in-cubs-win-vs-padres",
     "https://www.bbc.com/sport/football/articles/crlp8npylnpo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/48620433/mlb-2026-panic-meter-struggling-teams-red-sox-mets-phillies-astros",
-    "https://www.mlb.com/news/nathan-eovaldi-seven-scoreless-innings-rangers-win-over-yankees"
+    "https://www.espn.com/mlb/story/_/id/48620433/mlb-2026-panic-meter-struggling-teams-red-sox-mets-phillies-astros"
   ],
   "postedTitles": [
+    "6 hitless innings, a leadoff HR and he's ... angry? Ohtani a 'crazy good competitor'",
     "Messi, MLS has Herrington primed for World Cup",
     ".143, .170, .194 ... How bad can these 7 MLB regul...",
     "Kurtz settles for share of A's record as on-base streak ends at 48 games",
@@ -426,8 +429,7 @@
     "Rockets outlast Lakers to push series to Game 6",
     "PCA! Cubs' slugger breaking out of slump with more than just homers",
     "Liverpool expect Salah return before end of season",
-    "MLB panic meter: Which struggling teams have the m...",
-    "Eovaldi halts Rangers' slide with 7-inning gem vs. Yankees"
+    "MLB panic meter: Which struggling teams have the m..."
   ],
   "cloudinaryAssets": [
     {
@@ -449,6 +451,11 @@
       "publicId": "tvs_cards/card_1779941869283",
       "resourceType": "image",
       "uploadedAt": 1779941870635
+    },
+    {
+      "publicId": "tvs_cards/card_1779968725165",
+      "resourceType": "image",
+      "uploadedAt": 1779968726241
     }
   ]
 }
