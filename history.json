@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Messi",
+    "Leads",
     "MLB",
     "Proposes",
     "First",
@@ -34,6 +36,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48907909/messi-leads-experienced-argentina-world-cup-squad-scaloni-opts-continuity",
     "https://www.mlb.com/news/mlb-makes-initial-economic-proposal-for-new-cba",
     "https://www.espn.com/mlb/story/_/id/48903168/mlb-owners-propose-first-salary-cap-1994-strike",
     "https://www.bbc.com/sport/cricket/videos/cvgzzylnr5yo?at_medium=RSS&at_campaign=rss",
@@ -232,10 +235,10 @@
     "https://www.mlb.com/news/mlb-stats-of-the-week-ending-april-30-2026",
     "https://www.mlb.com/news/most-consecutive-games-with-a-walk-mlb-history",
     "https://www.mlb.com/news/paul-skenes-faces-former-high-school-teammate-nathan-church-in-mlb",
-    "https://www.sport.es/es/noticias/barca/cafe-batidos-bebida-toma-lamine-129712885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48634767/rockets-outlast-lakers-reaves-return-force-game-6"
+    "https://www.sport.es/es/noticias/barca/cafe-batidos-bebida-toma-lamine-129712885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Messi leads an experienced Argentina World Cup squ...",
     "MLB makes initial CBA proposal to address competitive balance",
     "MLB proposes first salary cap since 1994 strike",
     "India inflict heavy defeat on England in opening T20",
@@ -434,8 +437,7 @@
     "Stats of the Week: home run records, mind-bending velocity and streaks",
     "The most consecutive games with a walk in MLB history",
     "How did Skenes repay HS mentor? By striking him out in 1st MLB showdown",
-    "Ni café ni batidos: la bebida que toma Lamine Yamal en su tiempo libre",
-    "Rockets outlast Lakers to push series to Game 6"
+    "Ni café ni batidos: la bebida que toma Lamine Yamal en su tiempo libre"
   ],
   "cloudinaryAssets": [
     {
@@ -452,6 +454,11 @@
       "publicId": "tvs_cards/card_1780054566135",
       "resourceType": "image",
       "uploadedAt": 1780054567340
+    },
+    {
+      "publicId": "tvs_cards/card_1780080091080",
+      "resourceType": "image",
+      "uploadedAt": 1780080092367
     }
   ]
 }
