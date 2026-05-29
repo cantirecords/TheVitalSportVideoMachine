@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "First",
+    "Salary",
     "India",
     "Beats",
     "Ohtani",
@@ -30,6 +32,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48903168/mlb-owners-propose-first-salary-cap-1994-strike",
     "https://www.bbc.com/sport/cricket/videos/cvgzzylnr5yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-starts-against-rockies",
     "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup",
@@ -228,10 +231,10 @@
     "https://www.mlb.com/news/paul-skenes-faces-former-high-school-teammate-nathan-church-in-mlb",
     "https://www.sport.es/es/noticias/barca/cafe-batidos-bebida-toma-lamine-129712885?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48634767/rockets-outlast-lakers-reaves-return-force-game-6",
-    "https://www.mlb.com/news/pete-crow-armstrong-hits-two-run-homer-in-cubs-win-vs-padres",
-    "https://www.bbc.com/sport/football/articles/crlp8npylnpo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/pete-crow-armstrong-hits-two-run-homer-in-cubs-win-vs-padres"
   ],
   "postedTitles": [
+    "MLB proposes first salary cap since 1994 strike",
     "India inflict heavy defeat on England in opening T20",
     "6 hitless innings, a leadoff HR and he's ... angry? Ohtani a 'crazy good competitor'",
     "Messi, MLS has Herrington primed for World Cup",
@@ -430,15 +433,9 @@
     "How did Skenes repay HS mentor? By striking him out in 1st MLB showdown",
     "Ni café ni batidos: la bebida que toma Lamine Yamal en su tiempo libre",
     "Rockets outlast Lakers to push series to Game 6",
-    "PCA! Cubs' slugger breaking out of slump with more than just homers",
-    "Liverpool expect Salah return before end of season"
+    "PCA! Cubs' slugger breaking out of slump with more than just homers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1779941869283",
-      "resourceType": "image",
-      "uploadedAt": 1779941870635
-    },
     {
       "publicId": "tvs_cards/card_1779968725165",
       "resourceType": "image",
@@ -448,6 +445,11 @@
       "publicId": "tvs_cards/card_1780005709178",
       "resourceType": "image",
       "uploadedAt": 1780005710767
+    },
+    {
+      "publicId": "tvs_cards/card_1780028406955",
+      "resourceType": "image",
+      "uploadedAt": 1780028409323
     }
   ]
 }
