@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Fonseca",
+    "Stuns",
     "Yankees",
     "Win",
     "Barca",
@@ -42,6 +44,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/tennis/articles/c142127px58o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/carlos-rodon-throws-quality-start-in-win-over-athletics",
     "https://www.bbc.com/sport/football/articles/cnvpn659pnpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/athletics/articles/c202y959xxeo?at_medium=RSS&at_campaign=rss",
@@ -240,10 +243,10 @@
     "https://www.mlb.com/news/ildemaro-vargas-extends-historic-hit-streak-with-d-backs",
     "https://www.bbc.com/sport/football/articles/c4gxg1g1d74o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/cx21m4e2n1zo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/valdez-consistency-vierling-production-spur-tigers-win-over-braves",
-    "https://www.mlb.com/news/mlb-stats-of-the-week-ending-april-30-2026"
+    "https://www.mlb.com/news/valdez-consistency-vierling-production-spur-tigers-win-over-braves"
   ],
   "postedTitles": [
+    "Why beating Djokovic is coming of age moment for Fonseca",
     "Rodón's gem, 4-run 1st inning push Yankees' winning streak to 5",
     "Atletico mock Barca's Alvarez move with joke Lamine Yamal bid",
     "Hodgkinson ready for 'battle of world records' in London",
@@ -442,8 +445,7 @@
     "23-game hit streak -- and that's not counting last season! Vargas on historic tear",
     "Time for Isak & Wirtz to prove they are the future for Liverpool",
     "Verstappen says F1 rule changes 'a tickle'",
-    "Valdez continues to eat innings for Tigers as they top MLB-best Braves",
-    "Stats of the Week: home run records, mind-bending velocity and streaks"
+    "Valdez continues to eat innings for Tigers as they top MLB-best Braves"
   ],
   "cloudinaryAssets": [
     {
@@ -465,6 +467,11 @@
       "publicId": "tvs_cards/card_1780135652176",
       "resourceType": "image",
       "uploadedAt": 1780135653000
+    },
+    {
+      "publicId": "tvs_cards/card_1780149394561",
+      "resourceType": "image",
+      "uploadedAt": 1780149395283
     }
   ]
 }
