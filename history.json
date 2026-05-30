@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Gets",
     "Eyeing",
     "43",
     "Messi",
@@ -38,6 +40,7 @@
     "Inspires"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/cnvpn659pnpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/athletics/articles/c202y959xxeo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48907909/messi-leads-experienced-argentina-world-cup-squad-scaloni-opts-continuity",
     "https://www.mlb.com/news/mlb-makes-initial-economic-proposal-for-new-cba",
@@ -236,10 +239,10 @@
     "https://www.bbc.com/sport/formula1/articles/cx21m4e2n1zo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/valdez-consistency-vierling-production-spur-tigers-win-over-braves",
     "https://www.mlb.com/news/mlb-stats-of-the-week-ending-april-30-2026",
-    "https://www.mlb.com/news/most-consecutive-games-with-a-walk-mlb-history",
-    "https://www.mlb.com/news/paul-skenes-faces-former-high-school-teammate-nathan-church-in-mlb"
+    "https://www.mlb.com/news/most-consecutive-games-with-a-walk-mlb-history"
   ],
   "postedTitles": [
+    "Atletico mock Barca's Alvarez move with joke Lamine Yamal bid",
     "Hodgkinson ready for 'battle of world records' in London",
     "Messi leads an experienced Argentina World Cup squ...",
     "MLB makes initial CBA proposal to address competitive balance",
@@ -438,8 +441,7 @@
     "Verstappen says F1 rule changes 'a tickle'",
     "Valdez continues to eat innings for Tigers as they top MLB-best Braves",
     "Stats of the Week: home run records, mind-bending velocity and streaks",
-    "The most consecutive games with a walk in MLB history",
-    "How did Skenes repay HS mentor? By striking him out in 1st MLB showdown"
+    "The most consecutive games with a walk in MLB history"
   ],
   "cloudinaryAssets": [
     {
@@ -461,6 +463,11 @@
       "publicId": "tvs_cards/card_1780091894331",
       "resourceType": "image",
       "uploadedAt": 1780091895004
+    },
+    {
+      "publicId": "tvs_cards/card_1780113927052",
+      "resourceType": "image",
+      "uploadedAt": 1780113928387
     }
   ]
 }
