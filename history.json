@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Serrano",
+    "Equals",
     "Top",
     "Prospect",
     "Miz",
@@ -47,11 +49,10 @@
     "Scores",
     "Barcelona",
     "Spain",
-    "Squad",
-    "Barça",
-    "Inspires"
+    "Squad"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/boxing/articles/cy02zyry2dko?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
     "https://www.mlb.com/news/jacob-misiorowski-makes-first-career-start-against-astros",
     "https://www.marca.com/futbol/valencia/2026/05/30/atractiva-disputa-historica-valencia-athletic-tiempos-modernos-vaivenes-cuarta-plaza-liga.html",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/brandon-woodruff-injured-list-right-shoulder",
     "https://www.mlb.com/news/matt-brash-placed-on-il-with-right-lat-inflammation",
     "https://www.sport.es/es/noticias/barca/flick-guardara-sentenciar-liga-129739017?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/vladimir-guerrero-jr-byron-buxton-play-in-mlb-sunday-leadoff-game-on-peacock",
-    "https://www.sport.es/es/noticias/barca/flick-avanza-lamine-yamal-pasara-129742972?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/vladimir-guerrero-jr-byron-buxton-play-in-mlb-sunday-leadoff-game-on-peacock"
   ],
   "postedTitles": [
+    "Serrano equals knockout record with Hanson victory",
     "2026 NBA draft rankings: Top 100 prospects after c...",
     "A look back at Miz's historic May before 1st career start vs. Astros",
     "La atractiva 'disputa' histórica de Valencia y Athletic en tiempos modernos: los vaivenes de la cuarta plaza de la Liga",
@@ -452,15 +453,9 @@
     "Woodruff placed on IL with shoulder inflammation, but Crew relieved by diagnosis",
     "Mariners place Brash on 15-day IL with lat inflammation",
     "Flick no se guardará nada para sentenciar la Liga",
-    "Vlad Jr., Buxton set to star in season debut of MLB Sunday Leadoff on Peacock",
-    "Flick avanza el estado de Lamine Yamal y qué pasará con el Mundial"
+    "Vlad Jr., Buxton set to star in season debut of MLB Sunday Leadoff on Peacock"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780149394561",
-      "resourceType": "image",
-      "uploadedAt": 1780149395283
-    },
     {
       "publicId": "tvs_cards/card_1780161462992",
       "resourceType": "image",
@@ -480,6 +475,11 @@
       "publicId": "tvs_cards/card_1780222918557",
       "resourceType": "image",
       "uploadedAt": 1780222919742
+    },
+    {
+      "publicId": "tvs_cards/card_1780236114445",
+      "resourceType": "image",
+      "uploadedAt": 1780236116082
     }
   ]
 }
