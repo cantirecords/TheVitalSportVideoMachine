@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Wetherholt",
+    "Breaks",
     "Rugby",
     "Legend",
     "Fonseca",
@@ -16,6 +18,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/jj-wetherholt-is-on-a-historic-rookie-pace",
     "https://www.bbc.com/sport/rugby-league/articles/clyprl5v2yeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/c052r1mj3eqo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +217,10 @@
     "https://www.espn.com/nfl/story/_/id/48610121/houston-texans-pay-cj-stroud-qb-market-nfl-execs",
     "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48648833/mohamed-salah-liverpool-exit-steven-gerrard",
-    "https://www.bbc.com/sport/basketball/articles/c87qxrggrewo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-execs-poll-biggest-name-2026-trade-deadline"
+    "https://www.bbc.com/sport/basketball/articles/c87qxrggrewo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Wetherholt on pace for historic rookie numbers in all facets of game",
     "Rugby league legend and broadcaster Kear dies aged 71",
     "Fonseca, 19, shows title credentials by backing up Djokovic win",
     "Inspired Wembanyama helps Spurs to NBA Finals",
@@ -416,8 +419,7 @@
     "Should the Texans pay C.J. Stroud? NFL execs from around the league weigh in",
     "Ex-F1 driver and Paralympic cycling champion Zanardi dies",
     "Liverpool's Salah: 'Time to go' after tough season...",
-    "James stars as Lakers set up Thunder showdown",
-    "MLB execs poll: Biggest name moved at Trade Deadline will be ..."
+    "James stars as Lakers set up Thunder showdown"
   ],
   "cloudinaryAssets": [
     {
@@ -434,6 +436,11 @@
       "publicId": "tvs_cards/card_1780321746966",
       "resourceType": "image",
       "uploadedAt": 1780321749048
+    },
+    {
+      "publicId": "tvs_cards/card_1780345338003",
+      "resourceType": "image",
+      "uploadedAt": 1780345339086
     }
   ]
 }
