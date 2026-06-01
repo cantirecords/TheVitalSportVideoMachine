@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Rugby",
+    "Legend",
     "Fonseca",
     "Beats",
     "Madrid",
@@ -14,6 +16,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/rugby-league/articles/clyprl5v2yeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/c052r1mj3eqo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/barca-estudia-recomprar-jan-virgili-130840880?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48648833/mohamed-salah-liverpool-exit-steven-gerrard",
     "https://www.bbc.com/sport/basketball/articles/c87qxrggrewo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-execs-poll-biggest-name-2026-trade-deadline",
-    "https://www.mlb.com/news/brandon-woodruff-injured-list-right-shoulder"
+    "https://www.mlb.com/news/mlb-execs-poll-biggest-name-2026-trade-deadline"
   ],
   "postedTitles": [
+    "Rugby league legend and broadcaster Kear dies aged 71",
     "Fonseca, 19, shows title credentials by backing up Djokovic win",
     "Inspired Wembanyama helps Spurs to NBA Finals",
     "El Barça estudia recomprar a Jan Virgili",
@@ -414,8 +417,7 @@
     "Ex-F1 driver and Paralympic cycling champion Zanardi dies",
     "Liverpool's Salah: 'Time to go' after tough season...",
     "James stars as Lakers set up Thunder showdown",
-    "MLB execs poll: Biggest name moved at Trade Deadline will be ...",
-    "Woodruff placed on IL with shoulder inflammation, but Crew relieved by diagnosis"
+    "MLB execs poll: Biggest name moved at Trade Deadline will be ..."
   ],
   "cloudinaryAssets": [
     {
@@ -437,6 +439,11 @@
       "publicId": "tvs_cards/card_1780290117881",
       "resourceType": "image",
       "uploadedAt": 1780290119247
+    },
+    {
+      "publicId": "tvs_cards/card_1780321746966",
+      "resourceType": "image",
+      "uploadedAt": 1780321749048
     }
   ]
 }
