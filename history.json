@@ -18,6 +18,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/cx21v8pv4j8o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies",
     "https://www.sport.es/es/noticias/barca/giuly-recuerda-impacto-llegar-barca-130930872?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/le-quieren-vender-ibai-llanos-130905940?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -216,10 +217,10 @@
     "https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/alineacion-fc-barcelona-osasuna-partido-129775466?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/alerta-clasico-barca-tres-apercibidos-129769545?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/flick-ver-espanyol-madrid-mago-129782676?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Will Monaco suit Ferrari more than rivals? F1 Q&A",
     "🔮 Way-too-early look at the NFL season",
     "Giuly recuerda su impacto al llegar al Barça: \"No me faltéis al respeto\"",
     "Le quieren vender a Ibai Llanos unas botas de Lamine Yamal por 30.000 euros",
@@ -418,15 +419,9 @@
     "Antonelli on Miami pole from revived Verstappen",
     "Alineación del FC Barcelona contra Osasuna para el partido de la jornada 34 de LaLiga EA Sports 2025/26",
     "Alerta para el Clásico en el Barça: tres apercibidos de sanción",
-    "Norris takes dominant win in Miami sprint race",
-    "Flick: “¿Ver el Espanyol - Madrid? Puede que vaya al Mago Pop”"
+    "Norris takes dominant win in Miami sprint race"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780345338003",
-      "resourceType": "image",
-      "uploadedAt": 1780345339086
-    },
     {
       "publicId": "tvs_videos/video_1780349015739",
       "resourceType": "video",
@@ -456,6 +451,11 @@
       "publicId": "tvs_cards/card_1780429788347",
       "resourceType": "image",
       "uploadedAt": 1780429794765
+    },
+    {
+      "publicId": "tvs_videos/video_1780432648377",
+      "resourceType": "video",
+      "uploadedAt": 1780432650379
     }
   ]
 }
