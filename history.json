@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Speeds",
     "Barcelona",
     "Wetherholt",
     "Breaks",
@@ -12,6 +14,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/barca-acelera-salida-bardghji-130877340?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pedri-mira-futuro-fc-barcelona-130877777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/story/_/id/48939305/sources-qb-russell-wilson-finalizing-deal-join-cbs-sports",
     "https://www.mlb.com/news/jj-wetherholt-is-on-a-historic-rookie-pace",
@@ -210,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/flick-ver-espanyol-madrid-mago-129782676?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/munetaka-murakami-hits-13th-home-run-in-series-opener-vs-padres",
     "https://www.espn.com/nba/story/_/id/48651461/nba-playoffs-2026-game-7-preview-celtics-76ers-pistons-magic-cavaliers-raptors",
-    "https://www.espn.com/nfl/story/_/id/48610121/houston-texans-pay-cj-stroud-qb-market-nfl-execs",
-    "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/story/_/id/48610121/houston-texans-pay-cj-stroud-qb-market-nfl-execs"
   ],
   "postedTitles": [
+    "El Barça acelera la salida de Bardghji",
     "Pedri mira al futuro del FC Barcelona y señala a un jugador que se enfrentó al CD Tenerife y a la UD Las Palmas: \"Es muy bueno\"",
     "Sources: QB Wilson set to leave NFL for CBS job",
     "Wetherholt on pace for historic rookie numbers in all facets of game",
@@ -412,8 +415,7 @@
     "Flick: “¿Ver el Espanyol - Madrid? Puede que vaya al Mago Pop”",
     "Murakami retakes HR lead with 13 as historic debut continues",
     "The NBA playoffs' second round is waiting on three...",
-    "Should the Texans pay C.J. Stroud? NFL execs from around the league weigh in",
-    "Ex-F1 driver and Paralympic cycling champion Zanardi dies"
+    "Should the Texans pay C.J. Stroud? NFL execs from around the league weigh in"
   ],
   "cloudinaryAssets": [
     {
@@ -440,6 +442,11 @@
       "publicId": "tvs_videos/video_1780368249997",
       "resourceType": "video",
       "uploadedAt": 1780368251830
+    },
+    {
+      "publicId": "tvs_cards/card_1780375719358",
+      "resourceType": "image",
+      "uploadedAt": 1780375720948
     }
   ]
 }
