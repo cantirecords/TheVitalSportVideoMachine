@@ -26,6 +26,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/48939885/wnba-power-rankings-lynx-fever-commissioners-cup-2026",
     "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c5y8nn7gx83o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/06/03/next-gen-draft-programa-laliga-detecta-talento-joven-mundo-habeis-sacado-chicos.html",
@@ -224,10 +225,10 @@
     "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/vinicius-seguir-129808224?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/videos/cm2p44rnnglo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/draft2027/story/_/id/48611355/2027-nfl-mock-draft-early-first-round-predictions-32-picks-manning-smith",
-    "https://www.bbc.com/sport/football/videos/c87q83eyzwwo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/draft2027/story/_/id/48611355/2027-nfl-mock-draft-early-first-round-predictions-32-picks-manning-smith"
   ],
   "postedTitles": [
+    "WNBA Power Rankings: Lynx take over No. 1, Fever f...",
     "Rivals: Messi v Ronaldo - watch the trailer",
     "Bellingham is No 10 in England World Cup squad",
     "Next Gen Draft, el programa de LaLiga que detecta talento joven en todo el mundo: \"¿De dónde habéis sacado a esos chicos?\"",
@@ -426,15 +427,9 @@
     "Pistons and Cavaliers advance in NBA play-offs",
     "Vinicius: \"Tenemos que seguir así\"",
     "Spurs set points record with victory over London City",
-    "🏈 Reid's early 2027 NFL mock draft: Arch No. 1?",
-    "Kerr breaks Kirby's Chelsea goal record "
+    "🏈 Reid's early 2027 NFL mock draft: Arch No. 1?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780432648377",
-      "resourceType": "video",
-      "uploadedAt": 1780432650379
-    },
     {
       "publicId": "tvs_cards/card_1780439170232",
       "resourceType": "image",
@@ -459,6 +454,11 @@
       "publicId": "tvs_cards/card_1780516494481",
       "resourceType": "image",
       "uploadedAt": 1780516495887
+    },
+    {
+      "publicId": "tvs_videos/video_1780519759896",
+      "resourceType": "video",
+      "uploadedAt": 1780519762552
     }
   ]
 }
