@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Messi",
+    "Tops",
     "Bellingham",
     "Gets",
     "Barça",
@@ -24,6 +26,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c5y8nn7gx83o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/06/03/next-gen-draft-programa-laliga-detecta-talento-joven-mundo-habeis-sacado-chicos.html",
     "https://www.sport.es/es/noticias/barca/detalle-falta-barca-cierre-traspaso-130939748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -222,10 +225,10 @@
     "https://www.sport.es/es/noticias/barca/vinicius-seguir-129808224?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/videos/cm2p44rnnglo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/draft2027/story/_/id/48611355/2027-nfl-mock-draft-early-first-round-predictions-32-picks-manning-smith",
-    "https://www.bbc.com/sport/football/videos/c87q83eyzwwo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48652810/lakers-eliminate-rockets-game-6-rout"
+    "https://www.bbc.com/sport/football/videos/c87q83eyzwwo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Rivals: Messi v Ronaldo - watch the trailer",
     "Bellingham is No 10 in England World Cup squad",
     "Next Gen Draft, el programa de LaLiga que detecta talento joven en todo el mundo: \"¿De dónde habéis sacado a esos chicos?\"",
     "El detalle que falta para que el Barça cierre el traspaso de Ansu al Mónaco",
@@ -424,15 +427,9 @@
     "Vinicius: \"Tenemos que seguir así\"",
     "Spurs set points record with victory over London City",
     "🏈 Reid's early 2027 NFL mock draft: Arch No. 1?",
-    "Kerr breaks Kirby's Chelsea goal record ",
-    "Lakers blow out Rockets, advance to face Thunder"
+    "Kerr breaks Kirby's Chelsea goal record "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780429788347",
-      "resourceType": "image",
-      "uploadedAt": 1780429794765
-    },
     {
       "publicId": "tvs_videos/video_1780432648377",
       "resourceType": "video",
@@ -457,6 +454,11 @@
       "publicId": "tvs_cards/card_1780490846539",
       "resourceType": "image",
       "uploadedAt": 1780490847525
+    },
+    {
+      "publicId": "tvs_cards/card_1780516494481",
+      "resourceType": "image",
+      "uploadedAt": 1780516495887
     }
   ]
 }
