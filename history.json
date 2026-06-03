@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Sells",
     "Rashford",
     "Deal",
     "100",
@@ -20,6 +22,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/detalle-falta-barca-cierre-traspaso-130939748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/manchester-united-rechaza-oferta-barca-130947841?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/cx21v8pv4j8o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies",
@@ -218,10 +221,10 @@
     "https://www.bbc.com/sport/football/videos/c87q83eyzwwo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48652810/lakers-eliminate-rockets-game-6-rout",
     "https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/alineacion-fc-barcelona-osasuna-partido-129775466?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/alerta-clasico-barca-tres-apercibidos-129769545?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/alineacion-fc-barcelona-osasuna-partido-129775466?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "El detalle que falta para que el Barça cierre el traspaso de Ansu al Mónaco",
     "El Manchester United rechaza la oferta del Barça por Rashford",
     "Will Monaco suit Ferrari more than rivals? F1 Q&A",
     "🔮 Way-too-early look at the NFL season",
@@ -420,15 +423,9 @@
     "Kerr breaks Kirby's Chelsea goal record ",
     "Lakers blow out Rockets, advance to face Thunder",
     "Antonelli on Miami pole from revived Verstappen",
-    "Alineación del FC Barcelona contra Osasuna para el partido de la jornada 34 de LaLiga EA Sports 2025/26",
-    "Alerta para el Clásico en el Barça: tres apercibidos de sanción"
+    "Alineación del FC Barcelona contra Osasuna para el partido de la jornada 34 de LaLiga EA Sports 2025/26"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780375719358",
-      "resourceType": "image",
-      "uploadedAt": 1780375720948
-    },
     {
       "publicId": "tvs_videos/video_1780394820450",
       "resourceType": "video",
@@ -453,6 +450,11 @@
       "publicId": "tvs_cards/card_1780439170232",
       "resourceType": "image",
       "uploadedAt": 1780439171293
+    },
+    {
+      "publicId": "tvs_cards/card_1780462718980",
+      "resourceType": "image",
+      "uploadedAt": 1780462720122
     }
   ]
 }
