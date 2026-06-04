@@ -36,6 +36,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48902375/nba-draft-2026-player-comps-12-projected-lottery-picks-dybantsa-boozer-acuff-peterson",
     "https://www.espn.com/nfl/story/_/id/48947413/2026-nfl-trade-deadline-early-look-players-candidates-buzz-crosby-aiyuk-kamara",
     "https://www.mlb.com/news/guide-to-2026-mlb-all-star-voting",
     "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
@@ -234,10 +235,10 @@
     "https://www.sport.es/es/noticias/barca/pini-zahavi-gestionaria-oferta-arabia-129815536?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48629118/2026-nba-playoff-expert-picks-second-round-conference-semi-finals",
     "https://www.mlb.com/news/shohei-ohtani-pitch-dh-against-astros",
-    "https://www.bbc.com/sport/formula1/videos/cg5p2jvlem9o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/athletes-unlimited-softball-league-airs-college-draft-monday"
+    "https://www.bbc.com/sport/formula1/videos/cg5p2jvlem9o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "🏀 Pro comps for NBA draft's top 12 prospects",
     "10 NFL players who could get traded before the 202...",
     "Breaking down the All-Star Ballot position by position",
     "Man City consider legal action over Real candidate's promise to sign Haaland",
@@ -436,8 +437,7 @@
     "Pini Zahavi gestionaría la oferta millonaria de Arabia al Barça por Raphinha",
     "Copy of NBA experts' picks for Thunder-Lakers and every se...",
     "Ohtani (0.60 ERA) set to face Astros on Tuesday -- on the mound and as DH",
-    "Montoya demands penalties for drivers disrespecting F1 ",
-    "What to know as 2026 AUSL College Draft kicks off Monday night"
+    "Montoya demands penalties for drivers disrespecting F1 "
   ],
   "cloudinaryAssets": [
     {
@@ -484,6 +484,11 @@
       "publicId": "tvs_cards/card_1780597527582",
       "resourceType": "image",
       "uploadedAt": 1780597528372
+    },
+    {
+      "publicId": "tvs_videos/video_1780602995069",
+      "resourceType": "video",
+      "uploadedAt": 1780602997451
     }
   ]
 }
