@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Blockbuster",
+    "Trades",
     "All",
     "Stars",
     "Haaland",
@@ -34,6 +36,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48947413/2026-nfl-trade-deadline-early-look-players-candidates-buzz-crosby-aiyuk-kamara",
     "https://www.mlb.com/news/guide-to-2026-mlb-all-star-voting",
     "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/articles/c1d2wypl9k0o?at_medium=RSS&at_campaign=rss",
@@ -232,10 +235,10 @@
     "https://www.espn.com/nba/story/_/id/48629118/2026-nba-playoff-expert-picks-second-round-conference-semi-finals",
     "https://www.mlb.com/news/shohei-ohtani-pitch-dh-against-astros",
     "https://www.bbc.com/sport/formula1/videos/cg5p2jvlem9o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/athletes-unlimited-softball-league-airs-college-draft-monday",
-    "https://www.mlb.com/news/john-sterling-passes-away"
+    "https://www.mlb.com/news/athletes-unlimited-softball-league-airs-college-draft-monday"
   ],
   "postedTitles": [
+    "10 NFL players who could get traded before the 202...",
     "Breaking down the All-Star Ballot position by position",
     "Man City consider legal action over Real candidate's promise to sign Haaland",
     "Weekly sports quiz: When did Williams last play a professional tennis match?",
@@ -434,8 +437,7 @@
     "Copy of NBA experts' picks for Thunder-Lakers and every se...",
     "Ohtani (0.60 ERA) set to face Astros on Tuesday -- on the mound and as DH",
     "Montoya demands penalties for drivers disrespecting F1 ",
-    "What to know as 2026 AUSL College Draft kicks off Monday night",
-    "John Sterling, beloved longtime Yankees radio voice, passes at 87"
+    "What to know as 2026 AUSL College Draft kicks off Monday night"
   ],
   "cloudinaryAssets": [
     {
@@ -477,6 +479,11 @@
       "publicId": "tvs_cards/card_1780587206518",
       "resourceType": "image",
       "uploadedAt": 1780587208491
+    },
+    {
+      "publicId": "tvs_cards/card_1780597527582",
+      "resourceType": "image",
+      "uploadedAt": 1780597528372
     }
   ]
 }
