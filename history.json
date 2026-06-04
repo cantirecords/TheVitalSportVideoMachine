@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ohtani",
+    "Rests",
     "Sánchez",
     "Seeks",
     "Messi",
@@ -28,6 +30,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-to-sit-for-game-vs-d-backs-after-pitching",
     "https://www.sport.es/es/noticias/barca/anna-lewandowska-aclara-rumores-futuro-lewandowski-turquia-130964878?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/cristopher-sanchez-faces-padres-with-historic-scoreless-streak",
     "https://www.espn.com/wnba/story/_/id/48939885/wnba-power-rankings-lynx-fever-commissioners-cup-2026",
@@ -226,10 +229,10 @@
     "https://www.mlb.com/news/john-sterling-passes-away",
     "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
     "https://www.espn.com/college-football/story/_/id/48670717/duece-jones-drew-son-former-nfl-all-pro-commits-ucla-bruins-football",
-    "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/vinicius-seguir-129808224?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/basketball/articles/cm2pepjv8vmo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ohtani to sit Thurs. so he can 'empty the tank' in two-way role vs. D-backs on Wed.",
     "Anna Lewandowska aclara los rumores sobre el futuro de Robert Lewandowski en Turquía",
     "Sánchez set to put historic scoreless streak on the line vs. Padres",
     "WNBA Power Rankings: Lynx take over No. 1, Fever f...",
@@ -428,8 +431,7 @@
     "John Sterling, beloved longtime Yankees radio voice, passes at 87",
     "Updated top 10 prospect rankings for all 30 MLB te...",
     "Jones-Drew, son of NFL All-Pro, commits to UCLA",
-    "Pistons and Cavaliers advance in NBA play-offs",
-    "Vinicius: \"Tenemos que seguir así\""
+    "Pistons and Cavaliers advance in NBA play-offs"
   ],
   "cloudinaryAssets": [
     {
@@ -466,6 +468,11 @@
       "publicId": "tvs_videos/video_1780541268985",
       "resourceType": "video",
       "uploadedAt": 1780541271002
+    },
+    {
+      "publicId": "tvs_cards/card_1780548711653",
+      "resourceType": "image",
+      "uploadedAt": 1780548712790
     }
   ]
 }
