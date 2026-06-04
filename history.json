@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "All",
+    "Stars",
     "Haaland",
     "Transfer",
     "Ohtani",
@@ -32,6 +34,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/guide-to-2026-mlb-all-star-voting",
     "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/articles/c1d2wypl9k0o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-to-sit-for-game-vs-d-backs-after-pitching",
@@ -230,10 +233,10 @@
     "https://www.mlb.com/news/shohei-ohtani-pitch-dh-against-astros",
     "https://www.bbc.com/sport/formula1/videos/cg5p2jvlem9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/athletes-unlimited-softball-league-airs-college-draft-monday",
-    "https://www.mlb.com/news/john-sterling-passes-away",
-    "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel"
+    "https://www.mlb.com/news/john-sterling-passes-away"
   ],
   "postedTitles": [
+    "Breaking down the All-Star Ballot position by position",
     "Man City consider legal action over Real candidate's promise to sign Haaland",
     "Weekly sports quiz: When did Williams last play a professional tennis match?",
     "Ohtani to sit Thurs. so he can 'empty the tank' in two-way role vs. D-backs on Wed.",
@@ -432,8 +435,7 @@
     "Ohtani (0.60 ERA) set to face Astros on Tuesday -- on the mound and as DH",
     "Montoya demands penalties for drivers disrespecting F1 ",
     "What to know as 2026 AUSL College Draft kicks off Monday night",
-    "John Sterling, beloved longtime Yankees radio voice, passes at 87",
-    "Updated top 10 prospect rankings for all 30 MLB te..."
+    "John Sterling, beloved longtime Yankees radio voice, passes at 87"
   ],
   "cloudinaryAssets": [
     {
@@ -470,6 +472,11 @@
       "publicId": "tvs_cards/card_1780572102500",
       "resourceType": "image",
       "uploadedAt": 1780572104073
+    },
+    {
+      "publicId": "tvs_cards/card_1780587206518",
+      "resourceType": "image",
+      "uploadedAt": 1780587208491
     }
   ]
 }
