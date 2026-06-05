@@ -38,6 +38,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/aaron-judge-out-of-lineup-guardians-finale",
     "https://www.sport.es/es/noticias/barca/lamine-juega-propia-liga-yamal-barca-barcelona-pedri-joan-garcia-cubarsi-131008878?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48902375/nba-draft-2026-player-comps-12-projected-lottery-picks-dybantsa-boozer-acuff-peterson",
     "https://www.espn.com/nfl/story/_/id/48947413/2026-nfl-trade-deadline-early-look-players-candidates-buzz-crosby-aiyuk-kamara",
@@ -236,10 +237,10 @@
     "https://www.bbc.com/sport/basketball/articles/ce3pnvpyxnro?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/recibiria-barca-trofeo-liga-europa-129820839?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pini-zahavi-gestionaria-oferta-arabia-129815536?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48629118/2026-nba-playoff-expert-picks-second-round-conference-semi-finals",
-    "https://www.mlb.com/news/shohei-ohtani-pitch-dh-against-astros"
+    "https://www.espn.com/nba/story/_/id/48629118/2026-nba-playoff-expert-picks-second-round-conference-semi-finals"
   ],
   "postedTitles": [
+    "Judge, Yankees in holding pattern as they await clarity on injury",
     "Lamine Yamal rompe la banca",
     "🏀 Pro comps for NBA draft's top 12 prospects",
     "10 NFL players who could get traded before the 202...",
@@ -438,15 +439,9 @@
     "Timberwolves draw first blood despite Wembanyama record",
     "¿Cuándo recibiría el Barça el trofeo de Liga? Así se hace en Europa",
     "Pini Zahavi gestionaría la oferta millonaria de Arabia al Barça por Raphinha",
-    "Copy of NBA experts' picks for Thunder-Lakers and every se...",
-    "Ohtani (0.60 ERA) set to face Astros on Tuesday -- on the mound and as DH"
+    "Copy of NBA experts' picks for Thunder-Lakers and every se..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780525854461",
-      "resourceType": "image",
-      "uploadedAt": 1780525855306
-    },
     {
       "publicId": "tvs_videos/video_1780541268985",
       "resourceType": "video",
@@ -486,6 +481,11 @@
       "publicId": "tvs_cards/card_1780609712307",
       "resourceType": "image",
       "uploadedAt": 1780609713602
+    },
+    {
+      "publicId": "tvs_videos/video_1780626901324",
+      "resourceType": "video",
+      "uploadedAt": 1780626903731
     }
   ]
 }
