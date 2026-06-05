@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Judge",
+    "Injury",
     "Hamilton",
     "Leads",
     "Seven",
@@ -46,6 +48,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/5-ways-aaron-judge-injury-can-impact-yankees-american-league",
     "https://www.mlb.com/news/pipeline-inbox-questions-jackson-flora-draft-xavier-isaac",
     "https://www.bbc.com/sport/formula1/articles/clypyggd9g2o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-4",
@@ -244,10 +247,10 @@
     "https://www.sport.es/es/noticias/barca/quien-hara-lamine-yamal-clasico-madrid-pros-contras-bardghji-rashford-raphinha-129842493?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/jazz-chisholm-jr-s-tiebreaking-homer-lifts-yankees",
     "https://www.bbc.com/sport/formula1/articles/c4g4z98xk1po?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/primera-division/2026/05/05/liga-importa-futbol-aleman-terzic-ultimo-lista-grandes-exitos-fracaso.html",
-    "https://www.mlb.com/news/yoshinobu-yamamoto-faces-astros-for-the-first-time-in-his-career"
+    "https://www.marca.com/futbol/primera-division/2026/05/05/liga-importa-futbol-aleman-terzic-ultimo-lista-grandes-exitos-fracaso.html"
   ],
   "postedTitles": [
+    "5 ways Judge's injury could impact Yankees and entire AL",
     "Inbox: Who is the second-best college pitcher in the Draft after Flora?",
     "Hamilton fastest but Leclerc expects 'tight qualifying'",
     "Latest mock draft: NCAA upsets shake up first-round scouting plans",
@@ -446,15 +449,9 @@
     "¿Quién hará de Lamine Yamal en el clásico? Pros y contras de las tres opciones que baraja Hansi Flick",
     "Chisholm rips tiebreaking HR, adds epic bat flip as Yanks keep rolling",
     "What does Antonelli's improvement mean for Russell? F1 Q&A",
-    "La Liga importa fútbol alemán: Terzic, el último de una lista con grandes éxitos y un fracaso",
-    "Yamamoto (8 K's) rebounds as Dodgers' offense comes back to life in Houston"
+    "La Liga importa fútbol alemán: Terzic, el último de una lista con grandes éxitos y un fracaso"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780602995069",
-      "resourceType": "video",
-      "uploadedAt": 1780602997451
-    },
     {
       "publicId": "tvs_cards/card_1780609712307",
       "resourceType": "image",
@@ -499,6 +496,11 @@
       "publicId": "tvs_videos/video_1780688654634",
       "resourceType": "video",
       "uploadedAt": 1780688656907
+    },
+    {
+      "publicId": "tvs_cards/card_1780695601186",
+      "resourceType": "image",
+      "uploadedAt": 1780695602333
     }
   ]
 }
