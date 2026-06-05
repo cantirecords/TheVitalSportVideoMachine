@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Audi",
+    "Pushes",
     "World",
     "Cup",
     "Lamine",
@@ -40,6 +42,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/cg5p5m04p5eo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
     "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
     "https://www.mlb.com/news/aaron-judge-out-of-lineup-guardians-finale",
@@ -238,10 +241,10 @@
     "https://www.espn.com/nba/story/_/id/48682688/victor-wembanyama-12-block-triple-double-spurs-game-1-loss-timberwolves",
     "https://www.mlb.com/news/michael-kay-tribute-to-john-sterling-on-aaron-judge-homer",
     "https://www.sport.es/es/noticias/barca/patricio-pacifico-operado-exito-barcelona-129838620?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/basketball/articles/ce3pnvpyxnro?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/recibiria-barca-trofeo-liga-europa-129820839?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/basketball/articles/ce3pnvpyxnro?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Audi wants turbos to stay in F1 amid engine debate",
     "NBA futures: Knicks now title favorites after Game...",
     "Which World Cup records are most likely to be brok...",
     "Judge, Yankees in holding pattern as they await clarity on injury",
@@ -440,20 +443,9 @@
     "Wemby laments energy misuse amid historic night",
     "'THEEEE YANKEES WIN!' Sweep-capping rout a perfect homage to Sterling",
     "Patricio Pacífico, operado con éxito en Barcelona",
-    "Timberwolves draw first blood despite Wembanyama record",
-    "¿Cuándo recibiría el Barça el trofeo de Liga? Así se hace en Europa"
+    "Timberwolves draw first blood despite Wembanyama record"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780566327730",
-      "resourceType": "video",
-      "uploadedAt": 1780566329697
-    },
-    {
-      "publicId": "tvs_cards/card_1780572102500",
-      "resourceType": "image",
-      "uploadedAt": 1780572104073
-    },
     {
       "publicId": "tvs_cards/card_1780587206518",
       "resourceType": "image",
@@ -488,6 +480,11 @@
       "publicId": "tvs_videos/video_1780652004410",
       "resourceType": "video",
       "uploadedAt": 1780652006170
+    },
+    {
+      "publicId": "tvs_cards/card_1780659267477",
+      "resourceType": "image",
+      "uploadedAt": 1780659268926
     }
   ]
 }
