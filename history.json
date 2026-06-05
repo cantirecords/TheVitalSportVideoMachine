@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Seven",
+    "Top",
     "Audi",
     "Pushes",
     "World",
@@ -42,6 +44,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-4",
     "https://www.bbc.com/sport/american-football/articles/czx2vxe7nxgo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/cg5p5m04p5eo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
@@ -240,10 +243,10 @@
     "https://www.marca.com/futbol/primera-division/2026/05/05/liga-importa-futbol-aleman-terzic-ultimo-lista-grandes-exitos-fracaso.html",
     "https://www.mlb.com/news/yoshinobu-yamamoto-faces-astros-for-the-first-time-in-his-career",
     "https://www.espn.com/nba/story/_/id/48682688/victor-wembanyama-12-block-triple-double-spurs-game-1-loss-timberwolves",
-    "https://www.mlb.com/news/michael-kay-tribute-to-john-sterling-on-aaron-judge-homer",
-    "https://www.sport.es/es/noticias/barca/patricio-pacifico-operado-exito-barcelona-129838620?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/michael-kay-tribute-to-john-sterling-on-aaron-judge-homer"
   ],
   "postedTitles": [
+    "Latest mock draft: NCAA upsets shake up first-round scouting plans",
     "Super Bowl's half-time show prepares to go global",
     "Audi wants turbos to stay in F1 amid engine debate",
     "NBA futures: Knicks now title favorites after Game...",
@@ -442,8 +445,7 @@
     "La Liga importa fútbol alemán: Terzic, el último de una lista con grandes éxitos y un fracaso",
     "Yamamoto (8 K's) rebounds as Dodgers' offense comes back to life in Houston",
     "Wemby laments energy misuse amid historic night",
-    "'THEEEE YANKEES WIN!' Sweep-capping rout a perfect homage to Sterling",
-    "Patricio Pacífico, operado con éxito en Barcelona"
+    "'THEEEE YANKEES WIN!' Sweep-capping rout a perfect homage to Sterling"
   ],
   "cloudinaryAssets": [
     {
@@ -490,6 +492,11 @@
       "publicId": "tvs_videos/video_1780669683583",
       "resourceType": "video",
       "uploadedAt": 1780669686341
+    },
+    {
+      "publicId": "tvs_cards/card_1780672898382",
+      "resourceType": "image",
+      "uploadedAt": 1780672899614
     }
   ]
 }
