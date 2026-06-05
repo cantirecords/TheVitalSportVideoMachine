@@ -40,6 +40,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
     "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
     "https://www.mlb.com/news/aaron-judge-out-of-lineup-guardians-finale",
     "https://www.sport.es/es/noticias/barca/lamine-juega-propia-liga-yamal-barca-barcelona-pedri-joan-garcia-cubarsi-131008878?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -238,10 +239,10 @@
     "https://www.mlb.com/news/michael-kay-tribute-to-john-sterling-on-aaron-judge-homer",
     "https://www.sport.es/es/noticias/barca/patricio-pacifico-operado-exito-barcelona-129838620?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/basketball/articles/ce3pnvpyxnro?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/recibiria-barca-trofeo-liga-europa-129820839?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/pini-zahavi-gestionaria-oferta-arabia-129815536?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/recibiria-barca-trofeo-liga-europa-129820839?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "NBA futures: Knicks now title favorites after Game...",
     "Which World Cup records are most likely to be brok...",
     "Judge, Yankees in holding pattern as they await clarity on injury",
     "Lamine Yamal rompe la banca",
@@ -440,15 +441,9 @@
     "'THEEEE YANKEES WIN!' Sweep-capping rout a perfect homage to Sterling",
     "Patricio Pacífico, operado con éxito en Barcelona",
     "Timberwolves draw first blood despite Wembanyama record",
-    "¿Cuándo recibiría el Barça el trofeo de Liga? Así se hace en Europa",
-    "Pini Zahavi gestionaría la oferta millonaria de Arabia al Barça por Raphinha"
+    "¿Cuándo recibiría el Barça el trofeo de Liga? Así se hace en Europa"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780548711653",
-      "resourceType": "image",
-      "uploadedAt": 1780548712790
-    },
     {
       "publicId": "tvs_videos/video_1780566327730",
       "resourceType": "video",
@@ -488,6 +483,11 @@
       "publicId": "tvs_cards/card_1780633599119",
       "resourceType": "image",
       "uploadedAt": 1780633599973
+    },
+    {
+      "publicId": "tvs_videos/video_1780652004410",
+      "resourceType": "video",
+      "uploadedAt": 1780652006170
     }
   ]
 }
