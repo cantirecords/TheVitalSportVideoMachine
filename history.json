@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Isco",
+    "Trains",
     "Judge",
     "Injury",
     "Hamilton",
@@ -48,6 +50,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/betis/2026/06/05/betis-bromea-isco-hay-resistido-abandonar-ciudad-deportiva-durante-dias.html",
     "https://www.mlb.com/news/5-ways-aaron-judge-injury-can-impact-yankees-american-league",
     "https://www.mlb.com/news/pipeline-inbox-questions-jackson-flora-draft-xavier-isaac",
     "https://www.bbc.com/sport/formula1/articles/clypyggd9g2o?at_medium=RSS&at_campaign=rss",
@@ -246,10 +249,10 @@
     "https://www.espn.com/nfl/story/_/id/48688152/sources-nflra-schedules-vote-ratify-new-cba-nfl",
     "https://www.sport.es/es/noticias/barca/quien-hara-lamine-yamal-clasico-madrid-pros-contras-bardghji-rashford-raphinha-129842493?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/jazz-chisholm-jr-s-tiebreaking-homer-lifts-yankees",
-    "https://www.bbc.com/sport/formula1/articles/c4g4z98xk1po?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/primera-division/2026/05/05/liga-importa-futbol-aleman-terzic-ultimo-lista-grandes-exitos-fracaso.html"
+    "https://www.bbc.com/sport/formula1/articles/c4g4z98xk1po?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "El Betis bromea con Isco: \"Hay quien se ha resistido a abandonar la Ciudad Deportiva durante estos días...\"",
     "5 ways Judge's injury could impact Yankees and entire AL",
     "Inbox: Who is the second-best college pitcher in the Draft after Flora?",
     "Hamilton fastest but Leclerc expects 'tight qualifying'",
@@ -448,15 +451,9 @@
     "Sources: NFL, refs on verge of agreeing on CBA",
     "¿Quién hará de Lamine Yamal en el clásico? Pros y contras de las tres opciones que baraja Hansi Flick",
     "Chisholm rips tiebreaking HR, adds epic bat flip as Yanks keep rolling",
-    "What does Antonelli's improvement mean for Russell? F1 Q&A",
-    "La Liga importa fútbol alemán: Terzic, el último de una lista con grandes éxitos y un fracaso"
+    "What does Antonelli's improvement mean for Russell? F1 Q&A"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780626901324",
-      "resourceType": "video",
-      "uploadedAt": 1780626903731
-    },
     {
       "publicId": "tvs_cards/card_1780633599119",
       "resourceType": "image",
@@ -496,6 +493,11 @@
       "publicId": "tvs_cards/card_1780695601186",
       "resourceType": "image",
       "uploadedAt": 1780695602333
+    },
+    {
+      "publicId": "tvs_cards/card_1780718936477",
+      "resourceType": "image",
+      "uploadedAt": 1780718937523
     }
   ]
 }
