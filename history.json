@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Honor",
     "Isco",
     "Trains",
     "Judge",
@@ -50,6 +52,7 @@
     "Leads"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-unveil-mural-tribute-to-glenn-burke-billy-bean-on-pride-night",
     "https://www.mlb.com/news/freddie-freeman-hits-walk-off-home-run-vs-angels",
     "https://www.marca.com/futbol/betis/2026/06/05/betis-bromea-isco-hay-resistido-abandonar-ciudad-deportiva-durante-dias.html",
     "https://www.mlb.com/news/5-ways-aaron-judge-injury-can-impact-yankees-american-league",
@@ -248,10 +251,10 @@
     "https://www.espn.com/nba/story/_/id/48691002/austin-reaves-shooting-woes-persist-lakers-game-1-loss-thunder",
     "https://www.espn.com/nba/story/_/id/48690344/thunder-roll-lakers-game-1-west-semifinals",
     "https://www.espn.com/nfl/story/_/id/48688152/sources-nflra-schedules-vote-ratify-new-cba-nfl",
-    "https://www.sport.es/es/noticias/barca/quien-hara-lamine-yamal-clasico-madrid-pros-contras-bardghji-rashford-raphinha-129842493?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/jazz-chisholm-jr-s-tiebreaking-homer-lifts-yankees"
+    "https://www.sport.es/es/noticias/barca/quien-hara-lamine-yamal-clasico-madrid-pros-contras-bardghji-rashford-raphinha-129842493?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Dodgers honor trailblazers Burke, Bean by unveiling mural on Pride Night",
     "'Freddie just has that aura': Freeman lifts Dodgers with 20th career walk-off hit",
     "El Betis bromea con Isco: \"Hay quien se ha resistido a abandonar la Ciudad Deportiva durante estos días...\"",
     "5 ways Judge's injury could impact Yankees and entire AL",
@@ -450,15 +453,9 @@
     "Lakers' Reaves 3-for-16 as shooting woes persist",
     "Thunder roll past Lakers in Game 1 of West semis",
     "Sources: NFL, refs on verge of agreeing on CBA",
-    "¿Quién hará de Lamine Yamal en el clásico? Pros y contras de las tres opciones que baraja Hansi Flick",
-    "Chisholm rips tiebreaking HR, adds epic bat flip as Yanks keep rolling"
+    "¿Quién hará de Lamine Yamal en el clásico? Pros y contras de las tres opciones que baraja Hansi Flick"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780652004410",
-      "resourceType": "video",
-      "uploadedAt": 1780652006170
-    },
     {
       "publicId": "tvs_cards/card_1780659267477",
       "resourceType": "image",
@@ -498,6 +495,11 @@
       "publicId": "tvs_videos/video_1780734394424",
       "resourceType": "video",
       "uploadedAt": 1780734396440
+    },
+    {
+      "publicId": "tvs_cards/card_1780740795556",
+      "resourceType": "image",
+      "uploadedAt": 1780740796765
     }
   ]
 }
