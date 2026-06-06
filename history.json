@@ -52,6 +52,7 @@
     "Fonseca"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48967648/sources-nba-eyes-interaction-jalen-brunson-fans-game-1",
     "https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/gavi-emociona-recordando-convocatoria-espana-131095615?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/cq51d205x27o?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.sport.es/es/noticias/barca/kounde-vinicius-jugador-problemas-dado-129911959?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/videos/cvgz8zn3nyxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48678873/pittsburgh-steelers-2026-draft-class-rookies-tiers-starters-projects",
-    "https://www.espn.com/nba/story/_/id/48689173/clippers-poke-fun-pacers-ahead-2026-nba-draft-lottery",
-    "https://www.espn.com/nba/story/_/id/48691002/austin-reaves-shooting-woes-persist-lakers-game-1-loss-thunder"
+    "https://www.espn.com/nba/story/_/id/48689173/clippers-poke-fun-pacers-ahead-2026-nba-draft-lottery"
   ],
   "postedTitles": [
+    "Sources: NBA investigating Brunson-fan incident",
     "'Traitor' - Elmo in hot water with New Yorkers over Knicks NBA finals post",
     "Gavi se emociona recordando su convocatoria con España para el Mundial: \"No lo quería ver\"",
     "Ferrari boss to miss qualifying for medical reasons",
@@ -452,15 +453,9 @@
     "Koundé: \"Vinicius es el jugador que más problemas me ha dado\"",
     "Watch: Kane gives Dunfermline play-off advantage",
     "Steelers' 2026 draft picks ranked from starters to...",
-    "Clippers troll Pacers ahead of draft lottery with ...",
-    "Lakers' Reaves 3-for-16 as shooting woes persist"
+    "Clippers troll Pacers ahead of draft lottery with ..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780682560230",
-      "resourceType": "image",
-      "uploadedAt": 1780682561466
-    },
     {
       "publicId": "tvs_videos/video_1780688654634",
       "resourceType": "video",
@@ -500,6 +495,11 @@
       "publicId": "tvs_cards/card_1780766497795",
       "resourceType": "image",
       "uploadedAt": 1780766498684
+    },
+    {
+      "publicId": "tvs_videos/video_1780772871247",
+      "resourceType": "video",
+      "uploadedAt": 1780772873654
     }
   ]
 }
