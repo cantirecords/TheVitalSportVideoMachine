@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lions",
+    "Favored",
     "Fastest",
     "Pitcher",
     "Misiorowski",
@@ -47,11 +49,10 @@
     "Barça",
     "Sells",
     "Rashford",
-    "Deal",
-    "100",
-    "Days"
+    "Deal"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48951382/2026-nfl-season-worst-first-afc-nfc-division-odds-predictions-turnarounds",
     "https://www.mlb.com/news/mlb-youth-academies-breakthrough-series-a-developmental-pipeline",
     "https://www.mlb.com/news/jacob-misiorowski-first-start-at-coors-field",
     "https://www.espn.com/mlb/story/_/id/48988921/brewers-misiorowski-throws-1037-mph-pitch-set-starter-record",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/red-sox-rays-cardinals-padres-in-espn-exclusive-doubleheader-on-may-7",
     "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe",
     "https://www.bbc.com/sport/football/articles/cj0pq152zejo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48687450/nba-playoffs-2026-conference-semifinals-rankings-knicks-76ers-spurs-wolves-thunder-lakers-pistons-cavs",
-    "https://www.sport.es/es/noticias/barca/javier-saviola-44-anos-inicios-129923596?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nba/story/_/id/48687450/nba-playoffs-2026-conference-semifinals-rankings-knicks-76ers-spurs-wolves-thunder-lakers-pistons-cavs"
   ],
   "postedTitles": [
+    "Copy of Worst-to-first rankings: Which NFL teams are most ...",
     "How MLB Youth Academies are making Breakthrough Series a developmental pipeline",
     "Miz sets record with 45(!) pitches 101+ mph as he lowers ERA to 1.50",
     "Misiorowski sets SP record with 103.7 mph pitch",
@@ -452,20 +453,9 @@
     "MLB's hottest team headlines ESPN-exclusive doubleheader tonight",
     "Clásico combined XI: With no Yamal or Mbappé, who'...",
     "How Kane goal could earn Germany extra Champions League spot",
-    "Stacking the remaining NBA teams, from 1 to 8: Can...",
-    "Javier Saviola (44 años), sobre los inicios de Lamine Yamal: \"Lo veíamos diferente al resto\""
+    "Stacking the remaining NBA teams, from 1 to 8: Can..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780772871247",
-      "resourceType": "video",
-      "uploadedAt": 1780772873654
-    },
-    {
-      "publicId": "tvs_cards/card_1780780280581",
-      "resourceType": "image",
-      "uploadedAt": 1780780281567
-    },
     {
       "publicId": "tvs_videos/video_1780800016869",
       "resourceType": "video",
@@ -500,6 +490,11 @@
       "publicId": "tvs_videos/video_1780859309448",
       "resourceType": "video",
       "uploadedAt": 1780859311847
+    },
+    {
+      "publicId": "tvs_cards/card_1780867233855",
+      "resourceType": "image",
+      "uploadedAt": 1780867235360
     }
   ]
 }
