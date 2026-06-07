@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Red",
+    "Sox",
     "NBA",
     "Probes",
     "Knicks",
@@ -47,11 +49,10 @@
     "Barca",
     "Speeds",
     "Barcelona",
-    "Wetherholt",
-    "Breaks",
-    "Rugby"
+    "Wetherholt"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/red-sox-yankees-june-6-game-postponed",
     "https://www.espn.com/mlb/story/_/id/48967255/2026-mlb-owners-meetings-labor-cba-mlbpa-salary-cap-rob-manfred-takeaways",
     "https://www.espn.com/nba/story/_/id/48977481/sources-nba-interviews-leonard-adviser-aspiration-case",
     "https://www.espn.com/nba/story/_/id/48967648/sources-nba-eyes-interaction-jalen-brunson-fans-game-1",
@@ -250,10 +251,10 @@
     "https://www.sport.es/es/noticias/barca/pini-zahavi-llega-barcelona-definir-129919820?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/joao-pedro-alternativa-barca-suplir-129884639?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48680082/why-real-madrid-reunion-jose-mourinho-seems-increasingly-likely",
-    "https://www.sport.es/es/noticias/barca/kounde-vinicius-jugador-problemas-dado-129911959?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/videos/cvgz8zn3nyxo?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/kounde-vinicius-jugador-problemas-dado-129911959?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Red Sox-Yankees game postponed Saturday, rescheduled for Aug. 29 twin bill",
     "Biggest takeaways from this week's MLB owners meet...",
     "Sources: NBA interviews Kawhi in Aspiration case",
     "Sources: NBA investigating Brunson-fan incident",
@@ -452,15 +453,9 @@
     "Pini Zahavi llega a Barcelona para definir el futuro de Robert Lewandowski: \"Hablaremos luego\"",
     "João Pedro, la alternativa del Barça para suplir Lewandowski",
     "Why Madrid's Mourinho reunion seems increasingly l...",
-    "Koundé: \"Vinicius es el jugador que más problemas me ha dado\"",
-    "Watch: Kane gives Dunfermline play-off advantage"
+    "Koundé: \"Vinicius es el jugador que más problemas me ha dado\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780718936477",
-      "resourceType": "image",
-      "uploadedAt": 1780718937523
-    },
     {
       "publicId": "tvs_videos/video_1780734394424",
       "resourceType": "video",
@@ -500,6 +495,11 @@
       "publicId": "tvs_videos/video_1780800016869",
       "resourceType": "video",
       "uploadedAt": 1780800019277
+    },
+    {
+      "publicId": "tvs_cards/card_1780807534736",
+      "resourceType": "image",
+      "uploadedAt": 1780807535678
     }
   ]
 }
