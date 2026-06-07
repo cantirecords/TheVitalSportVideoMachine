@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Misiorowski",
+    "Breaks",
     "Ronaldo",
     "Leads",
     "Red",
@@ -47,11 +49,10 @@
     "100",
     "Days",
     "Giuly",
-    "Remembers",
-    "Barca",
-    "Speeds"
+    "Remembers"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/48988921/brewers-misiorowski-throws-1037-mph-pitch-set-starter-record",
     "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/tennis/story/_/id/48983377/serena-williams-comeback-return-tennis-victoria-mboko-queen-club",
     "https://www.mlb.com/news/red-sox-yankees-june-6-game-postponed",
@@ -250,10 +251,10 @@
     "https://www.espn.com/nba/story/_/id/48687450/nba-playoffs-2026-conference-semifinals-rankings-knicks-76ers-spurs-wolves-thunder-lakers-pistons-cavs",
     "https://www.sport.es/es/noticias/barca/javier-saviola-44-anos-inicios-129923596?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
-    "https://www.sport.es/es/noticias/barca/pini-zahavi-llega-barcelona-definir-129919820?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/joao-pedro-alternativa-barca-suplir-129884639?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/pini-zahavi-llega-barcelona-definir-129919820?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Misiorowski sets SP record with 103.7 mph pitch",
     "Are Portugal better without Ronaldo?",
     "Serena Williams is returning to tennis -- what doe...",
     "Red Sox-Yankees game postponed Saturday, rescheduled for Aug. 29 twin bill",
@@ -452,15 +453,9 @@
     "Stacking the remaining NBA teams, from 1 to 8: Can...",
     "Javier Saviola (44 años), sobre los inicios de Lamine Yamal: \"Lo veíamos diferente al resto\"",
     "NBA playoff takeaways: Spurs blow out Wolves by 38...",
-    "Pini Zahavi llega a Barcelona para definir el futuro de Robert Lewandowski: \"Hablaremos luego\"",
-    "João Pedro, la alternativa del Barça para suplir Lewandowski"
+    "Pini Zahavi llega a Barcelona para definir el futuro de Robert Lewandowski: \"Hablaremos luego\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780754409063",
-      "resourceType": "image",
-      "uploadedAt": 1780754410520
-    },
     {
       "publicId": "tvs_cards/card_1780766497795",
       "resourceType": "image",
@@ -495,6 +490,11 @@
       "publicId": "tvs_cards/card_1780828438623",
       "resourceType": "image",
       "uploadedAt": 1780828439799
+    },
+    {
+      "publicId": "tvs_cards/card_1780841444413",
+      "resourceType": "image",
+      "uploadedAt": 1780841445370
     }
   ]
 }
