@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Lions",
     "Favored",
     "Fastest",
@@ -8,50 +9,10 @@
     "Breaks",
     "Ronaldo",
     "Leads",
-    "Red",
-    "Sox",
-    "NBA",
-    "Probes",
-    "Knicks",
-    "Fans",
-    "Gavi",
-    "Makes",
-    "Dodgers",
-    "Honor",
-    "Isco",
-    "Trains",
-    "Judge",
-    "Injury",
-    "Hamilton",
-    "Leads",
-    "Seven",
-    "Top",
-    "Audi",
-    "Pushes",
-    "World",
-    "Cup",
-    "Lamine",
-    "Yamal",
-    "Blockbuster",
-    "Trades",
-    "All",
-    "Stars",
-    "Haaland",
-    "Transfer",
-    "Ohtani",
-    "Rests",
-    "Sánchez",
-    "Seeks",
-    "Messi",
-    "Tops",
-    "Bellingham",
-    "Gets",
-    "Barça",
-    "Sells",
-    "Rashford",
-    "Deal"
+    "Red"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48951382/2026-nfl-season-worst-first-afc-nfc-division-odds-predictions-turnarounds",
     "https://www.mlb.com/news/mlb-youth-academies-breakthrough-series-a-developmental-pipeline",
     "https://www.mlb.com/news/jacob-misiorowski-first-start-at-coors-field",
@@ -250,10 +211,10 @@
     "https://www.bbc.com/sport/tennis/articles/cz92nwlg8q1o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/red-sox-rays-cardinals-padres-in-espn-exclusive-doubleheader-on-may-7",
     "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe",
-    "https://www.bbc.com/sport/football/articles/cj0pq152zejo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48687450/nba-playoffs-2026-conference-semifinals-rankings-knicks-76ers-spurs-wolves-thunder-lakers-pistons-cavs"
+    "https://www.bbc.com/sport/football/articles/cj0pq152zejo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Real Madrid to join Fernandes race - Monday's gossip",
     "Copy of Worst-to-first rankings: Which NFL teams are most ...",
     "How MLB Youth Academies are making Breakthrough Series a developmental pipeline",
     "Miz sets record with 45(!) pitches 101+ mph as he lowers ERA to 1.50",
@@ -452,15 +413,9 @@
     "Players not getting the respect they deserve - Sinner",
     "MLB's hottest team headlines ESPN-exclusive doubleheader tonight",
     "Clásico combined XI: With no Yamal or Mbappé, who'...",
-    "How Kane goal could earn Germany extra Champions League spot",
-    "Stacking the remaining NBA teams, from 1 to 8: Can..."
+    "How Kane goal could earn Germany extra Champions League spot"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780800016869",
-      "resourceType": "video",
-      "uploadedAt": 1780800019277
-    },
     {
       "publicId": "tvs_cards/card_1780807534736",
       "resourceType": "image",
@@ -495,6 +450,11 @@
       "publicId": "tvs_cards/card_1780867233855",
       "resourceType": "image",
       "uploadedAt": 1780867235360
+    },
+    {
+      "publicId": "tvs_videos/video_1780886654704",
+      "resourceType": "video",
+      "uploadedAt": 1780886656718
     }
   ]
 }
