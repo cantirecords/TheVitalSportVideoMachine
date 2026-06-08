@@ -18,6 +18,7 @@
     "Red"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/marlins-anthony-bender-owns-mlb-best-pitch-befitting-of-his-name",
     "https://www.sport.es/es/noticias/barca/shane-kluivert-apunta-pretemporada-barca-131156426?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/rugby-league/articles/cx212n56zz6o?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.sport.es/es/noticias/barca/messi-bendice-heredero-recuerda-joven-129986548?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c202lg07wq8o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
-    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-may-7",
-    "https://www.bbc.com/sport/athletics/articles/ceqpjdgge2zo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-may-7"
   ],
   "postedTitles": [
+    "The best pitch in MLB this season might surprise you, but it makes perfect sense",
     "Shane Kluivert se apunta a la pretemporada del Barça",
     "Bellingham has fight to start for England - Tuchel",
     "Rugby league's record loss but Crusaders win survival",
@@ -418,15 +419,9 @@
     "Messi bendice a Lamine Yamal como su heredero: \"Me recuerda a mí de joven\"",
     "FPL talking point: Time to triple captain Haaland?",
     "The biggest remaining roster hole for every NFL te...",
-    "Here is the first official 2026 mock draft!",
-    "Mashed potato & 19 minutes' sleep - Entrekin's epic race"
+    "Here is the first official 2026 mock draft!"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780859309448",
-      "resourceType": "video",
-      "uploadedAt": 1780859311847
-    },
     {
       "publicId": "tvs_cards/card_1780867233855",
       "resourceType": "image",
@@ -461,6 +456,11 @@
       "publicId": "tvs_cards/card_1780943425863",
       "resourceType": "image",
       "uploadedAt": 1780943427722
+    },
+    {
+      "publicId": "tvs_videos/video_1780949019713",
+      "resourceType": "video",
+      "uploadedAt": 1780949021918
     }
   ]
 }
