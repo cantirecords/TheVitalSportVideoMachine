@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Xavi",
+    "Espart",
     "Madrid",
     "Lions",
     "Favored",
@@ -12,6 +14,7 @@
     "Red"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/mensaje-cule-xavi-espart-quiere-131119759?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48951382/2026-nfl-season-worst-first-afc-nfc-division-odds-predictions-turnarounds",
     "https://www.mlb.com/news/mlb-youth-academies-breakthrough-series-a-developmental-pipeline",
@@ -210,10 +213,10 @@
     "https://www.espn.com/nfl/story/_/id/48675818/2026-nfl-offseason-draft-veteran-hot-seats-position-battles-rookies",
     "https://www.bbc.com/sport/tennis/articles/cz92nwlg8q1o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/red-sox-rays-cardinals-padres-in-espn-exclusive-doubleheader-on-may-7",
-    "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe",
-    "https://www.bbc.com/sport/football/articles/cj0pq152zejo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe"
   ],
   "postedTitles": [
+    "El mensaje más culé de un Xavi Espart que quiere volar con el Barça",
     "Real Madrid to join Fernandes race - Monday's gossip",
     "Copy of Worst-to-first rankings: Which NFL teams are most ...",
     "How MLB Youth Academies are making Breakthrough Series a developmental pipeline",
@@ -412,15 +415,9 @@
     "Who is on the hot seat after the NFL draft? 14 vet...",
     "Players not getting the respect they deserve - Sinner",
     "MLB's hottest team headlines ESPN-exclusive doubleheader tonight",
-    "Clásico combined XI: With no Yamal or Mbappé, who'...",
-    "How Kane goal could earn Germany extra Champions League spot"
+    "Clásico combined XI: With no Yamal or Mbappé, who'..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780807534736",
-      "resourceType": "image",
-      "uploadedAt": 1780807535678
-    },
     {
       "publicId": "tvs_videos/video_1780822041134",
       "resourceType": "video",
@@ -455,6 +452,11 @@
       "publicId": "tvs_videos/video_1780886654704",
       "resourceType": "video",
       "uploadedAt": 1780886656718
+    },
+    {
+      "publicId": "tvs_cards/card_1780894215494",
+      "resourceType": "image",
+      "uploadedAt": 1780894216208
     }
   ]
 }
