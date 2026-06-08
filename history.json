@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Signs",
     "Crusaders",
     "Survive",
     "Xavi",
@@ -16,6 +18,7 @@
     "Red"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/shane-kluivert-apunta-pretemporada-barca-131156426?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/rugby-league/articles/cx212n56zz6o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-desvela-cuenta-x-131137277?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -214,10 +217,10 @@
     "https://www.bbc.com/sport/football/articles/c202lg07wq8o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-may-7",
-    "https://www.bbc.com/sport/athletics/articles/ceqpjdgge2zo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/48675818/2026-nfl-offseason-draft-veteran-hot-seats-position-battles-rookies"
+    "https://www.bbc.com/sport/athletics/articles/ceqpjdgge2zo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Shane Kluivert se apunta a la pretemporada del Barça",
     "Bellingham has fight to start for England - Tuchel",
     "Rugby league's record loss but Crusaders win survival",
     "Lamine Yamal desvela si tiene cuenta de X: \"La gente no quiere buscar bien\"",
@@ -416,15 +419,9 @@
     "FPL talking point: Time to triple captain Haaland?",
     "The biggest remaining roster hole for every NFL te...",
     "Here is the first official 2026 mock draft!",
-    "Mashed potato & 19 minutes' sleep - Entrekin's epic race",
-    "Who is on the hot seat after the NFL draft? 14 vet..."
+    "Mashed potato & 19 minutes' sleep - Entrekin's epic race"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1780853157335",
-      "resourceType": "image",
-      "uploadedAt": 1780853158379
-    },
     {
       "publicId": "tvs_videos/video_1780859309448",
       "resourceType": "video",
@@ -459,6 +456,11 @@
       "publicId": "tvs_videos/video_1780932734268",
       "resourceType": "video",
       "uploadedAt": 1780932736811
+    },
+    {
+      "publicId": "tvs_cards/card_1780943425863",
+      "resourceType": "image",
+      "uploadedAt": 1780943427722
     }
   ]
 }
