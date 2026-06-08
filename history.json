@@ -14,6 +14,7 @@
     "Red"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/lamine-yamal-desvela-cuenta-x-131137277?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/mensaje-cule-xavi-espart-quiere-131119759?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48951382/2026-nfl-season-worst-first-afc-nfc-division-odds-predictions-turnarounds",
@@ -212,10 +213,10 @@
     "https://www.bbc.com/sport/athletics/articles/ceqpjdgge2zo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48675818/2026-nfl-offseason-draft-veteran-hot-seats-position-battles-rookies",
     "https://www.bbc.com/sport/tennis/articles/cz92nwlg8q1o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/red-sox-rays-cardinals-padres-in-espn-exclusive-doubleheader-on-may-7",
-    "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe"
+    "https://www.mlb.com/news/red-sox-rays-cardinals-padres-in-espn-exclusive-doubleheader-on-may-7"
   ],
   "postedTitles": [
+    "Lamine Yamal desvela si tiene cuenta de X: \"La gente no quiere buscar bien\"",
     "El mensaje más culé de un Xavi Espart que quiere volar con el Barça",
     "Real Madrid to join Fernandes race - Monday's gossip",
     "Copy of Worst-to-first rankings: Which NFL teams are most ...",
@@ -414,15 +415,9 @@
     "Mashed potato & 19 minutes' sleep - Entrekin's epic race",
     "Who is on the hot seat after the NFL draft? 14 vet...",
     "Players not getting the respect they deserve - Sinner",
-    "MLB's hottest team headlines ESPN-exclusive doubleheader tonight",
-    "Clásico combined XI: With no Yamal or Mbappé, who'..."
+    "MLB's hottest team headlines ESPN-exclusive doubleheader tonight"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780822041134",
-      "resourceType": "video",
-      "uploadedAt": 1780822043411
-    },
     {
       "publicId": "tvs_cards/card_1780828438623",
       "resourceType": "image",
@@ -457,6 +452,11 @@
       "publicId": "tvs_cards/card_1780894215494",
       "resourceType": "image",
       "uploadedAt": 1780894216208
+    },
+    {
+      "publicId": "tvs_videos/video_1780913989739",
+      "resourceType": "video",
+      "uploadedAt": 1780913991835
     }
   ]
 }
