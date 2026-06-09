@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Colts",
+    "Cautious",
     "Monaco",
     "Pit",
     "Skenes",
@@ -20,6 +22,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
     "https://www.bbc.com/sport/formula1/articles/c6214mp9nv9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/paul-skenes-june-9-start-vs-dodgers",
     "https://www.bbc.com/sport/basketball/articles/c07ynypgz8yo?at_medium=RSS&at_campaign=rss",
@@ -218,10 +221,10 @@
     "https://www.mlb.com/news/freddie-freeman-hits-100th-dodgers-home-run",
     "https://www.espn.com/mlb/story/_/id/48717076/brewers-jacob-misiorowski-hits-1036-mph-fastest-pitch-starter-statcast-era",
     "https://www.bbc.com/sport/formula1/articles/c8jvee3x3wro?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/jacob-misiorowski-throws-fastest-tracked-pitches-by-starter",
-    "https://www.espn.com/nba/story/_/id/48704514/windhorst-why-stakes-2026-nba-draft-lottery-enormous-possibly-game-changing"
+    "https://www.mlb.com/news/jacob-misiorowski-throws-fastest-tracked-pitches-by-starter"
   ],
   "postedTitles": [
+    "NFL minicamp daily updates: Yes! Jaxson Dart is ad...",
     "Why were so many caught out for pit-lane speeding at Monaco? F1 Q&A",
     "It's strength vs. strength with Skenes set to battle Dodgers",
     "Wembanyama stars as Spurs trim Knicks' Finals lead",
@@ -420,15 +423,9 @@
     "Freeman hits 100th Dodgers homer -- against his former club",
     "Historic heat: Misiorowski tops 103 mph 10 times",
     "F1 bosses agree to engine design change for 2027",
-    "Facing Yanks for first time, Miz amps up heater to record heights",
-    "Windhorst: Why the stakes of this NBA draft lotter..."
+    "Facing Yanks for first time, Miz amps up heater to record heights"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780949019713",
-      "resourceType": "video",
-      "uploadedAt": 1780949021918
-    },
     {
       "publicId": "tvs_cards/card_1780955809146",
       "resourceType": "image",
@@ -458,6 +455,11 @@
       "publicId": "tvs_cards/card_1781028882892",
       "resourceType": "image",
       "uploadedAt": 1781028883849
+    },
+    {
+      "publicId": "tvs_cards/card_1781042068035",
+      "resourceType": "image",
+      "uploadedAt": 1781042069041
     }
   ]
 }
