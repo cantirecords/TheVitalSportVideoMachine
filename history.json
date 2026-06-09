@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Araujo",
+    "Injury",
     "LeBron",
     "Oldest",
     "Coach",
@@ -12,6 +14,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/araujo-enciende-alarmas-uruguay-viaje-131136723?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/college-baseball-stock-watch-june-08-2026",
     "https://www.espn.com/soccer/story/_/id/48948700/the-world-cup-record-broken-three-s-first-week-curacao-dick-advocaat-south-africa-hugo-broos-czechia-miroslav-koubek",
     "https://www.mlb.com/news/marlins-anthony-bender-owns-mlb-best-pitch-befitting-of-his-name",
@@ -210,10 +213,10 @@
     "https://www.espn.com/nba/story/_/id/48704514/windhorst-why-stakes-2026-nba-draft-lottery-enormous-possibly-game-changing",
     "https://www.espn.com/nba/story/_/id/48686847/2026-nba-draft-lottery-odds-every-team-potential-picks-wizards-pacers-nets-kings-grizzlies",
     "https://www.mlb.com/news/mlb-celebrates-mother-s-day-2026",
-    "https://www.sport.es/es/noticias/barca/messi-bendice-heredero-recuerda-joven-129986548?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/football/articles/c202lg07wq8o?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/messi-bendice-heredero-recuerda-joven-129986548?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Araujo enciende las alarmas en Uruguay: viaje exprés a Barcelona antes del Mundial",
     "Draft stock watch: Reese, Lebron shine in NCAA Super Regional action",
     "The World Cup record that will be broken three tim...",
     "The best pitch in MLB this season might surprise you, but it makes perfect sense",
@@ -412,15 +415,9 @@
     "Windhorst: Why the stakes of this NBA draft lotter...",
     "Most likely picks for every NBA lottery team",
     "MLB to celebrate Mother's Day, raise awareness in fight against breast cancer",
-    "Messi bendice a Lamine Yamal como su heredero: \"Me recuerda a mí de joven\"",
-    "FPL talking point: Time to triple captain Haaland?"
+    "Messi bendice a Lamine Yamal como su heredero: \"Me recuerda a mí de joven\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780886654704",
-      "resourceType": "video",
-      "uploadedAt": 1780886656718
-    },
     {
       "publicId": "tvs_cards/card_1780894215494",
       "resourceType": "image",
@@ -460,6 +457,11 @@
       "publicId": "tvs_videos/video_1780971073370",
       "resourceType": "video",
       "uploadedAt": 1780971075899
+    },
+    {
+      "publicId": "tvs_cards/card_1780978390352",
+      "resourceType": "image",
+      "uploadedAt": 1780978392302
     }
   ]
 }
