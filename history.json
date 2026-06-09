@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Monaco",
+    "Pit",
     "Skenes",
     "Faces",
     "Spurs",
@@ -18,6 +20,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/c6214mp9nv9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/paul-skenes-june-9-start-vs-dodgers",
     "https://www.bbc.com/sport/basketball/articles/c07ynypgz8yo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/araujo-enciende-alarmas-uruguay-viaje-131136723?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -216,10 +219,10 @@
     "https://www.espn.com/mlb/story/_/id/48717076/brewers-jacob-misiorowski-hits-1036-mph-fastest-pitch-starter-statcast-era",
     "https://www.bbc.com/sport/formula1/articles/c8jvee3x3wro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jacob-misiorowski-throws-fastest-tracked-pitches-by-starter",
-    "https://www.espn.com/nba/story/_/id/48704514/windhorst-why-stakes-2026-nba-draft-lottery-enormous-possibly-game-changing",
-    "https://www.espn.com/nba/story/_/id/48686847/2026-nba-draft-lottery-odds-every-team-potential-picks-wizards-pacers-nets-kings-grizzlies"
+    "https://www.espn.com/nba/story/_/id/48704514/windhorst-why-stakes-2026-nba-draft-lottery-enormous-possibly-game-changing"
   ],
   "postedTitles": [
+    "Why were so many caught out for pit-lane speeding at Monaco? F1 Q&A",
     "It's strength vs. strength with Skenes set to battle Dodgers",
     "Wembanyama stars as Spurs trim Knicks' Finals lead",
     "Araujo enciende las alarmas en Uruguay: viaje exprés a Barcelona antes del Mundial",
@@ -418,15 +421,9 @@
     "Historic heat: Misiorowski tops 103 mph 10 times",
     "F1 bosses agree to engine design change for 2027",
     "Facing Yanks for first time, Miz amps up heater to record heights",
-    "Windhorst: Why the stakes of this NBA draft lotter...",
-    "Most likely picks for every NBA lottery team"
+    "Windhorst: Why the stakes of this NBA draft lotter..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1780932734268",
-      "resourceType": "video",
-      "uploadedAt": 1780932736811
-    },
     {
       "publicId": "tvs_cards/card_1780943425863",
       "resourceType": "image",
@@ -461,6 +458,11 @@
       "publicId": "tvs_cards/card_1781018489381",
       "resourceType": "image",
       "uploadedAt": 1781018490717
+    },
+    {
+      "publicId": "tvs_cards/card_1781028882892",
+      "resourceType": "image",
+      "uploadedAt": 1781028883849
     }
   ]
 }
