@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "LeBron",
     "Oldest",
     "Coach",
     "Barça",
@@ -8,18 +9,10 @@
     "Survive",
     "Xavi",
     "Espart",
-    "Madrid",
-    "Lions",
-    "Favored",
-    "Fastest",
-    "Pitcher",
-    "Misiorowski",
-    "Breaks",
-    "Ronaldo",
-    "Leads",
-    "Red"
+    "Madrid"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/college-baseball-stock-watch-june-08-2026",
     "https://www.espn.com/soccer/story/_/id/48948700/the-world-cup-record-broken-three-s-first-week-curacao-dick-advocaat-south-africa-hugo-broos-czechia-miroslav-koubek",
     "https://www.mlb.com/news/marlins-anthony-bender-owns-mlb-best-pitch-befitting-of-his-name",
     "https://www.sport.es/es/noticias/barca/shane-kluivert-apunta-pretemporada-barca-131156426?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -218,10 +211,10 @@
     "https://www.espn.com/nba/story/_/id/48686847/2026-nba-draft-lottery-odds-every-team-potential-picks-wizards-pacers-nets-kings-grizzlies",
     "https://www.mlb.com/news/mlb-celebrates-mother-s-day-2026",
     "https://www.sport.es/es/noticias/barca/messi-bendice-heredero-recuerda-joven-129986548?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/football/articles/c202lg07wq8o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/48649984/2026-nfl-offseason-biggest-roster-holes-depth-needs-all-32-teams-postdraft"
+    "https://www.bbc.com/sport/football/articles/c202lg07wq8o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Draft stock watch: Reese, Lebron shine in NCAA Super Regional action",
     "The World Cup record that will be broken three tim...",
     "The best pitch in MLB this season might surprise you, but it makes perfect sense",
     "Shane Kluivert se apunta a la pretemporada del Barça",
@@ -420,8 +413,7 @@
     "Most likely picks for every NBA lottery team",
     "MLB to celebrate Mother's Day, raise awareness in fight against breast cancer",
     "Messi bendice a Lamine Yamal como su heredero: \"Me recuerda a mí de joven\"",
-    "FPL talking point: Time to triple captain Haaland?",
-    "The biggest remaining roster hole for every NFL te..."
+    "FPL talking point: Time to triple captain Haaland?"
   ],
   "cloudinaryAssets": [
     {
@@ -463,6 +455,11 @@
       "publicId": "tvs_cards/card_1780955809146",
       "resourceType": "image",
       "uploadedAt": 1780955810495
+    },
+    {
+      "publicId": "tvs_videos/video_1780971073370",
+      "resourceType": "video",
+      "uploadedAt": 1780971075899
     }
   ]
 }
