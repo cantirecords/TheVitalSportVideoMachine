@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Mourinho",
+    "Returns",
     "Nats",
     "Roll",
     "Barcelona",
@@ -14,6 +16,7 @@
     "Spurs"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/48816247/real-madrid-jose-mourinho-florentino-perez-laliga-special-one-manager",
     "https://www.espn.com/nhl/story/_/id/49009036/nhl-undrafted-players-ranking-scoring-scouting-contracts-free-agency",
     "https://www.mlb.com/news/nationals-get-off-to-hot-start-in-win-vs-giants",
     "https://www.mlb.com/news/rockies-no-6-prospect-cole-carrigg-triples-for-first-mlb-hit",
@@ -212,10 +215,10 @@
     "https://www.sport.es/es/noticias/barca/mensaje-hernandez-hernandez-vinicius-pedri-130074720?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/cvgzpv1g3dvo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/48702612/mlb-2026-teams-beat-dodgers-threepeat-braves-yankees-cubs-pirates-phillies-mariners",
-    "https://www.mlb.com/news/munetaka-murakami-ties-aaron-judge-in-mlb-home-runs"
+    "https://www.espn.com/mlb/story/_/id/48702612/mlb-2026-teams-beat-dodgers-threepeat-braves-yankees-cubs-pirates-phillies-mariners"
   ],
   "postedTitles": [
+    "Can Mourinho really succeed again at Madrid after ...",
     "How undrafted players became so vital to teams' su...",
     "MLB's best first-inning offense strikes again as Nats roll to win",
     "No. 6 prospect Carrigg triples in MLB debut as Rockies beat Cubs",
@@ -414,15 +417,9 @@
     "El mensaje de Hernández Hernández a Vinicius y Pedri antes del Clásico: \"Si tenemos a veinte tíos alrededor...\"",
     "Dubois beats Wardley in epic world title fight",
     "Sinner begins bid for history with win in Rome",
-    "Who can keep the Dodgers from three-peating? We id...",
-    "Murakami ties Judge for HR lead with record-setting blast"
+    "Who can keep the Dodgers from three-peating? We id..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781018489381",
-      "resourceType": "image",
-      "uploadedAt": 1781018490717
-    },
     {
       "publicId": "tvs_cards/card_1781028882892",
       "resourceType": "image",
@@ -452,6 +449,11 @@
       "publicId": "tvs_videos/video_1781103366568",
       "resourceType": "video",
       "uploadedAt": 1781103368885
+    },
+    {
+      "publicId": "tvs_cards/card_1781106954180",
+      "resourceType": "image",
+      "uploadedAt": 1781106955624
     }
   ]
 }
