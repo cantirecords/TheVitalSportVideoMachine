@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Nats",
+    "Roll",
     "Barcelona",
     "Carrigg",
     "Unleashes",
@@ -12,6 +14,7 @@
     "Spurs"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/nationals-get-off-to-hot-start-in-win-vs-giants",
     "https://www.mlb.com/news/rockies-no-6-prospect-cole-carrigg-triples-for-first-mlb-hit",
     "https://www.sport.es/es/noticias/barca/movimiento-chicago-fire-fichar-lewandowski-131190336?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
@@ -210,10 +213,10 @@
     "https://www.bbc.com/sport/tennis/articles/cvgzpv1g3dvo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48702612/mlb-2026-teams-beat-dodgers-threepeat-braves-yankees-cubs-pirates-phillies-mariners",
     "https://www.mlb.com/news/munetaka-murakami-ties-aaron-judge-in-mlb-home-runs",
-    "https://www.mlb.com/news/freddie-freeman-hits-100th-dodgers-home-run",
-    "https://www.espn.com/mlb/story/_/id/48717076/brewers-jacob-misiorowski-hits-1036-mph-fastest-pitch-starter-statcast-era"
+    "https://www.mlb.com/news/freddie-freeman-hits-100th-dodgers-home-run"
   ],
   "postedTitles": [
+    "MLB's best first-inning offense strikes again as Nats roll to win",
     "No. 6 prospect Carrigg triples in MLB debut as Rockies beat Cubs",
     "Movimiento del Chicago Fire para fichar a Lewandowski",
     "NFL minicamp daily updates: Yes! Jaxson Dart is ad...",
@@ -412,15 +415,9 @@
     "Sinner begins bid for history with win in Rome",
     "Who can keep the Dodgers from three-peating? We id...",
     "Murakami ties Judge for HR lead with record-setting blast",
-    "Freeman hits 100th Dodgers homer -- against his former club",
-    "Historic heat: Misiorowski tops 103 mph 10 times"
+    "Freeman hits 100th Dodgers homer -- against his former club"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781004278175",
-      "resourceType": "image",
-      "uploadedAt": 1781004279136
-    },
     {
       "publicId": "tvs_cards/card_1781018489381",
       "resourceType": "image",
@@ -445,6 +442,11 @@
       "publicId": "tvs_cards/card_1781065425245",
       "resourceType": "image",
       "uploadedAt": 1781065426742
+    },
+    {
+      "publicId": "tvs_cards/card_1781091907448",
+      "resourceType": "image",
+      "uploadedAt": 1781091908977
     }
   ]
 }
