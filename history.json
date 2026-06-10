@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Signs",
     "Eight",
     "Teams",
     "Mourinho",
@@ -18,6 +20,7 @@
     "Spurs"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/oficial-barca-activa-opcion-compra-hamza-abdelkarim-131257530?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/seth-hernandez-eli-willits-square-off-in-high-a-battle-of-2025-top-draft-picks",
     "https://www.mlb.com/news/mens-college-world-series-2026-preview",
     "https://www.espn.com/soccer/story/_/id/48816247/real-madrid-jose-mourinho-florentino-perez-laliga-special-one-manager",
@@ -216,10 +219,10 @@
     "https://www.sport.es/es/noticias/barca/pedri-presenta-nueva-novia-ganar-130081128?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/mlb-series-to-watch-for-week-of-may-11",
     "https://www.mlb.com/news/brice-turang-hits-walk-off-homer-brewers-sweep-yankees",
-    "https://www.sport.es/es/noticias/barca/mensaje-hernandez-hernandez-vinicius-pedri-130074720?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/mensaje-hernandez-hernandez-vinicius-pedri-130074720?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Oficial: el Barça activa la opción de compra por Hamza Abdelkarim",
     "Last year's No. 1 and No. 6 overall Draft picks battled in High-A",
     "Breaking down the 8 teams heading to Omaha for the Men's College World Series",
     "Can Mourinho really succeed again at Madrid after ...",
@@ -418,15 +421,9 @@
     "Pedri presenta a su nueva novia tras ganar la Liga",
     "Yankees-Mets 'Rivalry Weekend' matchup highlights 5 series to watch this week",
     "Turang's walk-off blast gives Brewers first sweep of Yankees this century",
-    "El mensaje de Hernández Hernández a Vinicius y Pedri antes del Clásico: \"Si tenemos a veinte tíos alrededor...\"",
-    "Dubois beats Wardley in epic world title fight"
+    "El mensaje de Hernández Hernández a Vinicius y Pedri antes del Clásico: \"Si tenemos a veinte tíos alrededor...\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781042068035",
-      "resourceType": "image",
-      "uploadedAt": 1781042069041
-    },
     {
       "publicId": "tvs_videos/video_1781058900916",
       "resourceType": "video",
@@ -461,6 +458,11 @@
       "publicId": "tvs_videos/video_1781122483063",
       "resourceType": "video",
       "uploadedAt": 1781122485499
+    },
+    {
+      "publicId": "tvs_cards/card_1781129508553",
+      "resourceType": "image",
+      "uploadedAt": 1781129509682
     }
   ]
 }
