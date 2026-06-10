@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Eight",
+    "Teams",
     "Mourinho",
     "Returns",
     "Nats",
@@ -16,6 +18,7 @@
     "Spurs"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mens-college-world-series-2026-preview",
     "https://www.espn.com/soccer/story/_/id/48816247/real-madrid-jose-mourinho-florentino-perez-laliga-special-one-manager",
     "https://www.espn.com/nhl/story/_/id/49009036/nhl-undrafted-players-ranking-scoring-scouting-contracts-free-agency",
     "https://www.mlb.com/news/nationals-get-off-to-hot-start-in-win-vs-giants",
@@ -214,10 +217,10 @@
     "https://www.mlb.com/news/brice-turang-hits-walk-off-homer-brewers-sweep-yankees",
     "https://www.sport.es/es/noticias/barca/mensaje-hernandez-hernandez-vinicius-pedri-130074720?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/boxing/videos/c78k049mz9zo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/tennis/articles/cvgzpv1g3dvo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/48702612/mlb-2026-teams-beat-dodgers-threepeat-braves-yankees-cubs-pirates-phillies-mariners"
+    "https://www.bbc.com/sport/tennis/articles/cvgzpv1g3dvo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Breaking down the 8 teams heading to Omaha for the Men's College World Series",
     "Can Mourinho really succeed again at Madrid after ...",
     "How undrafted players became so vital to teams' su...",
     "MLB's best first-inning offense strikes again as Nats roll to win",
@@ -416,15 +419,9 @@
     "Turang's walk-off blast gives Brewers first sweep of Yankees this century",
     "El mensaje de Hernández Hernández a Vinicius y Pedri antes del Clásico: \"Si tenemos a veinte tíos alrededor...\"",
     "Dubois beats Wardley in epic world title fight",
-    "Sinner begins bid for history with win in Rome",
-    "Who can keep the Dodgers from three-peating? We id..."
+    "Sinner begins bid for history with win in Rome"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781028882892",
-      "resourceType": "image",
-      "uploadedAt": 1781028883849
-    },
     {
       "publicId": "tvs_cards/card_1781042068035",
       "resourceType": "image",
@@ -454,6 +451,11 @@
       "publicId": "tvs_cards/card_1781106954180",
       "resourceType": "image",
       "uploadedAt": 1781106955624
+    },
+    {
+      "publicId": "tvs_cards/card_1781116564185",
+      "resourceType": "image",
+      "uploadedAt": 1781116565580
     }
   ]
 }
