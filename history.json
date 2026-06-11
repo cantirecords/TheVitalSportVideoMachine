@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Lamine",
     "Yamal",
     "Madrid",
@@ -8,12 +9,10 @@
     "Eight",
     "Teams",
     "Mourinho",
-    "Returns",
-    "Nats",
-    "Roll",
-    "Barcelona"
+    "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/tyler-callihan-hits-first-two-mlb-homers-pirates-beat-dodgers",
     "https://www.sport.es/es/noticias/barca/bonita-dedicatoria-amor-lamine-yamal-131242638?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/oficial-barca-activa-opcion-compra-hamza-abdelkarim-131257530?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/seth-hernandez-eli-willits-square-off-in-high-a-battle-of-2025-top-draft-picks",
@@ -212,10 +211,10 @@
     "https://www.marca.com/futbol/athletic/2026/05/11/nico-dice-adios-liga-cruza-dedos-llegar-mundial.html",
     "https://www.sport.es/es/noticias/barca/cuesta-bolso-utilizo-lamine-yamal-130087499?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pedri-presenta-nueva-novia-ganar-130081128?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/mlb-series-to-watch-for-week-of-may-11",
-    "https://www.mlb.com/news/brice-turang-hits-walk-off-homer-brewers-sweep-yankees"
+    "https://www.mlb.com/news/mlb-series-to-watch-for-week-of-may-11"
   ],
   "postedTitles": [
+    "Callihan blasts 1st MLB HR off Ohtani -- and his 2nd lifts Bucs in dramatic rally",
     "La bonita dedicatoria de amor de Lamine Yamal a Inés García",
     "Oficial: el Barça activa la opción de compra por Hamza Abdelkarim",
     "Last year's No. 1 and No. 6 overall Draft picks battled in High-A",
@@ -414,8 +413,7 @@
     "Nico dice adiós a la Liga y cruza los dedos para llegar al Mundial",
     "¿Cuánto cuesta el bolso que utilizó Lamine Yamal para el Clásico?",
     "Pedri presenta a su nueva novia tras ganar la Liga",
-    "Yankees-Mets 'Rivalry Weekend' matchup highlights 5 series to watch this week",
-    "Turang's walk-off blast gives Brewers first sweep of Yankees this century"
+    "Yankees-Mets 'Rivalry Weekend' matchup highlights 5 series to watch this week"
   ],
   "cloudinaryAssets": [
     {
@@ -452,6 +450,11 @@
       "publicId": "tvs_cards/card_1781153176157",
       "resourceType": "image",
       "uploadedAt": 1781153177143
+    },
+    {
+      "publicId": "tvs_videos/video_1781172531288",
+      "resourceType": "video",
+      "uploadedAt": 1781172554916
     }
   ]
 }
