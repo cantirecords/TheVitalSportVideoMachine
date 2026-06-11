@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Sign",
     "Mahomes",
     "Makes",
     "Ohtani",
@@ -14,6 +16,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49027314/barcelona-sign-18-year-old-world-cup-striker-hamza-abdelkarim",
     "https://www.mlb.com/news/andruw-jones-to-take-on-rival-phillies-at-mlbx-all-star",
     "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal",
     "https://www.mlb.com/news/tyler-callihan-hits-first-two-mlb-homers-pirates-beat-dodgers",
@@ -212,10 +215,10 @@
     "https://www.sport.es/es/noticias/barca/emotivo-mensaje-gavi-dembele-ganar-130079268?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/cm2p62jq70qo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/show-laporta-luz-gas-fiesta-130080988?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.marca.com/futbol/athletic/2026/05/11/nico-dice-adios-liga-cruza-dedos-llegar-mundial.html",
-    "https://www.sport.es/es/noticias/barca/cuesta-bolso-utilizo-lamine-yamal-130087499?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.marca.com/futbol/athletic/2026/05/11/nico-dice-adios-liga-cruza-dedos-llegar-mundial.html"
   ],
   "postedTitles": [
+    "Barcelona sign teenage Egypt World Cup striker",
     "Andruw Jones to take on his Phillies rivals at MLBX: All-Star 3-on-3",
     "Mahomes to make over $500M in reworked deal",
     "Callihan blasts 1st MLB HR off Ohtani -- and his 2nd lifts Bucs in dramatic rally",
@@ -414,20 +417,9 @@
     "El emotivo mensaje de Gavi a Dembélé tras ganar la Liga: \"Es más que un amigo. Hablamos todos los días\"",
     "'It breaks my heart' – legend Mead to leave Arsenal",
     "El 'show' de Laporta en Luz de Gas en la fiesta de celebración de la Liga",
-    "Nico dice adiós a la Liga y cruza los dedos para llegar al Mundial",
-    "¿Cuánto cuesta el bolso que utilizó Lamine Yamal para el Clásico?"
+    "Nico dice adiós a la Liga y cruza los dedos para llegar al Mundial"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781106954180",
-      "resourceType": "image",
-      "uploadedAt": 1781106955624
-    },
-    {
-      "publicId": "tvs_cards/card_1781116564185",
-      "resourceType": "image",
-      "uploadedAt": 1781116565580
-    },
     {
       "publicId": "tvs_videos/video_1781122483063",
       "resourceType": "video",
@@ -457,6 +449,11 @@
       "publicId": "tvs_videos/video_1781192296756",
       "resourceType": "video",
       "uploadedAt": 1781192298582
+    },
+    {
+      "publicId": "tvs_cards/card_1781203919292",
+      "resourceType": "image",
+      "uploadedAt": 1781203920269
     }
   ]
 }
