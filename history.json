@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Mahomes",
+    "Makes",
     "Ohtani",
     "Lamine",
     "Yamal",
@@ -12,6 +14,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal",
     "https://www.mlb.com/news/tyler-callihan-hits-first-two-mlb-homers-pirates-beat-dodgers",
     "https://www.sport.es/es/noticias/barca/bonita-dedicatoria-amor-lamine-yamal-131242638?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/oficial-barca-activa-opcion-compra-hamza-abdelkarim-131257530?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -210,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/show-laporta-luz-gas-fiesta-130080988?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/athletic/2026/05/11/nico-dice-adios-liga-cruza-dedos-llegar-mundial.html",
     "https://www.sport.es/es/noticias/barca/cuesta-bolso-utilizo-lamine-yamal-130087499?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/pedri-presenta-nueva-novia-ganar-130081128?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/mlb-series-to-watch-for-week-of-may-11"
+    "https://www.sport.es/es/noticias/barca/pedri-presenta-nueva-novia-ganar-130081128?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Mahomes to make over $500M in reworked deal",
     "Callihan blasts 1st MLB HR off Ohtani -- and his 2nd lifts Bucs in dramatic rally",
     "La bonita dedicatoria de amor de Lamine Yamal a Inés García",
     "Oficial: el Barça activa la opción de compra por Hamza Abdelkarim",
@@ -412,15 +415,9 @@
     "El 'show' de Laporta en Luz de Gas en la fiesta de celebración de la Liga",
     "Nico dice adiós a la Liga y cruza los dedos para llegar al Mundial",
     "¿Cuánto cuesta el bolso que utilizó Lamine Yamal para el Clásico?",
-    "Pedri presenta a su nueva novia tras ganar la Liga",
-    "Yankees-Mets 'Rivalry Weekend' matchup highlights 5 series to watch this week"
+    "Pedri presenta a su nueva novia tras ganar la Liga"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781091907448",
-      "resourceType": "image",
-      "uploadedAt": 1781091908977
-    },
     {
       "publicId": "tvs_videos/video_1781103366568",
       "resourceType": "video",
@@ -455,6 +452,11 @@
       "publicId": "tvs_videos/video_1781172531288",
       "resourceType": "video",
       "uploadedAt": 1781172554916
+    },
+    {
+      "publicId": "tvs_cards/card_1781180141989",
+      "resourceType": "image",
+      "uploadedAt": 1781180143503
     }
   ]
 }
