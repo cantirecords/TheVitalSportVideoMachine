@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Tottenham",
+    "Legend",
     "Mbappe",
     "Critics",
     "11",
@@ -26,6 +28,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/ce8jx2e4y6ro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c4gyzyq0p7lo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48939622/from-gridiron-pitch-how-nfl-stadiums-transformed-2026-fifa-world-cup",
     "https://www.bbc.com/sport/articles/cgk6xemj8pxo?at_medium=RSS&at_campaign=rss",
@@ -224,10 +227,10 @@
     "https://www.mlb.com/news/alek-thomas-dodgers-trade",
     "https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/flick-moja-futuro-rashford-lewandowski-130137045?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/mlb/story/_/id/48742800/mlb-2026-closer-bullpen-struggles-impact-rest-season-deadline",
-    "https://www.espn.com/wnba/story/_/id/48742961/wnba-2026-power-rankings-valkyries-liberty-aces"
+    "https://www.espn.com/mlb/story/_/id/48742800/mlb-2026-closer-bullpen-struggles-impact-rest-season-deadline"
   ],
   "postedTitles": [
+    "Wales and Spurs legend Jones, 91, made MBE",
     "Critics of Mbappe have gone 'too far', says Dembele",
     "From gridiron to pitch: How NFL stadiums have tran...",
     "Haaland goes to ice hockey before World Cup debut",
@@ -426,15 +429,9 @@
     "Dodgers get OF Alek Thomas for prospect in trade with D-backs",
     "NBA player Clarke dies aged 29",
     "Flick se moja sobre el futuro de Rashford y Lewandowski",
-    "How MLB's closer struggles will impact the rest of...",
-    "WNBA Power Rankings: Unbeaten Liberty, Valkyries o..."
+    "How MLB's closer struggles will impact the rest of..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781208744857",
-      "resourceType": "video",
-      "uploadedAt": 1781208747190
-    },
     {
       "publicId": "tvs_cards/card_1781215607562",
       "resourceType": "image",
@@ -474,6 +471,11 @@
       "publicId": "tvs_cards/card_1781288022199",
       "resourceType": "image",
       "uploadedAt": 1781288023551
+    },
+    {
+      "publicId": "tvs_cards/card_1781301405780",
+      "resourceType": "image",
+      "uploadedAt": 1781301407216
     }
   ]
 }
