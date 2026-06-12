@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Youngest",
+    "Walk",
     "Tennis",
     "Stars",
     "Barcelona",
@@ -18,6 +20,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-stats-of-the-week-ending-june-11-2026",
     "https://www.mlb.com/news/greenwich-giants-host-mlb-play-ball-event-with-dinosaur-theme",
     "https://www.bbc.com/sport/tennis/videos/cze9nnypx17o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-smith-placed-on-il-with-neck-injury",
@@ -216,10 +219,10 @@
     "https://www.sport.es/es/noticias/barca/1x1-barca-campeon-laliga-notas-jugadores-129716790?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/radio/2026/05/11/tote-madrid-me-crie-primero-te-ensenaban-valores-luego-ganar.html",
     "https://www.mlb.com/news/andres-gimenez-has-2-homers-5-rbis-for-blue-jays",
-    "https://www.espn.com/soccer/story/_/id/48741972/lamine-yamal-teases-jude-bellingham-barcelona-clasico-win",
-    "https://www.sport.es/es/noticias/barca/emotivo-mensaje-gavi-dembele-ganar-130079268?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/soccer/story/_/id/48741972/lamine-yamal-teases-jude-bellingham-barcelona-clasico-win"
   ],
   "postedTitles": [
+    "Historic first career HRs, epic comebacks and more in Stats of the Week",
     "Roar! Kids learn baseball from dinos at MLB Play Ball event in England",
     "The cost of perfection - Croft on the sacrifices of tennis players ",
     "Dodgers place Will Smith (neck) on IL",
@@ -418,15 +421,9 @@
     "El 1x1 del Barça campeón de LaLiga EA Sports 2025-26",
     "Tote: \"En el Madrid en el que me crié, primero te enseñaban valores y luego, a ganar, pero ahora...\"",
     "'He's incredible': Giménez records first career multi-home run game",
-    "'Talk is cheap': Yamal teases Jude after Clásico w...",
-    "El emotivo mensaje de Gavi a Dembélé tras ganar la Liga: \"Es más que un amigo. Hablamos todos los días\""
+    "'Talk is cheap': Yamal teases Jude after Clásico w..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781153176157",
-      "resourceType": "image",
-      "uploadedAt": 1781153177143
-    },
     {
       "publicId": "tvs_videos/video_1781172531288",
       "resourceType": "video",
@@ -461,6 +458,11 @@
       "publicId": "tvs_videos/video_1781232091784",
       "resourceType": "video",
       "uploadedAt": 1781232093404
+    },
+    {
+      "publicId": "tvs_cards/card_1781239745549",
+      "resourceType": "image",
+      "uploadedAt": 1781239746284
     }
   ]
 }
