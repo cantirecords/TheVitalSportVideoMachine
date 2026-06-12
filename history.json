@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Mbappe",
+    "Critics",
     "11",
     "NFL",
     "Draft",
@@ -24,6 +26,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/c4gyzyq0p7lo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48939622/from-gridiron-pitch-how-nfl-stadiums-transformed-2026-fifa-world-cup",
     "https://www.bbc.com/sport/articles/cgk6xemj8pxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11",
@@ -222,10 +225,10 @@
     "https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/flick-moja-futuro-rashford-lewandowski-130137045?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/mlb/story/_/id/48742800/mlb-2026-closer-bullpen-struggles-impact-rest-season-deadline",
-    "https://www.espn.com/wnba/story/_/id/48742961/wnba-2026-power-rankings-valkyries-liberty-aces",
-    "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48704131/2026-nfl-schedule-release-bold-predictions-takeaways-revenge-games-all-32-teams"
+    "https://www.espn.com/wnba/story/_/id/48742961/wnba-2026-power-rankings-valkyries-liberty-aces"
   ],
   "postedTitles": [
+    "Critics of Mbappe have gone 'too far', says Dembele",
     "From gridiron to pitch: How NFL stadiums have tran...",
     "Haaland goes to ice hockey before World Cup debut",
     "The Draft is one month away! Check out our latest mock",
@@ -424,15 +427,9 @@
     "NBA player Clarke dies aged 29",
     "Flick se moja sobre el futuro de Rashford y Lewandowski",
     "How MLB's closer struggles will impact the rest of...",
-    "WNBA Power Rankings: Unbeaten Liberty, Valkyries o...",
-    "2026 NFL schedule: Everything we're hearing ahead ..."
+    "WNBA Power Rankings: Unbeaten Liberty, Valkyries o..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781192296756",
-      "resourceType": "video",
-      "uploadedAt": 1781192298582
-    },
     {
       "publicId": "tvs_cards/card_1781203919292",
       "resourceType": "image",
@@ -477,6 +474,11 @@
       "publicId": "tvs_cards/card_1781278331143",
       "resourceType": "image",
       "uploadedAt": 1781278332275
+    },
+    {
+      "publicId": "tvs_cards/card_1781288022199",
+      "resourceType": "image",
+      "uploadedAt": 1781288023551
     }
   ]
 }
