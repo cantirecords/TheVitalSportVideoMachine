@@ -30,6 +30,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-hosting-4th-of-july-movie-drive-in-events",
     "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-two-homer-first-inning",
     "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/ce8jx2e4y6ro?at_medium=RSS&at_campaign=rss",
@@ -228,10 +229,10 @@
     "https://www.sport.es/es/noticias/barca/obsesion-deco-durante-mercado-fichajes-130148343?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/basketball/articles/cdepzew0zzpo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-pitches-vs-giants",
-    "https://www.mlb.com/news/alek-thomas-dodgers-trade",
-    "https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/alek-thomas-dodgers-trade"
   ],
   "postedTitles": [
+    "MLB to host 4th of July drive-in events across the country",
     "Alvarez notches 6 RBIs in historic 2-homer 1st inning in Astros' win",
     "'No-one knows it's on' - NBA finals feed US apathy to World Cup",
     "Wales and Spurs legend Jones, 91, made MBE",
@@ -430,15 +431,9 @@
     "La obsesión de Deco durante el mercado de fichajes",
     "Wembanyama stars to put Spurs on verge of Western final",
     "Looking to break out of slump, Ohtani homers on eve of start vs. Giants",
-    "Dodgers get OF Alek Thomas for prospect in trade with D-backs",
-    "NBA player Clarke dies aged 29"
+    "Dodgers get OF Alek Thomas for prospect in trade with D-backs"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781239745549",
-      "resourceType": "image",
-      "uploadedAt": 1781239746284
-    },
     {
       "publicId": "tvs_videos/video_1781258343608",
       "resourceType": "video",
@@ -478,6 +473,11 @@
       "publicId": "tvs_cards/card_1781324875729",
       "resourceType": "image",
       "uploadedAt": 1781324877670
+    },
+    {
+      "publicId": "tvs_videos/video_1781340564401",
+      "resourceType": "video",
+      "uploadedAt": 1781340566203
     }
   ]
 }
