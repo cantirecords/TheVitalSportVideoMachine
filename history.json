@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Baseball",
+    "History",
     "Slowest",
     "Fastball",
     "Alvarez",
@@ -32,6 +34,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/the-first-baseball-game-ever-recorded",
     "https://www.sport.es/es/noticias/barca/robert-lewandowski-vuela-chicago-fire-mls-barcelona-131354849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/how-a-slow-fastball-gets-so-many-late-swings",
     "https://www.mlb.com/news/mlb-hosting-4th-of-july-movie-drive-in-events",
@@ -230,10 +233,10 @@
     "https://www.mlb.com/news/orioles-rico-garcia-one-hit-allowed-first-64-batters-in-2026",
     "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/american-football/articles/c809d5le7mmo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/obsesion-deco-durante-mercado-fichajes-130148343?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/basketball/articles/cdepzew0zzpo?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/obsesion-deco-durante-mercado-fichajes-130148343?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "\nThe first baseball game in recorded history involved ... the Knicks?",
     "Robert Lewandowski ya vuela a Chicago",
     "MLB's slowest fastball gets hitters to swing the latest. But how?",
     "MLB to host 4th of July drive-in events across the country",
@@ -432,8 +435,7 @@
     "64 batters faced. 1 hit allowed. This veteran reliever is on a historic run",
     "Collins, first openly gay NBA player, dies aged 47",
     "Eagles to play in London during 2026 NFL season",
-    "La obsesión de Deco durante el mercado de fichajes",
-    "Wembanyama stars to put Spurs on verge of Western final"
+    "La obsesión de Deco durante el mercado de fichajes"
   ],
   "cloudinaryAssets": [
     {
@@ -480,6 +482,11 @@
       "publicId": "tvs_videos/video_1781357322939",
       "resourceType": "video",
       "uploadedAt": 1781357324330
+    },
+    {
+      "publicId": "tvs_cards/card_1781360231510",
+      "resourceType": "image",
+      "uploadedAt": 1781360232699
     }
   ]
 }
