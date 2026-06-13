@@ -32,6 +32,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/robert-lewandowski-vuela-chicago-fire-mls-barcelona-131354849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/how-a-slow-fastball-gets-so-many-late-swings",
     "https://www.mlb.com/news/mlb-hosting-4th-of-july-movie-drive-in-events",
     "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-two-homer-first-inning",
@@ -230,10 +231,10 @@
     "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/american-football/articles/c809d5le7mmo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/obsesion-deco-durante-mercado-fichajes-130148343?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/basketball/articles/cdepzew0zzpo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-pitches-vs-giants"
+    "https://www.bbc.com/sport/basketball/articles/cdepzew0zzpo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Robert Lewandowski ya vuela a Chicago",
     "MLB's slowest fastball gets hitters to swing the latest. But how?",
     "MLB to host 4th of July drive-in events across the country",
     "Alvarez notches 6 RBIs in historic 2-homer 1st inning in Astros' win",
@@ -432,15 +433,9 @@
     "Collins, first openly gay NBA player, dies aged 47",
     "Eagles to play in London during 2026 NFL season",
     "La obsesión de Deco durante el mercado de fichajes",
-    "Wembanyama stars to put Spurs on verge of Western final",
-    "Looking to break out of slump, Ohtani homers on eve of start vs. Giants"
+    "Wembanyama stars to put Spurs on verge of Western final"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781265016695",
-      "resourceType": "image",
-      "uploadedAt": 1781265018756
-    },
     {
       "publicId": "tvs_videos/video_1781275078591",
       "resourceType": "video",
@@ -480,6 +475,11 @@
       "publicId": "tvs_cards/card_1781346933416",
       "resourceType": "image",
       "uploadedAt": 1781346934765
+    },
+    {
+      "publicId": "tvs_videos/video_1781357322939",
+      "resourceType": "video",
+      "uploadedAt": 1781357324330
     }
   ]
 }
