@@ -16,6 +16,7 @@
     "Fastball"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/baseball-injury-updates",
     "https://www.bbc.com/sport/american-football/articles/c70yqydwnwpo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49013444/nba-offseason-2026-lebron-lakers-giannis-bucks-heat-thunder-10-most-interesting-teams",
     "https://www.mlb.com/news/rhett-lowder-chase-petty-help-reds-beat-d-backs",
@@ -214,10 +215,10 @@
     "https://www.bbc.com/sport/tennis/articles/cqlpe4xr9qpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/c2e2zmglvp9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/fantasy/baseball/story/_/id/48759020/2026-fantasy-baseball-stars-slumps-stats-13",
-    "https://www.sport.es/es/noticias/barca/lewandowski-oporto-opcion-proxima-temporada-130209067?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/cycling/articles/ckgpynkj4jno?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/lewandowski-oporto-opcion-proxima-temporada-130209067?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Injuries: J-Ram, Vlad, Suzuki, Yankees, Dodgers, Strider",
     "Former NFL defensive end Smith dies aged 36",
     "Get ready for a wild NBA offseason: 10 teams to wa...",
     "Reds rookies rise up as Lowder's strong start leads to Petty's 1st MLB win",
@@ -416,15 +417,9 @@
     "Italian Open tennis match delayed by cup final fireworks",
     "Will F1 go back to the future with its engines?",
     "Why are MLB's stars not so 'starry' in 2026?",
-    "Lewandowski ya sabe que el Oporto no es una opción para la próxima temporada",
-    "Arrieta beats Eulalio to win epic wet Giro stage "
+    "Lewandowski ya sabe que el Oporto no es una opción para la próxima temporada"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781357322939",
-      "resourceType": "video",
-      "uploadedAt": 1781357324330
-    },
     {
       "publicId": "tvs_cards/card_1781360231510",
       "resourceType": "image",
@@ -464,6 +459,11 @@
       "publicId": "tvs_cards/card_1781434406404",
       "resourceType": "image",
       "uploadedAt": 1781434407906
+    },
+    {
+      "publicId": "tvs_videos/video_1781443891016",
+      "resourceType": "video",
+      "uploadedAt": 1781443893470
     }
   ]
 }
