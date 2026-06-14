@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Tragic",
+    "End",
     "Reds",
     "Rookies",
     "Barça",
@@ -14,6 +16,7 @@
     "Fastball"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/american-football/articles/c70yqydwnwpo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49013444/nba-offseason-2026-lebron-lakers-giannis-bucks-heat-thunder-10-most-interesting-teams",
     "https://www.mlb.com/news/rhett-lowder-chase-petty-help-reds-beat-d-backs",
     "https://www.sport.es/es/noticias/barca/barca-sigue-lucas-herrington-nueva-131364813?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/formula1/articles/c2e2zmglvp9o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/fantasy/baseball/story/_/id/48759020/2026-fantasy-baseball-stars-slumps-stats-13",
     "https://www.sport.es/es/noticias/barca/lewandowski-oporto-opcion-proxima-temporada-130209067?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/cycling/articles/ckgpynkj4jno?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/jake-mccarthy-records-unassisted-double-play-from-left-field"
+    "https://www.bbc.com/sport/cycling/articles/ckgpynkj4jno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Former NFL defensive end Smith dies aged 36",
     "Get ready for a wild NBA offseason: 10 teams to wa...",
     "Reds rookies rise up as Lowder's strong start leads to Petty's 1st MLB win",
     "El Barça sigue a Lucas Herrington, la nueva sensación australiana",
@@ -414,15 +417,9 @@
     "Will F1 go back to the future with its engines?",
     "Why are MLB's stars not so 'starry' in 2026?",
     "Lewandowski ya sabe que el Oporto no es una opción para la próxima temporada",
-    "Arrieta beats Eulalio to win epic wet Giro stage ",
-    "An unassisted DP ... from left?! McCarthy's a Rockies first, MLB first in 13 years"
+    "Arrieta beats Eulalio to win epic wet Giro stage "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781346933416",
-      "resourceType": "image",
-      "uploadedAt": 1781346934765
-    },
     {
       "publicId": "tvs_videos/video_1781357322939",
       "resourceType": "video",
@@ -462,6 +459,11 @@
       "publicId": "tvs_videos/video_1781428848452",
       "resourceType": "video",
       "uploadedAt": 1781428849780
+    },
+    {
+      "publicId": "tvs_cards/card_1781434406404",
+      "resourceType": "image",
+      "uploadedAt": 1781434407906
     }
   ]
 }
