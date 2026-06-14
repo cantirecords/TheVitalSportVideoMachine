@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Reds",
+    "Rookies",
     "Barça",
     "Ohtani",
     "Blasts",
@@ -12,6 +14,7 @@
     "Fastball"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/rhett-lowder-chase-petty-help-reds-beat-d-backs",
     "https://www.sport.es/es/noticias/barca/barca-sigue-lucas-herrington-nueva-131364813?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/shohei-ohtani-hits-leadoff-home-run-vs-white-sox",
     "https://www.bbc.com/sport/formula1/articles/c8025pdgyj1o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/lewandowski-oporto-opcion-proxima-temporada-130209067?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/cycling/articles/ckgpynkj4jno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jake-mccarthy-records-unassisted-double-play-from-left-field",
-    "https://www.espn.com/nfl/story/_/id/48762073/nfl-ended-minority-offensive-assistant-mandate-25-season",
-    "https://www.mlb.com/news/chris-paddack-signs-with-reds-rhett-lowder-to-il"
+    "https://www.espn.com/nfl/story/_/id/48762073/nfl-ended-minority-offensive-assistant-mandate-25-season"
   ],
   "postedTitles": [
+    "Reds rookies rise up as Lowder's strong start leads to Petty's 1st MLB win",
     "El Barça sigue a Lucas Herrington, la nueva sensación australiana",
     "Asked and answered ... Ohtani blasts HR after Sox fans chant 'We want Shohei'",
     "Fight is on for Hamilton as he and Russell reset successfully",
@@ -412,15 +415,9 @@
     "Lewandowski ya sabe que el Oporto no es una opción para la próxima temporada",
     "Arrieta beats Eulalio to win epic wet Giro stage ",
     "An unassisted DP ... from left?! McCarthy's a Rockies first, MLB first in 13 years",
-    "NFL nixed minority offensive asst. mandate in '25",
-    "Reds sign Paddack to MLB deal as Lowder joins IL"
+    "NFL nixed minority offensive asst. mandate in '25"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781324875729",
-      "resourceType": "image",
-      "uploadedAt": 1781324877670
-    },
     {
       "publicId": "tvs_videos/video_1781340564401",
       "resourceType": "video",
@@ -460,6 +457,11 @@
       "publicId": "tvs_videos/video_1781405108235",
       "resourceType": "video",
       "uploadedAt": 1781405110159
+    },
+    {
+      "publicId": "tvs_cards/card_1781412939427",
+      "resourceType": "image",
+      "uploadedAt": 1781412940377
     }
   ]
 }
