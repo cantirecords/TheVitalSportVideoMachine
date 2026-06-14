@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Brazil",
+    "Holds",
     "Tragic",
     "End",
     "Reds",
@@ -16,6 +18,7 @@
     "Fastball"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/baseball-injury-updates",
     "https://www.bbc.com/sport/american-football/articles/c70yqydwnwpo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49013444/nba-offseason-2026-lebron-lakers-giannis-bucks-heat-thunder-10-most-interesting-teams",
@@ -214,10 +217,10 @@
     "https://www.mlb.com/news/padres-gavin-sheets-is-mlb-s-new-clutch-home-run-king-after-beating-brewers",
     "https://www.bbc.com/sport/tennis/articles/cqlpe4xr9qpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/c2e2zmglvp9o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/fantasy/baseball/story/_/id/48759020/2026-fantasy-baseball-stars-slumps-stats-13",
-    "https://www.sport.es/es/noticias/barca/lewandowski-oporto-opcion-proxima-temporada-130209067?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/fantasy/baseball/story/_/id/48759020/2026-fantasy-baseball-stars-slumps-stats-13"
   ],
   "postedTitles": [
+    "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
     "Injuries: J-Ram, Vlad, Suzuki, Yankees, Dodgers, Strider",
     "Former NFL defensive end Smith dies aged 36",
     "Get ready for a wild NBA offseason: 10 teams to wa...",
@@ -416,15 +419,9 @@
     "MLB has a new clutch home run king, and he did it again",
     "Italian Open tennis match delayed by cup final fireworks",
     "Will F1 go back to the future with its engines?",
-    "Why are MLB's stars not so 'starry' in 2026?",
-    "Lewandowski ya sabe que el Oporto no es una opción para la próxima temporada"
+    "Why are MLB's stars not so 'starry' in 2026?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781360231510",
-      "resourceType": "image",
-      "uploadedAt": 1781360232699
-    },
     {
       "publicId": "tvs_cards/card_1781372383522",
       "resourceType": "image",
@@ -464,6 +461,11 @@
       "publicId": "tvs_videos/video_1781443891016",
       "resourceType": "video",
       "uploadedAt": 1781443893470
+    },
+    {
+      "publicId": "tvs_cards/card_1781446826771",
+      "resourceType": "image",
+      "uploadedAt": 1781446828064
     }
   ]
 }
