@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Josh",
     "Charnley",
     "Brazil",
@@ -8,18 +9,10 @@
     "End",
     "Reds",
     "Rookies",
-    "Barça",
-    "Ohtani",
-    "Blasts",
-    "Hamilton",
-    "Machado",
-    "Struggling",
-    "Baseball",
-    "History",
-    "Slowest",
-    "Fastball"
+    "Barça"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
     "https://www.bbc.com/sport/rugby-league/articles/cdx7v4y94r4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/baseball-injury-updates",
@@ -218,10 +211,10 @@
     "https://www.bbc.com/sport/football/articles/c9d307x3q54o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/48750350/mlb-2026-power-rankings-week-7-braves-dodgers-cubs-yankees-rays",
     "https://www.mlb.com/news/padres-gavin-sheets-is-mlb-s-new-clutch-home-run-king-after-beating-brewers",
-    "https://www.bbc.com/sport/tennis/articles/cqlpe4xr9qpo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/formula1/articles/c2e2zmglvp9o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/tennis/articles/cqlpe4xr9qpo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Sources: Real Madrid agree $69M Cucurella deal",
     "Charnley breaks try record as Leigh beat Bradford  ",
     "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
     "Injuries: J-Ram, Vlad, Suzuki, Yankees, Dodgers, Strider",
@@ -420,15 +413,9 @@
     "Mbappe and Dembele lead France World Cup squad",
     "MLB Power Rankings: A new No. 1! Who replaced the ...",
     "MLB has a new clutch home run king, and he did it again",
-    "Italian Open tennis match delayed by cup final fireworks",
-    "Will F1 go back to the future with its engines?"
+    "Italian Open tennis match delayed by cup final fireworks"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781372383522",
-      "resourceType": "image",
-      "uploadedAt": 1781372384822
-    },
     {
       "publicId": "tvs_videos/video_1781377858239",
       "resourceType": "video",
@@ -473,6 +460,11 @@
       "publicId": "tvs_cards/card_1781458019887",
       "resourceType": "image",
       "uploadedAt": 1781458021908
+    },
+    {
+      "publicId": "tvs_videos/video_1781464312755",
+      "resourceType": "video",
+      "uploadedAt": 1781464314221
     }
   ]
 }
