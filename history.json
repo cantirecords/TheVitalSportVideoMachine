@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lewandowski",
+    "Joins",
     "Barça",
     "Targets",
     "Ohtani",
@@ -16,6 +18,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/convencer-chicago-fire-lewandowski-131403757?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/49052859/victor-wembanyama-first-trip-nba-finals-ends-regrets-spurs-knicks",
     "https://www.sport.es/es/noticias/barca/junior-kroupi-alternativa-arriesgada-julian-131390211?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +217,10 @@
     "https://www.marca.com/futbol/real-madrid/2026/05/15/brutal-diferencia-palabras-arbeloa-vinicius-mbappe.html",
     "https://www.bbc.com/sport/football/articles/cewpdvqxy8no?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/pedro-sanchez-sale-defensa-lamine-yamal-130246583?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
-    "https://www.mlb.com/news/will-smith-hits-leadoff-home-run-as-dodgers-beat-giants"
+    "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup"
   ],
   "postedTitles": [
+    "Así intentó convencer el Chicago Fire a Lewandowski",
     "Victor Wembanyama's time is coming -- it just wasn...",
     "Junior Kroupi, la alternativa arriesgada a Julián Álvarez que gusta en el Barça",
     "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
@@ -416,20 +419,9 @@
     "La brutal diferencia entre las palabras de Arbeloa a Vinicius y Mbappé",
     "Why Newcastle's history makers are breaking up",
     "Pedro Sánchez sale en defensa de Lamine Yamal tras la polémica por la bandera palestina",
-    "Messi and the forgotten tape: Oral history of Arge...",
-    "No Sho, no problem: Smith's leadoff HR sparks Dodgers vs. SF"
+    "Messi and the forgotten tape: Oral history of Arge..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781458019887",
-      "resourceType": "image",
-      "uploadedAt": 1781458021908
-    },
-    {
-      "publicId": "tvs_videos/video_1781464312755",
-      "resourceType": "video",
-      "uploadedAt": 1781464314221
-    },
     {
       "publicId": "tvs_cards/card_1781472142891",
       "resourceType": "image",
@@ -459,6 +451,11 @@
       "publicId": "tvs_videos/video_1781542872465",
       "resourceType": "video",
       "uploadedAt": 1781542874831
+    },
+    {
+      "publicId": "tvs_cards/card_1781553206583",
+      "resourceType": "image",
+      "uploadedAt": 1781553207640
     }
   ]
 }
