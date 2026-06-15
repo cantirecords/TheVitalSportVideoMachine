@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barcelona",
+    "Hamilton",
     "Nats",
     "Destroy",
     "Madrid",
@@ -7,13 +9,10 @@
     "Charnley",
     "Brazil",
     "Holds",
-    "Tragic",
-    "End",
-    "Reds",
-    "Rookies",
-    "Barça"
+    "Tragic"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/formula1/articles/cx24k2vpmpyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/nationals-score-five-runs-in-fourth-inning-beat-mariners",
     "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
     "https://www.bbc.com/sport/rugby-league/articles/cdx7v4y94r4o?at_medium=RSS&at_campaign=rss",
@@ -212,10 +211,10 @@
     "https://www.mlb.com/news/jj-bleday-chase-burns-reds-blowout-nationals",
     "https://www.mlb.com/news/golden-spikes-award-semifinalists-2026",
     "https://www.bbc.com/sport/football/articles/c9d307x3q54o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/48750350/mlb-2026-power-rankings-week-7-braves-dodgers-cubs-yankees-rays",
-    "https://www.mlb.com/news/padres-gavin-sheets-is-mlb-s-new-clutch-home-run-king-after-beating-brewers"
+    "https://www.espn.com/mlb/story/_/id/48750350/mlb-2026-power-rankings-week-7-braves-dodgers-cubs-yankees-rays"
   ],
   "postedTitles": [
+    "Hamilton says Barcelona win beyond wildest dreams",
     "With another big frame, Nats look the part of one of MLB's best offenses",
     "Sources: Real Madrid agree $69M Cucurella deal",
     "Charnley breaks try record as Leigh beat Bradford  ",
@@ -414,20 +413,9 @@
     "The key to waking up the Reds? Breaking out the Tito speedo",
     "Top college Draft prospects headline Golden Spikes Award semifinalists",
     "Mbappe and Dembele lead France World Cup squad",
-    "MLB Power Rankings: A new No. 1! Who replaced the ...",
-    "MLB has a new clutch home run king, and he did it again"
+    "MLB Power Rankings: A new No. 1! Who replaced the ..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781385782701",
-      "resourceType": "image",
-      "uploadedAt": 1781385783967
-    },
-    {
-      "publicId": "tvs_videos/video_1781405108235",
-      "resourceType": "video",
-      "uploadedAt": 1781405110159
-    },
     {
       "publicId": "tvs_cards/card_1781412939427",
       "resourceType": "image",
@@ -467,6 +455,11 @@
       "publicId": "tvs_cards/card_1781472142891",
       "resourceType": "image",
       "uploadedAt": 1781472144419
+    },
+    {
+      "publicId": "tvs_videos/video_1781491769359",
+      "resourceType": "video",
+      "uploadedAt": 1781491771139
     }
   ]
 }
