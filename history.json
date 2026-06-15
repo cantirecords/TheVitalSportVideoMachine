@@ -14,6 +14,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-dodgers-series-opener-preview-june-15",
     "https://www.bbc.com/sport/formula1/articles/cx24k2vpmpyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/nationals-score-five-runs-in-fourth-inning-beat-mariners",
@@ -212,10 +213,10 @@
     "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
     "https://www.mlb.com/news/will-smith-hits-leadoff-home-run-as-dodgers-beat-giants",
     "https://www.mlb.com/news/jj-bleday-chase-burns-reds-blowout-nationals",
-    "https://www.mlb.com/news/golden-spikes-award-semifinalists-2026",
-    "https://www.bbc.com/sport/football/articles/c9d307x3q54o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/golden-spikes-award-semifinalists-2026"
   ],
   "postedTitles": [
+    "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
     "Red-hot Ohtani leads Dodgers into clash with Rays (ESPN, 10 ET)",
     "Hamilton says Barcelona win beyond wildest dreams",
     "With another big frame, Nats look the part of one of MLB's best offenses",
@@ -414,20 +415,9 @@
     "Messi and the forgotten tape: Oral history of Arge...",
     "No Sho, no problem: Smith's leadoff HR sparks Dodgers vs. SF",
     "The key to waking up the Reds? Breaking out the Tito speedo",
-    "Top college Draft prospects headline Golden Spikes Award semifinalists",
-    "Mbappe and Dembele lead France World Cup squad"
+    "Top college Draft prospects headline Golden Spikes Award semifinalists"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781428848452",
-      "resourceType": "video",
-      "uploadedAt": 1781428849780
-    },
-    {
-      "publicId": "tvs_cards/card_1781434406404",
-      "resourceType": "image",
-      "uploadedAt": 1781434407906
-    },
     {
       "publicId": "tvs_videos/video_1781443891016",
       "resourceType": "video",
@@ -462,6 +452,11 @@
       "publicId": "tvs_cards/card_1781500313496",
       "resourceType": "image",
       "uploadedAt": 1781500314927
+    },
+    {
+      "publicId": "tvs_videos/video_1781524107395",
+      "resourceType": "video",
+      "uploadedAt": 1781524109897
     }
   ]
 }
