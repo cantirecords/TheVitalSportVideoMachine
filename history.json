@@ -16,6 +16,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49052859/victor-wembanyama-first-trip-nba-finals-ends-regrets-spurs-knicks",
     "https://www.sport.es/es/noticias/barca/junior-kroupi-alternativa-arriesgada-julian-131390211?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-dodgers-series-opener-preview-june-15",
@@ -214,10 +215,10 @@
     "https://www.bbc.com/sport/football/articles/cewpdvqxy8no?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/pedro-sanchez-sale-defensa-lamine-yamal-130246583?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
-    "https://www.mlb.com/news/will-smith-hits-leadoff-home-run-as-dodgers-beat-giants",
-    "https://www.mlb.com/news/jj-bleday-chase-burns-reds-blowout-nationals"
+    "https://www.mlb.com/news/will-smith-hits-leadoff-home-run-as-dodgers-beat-giants"
   ],
   "postedTitles": [
+    "Victor Wembanyama's time is coming -- it just wasn...",
     "Junior Kroupi, la alternativa arriesgada a Julián Álvarez que gusta en el Barça",
     "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
     "Red-hot Ohtani leads Dodgers into clash with Rays (ESPN, 10 ET)",
@@ -416,8 +417,7 @@
     "Why Newcastle's history makers are breaking up",
     "Pedro Sánchez sale en defensa de Lamine Yamal tras la polémica por la bandera palestina",
     "Messi and the forgotten tape: Oral history of Arge...",
-    "No Sho, no problem: Smith's leadoff HR sparks Dodgers vs. SF",
-    "The key to waking up the Reds? Breaking out the Tito speedo"
+    "No Sho, no problem: Smith's leadoff HR sparks Dodgers vs. SF"
   ],
   "cloudinaryAssets": [
     {
@@ -454,6 +454,11 @@
       "publicId": "tvs_cards/card_1781533854243",
       "resourceType": "image",
       "uploadedAt": 1781533855612
+    },
+    {
+      "publicId": "tvs_videos/video_1781542872465",
+      "resourceType": "video",
+      "uploadedAt": 1781542874831
     }
   ]
 }
