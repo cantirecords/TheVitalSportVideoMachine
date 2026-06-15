@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barça",
+    "Targets",
     "Ohtani",
     "Hits",
     "Barcelona",
@@ -14,6 +16,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/junior-kroupi-alternativa-arriesgada-julian-131390211?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-dodgers-series-opener-preview-june-15",
     "https://www.bbc.com/sport/formula1/articles/cx24k2vpmpyo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.sport.es/es/noticias/barca/pedro-sanchez-sale-defensa-lamine-yamal-130246583?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
     "https://www.mlb.com/news/will-smith-hits-leadoff-home-run-as-dodgers-beat-giants",
-    "https://www.mlb.com/news/jj-bleday-chase-burns-reds-blowout-nationals",
-    "https://www.mlb.com/news/golden-spikes-award-semifinalists-2026"
+    "https://www.mlb.com/news/jj-bleday-chase-burns-reds-blowout-nationals"
   ],
   "postedTitles": [
+    "Junior Kroupi, la alternativa arriesgada a Julián Álvarez que gusta en el Barça",
     "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
     "Red-hot Ohtani leads Dodgers into clash with Rays (ESPN, 10 ET)",
     "Hamilton says Barcelona win beyond wildest dreams",
@@ -414,20 +417,9 @@
     "Pedro Sánchez sale en defensa de Lamine Yamal tras la polémica por la bandera palestina",
     "Messi and the forgotten tape: Oral history of Arge...",
     "No Sho, no problem: Smith's leadoff HR sparks Dodgers vs. SF",
-    "The key to waking up the Reds? Breaking out the Tito speedo",
-    "Top college Draft prospects headline Golden Spikes Award semifinalists"
+    "The key to waking up the Reds? Breaking out the Tito speedo"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781443891016",
-      "resourceType": "video",
-      "uploadedAt": 1781443893470
-    },
-    {
-      "publicId": "tvs_cards/card_1781446826771",
-      "resourceType": "image",
-      "uploadedAt": 1781446828064
-    },
     {
       "publicId": "tvs_cards/card_1781458019887",
       "resourceType": "image",
@@ -457,6 +449,11 @@
       "publicId": "tvs_videos/video_1781524107395",
       "resourceType": "video",
       "uploadedAt": 1781524109897
+    },
+    {
+      "publicId": "tvs_cards/card_1781533854243",
+      "resourceType": "image",
+      "uploadedAt": 1781533855612
     }
   ]
 }
