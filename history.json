@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Sorsby",
+    "Enters",
     "MLB",
     "Stars",
     "Cubs",
@@ -24,6 +26,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49074711/2026-nfl-supplemental-draft-brendan-sorsby-quarterback-gambling-eligibility",
     "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff",
     "https://www.mlb.com/news/all-mlb-team-predictions-for-june-2026",
     "https://www.sport.es/es/noticias/barca/botas-lamine-yamal-pedri-mundial-131424519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -222,10 +225,10 @@
     "https://www.bbc.com/sport/football/articles/cx2103kqxnzo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/masa-liberal-lewandoowski-libera-barca-130293218?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/blake-snell-scratched-from-start-against-angels",
-    "https://www.espn.com/nba/story/_/id/48781971/james-harden-overtakes-stephen-curry-10th-playoff-scoring",
-    "https://www.bbc.com/sport/rugby-union/articles/cwy234p4dewo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nba/story/_/id/48781971/james-harden-overtakes-stephen-curry-10th-playoff-scoring"
   ],
   "postedTitles": [
+    "Wait, Brendan Sorsby is now going to the NFL suppl...",
     "Updated NBA mock draft: Predicting all 60 picks on...",
     "Our latest predictions for this year's All-MLB Team",
     "Las botas de Lamine Yamal y Pedri para el Mundial 2026: un guiño a Marruecos, Guinea Ecuatorial y Canarias",
@@ -424,15 +427,9 @@
     "Lewandowski to leave Barcelona as 'mission is complete'",
     "La masa salarial que Lewandowski libera del Barça: una cifra que permitirá un gran fichaje",
     "Dodgers place Snell on IL with loose bodies in elbow; surgery not ruled out",
-    "Harden overtakes Curry for 10th in playoff points",
-    "Saints humiliate Bristol 94-33 in record-breaking game"
+    "Harden overtakes Curry for 10th in playoff points"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781542872465",
-      "resourceType": "video",
-      "uploadedAt": 1781542874831
-    },
     {
       "publicId": "tvs_cards/card_1781553206583",
       "resourceType": "image",
@@ -472,6 +469,11 @@
       "publicId": "tvs_videos/video_1781627216271",
       "resourceType": "video",
       "uploadedAt": 1781627218948
+    },
+    {
+      "publicId": "tvs_cards/card_1781639001735",
+      "resourceType": "image",
+      "uploadedAt": 1781639003067
     }
   ]
 }
