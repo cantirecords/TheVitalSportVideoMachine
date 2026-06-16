@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "MLB",
+    "Stars",
     "Cubs",
     "Win",
     "Argentina",
@@ -22,6 +24,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/all-mlb-team-predictions-for-june-2026",
     "https://www.sport.es/es/noticias/barca/botas-lamine-yamal-pedri-mundial-131424519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/mlb-tv-father-s-day-2026-sale",
     "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
@@ -220,10 +223,10 @@
     "https://www.mlb.com/news/blake-snell-scratched-from-start-against-angels",
     "https://www.espn.com/nba/story/_/id/48781971/james-harden-overtakes-stephen-curry-10th-playoff-scoring",
     "https://www.bbc.com/sport/rugby-union/articles/cwy234p4dewo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/encuentro-mascotas-virales-benny-the-bull-barcelona-chicago-bulls-130281628?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Our latest predictions for this year's All-MLB Team",
     "Las botas de Lamine Yamal y Pedri para el Mundial 2026: un guiño a Marruecos, Guinea Ecuatorial y Canarias",
     "Father's Day Sale brings you MLB.TV for 50% off",
     "Latest NBA buzz: Everything we're hearing ahead of...",
@@ -422,15 +425,9 @@
     "Dodgers place Snell on IL with loose bodies in elbow; surgery not ruled out",
     "Harden overtakes Curry for 10th in playoff points",
     "Saints humiliate Bristol 94-33 in record-breaking game",
-    "'We crumbled' - another loss, another unwanted record for leaky Liverpool",
-    "El encuentro entre las dos mascotas más virales: Benny the Bull visita a CAT en el Spotify Camp Nou"
+    "'We crumbled' - another loss, another unwanted record for leaky Liverpool"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781524107395",
-      "resourceType": "video",
-      "uploadedAt": 1781524109897
-    },
     {
       "publicId": "tvs_cards/card_1781533854243",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1781607387363",
       "resourceType": "video",
       "uploadedAt": 1781607389155
+    },
+    {
+      "publicId": "tvs_cards/card_1781614863808",
+      "resourceType": "image",
+      "uploadedAt": 1781614864938
     }
   ]
 }
