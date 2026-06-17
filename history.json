@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Highest",
+    "Attendance",
     "Mbappe",
     "Breaks",
     "Haaland",
@@ -30,6 +32,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49093654/world-cup-attendance-record-broken-four-matches-same-day",
     "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/wnba/story/_/id/49074253/wnba-power-rankings-2026-liberty-commissioners-cup",
     "https://www.espn.com/soccer/story/_/id/49077353/world-cup-daily-live-lionel-messi-kylian-mbappe-erling-haaland-argentina-france-norway",
@@ -228,10 +231,10 @@
     "https://www.mlb.com/news/mlb-tv-has-free-preview-for-rivalry-weekend-2026",
     "https://www.marca.com/futbol/primera-division/2026/05/17/sevilla-real-madrid-pizjuan-quiere-aliron.html",
     "https://www.espn.com/nba/story/_/id/48751836/2026-nba-draft-combine-prospects-highlights-measurements-standouts-dybantsa-peterson",
-    "https://www.bbc.com/sport/football/articles/cq5pjqn4v0go?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/primera-division/2026/05/16/compra-tus-entradas-duelo-liguero-fc-barcelona-real-betis-camp-nou.html"
+    "https://www.bbc.com/sport/football/articles/cq5pjqn4v0go?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "World Cup daily attendance record broken",
     "Project Mbappe - the road to becoming France's record scorer",
     "WNBA Power Rankings: Liberty are back on top",
     "World Cup Daily Live: Giant inflatable match ball ...",
@@ -430,15 +433,9 @@
     "Watch out-of-market Rivalry Weekend games free today on MLB.TV",
     "Sevilla - Real Madrid: El Pizjuán quiere su alirón",
     "Draft combine highlights: Biggest questions, riser...",
-    "In better form than Kane - why Watkins is no longer being 'written off'",
-    "Compra ya tus entradas para el duelo liguero entre FC Barcelona y Real Betis en el Camp Nou"
+    "In better form than Kane - why Watkins is no longer being 'written off'"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781607387363",
-      "resourceType": "video",
-      "uploadedAt": 1781607389155
-    },
     {
       "publicId": "tvs_cards/card_1781614863808",
       "resourceType": "image",
@@ -473,6 +470,11 @@
       "publicId": "tvs_cards/card_1781672246593",
       "resourceType": "image",
       "uploadedAt": 1781672248075
+    },
+    {
+      "publicId": "tvs_cards/card_1781698998496",
+      "resourceType": "image",
+      "uploadedAt": 1781698999599
     }
   ]
 }
