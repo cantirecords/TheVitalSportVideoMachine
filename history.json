@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "England",
+    "Beats",
     "Ronaldo",
     "Struggles",
     "Kane",
@@ -38,6 +40,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis",
     "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss",
@@ -236,10 +239,10 @@
     "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-hits-little-league-homer-in-dodgers-rout-of-angels",
     "https://www.sport.es/es/noticias/barca/hora-juega-barca-betis-laliga-130305608?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nba/story/_/id/48771822/drake-new-album-iceman-make-remember-los-angeles-lakers-lebron-james-diss-record",
-    "https://www.mlb.com/news/mlb-tv-has-free-preview-for-rivalry-weekend-2026"
+    "https://www.espn.com/nba/story/_/id/48771822/drake-new-album-iceman-make-remember-los-angeles-lakers-lebron-james-diss-record"
   ],
   "postedTitles": [
+    "'Chip on shoulder' may help Bellingham to best form",
     "Portugal have a Ronaldo problem (again) after draw...",
     "Why was Kane's penalty retaken against Croatia? ",
     "Messi stays humble after hat-trick performance",
@@ -438,8 +441,7 @@
     "The Alonso dream is over - but Salah's outburst keeps heat on Slot",
     "You've never seen an Ohtani 'homer' quite like this one",
     "A qué hora juega el Barça contra el Betis en LaLiga EA Sports y dónde ver por TV el partido en directo",
-    "Drake references LeBron James multiple times on ne...",
-    "Watch out-of-market Rivalry Weekend games free today on MLB.TV"
+    "Drake references LeBron James multiple times on ne..."
   ],
   "cloudinaryAssets": [
     {
@@ -461,6 +463,11 @@
       "publicId": "tvs_cards/card_1781758069678",
       "resourceType": "image",
       "uploadedAt": 1781758071388
+    },
+    {
+      "publicId": "tvs_cards/card_1781783765542",
+      "resourceType": "image",
+      "uploadedAt": 1781783767011
     }
   ]
 }
