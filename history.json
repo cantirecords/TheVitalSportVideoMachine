@@ -44,6 +44,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/48979870/ranking-2026-nba-draft-2025-classes-draft-cooper-flagg-dylan-harper-reclass-dybantsa-peterson",
     "https://www.espn.com/nba/story/_/id/49086321/lakers-lawrence-tanter-retiring-40-years-microphone",
     "https://www.bbc.com/sport/articles/c5yzx89v7k0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
@@ -242,10 +243,10 @@
     "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne",
     "https://www.sport.es/es/noticias/barca/despedira-lewandowski-camp-nou-130300243?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/rugby-union/articles/cp3pxx50qdxo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-hits-little-league-homer-in-dodgers-rout-of-angels"
+    "https://www.bbc.com/sport/football/articles/cdepgn509k2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Let's combine the 2025 and 2026 NBA draft classes:...",
     "Longtime Lakers P.A. announcer Tanter retiring",
     "Weekly sports quiz: World Cups, F1 and NBA",
     "'Chip on shoulder' may help Bellingham to best form",
@@ -444,8 +445,7 @@
     "Man Utd's Bruno Fernandes equals PL assist record",
     "Así se despedirá Lewandowski del Camp Nou",
     "Ireland thrash Scotland in front of record crowd",
-    "The Alonso dream is over - but Salah's outburst keeps heat on Slot",
-    "You've never seen an Ohtani 'homer' quite like this one"
+    "The Alonso dream is over - but Salah's outburst keeps heat on Slot"
   ],
   "cloudinaryAssets": [
     {
@@ -472,6 +472,11 @@
       "publicId": "tvs_cards/card_1781807504771",
       "resourceType": "image",
       "uploadedAt": 1781807506157
+    },
+    {
+      "publicId": "tvs_videos/video_1781813654003",
+      "resourceType": "video",
+      "uploadedAt": 1781813655695
     }
   ]
 }
