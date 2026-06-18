@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ronaldo",
+    "Struggles",
     "Kane",
     "Scores",
     "Messi",
@@ -36,6 +38,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis",
     "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49093654/world-cup-attendance-record-broken-four-matches-same-day",
@@ -234,10 +237,10 @@
     "https://www.mlb.com/news/shohei-ohtani-hits-little-league-homer-in-dodgers-rout-of-angels",
     "https://www.sport.es/es/noticias/barca/hora-juega-barca-betis-laliga-130305608?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/48771822/drake-new-album-iceman-make-remember-los-angeles-lakers-lebron-james-diss-record",
-    "https://www.mlb.com/news/mlb-tv-has-free-preview-for-rivalry-weekend-2026",
-    "https://www.marca.com/futbol/primera-division/2026/05/17/sevilla-real-madrid-pizjuan-quiere-aliron.html"
+    "https://www.mlb.com/news/mlb-tv-has-free-preview-for-rivalry-weekend-2026"
   ],
   "postedTitles": [
+    "Portugal have a Ronaldo problem (again) after draw...",
     "Why was Kane's penalty retaken against Croatia? ",
     "Messi stays humble after hat-trick performance",
     "World Cup daily attendance record broken",
@@ -436,15 +439,9 @@
     "You've never seen an Ohtani 'homer' quite like this one",
     "A qué hora juega el Barça contra el Betis en LaLiga EA Sports y dónde ver por TV el partido en directo",
     "Drake references LeBron James multiple times on ne...",
-    "Watch out-of-market Rivalry Weekend games free today on MLB.TV",
-    "Sevilla - Real Madrid: El Pizjuán quiere su alirón"
+    "Watch out-of-market Rivalry Weekend games free today on MLB.TV"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781664519465",
-      "resourceType": "video",
-      "uploadedAt": 1781664522399
-    },
     {
       "publicId": "tvs_cards/card_1781672246593",
       "resourceType": "image",
@@ -464,6 +461,11 @@
       "publicId": "tvs_cards/card_1781734073049",
       "resourceType": "image",
       "uploadedAt": 1781734074479
+    },
+    {
+      "publicId": "tvs_cards/card_1781758069678",
+      "resourceType": "image",
+      "uploadedAt": 1781758071388
     }
   ]
 }
