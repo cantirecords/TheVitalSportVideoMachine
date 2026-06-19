@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Meunier",
+    "Picks",
     "Votto",
     "Reveals",
     "Legendary",
@@ -46,6 +48,7 @@
     "Tragic"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/valencia/2026/06/18/meunier-le-seduce-valencia-prefiere-equipo-liga.html",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-18",
     "https://www.mlb.com/news/joey-votto-shares-heartwarming-reason-he-named-dog-after-joe-morgan",
     "https://www.espn.com/nba/story/_/id/48979870/ranking-2026-nba-draft-2025-classes-draft-cooper-flagg-dylan-harper-reclass-dybantsa-peterson",
@@ -244,10 +247,10 @@
     "https://www.bbc.com/sport/football/videos/c332pyem3m2o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48803547/robert-lewandowski-leaves-barcelona-leading-low-ebb-back-top-laliga",
     "https://www.mlb.com/news/marlins-reporter-nearly-catches-foul-with-cap",
-    "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne",
-    "https://www.sport.es/es/noticias/barca/despedira-lewandowski-camp-nou-130300243?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/soccer/story/_/id/48665214/man-united-bruno-fernandes-equals-premier-league-assist-record-nottingham-forest-thierry-henry-kevin-de-bruyne"
   ],
   "postedTitles": [
+    "A Meunier le seduce el Valencia que lo prefiere a otro equipo de la Liga",
     "The Draft is less than a month away. How will the top 3 -- and more! -- shake out?",
     "Votto shares heartwarming reason he named dog after a Hall of Famer and Reds legend",
     "Let's combine the 2025 and 2026 NBA draft classes:...",
@@ -446,15 +449,9 @@
     "If I was Slot I'd have Salah nowhere near the stadium - Rooney",
     "'Catalonia is my place on earth': Lewandowski leav...",
     "MLB.com reporter whiffs on foul ball, but at least the laptop survived",
-    "Man Utd's Bruno Fernandes equals PL assist record",
-    "Así se despedirá Lewandowski del Camp Nou"
+    "Man Utd's Bruno Fernandes equals PL assist record"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1781758069678",
-      "resourceType": "image",
-      "uploadedAt": 1781758071388
-    },
     {
       "publicId": "tvs_cards/card_1781783765542",
       "resourceType": "image",
@@ -484,6 +481,11 @@
       "publicId": "tvs_videos/video_1781838079505",
       "resourceType": "video",
       "uploadedAt": 1781838083325
+    },
+    {
+      "publicId": "tvs_cards/card_1781845660990",
+      "resourceType": "image",
+      "uploadedAt": 1781845662467
     }
   ]
 }
