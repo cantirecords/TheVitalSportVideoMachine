@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Jansen",
+    "Watches",
     "Barça",
     "Signs",
     "Madrid",
@@ -14,6 +16,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/kenley-jansen-reacts-to-friend-s-world-cup-saves-record",
     "https://www.sport.es/es/noticias/barca/juega-josue-caicedo-prodigio-fisico-barcelona-ldu-quito-131618026?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/49115778/inside-real-madrid-transfer-plans-mourinho-pulling-strings-build-win-now-team",
     "https://www.mlb.com/news/angels-prospect-juan-cespedes-sets-record-with-8-stolen-bases",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/jackson-merrill-exits-with-apparent-injury-against-dodgers",
     "https://www.mlb.com/news/yankees-giancarlo-stanton-on-lending-pants-to-jazz-chisholm-jr",
     "https://www.sport.es/es/noticias/barca/formula-utilizar-barca-fichar-rashford-130446420?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/barca-pendiente-posible-descenso-mallorca-130420609?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.marca.com/futbol/barcelona/2026/05/19/barcelona-volvera-1-1-verano.html"
+    "https://www.sport.es/es/noticias/barca/barca-pendiente-posible-descenso-mallorca-130420609?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Jansen 'couldn’t sleep' after watching friend set World Cup saves record",
     "Así juega Josué Caicedo, el nuevo fichaje del Barça: un prodigio físico de largo recorrido",
     "Inside Real Madrid's transfer plans: Mourinho key ...",
     "Off to the races: Angels 17-year-old prospect sets record with 8 swipes",
@@ -414,8 +417,7 @@
     "Merrill exits with apparent injury after attempting to rob Ohtani's homer",
     "'They've got homers in them': Stanton happy to lend slump-breaking pants to Jazz",
     "La fórmula que propondrá el Barça para fichar a Rashford",
-    "El Barça, pendiente del posible descenso del Mallorca",
-    "El Barcelona volverá al 1:1 este verano"
+    "El Barça, pendiente del posible descenso del Mallorca"
   ],
   "cloudinaryAssets": [
     {
@@ -447,6 +449,11 @@
       "publicId": "tvs_cards/card_1782051988161",
       "resourceType": "image",
       "uploadedAt": 1782051989334
+    },
+    {
+      "publicId": "tvs_cards/card_1782063950440",
+      "resourceType": "image",
+      "uploadedAt": 1782063951839
     }
   ]
 }
