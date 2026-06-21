@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Angels",
     "Prospect",
     "Netherlands",
@@ -8,50 +9,10 @@
     "Is",
     "Lendeborg",
     "Raises",
-    "LeBron",
-    "James",
-    "Meunier",
-    "Picks",
-    "Votto",
-    "Reveals",
-    "Legendary",
-    "Voice",
-    "World",
-    "Cup",
-    "England",
-    "Beats",
-    "Ronaldo",
-    "Struggles",
-    "Kane",
-    "Scores",
-    "Messi",
-    "Scores",
-    "Highest",
-    "Attendance",
-    "Mbappe",
-    "Breaks",
-    "Haaland",
-    "Makes",
-    "Sorsby",
-    "Enters",
-    "MLB",
-    "Stars",
-    "Cubs",
-    "Win",
-    "Argentina",
-    "Ready",
-    "Lewandowski",
-    "Joins",
-    "Barça",
-    "Targets",
-    "Ohtani",
-    "Hits",
-    "Barcelona",
-    "Hamilton",
-    "Nats",
-    "Destroy"
+    "LeBron"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49115778/inside-real-madrid-transfer-plans-mourinho-pulling-strings-build-win-now-team",
     "https://www.mlb.com/news/angels-prospect-juan-cespedes-sets-record-with-8-stolen-bases",
     "https://www.bbc.com/sport/football/articles/c9924mxedgno?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49129008/netherlands-shatter-world-cup-unbeaten-record-streak-crushing-sweden",
@@ -250,10 +211,10 @@
     "https://www.sport.es/es/noticias/barca/formula-utilizar-barca-fichar-rashford-130446420?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/barca-pendiente-posible-descenso-mallorca-130420609?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.marca.com/futbol/barcelona/2026/05/19/barcelona-volvera-1-1-verano.html",
-    "https://www.sport.es/es/noticias/barca/joan-garcia-exigencia-barca-parecida-130393262?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/dani-olmo-impulsa-proyecto-social-130424483?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/joan-garcia-exigencia-barca-parecida-130393262?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Inside Real Madrid's transfer plans: Mourinho key ...",
     "Off to the races: Angels 17-year-old prospect sets record with 8 swipes",
     "Chelsea weigh up Wirtz move - Sunday's gossip",
     "Netherlands break WC record with Sweden thumping",
@@ -452,15 +413,9 @@
     "La fórmula que propondrá el Barça para fichar a Rashford",
     "El Barça, pendiente del posible descenso del Mallorca",
     "El Barcelona volverá al 1:1 este verano",
-    "Joan Garcia: \"La exigencia del Barça es la más parecida a la de un Mundial; estoy listo\"",
-    "Dani Olmo impulsa un proyecto social en Barcelona y Badalona para apoyar a jóvenes a través del fútbol"
+    "Joan Garcia: \"La exigencia del Barça es la más parecida a la de un Mundial; estoy listo\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781962240588",
-      "resourceType": "video",
-      "uploadedAt": 1781962242392
-    },
     {
       "publicId": "tvs_videos/video_1782010148899",
       "resourceType": "video",
@@ -480,6 +435,11 @@
       "publicId": "tvs_cards/card_1782040919432",
       "resourceType": "image",
       "uploadedAt": 1782040920414
+    },
+    {
+      "publicId": "tvs_videos/video_1782049848674",
+      "resourceType": "video",
+      "uploadedAt": 1782049850342
     }
   ]
 }
