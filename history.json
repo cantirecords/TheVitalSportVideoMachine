@@ -16,6 +16,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49135958/spain-saudi-arabia-2026-world-cup-lamine-yamal-mikel-oyarzabal",
     "https://www.mlb.com/news/kenley-jansen-reacts-to-friend-s-world-cup-saves-record",
     "https://www.sport.es/es/noticias/barca/juega-josue-caicedo-prodigio-fisico-barcelona-ldu-quito-131618026?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/49115778/inside-real-madrid-transfer-plans-mourinho-pulling-strings-build-win-now-team",
@@ -214,10 +215,10 @@
     "https://www.mlb.com/news/rays-rally-with-four-run-eighth-to-sweep-orioles",
     "https://www.mlb.com/news/jackson-merrill-exits-with-apparent-injury-against-dodgers",
     "https://www.mlb.com/news/yankees-giancarlo-stanton-on-lending-pants-to-jazz-chisholm-jr",
-    "https://www.sport.es/es/noticias/barca/formula-utilizar-barca-fichar-rashford-130446420?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/barca-pendiente-posible-descenso-mallorca-130420609?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/formula-utilizar-barca-fichar-rashford-130446420?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Yamal nets 1st World Cup goal to fuel Spain rout",
     "Jansen 'couldn’t sleep' after watching friend set World Cup saves record",
     "Así juega Josué Caicedo, el nuevo fichaje del Barça: un prodigio físico de largo recorrido",
     "Inside Real Madrid's transfer plans: Mourinho key ...",
@@ -416,8 +417,7 @@
     "There's no quit in these Rays (33-15) as 4-run 8th secures MLB-best 6th sweep",
     "Merrill exits with apparent injury after attempting to rob Ohtani's homer",
     "'They've got homers in them': Stanton happy to lend slump-breaking pants to Jazz",
-    "La fórmula que propondrá el Barça para fichar a Rashford",
-    "El Barça, pendiente del posible descenso del Mallorca"
+    "La fórmula que propondrá el Barça para fichar a Rashford"
   ],
   "cloudinaryAssets": [
     {
@@ -454,6 +454,11 @@
       "publicId": "tvs_cards/card_1782063950440",
       "resourceType": "image",
       "uploadedAt": 1782063951839
+    },
+    {
+      "publicId": "tvs_videos/video_1782069472024",
+      "resourceType": "video",
+      "uploadedAt": 1782069475076
     }
   ]
 }
