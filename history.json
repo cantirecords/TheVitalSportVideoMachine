@@ -52,6 +52,7 @@
     "Brazil"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-call-up-no-2-prospect-elmer-rodriguez-to-start-sunday",
     "https://www.espn.com/nfl/story/_/id/49073409/2026-nfl-season-breakouts-nosedives-trends-blips-smith-njigba-stroud",
     "https://www.espn.com/nfl/story/_/id/49071567/2026-offseason-nfl-execs-favorite-trades-signings-draft-picks-moves-waddle-garrett",
     "https://www.espn.com/nba/story/_/id/49098145/nba-2026-underrated-free-agents-offseason-targets",
@@ -250,10 +251,10 @@
     "https://www.sport.es/es/noticias/barca/dani-olmo-impulsa-proyecto-social-130424483?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/ronald-araujo-27-anos-futbolista-barcelona-padres-uruguay-130384985?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/tennis/articles/c87qlqw1nj0o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/marlins-trounce-braves-behind-xavier-edwards-javier-sanoja",
-    "https://www.bbc.com/sport/football/articles/c759vdlyr2wo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/marlins-trounce-braves-behind-xavier-edwards-javier-sanoja"
   ],
   "postedTitles": [
+    "Yankees call up No. 2 prospect to start Sunday's game vs. Reds",
     "📈 Which NFL breakouts and falloffs will continue?...",
     "NFL execs choose their favorite offseason moves: W...",
     "My favorite under-the-radar NBA free agents: Six u...",
@@ -452,19 +453,18 @@
     "Dani Olmo impulsa un proyecto social en Barcelona y Badalona para apoyar a jóvenes a través del fútbol",
     "Ronald Araujo (27 años), futbolista del FC Barcelona: \"A los 16 años seguía viviendo con mis padres en un pueblo de Uruguay\"",
     "Two-time winner Alcaraz out of Wimbledon with injury",
-    "A numerical look at Miami's historic win over NL-best Braves",
-    "Neymar included in Brazil's 26-man World Cup squad"
+    "A numerical look at Miami's historic win over NL-best Braves"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1781922814394",
-      "resourceType": "video",
-      "uploadedAt": 1781922815956
-    },
     {
       "publicId": "tvs_videos/video_1781962240588",
       "resourceType": "video",
       "uploadedAt": 1781962242392
+    },
+    {
+      "publicId": "tvs_videos/video_1782010148899",
+      "resourceType": "video",
+      "uploadedAt": 1782010151325
     }
   ]
 }
