@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Young",
+    "Star",
     "Jansen",
     "Watches",
     "Barça",
@@ -16,6 +18,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.sport.es/es/noticias/barca/lamine-yamal-revela-mayor-miedo-131654324?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/49135958/spain-saudi-arabia-2026-world-cup-lamine-yamal-mikel-oyarzabal",
     "https://www.mlb.com/news/kenley-jansen-reacts-to-friend-s-world-cup-saves-record",
     "https://www.sport.es/es/noticias/barca/juega-josue-caicedo-prodigio-fisico-barcelona-ldu-quito-131618026?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
@@ -214,10 +217,10 @@
     "https://www.bbc.com/sport/football/articles/c0m29wj3p3eo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-rally-with-four-run-eighth-to-sweep-orioles",
     "https://www.mlb.com/news/jackson-merrill-exits-with-apparent-injury-against-dodgers",
-    "https://www.mlb.com/news/yankees-giancarlo-stanton-on-lending-pants-to-jazz-chisholm-jr",
-    "https://www.sport.es/es/noticias/barca/formula-utilizar-barca-fichar-rashford-130446420?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/yankees-giancarlo-stanton-on-lending-pants-to-jazz-chisholm-jr"
   ],
   "postedTitles": [
+    "Lamine Yamal revela cuál es su mayor miedo: \"Mi madre y mi pareja...\"",
     "Yamal nets 1st World Cup goal to fuel Spain rout",
     "Jansen 'couldn’t sleep' after watching friend set World Cup saves record",
     "Así juega Josué Caicedo, el nuevo fichaje del Barça: un prodigio físico de largo recorrido",
@@ -416,8 +419,7 @@
     "How Warnock became play-offs' record-breaking boss",
     "There's no quit in these Rays (33-15) as 4-run 8th secures MLB-best 6th sweep",
     "Merrill exits with apparent injury after attempting to rob Ohtani's homer",
-    "'They've got homers in them': Stanton happy to lend slump-breaking pants to Jazz",
-    "La fórmula que propondrá el Barça para fichar a Rashford"
+    "'They've got homers in them': Stanton happy to lend slump-breaking pants to Jazz"
   ],
   "cloudinaryAssets": [
     {
@@ -459,6 +461,11 @@
       "publicId": "tvs_videos/video_1782069472024",
       "resourceType": "video",
       "uploadedAt": 1782069475076
+    },
+    {
+      "publicId": "tvs_cards/card_1782076967862",
+      "resourceType": "image",
+      "uploadedAt": 1782076969730
     }
   ]
 }
