@@ -52,6 +52,7 @@
     "Josh"
   ],
   "postedUrls": [
+    "https://www.bbc.com/sport/football/articles/c9924mxedgno?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49129008/netherlands-shatter-world-cup-unbeaten-record-streak-crushing-sweden",
     "https://www.mlb.com/news/yankees-call-up-no-2-prospect-elmer-rodriguez-to-start-sunday",
     "https://www.espn.com/nfl/story/_/id/49073409/2026-nfl-season-breakouts-nosedives-trends-blips-smith-njigba-stroud",
@@ -250,10 +251,10 @@
     "https://www.marca.com/futbol/barcelona/2026/05/19/barcelona-volvera-1-1-verano.html",
     "https://www.sport.es/es/noticias/barca/joan-garcia-exigencia-barca-parecida-130393262?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/dani-olmo-impulsa-proyecto-social-130424483?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/ronald-araujo-27-anos-futbolista-barcelona-padres-uruguay-130384985?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/tennis/articles/c87qlqw1nj0o?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/ronald-araujo-27-anos-futbolista-barcelona-padres-uruguay-130384985?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Chelsea weigh up Wirtz move - Sunday's gossip",
     "Netherlands break WC record with Sweden thumping",
     "Yankees call up No. 2 prospect to start Sunday's game vs. Reds",
     "📈 Which NFL breakouts and falloffs will continue?...",
@@ -452,8 +453,7 @@
     "El Barcelona volverá al 1:1 este verano",
     "Joan Garcia: \"La exigencia del Barça es la más parecida a la de un Mundial; estoy listo\"",
     "Dani Olmo impulsa un proyecto social en Barcelona y Badalona para apoyar a jóvenes a través del fútbol",
-    "Ronald Araujo (27 años), futbolista del FC Barcelona: \"A los 16 años seguía viviendo con mis padres en un pueblo de Uruguay\"",
-    "Two-time winner Alcaraz out of Wimbledon with injury"
+    "Ronald Araujo (27 años), futbolista del FC Barcelona: \"A los 16 años seguía viviendo con mis padres en un pueblo de Uruguay\""
   ],
   "cloudinaryAssets": [
     {
@@ -470,6 +470,11 @@
       "publicId": "tvs_cards/card_1782018241112",
       "resourceType": "image",
       "uploadedAt": 1782018242566
+    },
+    {
+      "publicId": "tvs_videos/video_1782034701017",
+      "resourceType": "video",
+      "uploadedAt": 1782034703496
     }
   ]
 }
