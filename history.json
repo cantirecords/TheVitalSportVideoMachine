@@ -16,6 +16,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/zack-gelof-s-defensive-versatility-has-come-with-bounceback-offense",
     "https://www.marca.com/futbol/primera-division/2026/06/22/ascensos-primera-locos-historia-racing-depor-malaga-1-rfef-liga-cinco-anos.html",
     "https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts",
     "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +215,10 @@
     "https://www.mlb.com/news/spencer-jones-yovanny-cruz-optioned-to-triple-a-by-yankees",
     "https://www.bbc.com/sport/formula1/articles/c152xglxk1go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c232g9lpdpgo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/camiseta-viral-utilizo-szczesny-valorada-130489807?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/pelea-arabia-lewandowski-130475984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/camiseta-viral-utilizo-szczesny-valorada-130489807?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "For Gelof, MLB-high hitting streak in 2026 a true slam dunk",
     "Los ascensos a Primera más locos de la historia: Racing, Dépor y Málaga, de 1ªRFEF a La Liga en cinco años",
     "Grades for every NBA free agent signing: Suns, Haw...",
     "Salah's World Cup pain ends as he fires Egypt to historic win",
@@ -416,20 +417,9 @@
     "Yankees option Jones, Cruz with Cole, Caballero expected back today",
     "Verstappen hints at F1 stay with racing set to go 'back to normal'",
     "Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title",
-    "Esta es la camiseta viral que utilizó Szczesny, valorada en 750 euros",
-    "Pelea en Arabia por Lewandowski"
+    "Esta es la camiseta viral que utilizó Szczesny, valorada en 750 euros"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782049848674",
-      "resourceType": "video",
-      "uploadedAt": 1782049850342
-    },
-    {
-      "publicId": "tvs_cards/card_1782051988161",
-      "resourceType": "image",
-      "uploadedAt": 1782051989334
-    },
     {
       "publicId": "tvs_cards/card_1782063950440",
       "resourceType": "image",
@@ -464,6 +454,11 @@
       "publicId": "tvs_cards/card_1782135673958",
       "resourceType": "image",
       "uploadedAt": 1782135675709
+    },
+    {
+      "publicId": "tvs_videos/video_1782145866331",
+      "resourceType": "video",
+      "uploadedAt": 1782145868498
     }
   ]
 }
