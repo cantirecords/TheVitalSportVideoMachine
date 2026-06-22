@@ -18,6 +18,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/what-francisco-lindor-s-upcoming-return-means-for-mets",
     "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/zack-gelof-s-defensive-versatility-has-come-with-bounceback-offense",
     "https://www.marca.com/futbol/primera-division/2026/06/22/ascensos-primera-locos-historia-racing-depor-malaga-1-rfef-liga-cinco-anos.html",
@@ -216,10 +217,10 @@
     "https://www.espn.com/nba/story/_/id/48809706/nba-draft-2026-asset-rankings-30-teams-spurs-thunder-nets-hornets",
     "https://www.marca.com/futbol/oviedo/2026/05/22/cazorla-ultima-oportunidad-historia-95-anos-liga-90-minutos-goleador-viejo-todos-tiempos.html",
     "https://www.mlb.com/news/spencer-jones-yovanny-cruz-optioned-to-triple-a-by-yankees",
-    "https://www.bbc.com/sport/formula1/articles/c152xglxk1go?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c232g9lpdpgo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/formula1/articles/c152xglxk1go?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Lindor's upcoming return comes at crucial inflection point for Mets",
     "How Ferguson became Scotland's most influential World Cup player",
     "For Gelof, MLB-high hitting streak in 2026 a true slam dunk",
     "Los ascensos a Primera más locos de la historia: Racing, Dépor y Málaga, de 1ªRFEF a La Liga en cinco años",
@@ -418,8 +419,7 @@
     "NBA draft asset tiers: Why OKC and San Antonio are...",
     "Cazorla ante la última oportunidad de hacer historia en 95 años de la Liga: ¡90 minutos para ser el goleador más 'viejo' de todos los tiempos!",
     "Yankees option Jones, Cruz with Cole, Caballero expected back today",
-    "Verstappen hints at F1 stay with racing set to go 'back to normal'",
-    "Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title"
+    "Verstappen hints at F1 stay with racing set to go 'back to normal'"
   ],
   "cloudinaryAssets": [
     {
@@ -456,6 +456,11 @@
       "publicId": "tvs_cards/card_1782157005235",
       "resourceType": "image",
       "uploadedAt": 1782157006841
+    },
+    {
+      "publicId": "tvs_videos/video_1782160591388",
+      "resourceType": "video",
+      "uploadedAt": 1782160593120
     }
   ]
 }
