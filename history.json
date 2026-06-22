@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Racing",
+    "Leads",
     "Salah",
     "Scores",
     "Ohtani",
@@ -14,6 +16,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/06/22/ascensos-primera-locos-historia-racing-depor-malaga-1-rfef-liga-cinco-anos.html",
     "https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts",
     "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-power-rankings-week-of-june-21-2026",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/formula1/articles/c152xglxk1go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c232g9lpdpgo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/camiseta-viral-utilizo-szczesny-valorada-130489807?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/pelea-arabia-lewandowski-130475984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/football/articles/c0m29wj3p3eo?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/pelea-arabia-lewandowski-130475984?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Los ascensos a Primera más locos de la historia: Racing, Dépor y Málaga, de 1ªRFEF a La Liga en cinco años",
     "Grades for every NBA free agent signing: Suns, Haw...",
     "Salah's World Cup pain ends as he fires Egypt to historic win",
     "Ohtani celebrates child No. 2 by helping Dodgers return to No. 1",
@@ -414,8 +417,7 @@
     "Verstappen hints at F1 stay with racing set to go 'back to normal'",
     "Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title",
     "Esta es la camiseta viral que utilizó Szczesny, valorada en 750 euros",
-    "Pelea en Arabia por Lewandowski",
-    "How Warnock became play-offs' record-breaking boss"
+    "Pelea en Arabia por Lewandowski"
   ],
   "cloudinaryAssets": [
     {
@@ -457,6 +459,11 @@
       "publicId": "tvs_videos/video_1782128246102",
       "resourceType": "video",
       "uploadedAt": 1782128247568
+    },
+    {
+      "publicId": "tvs_cards/card_1782135673958",
+      "resourceType": "image",
+      "uploadedAt": 1782135675709
     }
   ]
 }
