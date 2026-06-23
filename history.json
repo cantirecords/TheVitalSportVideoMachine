@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Haaland",
+    "Scores",
     "Ronaldo",
     "Scoreless",
     "Mbappe",
@@ -24,6 +26,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/cx2wpz0q0edo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/ckg042kgj4yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-klein-opens-for-eric-lauer-vs-twins",
@@ -222,10 +225,10 @@
     "https://www.mlb.com/news/brewers-jesus-made-rbi-streak-minors",
     "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48847256/joao-felix-cristiano-ronaldo-saudi-pro-league-best-player-award",
-    "https://www.bbc.com/sport/basketball/articles/c4g4qvkg1pqo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/chris-taylor-dodgers-postseason-hero-retires"
+    "https://www.bbc.com/sport/basketball/articles/c4g4qvkg1pqo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'Scoring machine' Haaland hits second double of World Cup",
     "Is Gasly's podium justice or a can of worms best left unopened? F1 Q&A",
     "How do you solve a problem like Ronaldo?",
     "Lauer goes six hitless innings behind opener as Dodgers notch win No. 50",
@@ -424,8 +427,7 @@
     "MLB's top prospect sets longest RBI streak of 2026 with ANOTHER homer",
     "F1 great Prost 'injured as masked gang raid home'",
     "João Félix beats Ronaldo to win Saudi best player",
-    "'I need to be better team player' - Wembanyama after Spurs lose again",
-    "Taylor, Dodgers' postseason hero and 2-time World Series champ, retires"
+    "'I need to be better team player' - Wembanyama after Spurs lose again"
   ],
   "cloudinaryAssets": [
     {
@@ -472,6 +474,11 @@
       "publicId": "tvs_videos/video_1782225029310",
       "resourceType": "video",
       "uploadedAt": 1782225031763
+    },
+    {
+      "publicId": "tvs_cards/card_1782227825423",
+      "resourceType": "image",
+      "uploadedAt": 1782227827454
     }
   ]
 }
