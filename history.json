@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Golden",
+    "Knights",
     "West",
     "Squad",
     "Haaland",
@@ -28,6 +30,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.espn.com/nhl/story/_/id/49147109/golden-knights-owner-bill-foley-launching-nba-las-vegas-bid",
     "https://www.bbc.co.uk/sport/cricket/articles/c4gyv081y14o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/third-annual-east-west-classic-held-at-rickwood-field",
     "https://www.bbc.co.uk/sport/football/videos/cx2wpz0q0edo?at_medium=RSS&at_campaign=rss",
@@ -226,10 +229,10 @@
     "https://www.mlb.com/news/roki-sasaki-leads-dodgers-to-big-win-over-brewers",
     "https://www.sport.es/es/noticias/barca/peticion-grada-estadi-olimpic-robert-130575792?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/snooker/articles/clypj08x9rno?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/brewers-jesus-made-rbi-streak-minors",
-    "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/brewers-jesus-made-rbi-streak-minors"
   ],
   "postedTitles": [
+    "Golden Knights owner launching NBA Vegas bid",
     "Ice packs & F1 cooling vests - England ready for heat",
     "MLB greats converge upon Rickwood Field for third East-West Classic",
     "'Scoring machine' Haaland hits second double of World Cup",
@@ -428,15 +431,9 @@
     "Sasaki displays newfound confidence in Dodgers' rout of Brewers",
     "La petición de la grada del Estadi Olímpic a Robert Lewandowski durante el concierto de Bad Bunny: \"Robert quédate\"",
     "'Shocking' World semi-final miss still hurts Allen",
-    "MLB's top prospect sets longest RBI streak of 2026 with ANOTHER homer",
-    "F1 great Prost 'injured as masked gang raid home'"
+    "MLB's top prospect sets longest RBI streak of 2026 with ANOTHER homer"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782160591388",
-      "resourceType": "video",
-      "uploadedAt": 1782160593120
-    },
     {
       "publicId": "tvs_cards/card_1782166220920",
       "resourceType": "image",
@@ -481,6 +478,11 @@
       "publicId": "tvs_videos/video_1782244333840",
       "resourceType": "video",
       "uploadedAt": 1782244335853
+    },
+    {
+      "publicId": "tvs_cards/card_1782251238507",
+      "resourceType": "image",
+      "uploadedAt": 1782251240155
     }
   ]
 }
