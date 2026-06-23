@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ronaldo",
+    "Scoreless",
     "Mbappe",
     "Scores",
     "Messi",
@@ -22,6 +24,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-klein-opens-for-eric-lauer-vs-twins",
     "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-mlb-draft-combine-coverage",
@@ -220,10 +223,10 @@
     "https://www.espn.com/soccer/story/_/id/48847256/joao-felix-cristiano-ronaldo-saudi-pro-league-best-player-award",
     "https://www.bbc.com/sport/basketball/articles/c4g4qvkg1pqo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/chris-taylor-dodgers-postseason-hero-retires",
-    "https://www.bbc.com/sport/football/articles/cvgz3wgy9vvo?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/primera-division/2026/05/23/valencia-vs-barcelona-cruzan-dedos.html"
+    "https://www.bbc.com/sport/football/articles/cvgz3wgy9vvo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "How do you solve a problem like Ronaldo?",
     "Lauer goes six hitless innings behind opener as Dodgers notch win No. 50",
     "'Simply stunning' - Mbappe opens the scoring against Iraq",
     "Here's everything you need to know about this week's Draft Combine",
@@ -422,8 +425,7 @@
     "João Félix beats Ronaldo to win Saudi best player",
     "'I need to be better team player' - Wembanyama after Spurs lose again",
     "Taylor, Dodgers' postseason hero and 2-time World Series champ, retires",
-    "Real Madrid head coach Arbeloa confirms departure",
-    "Valencia vs Barcelona: Cruzan los dedos"
+    "Real Madrid head coach Arbeloa confirms departure"
   ],
   "cloudinaryAssets": [
     {
@@ -470,6 +472,11 @@
       "publicId": "tvs_videos/video_1782205270569",
       "resourceType": "video",
       "uploadedAt": 1782205272289
+    },
+    {
+      "publicId": "tvs_cards/card_1782213910795",
+      "resourceType": "image",
+      "uploadedAt": 1782213912268
     }
   ]
 }
