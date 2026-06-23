@@ -24,6 +24,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/ckg042kgj4yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-klein-opens-for-eric-lauer-vs-twins",
     "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss",
@@ -222,10 +223,10 @@
     "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48847256/joao-felix-cristiano-ronaldo-saudi-pro-league-best-player-award",
     "https://www.bbc.com/sport/basketball/articles/c4g4qvkg1pqo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/chris-taylor-dodgers-postseason-hero-retires",
-    "https://www.bbc.com/sport/football/articles/cvgz3wgy9vvo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/chris-taylor-dodgers-postseason-hero-retires"
   ],
   "postedTitles": [
+    "Is Gasly's podium justice or a can of worms best left unopened? F1 Q&A",
     "How do you solve a problem like Ronaldo?",
     "Lauer goes six hitless innings behind opener as Dodgers notch win No. 50",
     "'Simply stunning' - Mbappe opens the scoring against Iraq",
@@ -424,20 +425,9 @@
     "F1 great Prost 'injured as masked gang raid home'",
     "João Félix beats Ronaldo to win Saudi best player",
     "'I need to be better team player' - Wembanyama after Spurs lose again",
-    "Taylor, Dodgers' postseason hero and 2-time World Series champ, retires",
-    "Real Madrid head coach Arbeloa confirms departure"
+    "Taylor, Dodgers' postseason hero and 2-time World Series champ, retires"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782128246102",
-      "resourceType": "video",
-      "uploadedAt": 1782128247568
-    },
-    {
-      "publicId": "tvs_cards/card_1782135673958",
-      "resourceType": "image",
-      "uploadedAt": 1782135675709
-    },
     {
       "publicId": "tvs_videos/video_1782145866331",
       "resourceType": "video",
@@ -477,6 +467,11 @@
       "publicId": "tvs_cards/card_1782213910795",
       "resourceType": "image",
       "uploadedAt": 1782213912268
+    },
+    {
+      "publicId": "tvs_videos/video_1782225029310",
+      "resourceType": "video",
+      "uploadedAt": 1782225031763
     }
   ]
 }
