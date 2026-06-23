@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "West",
+    "Squad",
     "Haaland",
     "Scores",
     "Ronaldo",
@@ -26,6 +28,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/third-annual-east-west-classic-held-at-rickwood-field",
     "https://www.bbc.co.uk/sport/football/videos/cx2wpz0q0edo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/ckg042kgj4yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
@@ -224,10 +227,10 @@
     "https://www.bbc.com/sport/snooker/articles/clypj08x9rno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/brewers-jesus-made-rbi-streak-minors",
     "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/48847256/joao-felix-cristiano-ronaldo-saudi-pro-league-best-player-award",
-    "https://www.bbc.com/sport/basketball/articles/c4g4qvkg1pqo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/48847256/joao-felix-cristiano-ronaldo-saudi-pro-league-best-player-award"
   ],
   "postedTitles": [
+    "MLB greats converge upon Rickwood Field for third East-West Classic",
     "'Scoring machine' Haaland hits second double of World Cup",
     "Is Gasly's podium justice or a can of worms best left unopened? F1 Q&A",
     "How do you solve a problem like Ronaldo?",
@@ -426,15 +429,9 @@
     "'Shocking' World semi-final miss still hurts Allen",
     "MLB's top prospect sets longest RBI streak of 2026 with ANOTHER homer",
     "F1 great Prost 'injured as masked gang raid home'",
-    "João Félix beats Ronaldo to win Saudi best player",
-    "'I need to be better team player' - Wembanyama after Spurs lose again"
+    "João Félix beats Ronaldo to win Saudi best player"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782145866331",
-      "resourceType": "video",
-      "uploadedAt": 1782145868498
-    },
     {
       "publicId": "tvs_cards/card_1782157005235",
       "resourceType": "image",
@@ -479,6 +476,11 @@
       "publicId": "tvs_cards/card_1782227825423",
       "resourceType": "image",
       "uploadedAt": 1782227827454
+    },
+    {
+      "publicId": "tvs_cards/card_1782237957831",
+      "resourceType": "image",
+      "uploadedAt": 1782237958818
     }
   ]
 }
