@@ -20,6 +20,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/2026-mlb-draft-combine-coverage",
     "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all",
     "https://www.mlb.com/news/what-francisco-lindor-s-upcoming-return-means-for-mets",
     "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss",
@@ -218,10 +219,10 @@
     "https://www.bbc.com/sport/football/articles/cvgz3wgy9vvo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/05/23/valencia-vs-barcelona-cruzan-dedos.html",
     "https://www.espn.com/nba/story/_/id/48809706/nba-draft-2026-asset-rankings-30-teams-spurs-thunder-nets-hornets",
-    "https://www.marca.com/futbol/oviedo/2026/05/22/cazorla-ultima-oportunidad-historia-95-anos-liga-90-minutos-goleador-viejo-todos-tiempos.html",
-    "https://www.mlb.com/news/spencer-jones-yovanny-cruz-optioned-to-triple-a-by-yankees"
+    "https://www.marca.com/futbol/oviedo/2026/05/22/cazorla-ultima-oportunidad-historia-95-anos-liga-90-minutos-goleador-viejo-todos-tiempos.html"
   ],
   "postedTitles": [
+    "Here's everything you need to know about this week's Draft Combine",
     "Messi breaks tie with Klose for most WC goals",
     "Lindor's upcoming return comes at crucial inflection point for Mets",
     "How Ferguson became Scotland's most influential World Cup player",
@@ -420,8 +421,7 @@
     "Real Madrid head coach Arbeloa confirms departure",
     "Valencia vs Barcelona: Cruzan los dedos",
     "NBA draft asset tiers: Why OKC and San Antonio are...",
-    "Cazorla ante la última oportunidad de hacer historia en 95 años de la Liga: ¡90 minutos para ser el goleador más 'viejo' de todos los tiempos!",
-    "Yankees option Jones, Cruz with Cole, Caballero expected back today"
+    "Cazorla ante la última oportunidad de hacer historia en 95 años de la Liga: ¡90 minutos para ser el goleador más 'viejo' de todos los tiempos!"
   ],
   "cloudinaryAssets": [
     {
@@ -463,6 +463,11 @@
       "publicId": "tvs_cards/card_1782166220920",
       "resourceType": "image",
       "uploadedAt": 1782166222425
+    },
+    {
+      "publicId": "tvs_videos/video_1782181030468",
+      "resourceType": "video",
+      "uploadedAt": 1782181032468
     }
   ]
 }
