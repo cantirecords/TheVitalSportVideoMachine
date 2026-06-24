@@ -30,6 +30,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/2026-draft-combine-day-1-standouts",
     "https://www.espn.com/nhl/story/_/id/49147109/golden-knights-owner-bill-foley-launching-nba-las-vegas-bid",
     "https://www.bbc.co.uk/sport/cricket/articles/c4gyv081y14o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/third-annual-east-west-classic-held-at-rickwood-field",
@@ -228,10 +229,10 @@
     "https://www.mlb.com/news/bryan-torres-homers-in-major-league-debut",
     "https://www.mlb.com/news/roki-sasaki-leads-dodgers-to-big-win-over-brewers",
     "https://www.sport.es/es/noticias/barca/peticion-grada-estadi-olimpic-robert-130575792?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/snooker/articles/clypj08x9rno?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/brewers-jesus-made-rbi-streak-minors"
+    "https://www.bbc.com/sport/snooker/articles/clypj08x9rno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Here are the standouts from Day 1 of the 2026 Draft Combine",
     "Golden Knights owner launching NBA Vegas bid",
     "Ice packs & F1 cooling vests - England ready for heat",
     "MLB greats converge upon Rickwood Field for third East-West Classic",
@@ -430,20 +431,9 @@
     "MLB debuts are always special. This one was unbelievable",
     "Sasaki displays newfound confidence in Dodgers' rout of Brewers",
     "La petición de la grada del Estadi Olímpic a Robert Lewandowski durante el concierto de Bad Bunny: \"Robert quédate\"",
-    "'Shocking' World semi-final miss still hurts Allen",
-    "MLB's top prospect sets longest RBI streak of 2026 with ANOTHER homer"
+    "'Shocking' World semi-final miss still hurts Allen"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782166220920",
-      "resourceType": "image",
-      "uploadedAt": 1782166222425
-    },
-    {
-      "publicId": "tvs_videos/video_1782181030468",
-      "resourceType": "video",
-      "uploadedAt": 1782181032468
-    },
     {
       "publicId": "tvs_cards/card_1782187785754",
       "resourceType": "image",
@@ -483,6 +473,11 @@
       "publicId": "tvs_cards/card_1782251238507",
       "resourceType": "image",
       "uploadedAt": 1782251240155
+    },
+    {
+      "publicId": "tvs_videos/video_1782268134977",
+      "resourceType": "video",
+      "uploadedAt": 1782268136529
     }
   ]
 }
