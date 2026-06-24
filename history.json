@@ -32,6 +32,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/zack-gelof-s-hand-injury-ends-mlb-best-hitting-streak",
     "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused",
     "https://www.mlb.com/news/2026-draft-combine-day-1-standouts",
     "https://www.espn.com/nhl/story/_/id/49147109/golden-knights-owner-bill-foley-launching-nba-las-vegas-bid",
@@ -230,10 +231,10 @@
     "https://www.espn.com/soccer/story/_/id/48862153/bruno-fernandes-breaks-record-most-assists-premier-league-season",
     "https://www.bbc.com/sport/tennis/articles/cy821evgv5go?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryan-torres-homers-in-major-league-debut",
-    "https://www.mlb.com/news/roki-sasaki-leads-dodgers-to-big-win-over-brewers",
-    "https://www.sport.es/es/noticias/barca/peticion-grada-estadi-olimpic-robert-130575792?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/roki-sasaki-leads-dodgers-to-big-win-over-brewers"
   ],
   "postedTitles": [
+    "Gelof loses MLB-best hitting streak in painful way, but there's reason for optimism",
     "NFL nixes 2026 supplemental draft; Sorsby stuck",
     "Here are the standouts from Day 1 of the 2026 Draft Combine",
     "Golden Knights owner launching NBA Vegas bid",
@@ -432,8 +433,7 @@
     "Fernandes claims Premier League assist record",
     "Djokovic shakes off rust to sidestep Mpetshi Perricard",
     "MLB debuts are always special. This one was unbelievable",
-    "Sasaki displays newfound confidence in Dodgers' rout of Brewers",
-    "La petición de la grada del Estadi Olímpic a Robert Lewandowski durante el concierto de Bad Bunny: \"Robert quédate\""
+    "Sasaki displays newfound confidence in Dodgers' rout of Brewers"
   ],
   "cloudinaryAssets": [
     {
@@ -480,6 +480,11 @@
       "publicId": "tvs_cards/card_1782274393324",
       "resourceType": "image",
       "uploadedAt": 1782274394339
+    },
+    {
+      "publicId": "tvs_videos/video_1782291325053",
+      "resourceType": "video",
+      "uploadedAt": 1782291327997
     }
   ]
 }
