@@ -34,6 +34,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49157116/2026-nba-draft-top-fashion-looks-fits-prospects",
     "https://www.mlb.com/news/eury-perez-reinstated-from-injured-list-to-start-vs-rangers",
     "https://www.espn.com/nba/story/_/id/49085966/2026-nba-round-2-mock-draft-best-available-players-picks-predictions",
     "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss",
@@ -232,10 +233,10 @@
     "https://www.mlb.com/news/dodgers-bullpen-s-scoreless-streak-ends-in-comeback-win",
     "https://www.bbc.com/sport/basketball/articles/c1722g05y9do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/crlpp3dw14lo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/barca-inspira-nueva-aventura-politica-130602051?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/48862153/bruno-fernandes-breaks-record-most-assists-premier-league-season"
+    "https://www.sport.es/es/noticias/barca/barca-inspira-nueva-aventura-politica-130602051?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "📸 Boozer, Dybantsa lead NBA draft night fits",
     "Marlins improve to MLB-best 16-5 in June in Eury's return",
     "Copy of Let's project every Round 2 pick: Our NBA mock dra...",
     "Why Bellingham was not sent off for covering his mouth",
@@ -434,15 +435,9 @@
     "Dodgers mount comeback after bullpen's historic scoreless streak ends",
     "Wembanyama stars as Spurs level NBA play-offs",
     "Lamine Yamal in Spain squad but no Real Madrid players",
-    "El Barça inspira la nueva aventura política de Tsipras",
-    "Fernandes claims Premier League assist record"
+    "El Barça inspira la nueva aventura política de Tsipras"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782251238507",
-      "resourceType": "image",
-      "uploadedAt": 1782251240155
-    },
     {
       "publicId": "tvs_videos/video_1782268134977",
       "resourceType": "video",
@@ -472,6 +467,11 @@
       "publicId": "tvs_videos/video_1782329314296",
       "resourceType": "video",
       "uploadedAt": 1782329316406
+    },
+    {
+      "publicId": "tvs_videos/video_1782354620470",
+      "resourceType": "video",
+      "uploadedAt": 1782354621843
     }
   ]
 }
