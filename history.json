@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Infantino",
+    "Travels",
     "Hamilton",
     "Is",
     "Brazil",
@@ -42,6 +44,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
     "https://www.mlb.com/news/yankees-trade-deadline-questions-2026",
     "https://www.bbc.co.uk/sport/formula1/articles/clye9gmmxg3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
@@ -240,10 +243,10 @@
     "https://www.mlb.com/news/shohei-ohtani-starts-against-rockies",
     "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup",
     "https://www.espn.com/mlb/story/_/id/48881417/mlb-2026-bad-hitters-stay-lineup-study-bailey-clarke-ortiz-scott-semien",
-    "https://www.mlb.com/news/nick-kurtz-historic-48-game-on-base-streak-ends",
-    "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/nick-kurtz-historic-48-game-on-base-streak-ends"
   ],
   "postedTitles": [
+    "FIFA president clocks up 24,000 miles on epic Worl...",
     "3 questions that could shape Yankees’ Trade Deadline plans",
     "Hamilton and Ferrari a huge title threat - Russell",
     "Vinicius Jr leaves Scots down... and out?",
@@ -442,8 +445,7 @@
     "6 hitless innings, a leadoff HR and he's ... angry? Ohtani a 'crazy good competitor'",
     "Messi, MLS has Herrington primed for World Cup",
     ".143, .170, .194 ... How bad can these 7 MLB regul...",
-    "Kurtz settles for share of A's record as on-base streak ends at 48 games",
-    "The footballer setting record straight after 46 years"
+    "Kurtz settles for share of A's record as on-base streak ends at 48 games"
   ],
   "cloudinaryAssets": [
     {
@@ -485,6 +487,11 @@
       "publicId": "tvs_videos/video_1782416871867",
       "resourceType": "video",
       "uploadedAt": 1782416873900
+    },
+    {
+      "publicId": "tvs_cards/card_1782424175286",
+      "resourceType": "image",
+      "uploadedAt": 1782424177316
     }
   ]
 }
