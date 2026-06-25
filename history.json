@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Brazil",
+    "Defeats",
     "Mexico",
     "Dominates",
     "Stewart",
@@ -38,6 +40,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49169047/nba-2026-draft-superlatives-aj-dybansta-cameron-boozer",
     "https://www.bbc.co.uk/sport/football/videos/cly753x9el3o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension",
@@ -236,10 +239,10 @@
     "https://www.mlb.com/news/nick-kurtz-historic-48-game-on-base-streak-ends",
     "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48883359/sources-allen-graves-likely-1st-round-pick-stay-nba-draft",
-    "https://www.bbc.com/sport/tennis/articles/ceqpp35xvr1o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/2026/05/26/asi-queda-bota-oro-sale-luz-receta-esconde-goles-kane.html"
+    "https://www.bbc.com/sport/tennis/articles/ceqpp35xvr1o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Vinicius Jr leaves Scots down... and out?",
     "NBA draft superlatives: Potential jersey negotiati...",
     "Mexico beat Czech Republic to maintain 100% winning record",
     "Lakers' Reaves intends to sign a $185M extension",
@@ -438,15 +441,9 @@
     "Kurtz settles for share of A's record as on-base streak ends at 48 games",
     "The footballer setting record straight after 46 years",
     "Sources: Santa Clara's Graves to stay in draft",
-    "Efficient Sinner underlines status as French Open favourite with routine win",
-    "Así queda la Bota de Oro: sale a la luz la receta que se esconde tras los goles de Kane"
+    "Efficient Sinner underlines status as French Open favourite with routine win"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782310183371",
-      "resourceType": "video",
-      "uploadedAt": 1782310185502
-    },
     {
       "publicId": "tvs_videos/video_1782329314296",
       "resourceType": "video",
@@ -476,6 +473,11 @@
       "publicId": "tvs_videos/video_1782396397317",
       "resourceType": "video",
       "uploadedAt": 1782396399896
+    },
+    {
+      "publicId": "tvs_cards/card_1782398845500",
+      "resourceType": "image",
+      "uploadedAt": 1782398846986
     }
   ]
 }
