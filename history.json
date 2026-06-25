@@ -38,6 +38,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49169047/nba-2026-draft-superlatives-aj-dybansta-cameron-boozer",
     "https://www.bbc.co.uk/sport/football/videos/cly753x9el3o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension",
     "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
@@ -236,10 +237,10 @@
     "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48883359/sources-allen-graves-likely-1st-round-pick-stay-nba-draft",
     "https://www.bbc.com/sport/tennis/articles/ceqpp35xvr1o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/2026/05/26/asi-queda-bota-oro-sale-luz-receta-esconde-goles-kane.html",
-    "https://www.mlb.com/news/dodgers-bullpen-s-scoreless-streak-ends-in-comeback-win"
+    "https://www.marca.com/futbol/2026/05/26/asi-queda-bota-oro-sale-luz-receta-esconde-goles-kane.html"
   ],
   "postedTitles": [
+    "NBA draft superlatives: Potential jersey negotiati...",
     "Mexico beat Czech Republic to maintain 100% winning record",
     "Lakers' Reaves intends to sign a $185M extension",
     "Grading big NBA trades: Who fared best in the Wolv...",
@@ -438,15 +439,9 @@
     "The footballer setting record straight after 46 years",
     "Sources: Santa Clara's Graves to stay in draft",
     "Efficient Sinner underlines status as French Open favourite with routine win",
-    "Así queda la Bota de Oro: sale a la luz la receta que se esconde tras los goles de Kane",
-    "Dodgers mount comeback after bullpen's historic scoreless streak ends"
+    "Así queda la Bota de Oro: sale a la luz la receta que se esconde tras los goles de Kane"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782299486462",
-      "resourceType": "image",
-      "uploadedAt": 1782299487370
-    },
     {
       "publicId": "tvs_videos/video_1782310183371",
       "resourceType": "video",
@@ -476,6 +471,11 @@
       "publicId": "tvs_cards/card_1782384555036",
       "resourceType": "image",
       "uploadedAt": 1782384556160
+    },
+    {
+      "publicId": "tvs_videos/video_1782396397317",
+      "resourceType": "video",
+      "uploadedAt": 1782396399896
     }
   ]
 }
