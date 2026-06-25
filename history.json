@@ -42,6 +42,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-trade-deadline-questions-2026",
     "https://www.bbc.co.uk/sport/formula1/articles/clye9gmmxg3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49169047/nba-2026-draft-superlatives-aj-dybansta-cameron-boozer",
@@ -240,10 +241,10 @@
     "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup",
     "https://www.espn.com/mlb/story/_/id/48881417/mlb-2026-bad-hitters-stay-lineup-study-bailey-clarke-ortiz-scott-semien",
     "https://www.mlb.com/news/nick-kurtz-historic-48-game-on-base-streak-ends",
-    "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48883359/sources-allen-graves-likely-1st-round-pick-stay-nba-draft"
+    "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "3 questions that could shape Yankees’ Trade Deadline plans",
     "Hamilton and Ferrari a huge title threat - Russell",
     "Vinicius Jr leaves Scots down... and out?",
     "NBA draft superlatives: Potential jersey negotiati...",
@@ -442,15 +443,9 @@
     "Messi, MLS has Herrington primed for World Cup",
     ".143, .170, .194 ... How bad can these 7 MLB regul...",
     "Kurtz settles for share of A's record as on-base streak ends at 48 games",
-    "The footballer setting record straight after 46 years",
-    "Sources: Santa Clara's Graves to stay in draft"
+    "The footballer setting record straight after 46 years"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782329314296",
-      "resourceType": "video",
-      "uploadedAt": 1782329316406
-    },
     {
       "publicId": "tvs_videos/video_1782354620470",
       "resourceType": "video",
@@ -485,6 +480,11 @@
       "publicId": "tvs_cards/card_1782411582697",
       "resourceType": "image",
       "uploadedAt": 1782411584005
+    },
+    {
+      "publicId": "tvs_videos/video_1782416871867",
+      "resourceType": "video",
+      "uploadedAt": 1782416873900
     }
   ]
 }
