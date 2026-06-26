@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Stokes",
+    "Leads",
     "Anderson",
     "Joins",
     "Infantino",
@@ -46,6 +48,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49101766/2027-nba-mock-draft-no-1-pick-options-top-players-race-picks",
     "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-25",
     "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
@@ -244,10 +247,10 @@
     "https://www.mlb.com/news/mlb-makes-initial-economic-proposal-for-new-cba",
     "https://www.espn.com/mlb/story/_/id/48903168/mlb-owners-propose-first-salary-cap-1994-strike",
     "https://www.bbc.com/sport/cricket/videos/cvgzzylnr5yo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-starts-against-rockies",
-    "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup"
+    "https://www.mlb.com/news/shohei-ohtani-starts-against-rockies"
   ],
   "postedTitles": [
+    "New NBA mock draft -- for next year's class: Stack...",
     "Man City agree record fee with Forest for Anderson",
     "MLB Pipeline experts tag-team the latest mock draft, featuring fresh Combine intel",
     "FIFA president clocks up 24,000 miles on epic Worl...",
@@ -446,15 +449,9 @@
     "MLB makes initial CBA proposal to address competitive balance",
     "MLB proposes first salary cap since 1994 strike",
     "India inflict heavy defeat on England in opening T20",
-    "6 hitless innings, a leadoff HR and he's ... angry? Ohtani a 'crazy good competitor'",
-    "Messi, MLS has Herrington primed for World Cup"
+    "6 hitless innings, a leadoff HR and he's ... angry? Ohtani a 'crazy good competitor'"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782384555036",
-      "resourceType": "image",
-      "uploadedAt": 1782384556160
-    },
     {
       "publicId": "tvs_videos/video_1782396397317",
       "resourceType": "video",
@@ -489,6 +486,11 @@
       "publicId": "tvs_cards/card_1782447580588",
       "resourceType": "image",
       "uploadedAt": 1782447582164
+    },
+    {
+      "publicId": "tvs_cards/card_1782471436679",
+      "resourceType": "image",
+      "uploadedAt": 1782471437692
     }
   ]
 }
