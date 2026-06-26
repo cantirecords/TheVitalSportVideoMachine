@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Kerr",
+    "Targets",
     "Curry",
     "Meets",
     "Stokes",
@@ -50,6 +52,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/athletics/articles/c99238jplr1o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49176705/stephen-curry-yaxel-lendeborg-golden-state-warriors-joke",
     "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49101766/2027-nba-mock-draft-no-1-pick-options-top-players-race-picks",
@@ -248,10 +251,10 @@
     "https://www.bbc.com/sport/football/articles/cnvpn659pnpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/athletics/articles/c202y959xxeo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48907909/messi-leads-experienced-argentina-world-cup-squad-scaloni-opts-continuity",
-    "https://www.mlb.com/news/mlb-makes-initial-economic-proposal-for-new-cba",
-    "https://www.espn.com/mlb/story/_/id/48903168/mlb-owners-propose-first-salary-cap-1994-strike"
+    "https://www.mlb.com/news/mlb-makes-initial-economic-proposal-for-new-cba"
   ],
   "postedTitles": [
+    "Speed suits & altitude rooms - how Kerr plans to beat mile world record",
     "Copy of Stephen Curry responds to Yaxel Lendeborg's 'used ...",
     "How Oyarzabal shows Spain are more than just Lamine Yamal - Azpilicueta",
     "New NBA mock draft -- for next year's class: Stack...",
@@ -450,15 +453,9 @@
     "Atletico mock Barca's Alvarez move with joke Lamine Yamal bid",
     "Hodgkinson ready for 'battle of world records' in London",
     "Messi leads an experienced Argentina World Cup squ...",
-    "MLB makes initial CBA proposal to address competitive balance",
-    "MLB proposes first salary cap since 1994 strike"
+    "MLB makes initial CBA proposal to address competitive balance"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782398845500",
-      "resourceType": "image",
-      "uploadedAt": 1782398846986
-    },
     {
       "publicId": "tvs_cards/card_1782411582697",
       "resourceType": "image",
@@ -498,6 +495,11 @@
       "publicId": "tvs_cards/card_1782484771578",
       "resourceType": "image",
       "uploadedAt": 1782484772577
+    },
+    {
+      "publicId": "tvs_cards/card_1782496679015",
+      "resourceType": "image",
+      "uploadedAt": 1782496680608
     }
   ]
 }
