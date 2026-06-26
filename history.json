@@ -44,6 +44,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-25",
     "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
     "https://www.mlb.com/news/yankees-trade-deadline-questions-2026",
     "https://www.bbc.co.uk/sport/formula1/articles/clye9gmmxg3o?at_medium=RSS&at_campaign=rss",
@@ -242,10 +243,10 @@
     "https://www.bbc.com/sport/cricket/videos/cvgzzylnr5yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-starts-against-rockies",
     "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup",
-    "https://www.espn.com/mlb/story/_/id/48881417/mlb-2026-bad-hitters-stay-lineup-study-bailey-clarke-ortiz-scott-semien",
-    "https://www.mlb.com/news/nick-kurtz-historic-48-game-on-base-streak-ends"
+    "https://www.espn.com/mlb/story/_/id/48881417/mlb-2026-bad-hitters-stay-lineup-study-bailey-clarke-ortiz-scott-semien"
   ],
   "postedTitles": [
+    "MLB Pipeline experts tag-team the latest mock draft, featuring fresh Combine intel",
     "FIFA president clocks up 24,000 miles on epic Worl...",
     "3 questions that could shape Yankees’ Trade Deadline plans",
     "Hamilton and Ferrari a huge title threat - Russell",
@@ -444,15 +445,9 @@
     "India inflict heavy defeat on England in opening T20",
     "6 hitless innings, a leadoff HR and he's ... angry? Ohtani a 'crazy good competitor'",
     "Messi, MLS has Herrington primed for World Cup",
-    ".143, .170, .194 ... How bad can these 7 MLB regul...",
-    "Kurtz settles for share of A's record as on-base streak ends at 48 games"
+    ".143, .170, .194 ... How bad can these 7 MLB regul..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782354620470",
-      "resourceType": "video",
-      "uploadedAt": 1782354621843
-    },
     {
       "publicId": "tvs_cards/card_1782360796322",
       "resourceType": "image",
@@ -492,6 +487,11 @@
       "publicId": "tvs_cards/card_1782424175286",
       "resourceType": "image",
       "uploadedAt": 1782424177316
+    },
+    {
+      "publicId": "tvs_videos/video_1782441145320",
+      "resourceType": "video",
+      "uploadedAt": 1782441147631
     }
   ]
 }
