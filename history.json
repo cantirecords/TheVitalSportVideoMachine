@@ -48,6 +48,7 @@
     "Prospect"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49101766/2027-nba-mock-draft-no-1-pick-options-top-players-race-picks",
     "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-25",
@@ -246,10 +247,10 @@
     "https://www.espn.com/soccer/story/_/id/48907909/messi-leads-experienced-argentina-world-cup-squad-scaloni-opts-continuity",
     "https://www.mlb.com/news/mlb-makes-initial-economic-proposal-for-new-cba",
     "https://www.espn.com/mlb/story/_/id/48903168/mlb-owners-propose-first-salary-cap-1994-strike",
-    "https://www.bbc.com/sport/cricket/videos/cvgzzylnr5yo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-starts-against-rockies"
+    "https://www.bbc.com/sport/cricket/videos/cvgzzylnr5yo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "How Oyarzabal shows Spain are more than just Lamine Yamal - Azpilicueta",
     "New NBA mock draft -- for next year's class: Stack...",
     "Man City agree record fee with Forest for Anderson",
     "MLB Pipeline experts tag-team the latest mock draft, featuring fresh Combine intel",
@@ -448,8 +449,7 @@
     "Messi leads an experienced Argentina World Cup squ...",
     "MLB makes initial CBA proposal to address competitive balance",
     "MLB proposes first salary cap since 1994 strike",
-    "India inflict heavy defeat on England in opening T20",
-    "6 hitless innings, a leadoff HR and he's ... angry? Ohtani a 'crazy good competitor'"
+    "India inflict heavy defeat on England in opening T20"
   ],
   "cloudinaryAssets": [
     {
@@ -491,6 +491,11 @@
       "publicId": "tvs_cards/card_1782471436679",
       "resourceType": "image",
       "uploadedAt": 1782471437692
+    },
+    {
+      "publicId": "tvs_videos/video_1782482754758",
+      "resourceType": "video",
+      "uploadedAt": 1782482756187
     }
   ]
 }
