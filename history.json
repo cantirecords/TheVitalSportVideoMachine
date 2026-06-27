@@ -52,6 +52,7 @@
     "Barça"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/cricket/articles/crelxqlgpeeo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nhl/story/_/id/49116941/nhl-2026-offseason-trade-grades-deals-report-cards-top-players-prospects-biggest-deals",
     "https://www.espn.com/wnba/story/_/id/49181720/tempo-mabrey-scores-53-tie-wnba-single-game-scoring-record",
     "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/jacob-misiorowski-makes-first-career-start-against-astros",
     "https://www.marca.com/futbol/valencia/2026/05/30/atractiva-disputa-historica-valencia-athletic-tiempos-modernos-vaivenes-cuarta-plaza-liga.html",
     "https://www.bbc.com/sport/tennis/articles/clypv6819xyo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/tennis/articles/c142127px58o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/carlos-rodon-throws-quality-start-in-win-over-athletics"
+    "https://www.bbc.com/sport/tennis/articles/c142127px58o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "The rare therapy used by NBA icon O'Neal to get Sciver-Brunt fit",
     "Trade grades for all the NHL draft week swaps: Pet...",
     "Mabrey explodes for 53 to tie WNBA scoring mark",
     "Miz vs. Cubs, Dodgers-Padres showdown highlight 'Friday Night Baseball' doubleheader on Apple TV",
@@ -452,15 +453,9 @@
     "A look back at Miz's historic May before 1st career start vs. Astros",
     "La atractiva 'disputa' histórica de Valencia y Athletic en tiempos modernos: los vaivenes de la cuarta plaza de la Liga",
     "The clearest sign Father Time is closing in on Djokovic?",
-    "Why beating Djokovic is coming of age moment for Fonseca",
-    "Rodón's gem, 4-run 1st inning push Yankees' winning streak to 5"
+    "Why beating Djokovic is coming of age moment for Fonseca"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782447580588",
-      "resourceType": "image",
-      "uploadedAt": 1782447582164
-    },
     {
       "publicId": "tvs_cards/card_1782471436679",
       "resourceType": "image",
@@ -500,6 +495,11 @@
       "publicId": "tvs_cards/card_1782533176085",
       "resourceType": "image",
       "uploadedAt": 1782533177326
+    },
+    {
+      "publicId": "tvs_videos/video_1782548847737",
+      "resourceType": "video",
+      "uploadedAt": 1782548850109
     }
   ]
 }
