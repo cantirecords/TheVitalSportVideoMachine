@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Stars",
     "Russell",
     "Grabs",
     "Contreras",
@@ -47,11 +49,10 @@
     "Ferguson",
     "Leads",
     "Racing",
-    "Leads",
-    "Salah",
-    "Scores"
+    "Leads"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/injury-updates-for-dodgers-blake-snell-edwin-diaz-will-smith",
     "https://www.espn.com/mens-college-basketball/story/_/id/49180679/clippers-draft-pick-ngoy-plans-play-auburn-season",
     "https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/benches-clear-warnings-issued-in-yankees-red-sox",
@@ -250,10 +251,10 @@
     "https://www.bbc.com/sport/rugby-league/articles/clyprl5v2yeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/basketball/articles/c052r1mj3eqo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/barca-estudia-recomprar-jan-virgili-130840880?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/boxing/articles/cy02zyry2dko?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/barca-estudia-recomprar-jan-virgili-130840880?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "How close are these Dodgers stars to a potential return? ",
     "Clippers draftee Ngoy opts for Auburn next season",
     "Russell claims controversial pole after Verstappen crash",
     "Contreras, Warren provide beef for Sox-Yankees' benches-clearing 'picnic'",
@@ -452,15 +453,9 @@
     "Rugby league legend and broadcaster Kear dies aged 71",
     "Fonseca, 19, shows title credentials by backing up Djokovic win",
     "Inspired Wembanyama helps Spurs to NBA Finals",
-    "El Barça estudia recomprar a Jan Virgili",
-    "Serrano equals knockout record with Hanson victory"
+    "El Barça estudia recomprar a Jan Virgili"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782502213469",
-      "resourceType": "video",
-      "uploadedAt": 1782502215912
-    },
     {
       "publicId": "tvs_cards/card_1782509089200",
       "resourceType": "image",
@@ -505,6 +500,11 @@
       "publicId": "tvs_videos/video_1782587195500",
       "resourceType": "video",
       "uploadedAt": 1782587198364
+    },
+    {
+      "publicId": "tvs_cards/card_1782594767063",
+      "resourceType": "image",
+      "uploadedAt": 1782594768140
     }
   ]
 }
