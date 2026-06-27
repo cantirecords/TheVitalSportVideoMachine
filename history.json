@@ -52,6 +52,7 @@
     "Madrid"
   ],
   "postedUrls": [
+    "https://www.espn.com/wnba/story/_/id/49181720/tempo-mabrey-scores-53-tie-wnba-single-game-scoring-record",
     "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
     "https://www.espn.com/nba/story/_/id/49171485/nba-offseason-2026-how-lakers-warriors-heat-knicks-all-30-teams-ace-summer",
     "https://www.bbc.co.uk/sport/athletics/articles/c99238jplr1o?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.bbc.com/sport/tennis/articles/clypv6819xyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/tennis/articles/c142127px58o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/carlos-rodon-throws-quality-start-in-win-over-athletics",
-    "https://www.bbc.com/sport/football/articles/cnvpn659pnpo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/athletics/articles/c202y959xxeo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/football/articles/cnvpn659pnpo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Mabrey explodes for 53 to tie WNBA scoring mark",
     "Miz vs. Cubs, Dodgers-Padres showdown highlight 'Friday Night Baseball' doubleheader on Apple TV",
     "NBA free agency 2026: How all 30 teams can ace the...",
     "Speed suits & altitude rooms - how Kerr plans to beat mile world record",
@@ -452,15 +453,9 @@
     "The clearest sign Father Time is closing in on Djokovic?",
     "Why beating Djokovic is coming of age moment for Fonseca",
     "Rodón's gem, 4-run 1st inning push Yankees' winning streak to 5",
-    "Atletico mock Barca's Alvarez move with joke Lamine Yamal bid",
-    "Hodgkinson ready for 'battle of world records' in London"
+    "Atletico mock Barca's Alvarez move with joke Lamine Yamal bid"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782424175286",
-      "resourceType": "image",
-      "uploadedAt": 1782424177316
-    },
     {
       "publicId": "tvs_videos/video_1782441145320",
       "resourceType": "video",
@@ -500,6 +495,11 @@
       "publicId": "tvs_cards/card_1782509089200",
       "resourceType": "image",
       "uploadedAt": 1782509089745
+    },
+    {
+      "publicId": "tvs_videos/video_1782526589440",
+      "resourceType": "video",
+      "uploadedAt": 1782526591813
     }
   ]
 }
