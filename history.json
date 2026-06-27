@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Russell",
+    "Grabs",
     "Contreras",
     "Sparks",
     "Tchouaméni",
@@ -47,11 +49,10 @@
     "Racing",
     "Leads",
     "Salah",
-    "Scores",
-    "Ohtani",
-    "Young"
+    "Scores"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/benches-clear-warnings-issued-in-yankees-red-sox",
     "https://www.espn.com/nba/story/_/id/49102074/2026-nba-draft-recap-best-value-picks-moves-rookie-year-predictions-trades",
     "https://www.espn.com/soccer/story/_/id/49189170/tchouameni-camavinga-complicating-real-madrid-midfield-signing-sources",
@@ -250,10 +251,10 @@
     "https://www.bbc.com/sport/basketball/articles/c052r1mj3eqo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/barca-estudia-recomprar-jan-virgili-130840880?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/boxing/articles/cy02zyry2dko?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
-    "https://www.mlb.com/news/jacob-misiorowski-makes-first-career-start-against-astros"
+    "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players"
   ],
   "postedTitles": [
+    "Russell claims controversial pole after Verstappen crash",
     "Contreras, Warren provide beef for Sox-Yankees' benches-clearing 'picnic'",
     "Answering 13 big questions on the NBA draft: Best ...",
     "Sources: Madrid want Camavinga exit to sign MF",
@@ -452,20 +453,9 @@
     "Inspired Wembanyama helps Spurs to NBA Finals",
     "El Barça estudia recomprar a Jan Virgili",
     "Serrano equals knockout record with Hanson victory",
-    "2026 NBA draft rankings: Top 100 prospects after c...",
-    "A look back at Miz's historic May before 1st career start vs. Astros"
+    "2026 NBA draft rankings: Top 100 prospects after c..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782482754758",
-      "resourceType": "video",
-      "uploadedAt": 1782482756187
-    },
-    {
-      "publicId": "tvs_cards/card_1782484771578",
-      "resourceType": "image",
-      "uploadedAt": 1782484772577
-    },
     {
       "publicId": "tvs_cards/card_1782496679015",
       "resourceType": "image",
@@ -510,6 +500,11 @@
       "publicId": "tvs_cards/card_1782568745735",
       "resourceType": "image",
       "uploadedAt": 1782568746606
+    },
+    {
+      "publicId": "tvs_cards/card_1782580729369",
+      "resourceType": "image",
+      "uploadedAt": 1782580730399
     }
   ]
 }
