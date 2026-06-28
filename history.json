@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ingle",
+    "Records",
     "NHL",
     "Draft",
     "Dodgers",
@@ -47,11 +49,10 @@
     "Mbappe",
     "Scores",
     "Messi",
-    "Breaks",
-    "Ferguson",
-    "Leads"
+    "Breaks"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cooper-ingle-first-mlb-hit-rbi-guardians-win",
     "https://www.espn.com/wnba/story/_/id/49200618/mercury-nate-tibbetts-irked-wnba-suspension-process",
     "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value",
     "https://www.mlb.com/news/nba-draft-pick-aj-dybantsa-throws-first-pitch-fenway-park",
@@ -250,10 +251,10 @@
     "https://www.sport.es/es/noticias/barca/barca-acelera-salida-bardghji-130877340?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/pedri-mira-futuro-fc-barcelona-130877777?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/story/_/id/48939305/sources-qb-russell-wilson-finalizing-deal-join-cbs-sports",
-    "https://www.mlb.com/news/jj-wetherholt-is-on-a-historic-rookie-pace",
-    "https://www.bbc.com/sport/rugby-league/articles/clyprl5v2yeo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/jj-wetherholt-is-on-a-historic-rookie-pace"
   ],
   "postedTitles": [
+    "Ingle tallies 1st MLB hit as Guardians' youth movement fuels win",
     "Mercury's Tibbetts rips WNBA after Thomas ruling",
     "Report cards for every GM after the 2026 NHL draft...",
     "Living the dream! Top NBA Draft pick Dybantsa throws out 1st pitch at Fenway",
@@ -452,15 +453,9 @@
     "El Barça acelera la salida de Bardghji",
     "Pedri mira al futuro del FC Barcelona y señala a un jugador que se enfrentó al CD Tenerife y a la UD Las Palmas: \"Es muy bueno\"",
     "Sources: QB Wilson set to leave NFL for CBS job",
-    "Wetherholt on pace for historic rookie numbers in all facets of game",
-    "Rugby league legend and broadcaster Kear dies aged 71"
+    "Wetherholt on pace for historic rookie numbers in all facets of game"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782555448285",
-      "resourceType": "image",
-      "uploadedAt": 1782555449636
-    },
     {
       "publicId": "tvs_videos/video_1782565966756",
       "resourceType": "video",
@@ -500,6 +495,11 @@
       "publicId": "tvs_videos/video_1782636151670",
       "resourceType": "video",
       "uploadedAt": 1782636153897
+    },
+    {
+      "publicId": "tvs_cards/card_1782642748202",
+      "resourceType": "image",
+      "uploadedAt": 1782642749066
     }
   ]
 }
