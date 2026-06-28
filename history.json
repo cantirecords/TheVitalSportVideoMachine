@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NHL",
+    "Draft",
     "Dodgers",
     "Stars",
     "Russell",
@@ -47,11 +49,10 @@
     "Messi",
     "Breaks",
     "Ferguson",
-    "Leads",
-    "Racing",
     "Leads"
   ],
   "postedUrls": [
+    "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value",
     "https://www.mlb.com/news/nba-draft-pick-aj-dybantsa-throws-first-pitch-fenway-park",
     "https://www.mlb.com/news/injury-updates-for-dodgers-blake-snell-edwin-diaz-will-smith",
     "https://www.espn.com/mens-college-basketball/story/_/id/49180679/clippers-draft-pick-ngoy-plans-play-auburn-season",
@@ -250,10 +251,10 @@
     "https://www.espn.com/nfl/story/_/id/48939305/sources-qb-russell-wilson-finalizing-deal-join-cbs-sports",
     "https://www.mlb.com/news/jj-wetherholt-is-on-a-historic-rookie-pace",
     "https://www.bbc.com/sport/rugby-league/articles/clyprl5v2yeo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/basketball/articles/c052r1mj3eqo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Report cards for every GM after the 2026 NHL draft...",
     "Living the dream! Top NBA Draft pick Dybantsa throws out 1st pitch at Fenway",
     "How close are these Dodgers stars to a potential return? ",
     "Clippers draftee Ngoy opts for Auburn next season",
@@ -452,15 +453,9 @@
     "Sources: QB Wilson set to leave NFL for CBS job",
     "Wetherholt on pace for historic rookie numbers in all facets of game",
     "Rugby league legend and broadcaster Kear dies aged 71",
-    "Fonseca, 19, shows title credentials by backing up Djokovic win",
-    "Inspired Wembanyama helps Spurs to NBA Finals"
+    "Fonseca, 19, shows title credentials by backing up Djokovic win"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782533176085",
-      "resourceType": "image",
-      "uploadedAt": 1782533177326
-    },
     {
       "publicId": "tvs_videos/video_1782548847737",
       "resourceType": "video",
@@ -500,6 +495,11 @@
       "publicId": "tvs_videos/video_1782614274444",
       "resourceType": "video",
       "uploadedAt": 1782614276657
+    },
+    {
+      "publicId": "tvs_cards/card_1782621564452",
+      "resourceType": "image",
+      "uploadedAt": 1782621565930
     }
   ]
 }
