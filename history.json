@@ -52,6 +52,7 @@
     "Squad"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/49212701/red-sox-rally-10th-complete-four-game-sweep-yankees",
     "https://www.espn.com/soccer/story/_/id/49203383/could-overworked-ronaldo-hurt-portugal-world-cup-chances",
     "https://www.bbc.co.uk/sport/cricket/articles/cewq812yyz2o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/opinion/2026/06/28/burofax-messi-sueno-julian-alvarez.html",
@@ -250,10 +251,10 @@
     "https://www.sport.es/es/noticias/barca/detalle-falta-barca-cierre-traspaso-130939748?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/manchester-united-rechaza-oferta-barca-130947841?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/cx21v8pv4j8o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies",
-    "https://www.sport.es/es/noticias/barca/giuly-recuerda-impacto-llegar-barca-130930872?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies"
   ],
   "postedTitles": [
+    "Gray no-hitter ends in 8th, Red Sox sweep Yankees",
     "Could an overworked Ronaldo hurt Portugal's World ...",
     "Kent stun Hants as Lees ties record in T20 Blast",
     "El burofax de Messi y el sueño de Julián Alvarez",
@@ -452,15 +453,9 @@
     "El detalle que falta para que el Barça cierre el traspaso de Ansu al Mónaco",
     "El Manchester United rechaza la oferta del Barça por Rashford",
     "Will Monaco suit Ferrari more than rivals? F1 Q&A",
-    "🔮 Way-too-early look at the NFL season",
-    "Giuly recuerda su impacto al llegar al Barça: \"No me faltéis al respeto\""
+    "🔮 Way-too-early look at the NFL season"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782636151670",
-      "resourceType": "video",
-      "uploadedAt": 1782636153897
-    },
     {
       "publicId": "tvs_cards/card_1782642748202",
       "resourceType": "image",
@@ -490,6 +485,11 @@
       "publicId": "tvs_cards/card_1782708468097",
       "resourceType": "image",
       "uploadedAt": 1782708469329
+    },
+    {
+      "publicId": "tvs_videos/video_1782728697443",
+      "resourceType": "video",
+      "uploadedAt": 1782728699232
     }
   ]
 }
