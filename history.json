@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "New",
+    "Zealand",
     "Messi",
     "Leads",
     "Madrid",
@@ -14,6 +16,7 @@
     "Stuns"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/cricket/videos/c0mykge4pmjo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49205906/dont-fooled-thinking-haaland-norway-dont-care-world-cup",
     "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
     "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/articles/c1d2wypl9k0o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-to-sit-for-game-vs-d-backs-after-pitching",
     "https://www.sport.es/es/noticias/barca/anna-lewandowska-aclara-rumores-futuro-lewandowski-turquia-130964878?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/cristopher-sanchez-faces-padres-with-historic-scoreless-streak",
-    "https://www.espn.com/wnba/story/_/id/48939885/wnba-power-rankings-lynx-fever-commissioners-cup-2026"
+    "https://www.mlb.com/news/cristopher-sanchez-faces-padres-with-historic-scoreless-streak"
   ],
   "postedTitles": [
+    "NZ thrash England to seal historic series win",
     "Don't be fooled into thinking Haaland, Norway 'don...",
     "From Messi to Haaland: Which World Cup frontrunner...",
     "Lewandowski joins MLS side Chicago Fire until 2028",
@@ -414,15 +417,9 @@
     "Weekly sports quiz: When did Williams last play a professional tennis match?",
     "Ohtani to sit Thurs. so he can 'empty the tank' in two-way role vs. D-backs on Wed.",
     "Anna Lewandowska aclara los rumores sobre el futuro de Robert Lewandowski en Turquía",
-    "Sánchez set to put historic scoreless streak on the line vs. Padres",
-    "WNBA Power Rankings: Lynx take over No. 1, Fever f..."
+    "Sánchez set to put historic scoreless streak on the line vs. Padres"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782728697443",
-      "resourceType": "video",
-      "uploadedAt": 1782728699232
-    },
     {
       "publicId": "tvs_cards/card_1782736828496",
       "resourceType": "image",
@@ -457,6 +454,11 @@
       "publicId": "tvs_videos/video_1782809910241",
       "resourceType": "video",
       "uploadedAt": 1782809914276
+    },
+    {
+      "publicId": "tvs_cards/card_1782818171205",
+      "resourceType": "image",
+      "uploadedAt": 1782818172431
     }
   ]
 }
