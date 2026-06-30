@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Tennis",
+    "Superstar",
     "New",
     "Zealand",
     "Messi",
@@ -16,6 +18,7 @@
     "Stuns"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cqj1wjll810o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/c0mykge4pmjo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49205906/dont-fooled-thinking-haaland-norway-dont-care-world-cup",
@@ -214,10 +217,10 @@
     "https://www.mlb.com/news/guide-to-2026-mlb-all-star-voting",
     "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/articles/c1d2wypl9k0o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-to-sit-for-game-vs-d-backs-after-pitching",
-    "https://www.sport.es/es/noticias/barca/anna-lewandowska-aclara-rumores-futuro-lewandowski-turquia-130964878?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/shohei-ohtani-to-sit-for-game-vs-d-backs-after-pitching"
   ],
   "postedTitles": [
+    "Who am I? Guess the tennis star No 1",
     "Did Russell's pole set dangerous precedent? F1 Q&A",
     "NZ thrash England to seal historic series win",
     "Don't be fooled into thinking Haaland, Norway 'don...",
@@ -416,8 +419,7 @@
     "Breaking down the All-Star Ballot position by position",
     "Man City consider legal action over Real candidate's promise to sign Haaland",
     "Weekly sports quiz: When did Williams last play a professional tennis match?",
-    "Ohtani to sit Thurs. so he can 'empty the tank' in two-way role vs. D-backs on Wed.",
-    "Anna Lewandowska aclara los rumores sobre el futuro de Robert Lewandowski en Turquía"
+    "Ohtani to sit Thurs. so he can 'empty the tank' in two-way role vs. D-backs on Wed."
   ],
   "cloudinaryAssets": [
     {
@@ -459,6 +461,11 @@
       "publicId": "tvs_videos/video_1782827938716",
       "resourceType": "video",
       "uploadedAt": 1782827940750
+    },
+    {
+      "publicId": "tvs_cards/card_1782830076407",
+      "resourceType": "image",
+      "uploadedAt": 1782830077949
     }
   ]
 }
