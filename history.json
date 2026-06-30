@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Smash",
     "Tennis",
     "Superstar",
     "New",
@@ -18,6 +20,7 @@
     "Stuns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-hit-3-homers-to-beat-athletics",
     "https://www.bbc.co.uk/sport/tennis/articles/cqj1wjll810o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/c0mykge4pmjo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.espn.com/nfl/story/_/id/48947413/2026-nfl-trade-deadline-early-look-players-candidates-buzz-crosby-aiyuk-kamara",
     "https://www.mlb.com/news/guide-to-2026-mlb-all-star-voting",
     "https://www.bbc.com/sport/football/articles/c3r2g5zgl0vo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/articles/c1d2wypl9k0o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-to-sit-for-game-vs-d-backs-after-pitching"
+    "https://www.bbc.com/sport/articles/c1d2wypl9k0o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Dodgers take advantage of hitters' park, smash 3 home runs vs. A's",
     "Who am I? Guess the tennis star No 1",
     "Did Russell's pole set dangerous precedent? F1 Q&A",
     "NZ thrash England to seal historic series win",
@@ -418,15 +421,9 @@
     "10 NFL players who could get traded before the 202...",
     "Breaking down the All-Star Ballot position by position",
     "Man City consider legal action over Real candidate's promise to sign Haaland",
-    "Weekly sports quiz: When did Williams last play a professional tennis match?",
-    "Ohtani to sit Thurs. so he can 'empty the tank' in two-way role vs. D-backs on Wed."
+    "Weekly sports quiz: When did Williams last play a professional tennis match?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782747198104",
-      "resourceType": "video",
-      "uploadedAt": 1782747199966
-    },
     {
       "publicId": "tvs_cards/card_1782756880825",
       "resourceType": "image",
@@ -466,6 +463,11 @@
       "publicId": "tvs_cards/card_1782830076407",
       "resourceType": "image",
       "uploadedAt": 1782830077949
+    },
+    {
+      "publicId": "tvs_cards/card_1782842759790",
+      "resourceType": "image",
+      "uploadedAt": 1782842761412
     }
   ]
 }
