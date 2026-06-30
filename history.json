@@ -12,6 +12,7 @@
     "Stuns"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/atletico/2026/06/29/atletico-madrid-presenta-equipacion-2026-27-neptuno-protagonista.html",
     "https://www.bbc.co.uk/sport/tennis/articles/ckg0nngzxvko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-rookie-card-sells-for-2-5-million-at-auction",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/cristopher-sanchez-faces-padres-with-historic-scoreless-streak",
     "https://www.espn.com/wnba/story/_/id/48939885/wnba-power-rankings-lynx-fever-commissioners-cup-2026",
     "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c5y8nn7gx83o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/primera-division/2026/06/03/next-gen-draft-programa-laliga-detecta-talento-joven-mundo-habeis-sacado-chicos.html"
+    "https://www.bbc.com/sport/football/articles/c5y8nn7gx83o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Lewandowski joins MLS side Chicago Fire until 2028",
     "El Atlético de Madrid presenta su equipación 2026-27 con Neptuno como protagonista",
     "Defending champion Sinner survives five-set scare",
     "1-of-1 Ohtani rookie card sells for $2.5 million at public auction",
@@ -412,8 +413,7 @@
     "Sánchez set to put historic scoreless streak on the line vs. Padres",
     "WNBA Power Rankings: Lynx take over No. 1, Fever f...",
     "Rivals: Messi v Ronaldo - watch the trailer",
-    "Bellingham is No 10 in England World Cup squad",
-    "Next Gen Draft, el programa de LaLiga que detecta talento joven en todo el mundo: \"¿De dónde habéis sacado a esos chicos?\""
+    "Bellingham is No 10 in England World Cup squad"
   ],
   "cloudinaryAssets": [
     {
@@ -445,6 +445,11 @@
       "publicId": "tvs_videos/video_1782762316038",
       "resourceType": "video",
       "uploadedAt": 1782762318583
+    },
+    {
+      "publicId": "tvs_videos/video_1782786732203",
+      "resourceType": "video",
+      "uploadedAt": 1782786734572
     }
   ]
 }
