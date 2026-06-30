@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Messi",
+    "Leads",
     "Madrid",
     "Sinner",
     "Survives",
@@ -12,6 +14,7 @@
     "Stuns"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
     "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/atletico/2026/06/29/atletico-madrid-presenta-equipacion-2026-27-neptuno-protagonista.html",
     "https://www.bbc.co.uk/sport/tennis/articles/ckg0nngzxvko?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/anna-lewandowska-aclara-rumores-futuro-lewandowski-turquia-130964878?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/cristopher-sanchez-faces-padres-with-historic-scoreless-streak",
     "https://www.espn.com/wnba/story/_/id/48939885/wnba-power-rankings-lynx-fever-commissioners-cup-2026",
-    "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c5y8nn7gx83o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "From Messi to Haaland: Which World Cup frontrunner...",
     "Lewandowski joins MLS side Chicago Fire until 2028",
     "El Atlético de Madrid presenta su equipación 2026-27 con Neptuno como protagonista",
     "Defending champion Sinner survives five-set scare",
@@ -412,8 +415,7 @@
     "Anna Lewandowska aclara los rumores sobre el futuro de Robert Lewandowski en Turquía",
     "Sánchez set to put historic scoreless streak on the line vs. Padres",
     "WNBA Power Rankings: Lynx take over No. 1, Fever f...",
-    "Rivals: Messi v Ronaldo - watch the trailer",
-    "Bellingham is No 10 in England World Cup squad"
+    "Rivals: Messi v Ronaldo - watch the trailer"
   ],
   "cloudinaryAssets": [
     {
@@ -450,6 +452,11 @@
       "publicId": "tvs_videos/video_1782786732203",
       "resourceType": "video",
       "uploadedAt": 1782786734572
+    },
+    {
+      "publicId": "tvs_cards/card_1782792873924",
+      "resourceType": "image",
+      "uploadedAt": 1782792875410
     }
   ]
 }
