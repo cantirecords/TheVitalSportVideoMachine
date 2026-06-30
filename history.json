@@ -14,6 +14,7 @@
     "Stuns"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49205906/dont-fooled-thinking-haaland-norway-dont-care-world-cup",
     "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
     "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/atletico/2026/06/29/atletico-madrid-presenta-equipacion-2026-27-neptuno-protagonista.html",
@@ -212,10 +213,10 @@
     "https://www.mlb.com/news/shohei-ohtani-to-sit-for-game-vs-d-backs-after-pitching",
     "https://www.sport.es/es/noticias/barca/anna-lewandowska-aclara-rumores-futuro-lewandowski-turquia-130964878?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/cristopher-sanchez-faces-padres-with-historic-scoreless-streak",
-    "https://www.espn.com/wnba/story/_/id/48939885/wnba-power-rankings-lynx-fever-commissioners-cup-2026",
-    "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/wnba/story/_/id/48939885/wnba-power-rankings-lynx-fever-commissioners-cup-2026"
   ],
   "postedTitles": [
+    "Don't be fooled into thinking Haaland, Norway 'don...",
     "From Messi to Haaland: Which World Cup frontrunner...",
     "Lewandowski joins MLS side Chicago Fire until 2028",
     "El Atlético de Madrid presenta su equipación 2026-27 con Neptuno como protagonista",
@@ -414,15 +415,9 @@
     "Ohtani to sit Thurs. so he can 'empty the tank' in two-way role vs. D-backs on Wed.",
     "Anna Lewandowska aclara los rumores sobre el futuro de Robert Lewandowski en Turquía",
     "Sánchez set to put historic scoreless streak on the line vs. Padres",
-    "WNBA Power Rankings: Lynx take over No. 1, Fever f...",
-    "Rivals: Messi v Ronaldo - watch the trailer"
+    "WNBA Power Rankings: Lynx take over No. 1, Fever f..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782708468097",
-      "resourceType": "image",
-      "uploadedAt": 1782708469329
-    },
     {
       "publicId": "tvs_videos/video_1782728697443",
       "resourceType": "video",
@@ -457,6 +452,11 @@
       "publicId": "tvs_cards/card_1782792873924",
       "resourceType": "image",
       "uploadedAt": 1782792875410
+    },
+    {
+      "publicId": "tvs_videos/video_1782809910241",
+      "resourceType": "video",
+      "uploadedAt": 1782809914276
     }
   ]
 }
