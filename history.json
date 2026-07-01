@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "Serena",
     "Falls",
     "Altuve",
@@ -8,24 +9,10 @@
     "Scores",
     "Dodgers",
     "Smash",
-    "Tennis",
-    "Superstar",
-    "New",
-    "Zealand",
-    "Messi",
-    "Leads",
-    "Madrid",
-    "Sinner",
-    "Survives",
-    "Ohtani",
-    "Red",
-    "Sox",
-    "Ronaldo",
-    "Plays",
-    "Kent",
-    "Stuns"
+    "Tennis"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49229840/lamine-yamal-welcome-julian-alvarez-barcelona",
     "https://www.bbc.co.uk/sport/tennis/videos/c6210wl58z6o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dave-roberts-earns-1-000th-managerial-win-as-dodgers-top-a-s",
     "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-astros-win-over-twins",
@@ -224,10 +211,10 @@
     "https://www.bbc.com/sport/american-football/articles/czx2vxe7nxgo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/formula1/articles/cg5p5m04p5eo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-    "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
-    "https://www.mlb.com/news/aaron-judge-out-of-lineup-guardians-finale"
+    "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026"
   ],
   "postedTitles": [
+    "Yamal: We would welcome Álvarez at Barcelona",
     "Williams edged by Joint in epic three‑setter on singles return",
     "'It's mind-blowing': Roberts becomes fastest MLB manager to 1,000 career wins",
     "Altuve's clutch ABS challenge sets up Yordan's franchise-record-tying slam",
@@ -426,15 +413,9 @@
     "Super Bowl's half-time show prepares to go global",
     "Audi wants turbos to stay in F1 amid engine debate",
     "NBA futures: Knicks now title favorites after Game...",
-    "Which World Cup records are most likely to be brok...",
-    "Judge, Yankees in holding pattern as they await clarity on injury"
+    "Which World Cup records are most likely to be brok..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782827938716",
-      "resourceType": "video",
-      "uploadedAt": 1782827940750
-    },
     {
       "publicId": "tvs_cards/card_1782830076407",
       "resourceType": "image",
@@ -474,6 +455,11 @@
       "publicId": "tvs_cards/card_1782905436949",
       "resourceType": "image",
       "uploadedAt": 1782905438265
+    },
+    {
+      "publicId": "tvs_videos/video_1782915069754",
+      "resourceType": "video",
+      "uploadedAt": 1782915071488
     }
   ]
 }
