@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Salah",
+    "Returns",
     "Red",
     "Sox",
     "Barcelona",
@@ -14,6 +16,7 @@
     "Tennis"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/connelly-early-injured-list-left-elbow-inflammation",
     "https://www.espn.com/soccer/story/_/id/49229840/lamine-yamal-welcome-julian-alvarez-barcelona",
     "https://www.bbc.co.uk/sport/tennis/videos/c6210wl58z6o?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/formula1/articles/clypyggd9g2o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-4",
     "https://www.bbc.com/sport/american-football/articles/czx2vxe7nxgo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/formula1/articles/cg5p5m04p5eo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting"
+    "https://www.bbc.com/sport/formula1/articles/cg5p5m04p5eo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Egypt optimistic Salah will be fit to face Australia",
     "Red Sox place Early on IL with left elbow inflammation",
     "Yamal: We would welcome Álvarez at Barcelona",
     "Williams edged by Joint in epic three‑setter on singles return",
@@ -414,8 +417,7 @@
     "Hamilton fastest but Leclerc expects 'tight qualifying'",
     "Latest mock draft: NCAA upsets shake up first-round scouting plans",
     "Super Bowl's half-time show prepares to go global",
-    "Audi wants turbos to stay in F1 amid engine debate",
-    "NBA futures: Knicks now title favorites after Game..."
+    "Audi wants turbos to stay in F1 amid engine debate"
   ],
   "cloudinaryAssets": [
     {
@@ -462,6 +464,11 @@
       "publicId": "tvs_cards/card_1782917532511",
       "resourceType": "image",
       "uploadedAt": 1782917533583
+    },
+    {
+      "publicId": "tvs_cards/card_1782929098925",
+      "resourceType": "image",
+      "uploadedAt": 1782929099961
     }
   ]
 }
