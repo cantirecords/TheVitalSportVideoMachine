@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Sinner",
+    "Beats",
     "Salah",
     "Returns",
     "Red",
@@ -16,6 +18,7 @@
     "Tennis"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/videos/cj6gdj8e04ro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-1",
     "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/connelly-early-injured-list-left-elbow-inflammation",
@@ -214,10 +217,10 @@
     "https://www.mlb.com/news/5-ways-aaron-judge-injury-can-impact-yankees-american-league",
     "https://www.mlb.com/news/pipeline-inbox-questions-jackson-flora-draft-xavier-isaac",
     "https://www.bbc.com/sport/formula1/articles/clypyggd9g2o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-4",
-    "https://www.bbc.com/sport/american-football/articles/czx2vxe7nxgo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-4"
   ],
   "postedTitles": [
+    "Defending champion Sinner beats Borges to reach round three",
     "Trade rumors: Skubal, Angels, Yankees, starting pitchers",
     "Egypt optimistic Salah will be fit to face Australia",
     "Red Sox place Early on IL with left elbow inflammation",
@@ -416,15 +419,9 @@
     "5 ways Judge's injury could impact Yankees and entire AL",
     "Inbox: Who is the second-best college pitcher in the Draft after Flora?",
     "Hamilton fastest but Leclerc expects 'tight qualifying'",
-    "Latest mock draft: NCAA upsets shake up first-round scouting plans",
-    "Super Bowl's half-time show prepares to go global"
+    "Latest mock draft: NCAA upsets shake up first-round scouting plans"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782848707572",
-      "resourceType": "video",
-      "uploadedAt": 1782848709279
-    },
     {
       "publicId": "tvs_cards/card_1782855779363",
       "resourceType": "image",
@@ -469,6 +466,11 @@
       "publicId": "tvs_videos/video_1782934885526",
       "resourceType": "video",
       "uploadedAt": 1782934887191
+    },
+    {
+      "publicId": "tvs_cards/card_1782942157714",
+      "resourceType": "image",
+      "uploadedAt": 1782942158952
     }
   ]
 }
