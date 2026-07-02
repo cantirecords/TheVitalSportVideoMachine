@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Swanson",
+    "Hits",
     "Barça",
     "Keys",
     "Hits",
@@ -12,6 +14,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dansby-swanson-hits-three-home-runs-as-cubs-score-23-runs",
     "https://www.marca.com/futbol/barcelona/2026/07/02/tebas-dice-buena-relacion-barca-laporta-influira-decisiones-laliga.html",
     "https://www.mlb.com/news/sean-keys-hits-first-major-league-home-run-on-canada-day",
     "https://www.bbc.co.uk/sport/basketball/articles/ce8kwp30jejo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/gavi-emociona-recordando-convocatoria-espana-131095615?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/cq51d205x27o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/dodgers-unveil-mural-tribute-to-glenn-burke-billy-bean-on-pride-night",
-    "https://www.mlb.com/news/freddie-freeman-hits-walk-off-home-run-vs-angels"
+    "https://www.mlb.com/news/dodgers-unveil-mural-tribute-to-glenn-burke-billy-bean-on-pride-night"
   ],
   "postedTitles": [
+    "Swanson slugs 3 HRs in Cubs' historic 23-run, 8-HR romp",
     "Tebas dice que su \"buena relación\" con el Barça y Laporta no influirá en las decisiones de LaLiga",
     "Keys turns on the ignition for 1st MLB homer -- on Canada Day!",
     "LeBron's Last Dance - what next for James after Lakers exit?",
@@ -412,15 +415,9 @@
     "'Traitor' - Elmo in hot water with New Yorkers over Knicks NBA finals post",
     "Gavi se emociona recordando su convocatoria con España para el Mundial: \"No lo quería ver\"",
     "Ferrari boss to miss qualifying for medical reasons",
-    "Dodgers honor trailblazers Burke, Bean by unveiling mural on Pride Night",
-    "'Freddie just has that aura': Freeman lifts Dodgers with 20th career walk-off hit"
+    "Dodgers honor trailblazers Burke, Bean by unveiling mural on Pride Night"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782915069754",
-      "resourceType": "video",
-      "uploadedAt": 1782915071488
-    },
     {
       "publicId": "tvs_cards/card_1782917532511",
       "resourceType": "image",
@@ -465,6 +462,11 @@
       "publicId": "tvs_videos/video_1782999143033",
       "resourceType": "video",
       "uploadedAt": 1782999144873
+    },
+    {
+      "publicId": "tvs_cards/card_1783002082287",
+      "resourceType": "image",
+      "uploadedAt": 1783002084089
     }
   ]
 }
