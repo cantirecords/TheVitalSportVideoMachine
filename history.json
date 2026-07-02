@@ -16,6 +16,7 @@
     "Returns"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cn8kv39lxglo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/49238551/mlb-2026-power-rankings-week-14-dodgers-brewers-rays-braves-yankees-marlins",
     "https://www.mlb.com/news/dansby-swanson-hits-three-home-runs-as-cubs-score-23-runs",
     "https://www.marca.com/futbol/barcelona/2026/07/02/tebas-dice-buena-relacion-barca-laporta-influira-decisiones-laliga.html",
@@ -214,10 +215,10 @@
     "https://www.espn.com/nba/story/_/id/48977481/sources-nba-interviews-leonard-adviser-aspiration-case",
     "https://www.espn.com/nba/story/_/id/48967648/sources-nba-eyes-interaction-jalen-brunson-fans-game-1",
     "https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/gavi-emociona-recordando-convocatoria-espana-131095615?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/formula1/articles/cq51d205x27o?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/gavi-emociona-recordando-convocatoria-espana-131095615?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Who am I? Guess the tennis star No 3",
     "MLB Power Rankings: Rays, Marlins bring Florida he...",
     "Swanson slugs 3 HRs in Cubs' historic 23-run, 8-HR romp",
     "Tebas dice que su \"buena relación\" con el Barça y Laporta no influirá en las decisiones de LaLiga",
@@ -416,15 +417,9 @@
     "Sources: NBA interviews Kawhi in Aspiration case",
     "Sources: NBA investigating Brunson-fan incident",
     "'Traitor' - Elmo in hot water with New Yorkers over Knicks NBA finals post",
-    "Gavi se emociona recordando su convocatoria con España para el Mundial: \"No lo quería ver\"",
-    "Ferrari boss to miss qualifying for medical reasons"
+    "Gavi se emociona recordando su convocatoria con España para el Mundial: \"No lo quería ver\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782929098925",
-      "resourceType": "image",
-      "uploadedAt": 1782929099961
-    },
     {
       "publicId": "tvs_videos/video_1782934885526",
       "resourceType": "video",
@@ -469,6 +464,11 @@
       "publicId": "tvs_cards/card_1783015114618",
       "resourceType": "image",
       "uploadedAt": 1783015116211
+    },
+    {
+      "publicId": "tvs_videos/video_1783019514601",
+      "resourceType": "video",
+      "uploadedAt": 1783019516703
     }
   ]
 }
