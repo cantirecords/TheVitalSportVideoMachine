@@ -18,6 +18,7 @@
     "Tennis"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/cg4wg7lee1vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/cj6gdj8e04ro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-1",
     "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.marca.com/futbol/betis/2026/06/05/betis-bromea-isco-hay-resistido-abandonar-ciudad-deportiva-durante-dias.html",
     "https://www.mlb.com/news/5-ways-aaron-judge-injury-can-impact-yankees-american-league",
     "https://www.mlb.com/news/pipeline-inbox-questions-jackson-flora-draft-xavier-isaac",
-    "https://www.bbc.com/sport/formula1/articles/clypyggd9g2o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-4"
+    "https://www.bbc.com/sport/formula1/articles/clypyggd9g2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Relief for England as Kane heads in equalising goal against DR Congo",
     "Defending champion Sinner beats Borges to reach round three",
     "Trade rumors: Skubal, Angels, Yankees, starting pitchers",
     "Egypt optimistic Salah will be fit to face Australia",
@@ -418,15 +419,9 @@
     "El Betis bromea con Isco: \"Hay quien se ha resistido a abandonar la Ciudad Deportiva durante estos días...\"",
     "5 ways Judge's injury could impact Yankees and entire AL",
     "Inbox: Who is the second-best college pitcher in the Draft after Flora?",
-    "Hamilton fastest but Leclerc expects 'tight qualifying'",
-    "Latest mock draft: NCAA upsets shake up first-round scouting plans"
+    "Hamilton fastest but Leclerc expects 'tight qualifying'"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782855779363",
-      "resourceType": "image",
-      "uploadedAt": 1782855780823
-    },
     {
       "publicId": "tvs_videos/video_1782873516177",
       "resourceType": "video",
@@ -471,6 +466,11 @@
       "publicId": "tvs_cards/card_1782942157714",
       "resourceType": "image",
       "uploadedAt": 1782942158952
+    },
+    {
+      "publicId": "tvs_videos/video_1782959291456",
+      "resourceType": "video",
+      "uploadedAt": 1782959294231
     }
   ]
 }
