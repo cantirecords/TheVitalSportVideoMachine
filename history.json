@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "Keys",
     "Hits",
     "LeBron",
@@ -8,12 +9,10 @@
     "Sinner",
     "Beats",
     "Salah",
-    "Returns",
-    "Red",
-    "Sox",
-    "Barcelona"
+    "Returns"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/barcelona/2026/07/02/tebas-dice-buena-relacion-barca-laporta-influira-decisiones-laliga.html",
     "https://www.mlb.com/news/sean-keys-hits-first-major-league-home-run-on-canada-day",
     "https://www.bbc.co.uk/sport/basketball/articles/ce8kwp30jejo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/crlw4ykp3x3o?at_medium=RSS&at_campaign=rss",
@@ -212,10 +211,10 @@
     "https://www.sport.es/es/noticias/barca/gavi-emociona-recordando-convocatoria-espana-131095615?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/formula1/articles/cq51d205x27o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-unveil-mural-tribute-to-glenn-burke-billy-bean-on-pride-night",
-    "https://www.mlb.com/news/freddie-freeman-hits-walk-off-home-run-vs-angels",
-    "https://www.marca.com/futbol/betis/2026/06/05/betis-bromea-isco-hay-resistido-abandonar-ciudad-deportiva-durante-dias.html"
+    "https://www.mlb.com/news/freddie-freeman-hits-walk-off-home-run-vs-angels"
   ],
   "postedTitles": [
+    "Tebas dice que su \"buena relación\" con el Barça y Laporta no influirá en las decisiones de LaLiga",
     "Keys turns on the ignition for 1st MLB homer -- on Canada Day!",
     "LeBron's Last Dance - what next for James after Lakers exit?",
     "Pundits split on Kane penalty claim",
@@ -414,15 +413,9 @@
     "Gavi se emociona recordando su convocatoria con España para el Mundial: \"No lo quería ver\"",
     "Ferrari boss to miss qualifying for medical reasons",
     "Dodgers honor trailblazers Burke, Bean by unveiling mural on Pride Night",
-    "'Freddie just has that aura': Freeman lifts Dodgers with 20th career walk-off hit",
-    "El Betis bromea con Isco: \"Hay quien se ha resistido a abandonar la Ciudad Deportiva durante estos días...\""
+    "'Freddie just has that aura': Freeman lifts Dodgers with 20th career walk-off hit"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782905436949",
-      "resourceType": "image",
-      "uploadedAt": 1782905438265
-    },
     {
       "publicId": "tvs_videos/video_1782915069754",
       "resourceType": "video",
@@ -467,6 +460,11 @@
       "publicId": "tvs_cards/card_1782989324769",
       "resourceType": "image",
       "uploadedAt": 1782989327353
+    },
+    {
+      "publicId": "tvs_videos/video_1782999143033",
+      "resourceType": "video",
+      "uploadedAt": 1782999144873
     }
   ]
 }
