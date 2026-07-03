@@ -16,6 +16,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-turn-early-deficit-into-big-win-over-padres",
     "https://www.bbc.co.uk/sport/football/videos/ce3edkv33kvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cp36le6vlv6o?at_medium=RSS&at_campaign=rss",
@@ -214,10 +215,10 @@
     "https://www.espn.com/mlb/story/_/id/48988921/brewers-misiorowski-throws-1037-mph-pitch-set-starter-record",
     "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/tennis/story/_/id/48983377/serena-williams-comeback-return-tennis-victoria-mboko-queen-club",
-    "https://www.mlb.com/news/red-sox-yankees-june-6-game-postponed",
-    "https://www.espn.com/mlb/story/_/id/48967255/2026-mlb-owners-meetings-labor-cba-mlbpa-salary-cap-rob-manfred-takeaways"
+    "https://www.mlb.com/news/red-sox-yankees-june-6-game-postponed"
   ],
   "postedTitles": [
+    "Never-say-die Dodgers turn 6-run deficit into 5-run victory over Padres",
     "Ronaldo has equaliser ruled out for offside",
     "Why are Man City breaking the bank for Anderson?",
     "Silverstone completely different with new cars - Hamilton",
@@ -416,15 +417,9 @@
     "Misiorowski sets SP record with 103.7 mph pitch",
     "Are Portugal better without Ronaldo?",
     "Serena Williams is returning to tennis -- what doe...",
-    "Red Sox-Yankees game postponed Saturday, rescheduled for Aug. 29 twin bill",
-    "Biggest takeaways from this week's MLB owners meet..."
+    "Red Sox-Yankees game postponed Saturday, rescheduled for Aug. 29 twin bill"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1782981850201",
-      "resourceType": "video",
-      "uploadedAt": 1782981851912
-    },
     {
       "publicId": "tvs_cards/card_1782989324769",
       "resourceType": "image",
@@ -469,6 +464,11 @@
       "publicId": "tvs_cards/card_1783063887976",
       "resourceType": "image",
       "uploadedAt": 1783063888834
+    },
+    {
+      "publicId": "tvs_videos/video_1783068679017",
+      "resourceType": "video",
+      "uploadedAt": 1783068681282
     }
   ]
 }
