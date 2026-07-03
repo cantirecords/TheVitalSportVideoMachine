@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Lakers",
+    "Just",
     "Real",
     "Madrid",
     "Ronaldo",
@@ -18,6 +20,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49239780/los-angeles-lakers-overall-biggest-questions-lebron-james-luka-doncic-walker-kessler-nba-free-agency-offseason",
     "https://www.mlb.com/news/top-250-draft-prospects-for-2026",
     "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-turn-early-deficit-into-big-win-over-padres",
@@ -216,10 +219,10 @@
     "https://www.espn.com/nfl/story/_/id/48951382/2026-nfl-season-worst-first-afc-nfc-division-odds-predictions-turnarounds",
     "https://www.mlb.com/news/mlb-youth-academies-breakthrough-series-a-developmental-pipeline",
     "https://www.mlb.com/news/jacob-misiorowski-first-start-at-coors-field",
-    "https://www.espn.com/mlb/story/_/id/48988921/brewers-misiorowski-throws-1037-mph-pitch-set-starter-record",
-    "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/mlb/story/_/id/48988921/brewers-misiorowski-throws-1037-mph-pitch-set-starter-record"
   ],
   "postedTitles": [
+    "Making sense of the Lakers' overhaul: Why do the K...",
     "The Draft Top 250 is out! For the 1st time all year, there's a new No. 1",
     "Real Madrid have 'no intention' of signing Fernandez",
     "Never-say-die Dodgers turn 6-run deficit into 5-run victory over Padres",
@@ -418,15 +421,9 @@
     "Copy of Worst-to-first rankings: Which NFL teams are most ...",
     "How MLB Youth Academies are making Breakthrough Series a developmental pipeline",
     "Miz sets record with 45(!) pitches 101+ mph as he lowers ERA to 1.50",
-    "Misiorowski sets SP record with 103.7 mph pitch",
-    "Are Portugal better without Ronaldo?"
+    "Misiorowski sets SP record with 103.7 mph pitch"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783002082287",
-      "resourceType": "image",
-      "uploadedAt": 1783002084089
-    },
     {
       "publicId": "tvs_cards/card_1783015114618",
       "resourceType": "image",
@@ -471,6 +468,11 @@
       "publicId": "tvs_videos/video_1783086358412",
       "resourceType": "video",
       "uploadedAt": 1783086360724
+    },
+    {
+      "publicId": "tvs_cards/card_1783088728655",
+      "resourceType": "image",
+      "uploadedAt": 1783088729812
     }
   ]
 }
