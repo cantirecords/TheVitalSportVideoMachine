@@ -18,6 +18,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/top-250-draft-prospects-for-2026",
     "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-turn-early-deficit-into-big-win-over-padres",
     "https://www.bbc.co.uk/sport/football/videos/ce3edkv33kvo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.mlb.com/news/mlb-youth-academies-breakthrough-series-a-developmental-pipeline",
     "https://www.mlb.com/news/jacob-misiorowski-first-start-at-coors-field",
     "https://www.espn.com/mlb/story/_/id/48988921/brewers-misiorowski-throws-1037-mph-pitch-set-starter-record",
-    "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/tennis/story/_/id/48983377/serena-williams-comeback-return-tennis-victoria-mboko-queen-club"
+    "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "The Draft Top 250 is out! For the 1st time all year, there's a new No. 1",
     "Real Madrid have 'no intention' of signing Fernandez",
     "Never-say-die Dodgers turn 6-run deficit into 5-run victory over Padres",
     "Ronaldo has equaliser ruled out for offside",
@@ -418,20 +419,9 @@
     "How MLB Youth Academies are making Breakthrough Series a developmental pipeline",
     "Miz sets record with 45(!) pitches 101+ mph as he lowers ERA to 1.50",
     "Misiorowski sets SP record with 103.7 mph pitch",
-    "Are Portugal better without Ronaldo?",
-    "Serena Williams is returning to tennis -- what doe..."
+    "Are Portugal better without Ronaldo?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1782989324769",
-      "resourceType": "image",
-      "uploadedAt": 1782989327353
-    },
-    {
-      "publicId": "tvs_videos/video_1782999143033",
-      "resourceType": "video",
-      "uploadedAt": 1782999144873
-    },
     {
       "publicId": "tvs_cards/card_1783002082287",
       "resourceType": "image",
@@ -476,6 +466,11 @@
       "publicId": "tvs_cards/card_1783075581640",
       "resourceType": "image",
       "uploadedAt": 1783075583442
+    },
+    {
+      "publicId": "tvs_videos/video_1783086358412",
+      "resourceType": "video",
+      "uploadedAt": 1783086360724
     }
   ]
 }
