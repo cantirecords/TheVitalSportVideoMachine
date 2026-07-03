@@ -22,6 +22,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49249828/one-free-throw-rule-embedded-ball-tech-test-set-summer-league",
     "https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49239780/los-angeles-lakers-overall-biggest-questions-lebron-james-luka-doncic-walker-kessler-nba-free-agency-offseason",
     "https://www.mlb.com/news/top-250-draft-prospects-for-2026",
@@ -220,10 +221,10 @@
     "https://www.sport.es/es/noticias/barca/mensaje-cule-xavi-espart-quiere-131119759?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/48951382/2026-nfl-season-worst-first-afc-nfc-division-odds-predictions-turnarounds",
-    "https://www.mlb.com/news/mlb-youth-academies-breakthrough-series-a-developmental-pipeline",
-    "https://www.mlb.com/news/jacob-misiorowski-first-start-at-coors-field"
+    "https://www.mlb.com/news/mlb-youth-academies-breakthrough-series-a-developmental-pipeline"
   ],
   "postedTitles": [
+    "NBA testing one free throw rule in summer league",
     "Djokovic fights off Rinderknech to claim more history",
     "Making sense of the Lakers' overhaul: Why do the K...",
     "The Draft Top 250 is out! For the 1st time all year, there's a new No. 1",
@@ -422,15 +423,9 @@
     "El mensaje más culé de un Xavi Espart que quiere volar con el Barça",
     "Real Madrid to join Fernandes race - Monday's gossip",
     "Copy of Worst-to-first rankings: Which NFL teams are most ...",
-    "How MLB Youth Academies are making Breakthrough Series a developmental pipeline",
-    "Miz sets record with 45(!) pitches 101+ mph as he lowers ERA to 1.50"
+    "How MLB Youth Academies are making Breakthrough Series a developmental pipeline"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783015114618",
-      "resourceType": "image",
-      "uploadedAt": 1783015116211
-    },
     {
       "publicId": "tvs_videos/video_1783019514601",
       "resourceType": "video",
@@ -480,6 +475,11 @@
       "publicId": "tvs_cards/card_1783100455697",
       "resourceType": "image",
       "uploadedAt": 1783100456997
+    },
+    {
+      "publicId": "tvs_videos/video_1783105467105",
+      "resourceType": "video",
+      "uploadedAt": 1783105469963
     }
   ]
 }
