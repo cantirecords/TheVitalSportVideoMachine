@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Lionel",
     "Messi",
     "Tennis",
@@ -8,26 +9,10 @@
     "Filipino",
     "Djokovic",
     "Makes",
-    "Lakers",
-    "Just",
-    "Real",
-    "Madrid",
-    "Ronaldo",
-    "Goal",
-    "Anderson",
-    "Sets",
-    "Hamilton",
-    "Firth",
-    "Breaks",
-    "Rays",
-    "Rise",
-    "Swanson",
-    "Hits",
-    "Barça",
-    "Keys",
-    "LeBron"
+    "Lakers"
   ],
   "postedUrls": [
+    "https://www.espn.com/mlb/story/_/id/49265557/dodgers-shohei-ohtani-exits-early-vs-padres-bicep-issue-held-lineup-saturday",
     "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cr7xmgy7x52o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
@@ -226,10 +211,10 @@
     "https://www.mlb.com/news/marlins-anthony-bender-owns-mlb-best-pitch-befitting-of-his-name",
     "https://www.sport.es/es/noticias/barca/shane-kluivert-apunta-pretemporada-barca-131156426?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/rugby-league/articles/cx212n56zz6o?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-desvela-cuenta-x-131137277?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/rugby-league/articles/cx212n56zz6o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Dodgers to hold Ohtani (bicep) out Sat. after exit...",
     "Murals, flags and beef dishes - Messi mania takes hold in Miami",
     "Who am I? Guess the tennis star No 4",
     "'I decided last minute!' - Salah on Panenka penalty",
@@ -428,15 +413,9 @@
     "The best pitch in MLB this season might surprise you, but it makes perfect sense",
     "Shane Kluivert se apunta a la pretemporada del Barça",
     "Bellingham has fight to start for England - Tuchel",
-    "Rugby league's record loss but Crusaders win survival",
-    "Lamine Yamal desvela si tiene cuenta de X: \"La gente no quiere buscar bien\""
+    "Rugby league's record loss but Crusaders win survival"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783063887976",
-      "resourceType": "image",
-      "uploadedAt": 1783063888834
-    },
     {
       "publicId": "tvs_videos/video_1783068679017",
       "resourceType": "video",
@@ -486,6 +465,11 @@
       "publicId": "tvs_cards/card_1783148035539",
       "resourceType": "image",
       "uploadedAt": 1783148036857
+    },
+    {
+      "publicId": "tvs_videos/video_1783153580332",
+      "resourceType": "video",
+      "uploadedAt": 1783153582271
     }
   ]
 }
