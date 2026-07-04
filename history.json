@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Tennis",
+    "Superstar",
     "First",
     "Filipino",
     "Djokovic",
@@ -24,6 +26,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cr7xmgy7x52o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49249828/one-free-throw-rule-embedded-ball-tech-test-set-summer-league",
@@ -222,10 +225,10 @@
     "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/rugby-league/articles/cx212n56zz6o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-desvela-cuenta-x-131137277?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/mensaje-cule-xavi-espart-quiere-131119759?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss"
+    "https://www.sport.es/es/noticias/barca/mensaje-cule-xavi-espart-quiere-131119759?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Who am I? Guess the tennis star No 4",
     "'I decided last minute!' - Salah on Panenka penalty",
     "Eala's historic Wimbledon run thrills boxing-obsessed Philippines",
     "NBA testing one free throw rule in summer league",
@@ -424,15 +427,9 @@
     "Bellingham has fight to start for England - Tuchel",
     "Rugby league's record loss but Crusaders win survival",
     "Lamine Yamal desvela si tiene cuenta de X: \"La gente no quiere buscar bien\"",
-    "El mensaje más culé de un Xavi Espart que quiere volar con el Barça",
-    "Real Madrid to join Fernandes race - Monday's gossip"
+    "El mensaje más culé de un Xavi Espart que quiere volar con el Barça"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783044184299",
-      "resourceType": "video",
-      "uploadedAt": 1783044185845
-    },
     {
       "publicId": "tvs_cards/card_1783050998525",
       "resourceType": "image",
@@ -482,6 +479,11 @@
       "publicId": "tvs_videos/video_1783130475356",
       "resourceType": "video",
       "uploadedAt": 1783130478243
+    },
+    {
+      "publicId": "tvs_cards/card_1783137010028",
+      "resourceType": "image",
+      "uploadedAt": 1783137011561
     }
   ]
 }
