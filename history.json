@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Celtics",
+    "Shock",
     "Djokovic",
     "Wins",
     "Hamilton",
@@ -14,6 +16,7 @@
     "Filipino"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
     "https://www.bbc.co.uk/sport/tennis/videos/c4gy0zrd0eeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/gerrit-cole-starts-series-opener-vs-twins",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/basketball/articles/c07ynypgz8yo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/araujo-enciende-alarmas-uruguay-viaje-131136723?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/college-baseball-stock-watch-june-08-2026",
-    "https://www.espn.com/soccer/story/_/id/48948700/the-world-cup-record-broken-three-s-first-week-curacao-dick-advocaat-south-africa-hugo-broos-czechia-miroslav-koubek",
-    "https://www.mlb.com/news/marlins-anthony-bender-owns-mlb-best-pitch-befitting-of-his-name"
+    "https://www.espn.com/soccer/story/_/id/48948700/the-world-cup-record-broken-three-s-first-week-curacao-dick-advocaat-south-africa-hugo-broos-czechia-miroslav-koubek"
   ],
   "postedTitles": [
+    "Windhorst: NBA execs on the Brown trade, big-money...",
     "'Quite stressed' - Djokovic relieved to get past Rinderknech",
     "Antonelli passes Hamilton to win Silverstone sprint",
     "Cole defies weather, Boone's hook to help Yankees snap skid",
@@ -414,15 +417,9 @@
     "Wembanyama stars as Spurs trim Knicks' Finals lead",
     "Araujo enciende las alarmas en Uruguay: viaje exprés a Barcelona antes del Mundial",
     "Draft stock watch: Reese, Lebron shine in NCAA Super Regional action",
-    "The World Cup record that will be broken three tim...",
-    "The best pitch in MLB this season might surprise you, but it makes perfect sense"
+    "The World Cup record that will be broken three tim..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783088728655",
-      "resourceType": "image",
-      "uploadedAt": 1783088729812
-    },
     {
       "publicId": "tvs_cards/card_1783100455697",
       "resourceType": "image",
@@ -472,6 +469,11 @@
       "publicId": "tvs_cards/card_1783173013417",
       "resourceType": "image",
       "uploadedAt": 1783173014401
+    },
+    {
+      "publicId": "tvs_cards/card_1783185310493",
+      "resourceType": "image",
+      "uploadedAt": 1783185311462
     }
   ]
 }
