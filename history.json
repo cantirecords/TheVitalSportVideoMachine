@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Cardinals",
+    "Destroy",
     "Celtics",
     "Shock",
     "Djokovic",
@@ -16,6 +18,7 @@
     "Filipino"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cardinals-cruise-to-historic-rout-of-cubs",
     "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
     "https://www.bbc.co.uk/sport/tennis/videos/c4gy0zrd0eeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +217,10 @@
     "https://www.mlb.com/news/paul-skenes-june-9-start-vs-dodgers",
     "https://www.bbc.com/sport/basketball/articles/c07ynypgz8yo?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/araujo-enciende-alarmas-uruguay-viaje-131136723?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/college-baseball-stock-watch-june-08-2026",
-    "https://www.espn.com/soccer/story/_/id/48948700/the-world-cup-record-broken-three-s-first-week-curacao-dick-advocaat-south-africa-hugo-broos-czechia-miroslav-koubek"
+    "https://www.mlb.com/news/college-baseball-stock-watch-june-08-2026"
   ],
   "postedTitles": [
+    "Relentless 2-out attack leads Cardinals to historic rout of rival Cubs",
     "Windhorst: NBA execs on the Brown trade, big-money...",
     "'Quite stressed' - Djokovic relieved to get past Rinderknech",
     "Antonelli passes Hamilton to win Silverstone sprint",
@@ -416,15 +419,9 @@
     "It's strength vs. strength with Skenes set to battle Dodgers",
     "Wembanyama stars as Spurs trim Knicks' Finals lead",
     "Araujo enciende las alarmas en Uruguay: viaje exprés a Barcelona antes del Mundial",
-    "Draft stock watch: Reese, Lebron shine in NCAA Super Regional action",
-    "The World Cup record that will be broken three tim..."
+    "Draft stock watch: Reese, Lebron shine in NCAA Super Regional action"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783105467105",
-      "resourceType": "video",
-      "uploadedAt": 1783105469963
-    },
     {
       "publicId": "tvs_cards/card_1783113400261",
       "resourceType": "image",
@@ -469,6 +466,11 @@
       "publicId": "tvs_cards/card_1783185310493",
       "resourceType": "image",
       "uploadedAt": 1783185311462
+    },
+    {
+      "publicId": "tvs_cards/card_1783199236706",
+      "resourceType": "image",
+      "uploadedAt": 1783199237608
     }
   ]
 }
