@@ -24,6 +24,7 @@
     "LeBron"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49249828/one-free-throw-rule-embedded-ball-tech-test-set-summer-league",
     "https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o?at_medium=RSS&at_campaign=rss",
@@ -222,10 +223,10 @@
     "https://www.bbc.com/sport/rugby-league/articles/cx212n56zz6o?at_medium=RSS&at_campaign=rss",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-desvela-cuenta-x-131137277?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.sport.es/es/noticias/barca/mensaje-cule-xavi-espart-quiere-131119759?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/48951382/2026-nfl-season-worst-first-afc-nfc-division-odds-predictions-turnarounds"
+    "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'I decided last minute!' - Salah on Panenka penalty",
     "Eala's historic Wimbledon run thrills boxing-obsessed Philippines",
     "NBA testing one free throw rule in summer league",
     "Djokovic fights off Rinderknech to claim more history",
@@ -424,15 +425,9 @@
     "Rugby league's record loss but Crusaders win survival",
     "Lamine Yamal desvela si tiene cuenta de X: \"La gente no quiere buscar bien\"",
     "El mensaje más culé de un Xavi Espart que quiere volar con el Barça",
-    "Real Madrid to join Fernandes race - Monday's gossip",
-    "Copy of Worst-to-first rankings: Which NFL teams are most ..."
+    "Real Madrid to join Fernandes race - Monday's gossip"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783027047769",
-      "resourceType": "image",
-      "uploadedAt": 1783027048814
-    },
     {
       "publicId": "tvs_videos/video_1783044184299",
       "resourceType": "video",
@@ -482,6 +477,11 @@
       "publicId": "tvs_cards/card_1783113400261",
       "resourceType": "image",
       "uploadedAt": 1783113401274
+    },
+    {
+      "publicId": "tvs_videos/video_1783130475356",
+      "resourceType": "video",
+      "uploadedAt": 1783130478243
     }
   ]
 }
