@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Hodgkinson",
+    "Beaten",
     "Brazil",
     "Beats",
     "Cardinals",
@@ -20,6 +22,7 @@
     "Filipino"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/athletics/videos/cdejpjng0p7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-freddie-freeman-max-muncy-andy-pages-yoshinobu-yamamoto-dodgers-all-stars",
     "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
     "https://www.espn.com/nba/story/_/id/49259879/sources-lakers-trading-ayton-wizards-hardy-future-picks",
@@ -218,10 +221,10 @@
     "https://www.mlb.com/news/rockies-no-6-prospect-cole-carrigg-triples-for-first-mlb-hit",
     "https://www.sport.es/es/noticias/barca/movimiento-chicago-fire-fichar-lewandowski-131190336?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
-    "https://www.bbc.com/sport/formula1/articles/c6214mp9nv9o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/paul-skenes-june-9-start-vs-dodgers"
+    "https://www.bbc.com/sport/formula1/articles/c6214mp9nv9o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "No world record, no win - Hodgkinson beaten again in Diamond League",
     "Dodgers boast 4 ASG starters, tie MLB lead with 5 total reps",
     "Copy of How can Brazil stop Haaland? It might come down to...",
     "Sources: Lakers trading center Ayton to Wizards",
@@ -420,15 +423,9 @@
     "No. 6 prospect Carrigg triples in MLB debut as Rockies beat Cubs",
     "Movimiento del Chicago Fire para fichar a Lewandowski",
     "NFL minicamp daily updates: Yes! Jaxson Dart is ad...",
-    "Why were so many caught out for pit-lane speeding at Monaco? F1 Q&A",
-    "It's strength vs. strength with Skenes set to battle Dodgers"
+    "Why were so many caught out for pit-lane speeding at Monaco? F1 Q&A"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783160385314",
-      "resourceType": "image",
-      "uploadedAt": 1783160386722
-    },
     {
       "publicId": "tvs_videos/video_1783170191859",
       "resourceType": "video",
@@ -463,6 +460,11 @@
       "publicId": "tvs_videos/video_1783240990785",
       "resourceType": "video",
       "uploadedAt": 1783240993092
+    },
+    {
+      "publicId": "tvs_cards/card_1783247085853",
+      "resourceType": "image",
+      "uploadedAt": 1783247086760
     }
   ]
 }
