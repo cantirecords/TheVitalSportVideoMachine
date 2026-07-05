@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "LeBron",
     "76ers",
     "Enter",
     "Fery",
@@ -8,14 +9,10 @@
     "Hodgkinson",
     "Beaten",
     "Brazil",
-    "Beats",
-    "Cardinals",
-    "Destroy",
-    "Celtics",
-    "Shock",
-    "Djokovic"
+    "Cardinals"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers",
     "https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add",
     "https://www.bbc.co.uk/sport/tennis/articles/cj3gp85me40o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +211,10 @@
     "https://www.mlb.com/news/mens-college-world-series-2026-preview",
     "https://www.espn.com/soccer/story/_/id/48816247/real-madrid-jose-mourinho-florentino-perez-laliga-special-one-manager",
     "https://www.espn.com/nhl/story/_/id/49009036/nhl-undrafted-players-ranking-scoring-scouting-contracts-free-agency",
-    "https://www.mlb.com/news/nationals-get-off-to-hot-start-in-win-vs-giants",
-    "https://www.mlb.com/news/rockies-no-6-prospect-cole-carrigg-triples-for-first-mlb-hit"
+    "https://www.mlb.com/news/nationals-get-off-to-hot-start-in-win-vs-giants"
   ],
   "postedTitles": [
+    "Agent: LeBron eyeing Heat, Cavs, Sixers, others",
     "Sources: 76ers, with Brown on board, eye LeBron",
     "GB's Fery fights off Bergs and nosebleeds to win five-set epic",
     "Real Madrid sign defender Dumfries from Inter Milan",
@@ -416,8 +413,7 @@
     "Breaking down the 8 teams heading to Omaha for the Men's College World Series",
     "Can Mourinho really succeed again at Madrid after ...",
     "How undrafted players became so vital to teams' su...",
-    "MLB's best first-inning offense strikes again as Nats roll to win",
-    "No. 6 prospect Carrigg triples in MLB debut as Rockies beat Cubs"
+    "MLB's best first-inning offense strikes again as Nats roll to win"
   ],
   "cloudinaryAssets": [
     {
@@ -459,6 +455,11 @@
       "publicId": "tvs_cards/card_1783272043604",
       "resourceType": "image",
       "uploadedAt": 1783272044512
+    },
+    {
+      "publicId": "tvs_videos/video_1783278263596",
+      "resourceType": "video",
+      "uploadedAt": 1783278265864
     }
   ]
 }
