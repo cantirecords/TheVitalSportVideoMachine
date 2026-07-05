@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Brazil",
+    "Beats",
     "Cardinals",
     "Destroy",
     "Celtics",
@@ -18,6 +20,7 @@
     "Filipino"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
     "https://www.espn.com/nba/story/_/id/49259879/sources-lakers-trading-ayton-wizards-hardy-future-picks",
     "https://www.mlb.com/news/cardinals-cruise-to-historic-rout-of-cubs",
     "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
@@ -216,10 +219,10 @@
     "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
     "https://www.bbc.com/sport/formula1/articles/c6214mp9nv9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/paul-skenes-june-9-start-vs-dodgers",
-    "https://www.bbc.com/sport/basketball/articles/c07ynypgz8yo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/araujo-enciende-alarmas-uruguay-viaje-131136723?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.bbc.com/sport/basketball/articles/c07ynypgz8yo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Copy of How can Brazil stop Haaland? It might come down to...",
     "Sources: Lakers trading center Ayton to Wizards",
     "Relentless 2-out attack leads Cardinals to historic rout of rival Cubs",
     "Windhorst: NBA execs on the Brown trade, big-money...",
@@ -418,15 +421,9 @@
     "NFL minicamp daily updates: Yes! Jaxson Dart is ad...",
     "Why were so many caught out for pit-lane speeding at Monaco? F1 Q&A",
     "It's strength vs. strength with Skenes set to battle Dodgers",
-    "Wembanyama stars as Spurs trim Knicks' Finals lead",
-    "Araujo enciende las alarmas en Uruguay: viaje exprés a Barcelona antes del Mundial"
+    "Wembanyama stars as Spurs trim Knicks' Finals lead"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783137010028",
-      "resourceType": "image",
-      "uploadedAt": 1783137011561
-    },
     {
       "publicId": "tvs_cards/card_1783148035539",
       "resourceType": "image",
@@ -466,6 +463,11 @@
       "publicId": "tvs_videos/video_1783217370742",
       "resourceType": "video",
       "uploadedAt": 1783217372897
+    },
+    {
+      "publicId": "tvs_cards/card_1783224520272",
+      "resourceType": "image",
+      "uploadedAt": 1783224522499
     }
   ]
 }
