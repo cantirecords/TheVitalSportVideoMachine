@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Hodgkinson",
     "Beaten",
     "Brazil",
@@ -8,20 +9,10 @@
     "Destroy",
     "Celtics",
     "Shock",
-    "Djokovic",
-    "Wins",
-    "Hamilton",
-    "Cole",
-    "Defies",
-    "Ohtani",
-    "Lionel",
-    "Messi",
-    "Tennis",
-    "Superstar",
-    "First",
-    "Filipino"
+    "Djokovic"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/videos/cdejpjng0p7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-freddie-freeman-max-muncy-andy-pages-yoshinobu-yamamoto-dodgers-all-stars",
     "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
@@ -220,10 +211,10 @@
     "https://www.mlb.com/news/nationals-get-off-to-hot-start-in-win-vs-giants",
     "https://www.mlb.com/news/rockies-no-6-prospect-cole-carrigg-triples-for-first-mlb-hit",
     "https://www.sport.es/es/noticias/barca/movimiento-chicago-fire-fichar-lewandowski-131190336?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
-    "https://www.bbc.com/sport/formula1/articles/c6214mp9nv9o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts"
   ],
   "postedTitles": [
+    "Real Madrid sign defender Dumfries from Inter Milan",
     "No world record, no win - Hodgkinson beaten again in Diamond League",
     "Dodgers boast 4 ASG starters, tie MLB lead with 5 total reps",
     "Copy of How can Brazil stop Haaland? It might come down to...",
@@ -422,15 +413,9 @@
     "MLB's best first-inning offense strikes again as Nats roll to win",
     "No. 6 prospect Carrigg triples in MLB debut as Rockies beat Cubs",
     "Movimiento del Chicago Fire para fichar a Lewandowski",
-    "NFL minicamp daily updates: Yes! Jaxson Dart is ad...",
-    "Why were so many caught out for pit-lane speeding at Monaco? F1 Q&A"
+    "NFL minicamp daily updates: Yes! Jaxson Dart is ad..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783170191859",
-      "resourceType": "video",
-      "uploadedAt": 1783170194001
-    },
     {
       "publicId": "tvs_cards/card_1783173013417",
       "resourceType": "image",
@@ -465,6 +450,11 @@
       "publicId": "tvs_cards/card_1783247085853",
       "resourceType": "image",
       "uploadedAt": 1783247086760
+    },
+    {
+      "publicId": "tvs_videos/video_1783257034679",
+      "resourceType": "video",
+      "uploadedAt": 1783257037047
     }
   ]
 }
