@@ -18,6 +18,7 @@
     "Filipino"
   ],
   "postedUrls": [
+    "https://www.espn.com/nba/story/_/id/49259879/sources-lakers-trading-ayton-wizards-hardy-future-picks",
     "https://www.mlb.com/news/cardinals-cruise-to-historic-rout-of-cubs",
     "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
     "https://www.bbc.co.uk/sport/tennis/videos/c4gy0zrd0eeo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.bbc.com/sport/formula1/articles/c6214mp9nv9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/paul-skenes-june-9-start-vs-dodgers",
     "https://www.bbc.com/sport/basketball/articles/c07ynypgz8yo?at_medium=RSS&at_campaign=rss",
-    "https://www.sport.es/es/noticias/barca/araujo-enciende-alarmas-uruguay-viaje-131136723?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/college-baseball-stock-watch-june-08-2026"
+    "https://www.sport.es/es/noticias/barca/araujo-enciende-alarmas-uruguay-viaje-131136723?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Sources: Lakers trading center Ayton to Wizards",
     "Relentless 2-out attack leads Cardinals to historic rout of rival Cubs",
     "Windhorst: NBA execs on the Brown trade, big-money...",
     "'Quite stressed' - Djokovic relieved to get past Rinderknech",
@@ -418,20 +419,9 @@
     "Why were so many caught out for pit-lane speeding at Monaco? F1 Q&A",
     "It's strength vs. strength with Skenes set to battle Dodgers",
     "Wembanyama stars as Spurs trim Knicks' Finals lead",
-    "Araujo enciende las alarmas en Uruguay: viaje exprés a Barcelona antes del Mundial",
-    "Draft stock watch: Reese, Lebron shine in NCAA Super Regional action"
+    "Araujo enciende las alarmas en Uruguay: viaje exprés a Barcelona antes del Mundial"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783113400261",
-      "resourceType": "image",
-      "uploadedAt": 1783113401274
-    },
-    {
-      "publicId": "tvs_videos/video_1783130475356",
-      "resourceType": "video",
-      "uploadedAt": 1783130478243
-    },
     {
       "publicId": "tvs_cards/card_1783137010028",
       "resourceType": "image",
@@ -471,6 +461,11 @@
       "publicId": "tvs_cards/card_1783199236706",
       "resourceType": "image",
       "uploadedAt": 1783199237608
+    },
+    {
+      "publicId": "tvs_videos/video_1783217370742",
+      "resourceType": "video",
+      "uploadedAt": 1783217372897
     }
   ]
 }
