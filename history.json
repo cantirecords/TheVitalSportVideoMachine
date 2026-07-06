@@ -18,6 +18,7 @@
     "Cardinals"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/swimming/articles/cwy00lnj2zxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/best-tools-in-the-2026-mlb-draft-class",
     "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.mlb.com/news/andruw-jones-to-take-on-rival-phillies-at-mlbx-all-star",
     "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal",
     "https://www.mlb.com/news/tyler-callihan-hits-first-two-mlb-homers-pirates-beat-dodgers",
-    "https://www.sport.es/es/noticias/barca/bonita-dedicatoria-amor-lamine-yamal-131242638?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.sport.es/es/noticias/barca/oficial-barca-activa-opcion-compra-hamza-abdelkarim-131257530?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.sport.es/es/noticias/barca/bonita-dedicatoria-amor-lamine-yamal-131242638?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "The man England will fear most - Haaland fires Norway to history",
     "McIntosh breaks last of 'supersuit' world records",
     "Here are the top tools in the 2026 Draft class",
     "Bellingham scores two in 98 seconds to silence the Azteca",
@@ -418,20 +419,9 @@
     "Andruw Jones to take on his Phillies rivals at MLBX: All-Star 3-on-3",
     "Mahomes to make over $500M in reworked deal",
     "Callihan blasts 1st MLB HR off Ohtani -- and his 2nd lifts Bucs in dramatic rally",
-    "La bonita dedicatoria de amor de Lamine Yamal a Inés García",
-    "Oficial: el Barça activa la opción de compra por Hamza Abdelkarim"
+    "La bonita dedicatoria de amor de Lamine Yamal a Inés García"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783257034679",
-      "resourceType": "video",
-      "uploadedAt": 1783257037047
-    },
-    {
-      "publicId": "tvs_cards/card_1783259807039",
-      "resourceType": "image",
-      "uploadedAt": 1783259808122
-    },
     {
       "publicId": "tvs_cards/card_1783272043604",
       "resourceType": "image",
@@ -466,6 +456,11 @@
       "publicId": "tvs_cards/card_1783339875151",
       "resourceType": "image",
       "uploadedAt": 1783339875954
+    },
+    {
+      "publicId": "tvs_videos/video_1783350144061",
+      "resourceType": "video",
+      "uploadedAt": 1783350145941
     }
   ]
 }
