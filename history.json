@@ -20,6 +20,7 @@
     "Cardinals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/2026-al-east-showdown-between-rays-yankees",
     "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/swimming/articles/cwy00lnj2zxo?at_medium=RSS&at_campaign=rss",
@@ -218,10 +219,10 @@
     "https://www.mlb.com/news/will-smith-placed-on-il-with-neck-injury",
     "https://www.espn.com/soccer/story/_/id/49027314/barcelona-sign-18-year-old-world-cup-striker-hamza-abdelkarim",
     "https://www.mlb.com/news/andruw-jones-to-take-on-rival-phillies-at-mlbx-all-star",
-    "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal",
-    "https://www.mlb.com/news/tyler-callihan-hits-first-two-mlb-homers-pirates-beat-dodgers"
+    "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal"
   ],
   "postedTitles": [
+    "Rays, Yankees battle in four-game AL East showdown",
     "Djokovic breaks Federer's Wimbledon record to reach quarters",
     "The man England will fear most - Haaland fires Norway to history",
     "McIntosh breaks last of 'supersuit' world records",
@@ -420,15 +421,9 @@
     "Dodgers place Will Smith (neck) on IL",
     "Barcelona sign teenage Egypt World Cup striker",
     "Andruw Jones to take on his Phillies rivals at MLBX: All-Star 3-on-3",
-    "Mahomes to make over $500M in reworked deal",
-    "Callihan blasts 1st MLB HR off Ohtani -- and his 2nd lifts Bucs in dramatic rally"
+    "Mahomes to make over $500M in reworked deal"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783278263596",
-      "resourceType": "video",
-      "uploadedAt": 1783278265864
-    },
     {
       "publicId": "tvs_cards/card_1783285862717",
       "resourceType": "image",
@@ -463,6 +458,11 @@
       "publicId": "tvs_cards/card_1783361794597",
       "resourceType": "image",
       "uploadedAt": 1783361795430
+    },
+    {
+      "publicId": "tvs_videos/video_1783367130293",
+      "resourceType": "video",
+      "uploadedAt": 1783367132682
     }
   ]
 }
