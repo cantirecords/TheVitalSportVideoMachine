@@ -14,6 +14,7 @@
     "Cardinals"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c1ky0km90zxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers",
     "https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add",
@@ -212,10 +213,10 @@
     "https://www.sport.es/es/noticias/barca/oficial-barca-activa-opcion-compra-hamza-abdelkarim-131257530?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/seth-hernandez-eli-willits-square-off-in-high-a-battle-of-2025-top-draft-picks",
     "https://www.mlb.com/news/mens-college-world-series-2026-preview",
-    "https://www.espn.com/soccer/story/_/id/48816247/real-madrid-jose-mourinho-florentino-perez-laliga-special-one-manager",
-    "https://www.espn.com/nhl/story/_/id/49009036/nhl-undrafted-players-ranking-scoring-scouting-contracts-free-agency"
+    "https://www.espn.com/soccer/story/_/id/48816247/real-madrid-jose-mourinho-florentino-perez-laliga-special-one-manager"
   ],
   "postedTitles": [
+    "Haaland double fires Norway into World Cup quarter-finals",
     "Who am I? Guess the tennis star No 6",
     "Agent: LeBron eyeing Heat, Cavs, Sixers, others",
     "Sources: 76ers, with Brown on board, eye LeBron",
@@ -414,15 +415,9 @@
     "Oficial: el Barça activa la opción de compra por Hamza Abdelkarim",
     "Last year's No. 1 and No. 6 overall Draft picks battled in High-A",
     "Breaking down the 8 teams heading to Omaha for the Men's College World Series",
-    "Can Mourinho really succeed again at Madrid after ...",
-    "How undrafted players became so vital to teams' su..."
+    "Can Mourinho really succeed again at Madrid after ..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783217370742",
-      "resourceType": "video",
-      "uploadedAt": 1783217372897
-    },
     {
       "publicId": "tvs_cards/card_1783224520272",
       "resourceType": "image",
@@ -462,6 +457,11 @@
       "publicId": "tvs_cards/card_1783285862717",
       "resourceType": "image",
       "uploadedAt": 1783285864132
+    },
+    {
+      "publicId": "tvs_videos/video_1783304070080",
+      "resourceType": "video",
+      "uploadedAt": 1783304072058
     }
   ]
 }
