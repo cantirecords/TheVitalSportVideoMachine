@@ -22,6 +22,7 @@
     "Cardinals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-tv-july-2026-sale",
     "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-al-east-showdown-between-rays-yankees",
     "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
@@ -220,10 +221,10 @@
     "https://www.mlb.com/news/greenwich-giants-host-mlb-play-ball-event-with-dinosaur-theme",
     "https://www.bbc.com/sport/tennis/videos/cze9nnypx17o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-smith-placed-on-il-with-neck-injury",
-    "https://www.espn.com/soccer/story/_/id/49027314/barcelona-sign-18-year-old-world-cup-striker-hamza-abdelkarim",
-    "https://www.mlb.com/news/andruw-jones-to-take-on-rival-phillies-at-mlbx-all-star"
+    "https://www.espn.com/soccer/story/_/id/49027314/barcelona-sign-18-year-old-world-cup-striker-hamza-abdelkarim"
   ],
   "postedTitles": [
+    "All-Star Sale brings you MLB.TV for 50% off",
     "'I'm speechless' - Kane reacts to England's victory over Mexico",
     "Rays, Yankees battle in four-game AL East showdown",
     "Djokovic breaks Federer's Wimbledon record to reach quarters",
@@ -422,8 +423,7 @@
     "Roar! Kids learn baseball from dinos at MLB Play Ball event in England",
     "The cost of perfection - Croft on the sacrifices of tennis players ",
     "Dodgers place Will Smith (neck) on IL",
-    "Barcelona sign teenage Egypt World Cup striker",
-    "Andruw Jones to take on his Phillies rivals at MLBX: All-Star 3-on-3"
+    "Barcelona sign teenage Egypt World Cup striker"
   ],
   "cloudinaryAssets": [
     {
@@ -465,6 +465,11 @@
       "publicId": "tvs_cards/card_1783374156527",
       "resourceType": "image",
       "uploadedAt": 1783374158028
+    },
+    {
+      "publicId": "tvs_videos/video_1783390217340",
+      "resourceType": "video",
+      "uploadedAt": 1783390218967
     }
   ]
 }
