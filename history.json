@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "First",
+    "Player",
     "Kane",
     "Leads",
     "Djokovic",
@@ -22,6 +24,7 @@
     "Cardinals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/carson-bolemon-2026-mlb-draft-profile",
     "https://www.mlb.com/news/mlb-tv-july-2026-sale",
     "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-al-east-showdown-between-rays-yankees",
@@ -220,10 +223,10 @@
     "https://www.mlb.com/news/mlb-stats-of-the-week-ending-june-11-2026",
     "https://www.mlb.com/news/greenwich-giants-host-mlb-play-ball-event-with-dinosaur-theme",
     "https://www.bbc.com/sport/tennis/videos/cze9nnypx17o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/will-smith-placed-on-il-with-neck-injury",
-    "https://www.espn.com/soccer/story/_/id/49027314/barcelona-sign-18-year-old-world-cup-striker-hamza-abdelkarim"
+    "https://www.mlb.com/news/will-smith-placed-on-il-with-neck-injury"
   ],
   "postedTitles": [
+    "5 state titles in baseball, 2 in football, 1 ER in 2 years -- this Draft prospect's resume is bonkers!",
     "All-Star Sale brings you MLB.TV for 50% off",
     "'I'm speechless' - Kane reacts to England's victory over Mexico",
     "Rays, Yankees battle in four-game AL East showdown",
@@ -422,15 +425,9 @@
     "Historic first career HRs, epic comebacks and more in Stats of the Week",
     "Roar! Kids learn baseball from dinos at MLB Play Ball event in England",
     "The cost of perfection - Croft on the sacrifices of tennis players ",
-    "Dodgers place Will Smith (neck) on IL",
-    "Barcelona sign teenage Egypt World Cup striker"
+    "Dodgers place Will Smith (neck) on IL"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783304070080",
-      "resourceType": "video",
-      "uploadedAt": 1783304072058
-    },
     {
       "publicId": "tvs_cards/card_1783311327055",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1783390217340",
       "resourceType": "video",
       "uploadedAt": 1783390218967
+    },
+    {
+      "publicId": "tvs_cards/card_1783397136099",
+      "resourceType": "image",
+      "uploadedAt": 1783397137581
     }
   ]
 }
