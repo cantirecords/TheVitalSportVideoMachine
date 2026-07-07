@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "LeBron",
     "Tennis",
     "Revolution",
     "Dodgers",
@@ -8,14 +9,10 @@
     "Ronaldo",
     "Era",
     "First",
-    "Player",
-    "Kane",
-    "Leads",
-    "Djokovic",
-    "Makes",
-    "McIntosh"
+    "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/justin-lebron-2026-mlb-draft-prospect-profile",
     "https://www.bbc.co.uk/sport/tennis/articles/c1e2nlj58zxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dalton-rushing-has-walk-off-hit-in-dodgers-first-extra-inning-game",
     "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
@@ -214,10 +211,10 @@
     "https://www.bbc.com/sport/football/articles/ce8jx2e4y6ro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c4gyzyq0p7lo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/48939622/from-gridiron-pitch-how-nfl-stadiums-transformed-2026-fifa-world-cup",
-    "https://www.bbc.com/sport/articles/cgk6xemj8pxo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11"
+    "https://www.bbc.com/sport/articles/cgk6xemj8pxo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Potential Top 10 Draft pick Lebron inspired by brother born with Williams syndrome",
     "The man who invented a sport and played tennis with Willy Wonka",
     "Rushing the walk-off hero in Dodgers' 1st extra-inning game -- and 60th win!",
     "The different ways Salah and Messi are viewed by their people",
@@ -416,15 +413,9 @@
     "Wales and Spurs legend Jones, 91, made MBE",
     "Critics of Mbappe have gone 'too far', says Dembele",
     "From gridiron to pitch: How NFL stadiums have tran...",
-    "Haaland goes to ice hockey before World Cup debut",
-    "The Draft is one month away! Check out our latest mock"
+    "Haaland goes to ice hockey before World Cup debut"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783361794597",
-      "resourceType": "image",
-      "uploadedAt": 1783361795430
-    },
     {
       "publicId": "tvs_videos/video_1783367130293",
       "resourceType": "video",
@@ -469,6 +460,11 @@
       "publicId": "tvs_cards/card_1783447613046",
       "resourceType": "image",
       "uploadedAt": 1783447614481
+    },
+    {
+      "publicId": "tvs_videos/video_1783453450773",
+      "resourceType": "video",
+      "uploadedAt": 1783453452604
     }
   ]
 }
