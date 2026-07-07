@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ronaldo",
+    "Era",
     "First",
     "Player",
     "Kane",
@@ -24,6 +26,7 @@
     "Cardinals"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late",
     "https://www.mlb.com/news/2026-mlb-draft-prospect-guides",
     "https://www.mlb.com/news/carson-bolemon-2026-mlb-draft-profile",
     "https://www.mlb.com/news/mlb-tv-july-2026-sale",
@@ -222,10 +225,10 @@
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11",
     "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-stats-of-the-week-ending-june-11-2026",
-    "https://www.mlb.com/news/greenwich-giants-host-mlb-play-ball-event-with-dinosaur-theme",
-    "https://www.bbc.com/sport/tennis/videos/cze9nnypx17o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/greenwich-giants-host-mlb-play-ball-event-with-dinosaur-theme"
   ],
   "postedTitles": [
+    "Ronaldo's World Cup career ends with a whimper as ...",
     "1 thing to know about each Top 10 Draft prospect",
     "5 state titles in baseball, 2 in football, 1 ER in 2 years -- this Draft prospect's resume is bonkers!",
     "All-Star Sale brings you MLB.TV for 50% off",
@@ -424,15 +427,9 @@
     "The Draft is one month away! Check out our latest mock",
     "We need to feel love playing for England - Bellingham",
     "Historic first career HRs, epic comebacks and more in Stats of the Week",
-    "Roar! Kids learn baseball from dinos at MLB Play Ball event in England",
-    "The cost of perfection - Croft on the sacrifices of tennis players "
+    "Roar! Kids learn baseball from dinos at MLB Play Ball event in England"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783331925015",
-      "resourceType": "video",
-      "uploadedAt": 1783331926915
-    },
     {
       "publicId": "tvs_cards/card_1783339875151",
       "resourceType": "image",
@@ -472,6 +469,11 @@
       "publicId": "tvs_videos/video_1783416399326",
       "resourceType": "video",
       "uploadedAt": 1783416401854
+    },
+    {
+      "publicId": "tvs_cards/card_1783422968029",
+      "resourceType": "image",
+      "uploadedAt": 1783422969024
     }
   ]
 }
