@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Messi",
     "Ronaldo",
     "Era",
     "First",
@@ -8,24 +9,10 @@
     "Leads",
     "Djokovic",
     "Makes",
-    "McIntosh",
-    "Smashes",
-    "Bellingham",
-    "Leads",
-    "Guess",
-    "Tennis",
-    "LeBron",
-    "76ers",
-    "Enter",
-    "Fery",
-    "Beats",
-    "Madrid",
-    "Hodgkinson",
-    "Beaten",
-    "Brazil",
-    "Cardinals"
+    "McIntosh"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late",
     "https://www.mlb.com/news/2026-mlb-draft-prospect-guides",
     "https://www.mlb.com/news/carson-bolemon-2026-mlb-draft-profile",
@@ -224,10 +211,10 @@
     "https://www.bbc.com/sport/articles/cgk6xemj8pxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11",
     "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-stats-of-the-week-ending-june-11-2026",
-    "https://www.mlb.com/news/greenwich-giants-host-mlb-play-ball-event-with-dinosaur-theme"
+    "https://www.mlb.com/news/mlb-stats-of-the-week-ending-june-11-2026"
   ],
   "postedTitles": [
+    "The different ways Salah and Messi are viewed by their people",
     "Ronaldo's World Cup career ends with a whimper as ...",
     "1 thing to know about each Top 10 Draft prospect",
     "5 state titles in baseball, 2 in football, 1 ER in 2 years -- this Draft prospect's resume is bonkers!",
@@ -426,15 +413,9 @@
     "Haaland goes to ice hockey before World Cup debut",
     "The Draft is one month away! Check out our latest mock",
     "We need to feel love playing for England - Bellingham",
-    "Historic first career HRs, epic comebacks and more in Stats of the Week",
-    "Roar! Kids learn baseball from dinos at MLB Play Ball event in England"
+    "Historic first career HRs, epic comebacks and more in Stats of the Week"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783339875151",
-      "resourceType": "image",
-      "uploadedAt": 1783339875954
-    },
     {
       "publicId": "tvs_videos/video_1783350144061",
       "resourceType": "video",
@@ -474,6 +455,11 @@
       "publicId": "tvs_cards/card_1783422968029",
       "resourceType": "image",
       "uploadedAt": 1783422969024
+    },
+    {
+      "publicId": "tvs_videos/video_1783433428847",
+      "resourceType": "video",
+      "uploadedAt": 1783433430341
     }
   ]
 }
