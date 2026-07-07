@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Reach",
     "Messi",
     "Ronaldo",
     "Era",
@@ -12,6 +14,7 @@
     "McIntosh"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dalton-rushing-has-walk-off-hit-in-dodgers-first-extra-inning-game",
     "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late",
     "https://www.mlb.com/news/2026-mlb-draft-prospect-guides",
@@ -210,10 +213,10 @@
     "https://www.espn.com/soccer/story/_/id/48939622/from-gridiron-pitch-how-nfl-stadiums-transformed-2026-fifa-world-cup",
     "https://www.bbc.com/sport/articles/cgk6xemj8pxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11",
-    "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-stats-of-the-week-ending-june-11-2026"
+    "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Rushing the walk-off hero in Dodgers' 1st extra-inning game -- and 60th win!",
     "The different ways Salah and Messi are viewed by their people",
     "Ronaldo's World Cup career ends with a whimper as ...",
     "1 thing to know about each Top 10 Draft prospect",
@@ -412,8 +415,7 @@
     "From gridiron to pitch: How NFL stadiums have tran...",
     "Haaland goes to ice hockey before World Cup debut",
     "The Draft is one month away! Check out our latest mock",
-    "We need to feel love playing for England - Bellingham",
-    "Historic first career HRs, epic comebacks and more in Stats of the Week"
+    "We need to feel love playing for England - Bellingham"
   ],
   "cloudinaryAssets": [
     {
@@ -460,6 +462,11 @@
       "publicId": "tvs_videos/video_1783433428847",
       "resourceType": "video",
       "uploadedAt": 1783433430341
+    },
+    {
+      "publicId": "tvs_cards/card_1783436032926",
+      "resourceType": "image",
+      "uploadedAt": 1783436034407
     }
   ]
 }
