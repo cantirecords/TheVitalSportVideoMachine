@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Myles",
+    "Garrett",
     "Barcelona",
     "England",
     "Crush",
@@ -12,6 +14,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49237026/ranking-nfl-top-10-edge-rushers-2026-execs-coaches-scouts",
     "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/cx235r031rko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.mlb.com/news/rhett-lowder-chase-petty-help-reds-beat-d-backs",
     "https://www.sport.es/es/noticias/barca/barca-sigue-lucas-herrington-nueva-131364813?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/shohei-ohtani-hits-leadoff-home-run-vs-white-sox",
-    "https://www.bbc.com/sport/formula1/articles/c8025pdgyj1o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/49030972/mlb-2026-disappointing-starts-blue-jays-mets-red-sox-machado-guerrero-tatis"
+    "https://www.bbc.com/sport/formula1/articles/c8025pdgyj1o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ranking the NFL's top edge rushers: Execs, coaches...",
     "From Barcelona to Bromley: Inside Putellas' move to LCL",
     "England enjoy stunning victory as India fall to record T20 defeat",
     "Messi rescues Argentina with equaliser against Egypt",
@@ -412,15 +415,9 @@
     "Reds rookies rise up as Lowder's strong start leads to Petty's 1st MLB win",
     "El Barça sigue a Lucas Herrington, la nueva sensación australiana",
     "Asked and answered ... Ohtani blasts HR after Sox fans chant 'We want Shohei'",
-    "Fight is on for Hamilton as he and Russell reset successfully",
-    "An early verdict on MLB disappointments"
+    "Fight is on for Hamilton as he and Russell reset successfully"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783453450773",
-      "resourceType": "video",
-      "uploadedAt": 1783453452604
-    },
     {
       "publicId": "tvs_cards/card_1783460169878",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1783537819849",
       "resourceType": "video",
       "uploadedAt": 1783537822188
+    },
+    {
+      "publicId": "tvs_cards/card_1783545434408",
+      "resourceType": "image",
+      "uploadedAt": 1783545435969
     }
   ]
 }
