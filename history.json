@@ -14,6 +14,7 @@
     "Revolution"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts",
     "https://www.mlb.com/news/shohei-ohtani-expected-to-make-next-pitching-start-vs-d-backs",
     "https://www.mlb.com/news/yankees-strike-out-17-times-for-second-straight-game",
@@ -212,10 +213,10 @@
     "https://www.espn.com/mlb/story/_/id/49030972/mlb-2026-disappointing-starts-blue-jays-mets-red-sox-machado-guerrero-tatis",
     "https://www.mlb.com/news/the-first-baseball-game-ever-recorded",
     "https://www.sport.es/es/noticias/barca/robert-lewandowski-vuela-chicago-fire-mls-barcelona-131354849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/how-a-slow-fastball-gets-so-many-late-swings",
-    "https://www.mlb.com/news/mlb-hosting-4th-of-july-movie-drive-in-events"
+    "https://www.mlb.com/news/how-a-slow-fastball-gets-so-many-late-swings"
   ],
   "postedTitles": [
+    "'They've been hammered' - Rashid wicket inflicts record loss on India",
     "Let's stack the NFL's best cornerbacks: This year'...",
     "Ohtani expected to make final 1st-half start Friday vs. Arizona",
     "'That's a lot of strikeouts': Yanks set club record with 2nd straight 17-K game",
@@ -414,15 +415,9 @@
     "An early verdict on MLB disappointments",
     "\nThe first baseball game in recorded history involved ... the Knicks?",
     "Robert Lewandowski ya vuela a Chicago",
-    "MLB's slowest fastball gets hitters to swing the latest. But how?",
-    "MLB to host 4th of July drive-in events across the country"
+    "MLB's slowest fastball gets hitters to swing the latest. But how?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783422968029",
-      "resourceType": "image",
-      "uploadedAt": 1783422969024
-    },
     {
       "publicId": "tvs_videos/video_1783433428847",
       "resourceType": "video",
@@ -472,6 +467,11 @@
       "publicId": "tvs_cards/card_1783506438182",
       "resourceType": "image",
       "uploadedAt": 1783506439036
+    },
+    {
+      "publicId": "tvs_videos/video_1783518196343",
+      "resourceType": "video",
+      "uploadedAt": 1783518198138
     }
   ]
 }
