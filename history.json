@@ -14,6 +14,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers",
     "https://www.mlb.com/news/justin-lebron-2026-mlb-draft-prospect-profile",
     "https://www.bbc.co.uk/sport/tennis/articles/c1e2nlj58zxo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +213,10 @@
     "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-two-homer-first-inning",
     "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/ce8jx2e4y6ro?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c4gyzyq0p7lo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/48939622/from-gridiron-pitch-how-nfl-stadiums-transformed-2026-fifa-world-cup"
+    "https://www.bbc.com/sport/football/articles/c4gyzyq0p7lo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Shades of Keane and Gerrard in Bellingham display - Rooney",
     "NBA execs react to the shocking Jaylen Brown trade...",
     "Potential Top 10 Draft pick Lebron inspired by brother born with Williams syndrome",
     "The man who invented a sport and played tennis with Willy Wonka",
@@ -414,15 +415,9 @@
     "Alvarez notches 6 RBIs in historic 2-homer 1st inning in Astros' win",
     "'No-one knows it's on' - NBA finals feed US apathy to World Cup",
     "Wales and Spurs legend Jones, 91, made MBE",
-    "Critics of Mbappe have gone 'too far', says Dembele",
-    "From gridiron to pitch: How NFL stadiums have tran..."
+    "Critics of Mbappe have gone 'too far', says Dembele"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783374156527",
-      "resourceType": "image",
-      "uploadedAt": 1783374158028
-    },
     {
       "publicId": "tvs_videos/video_1783390217340",
       "resourceType": "video",
@@ -467,6 +462,11 @@
       "publicId": "tvs_cards/card_1783460169878",
       "resourceType": "image",
       "uploadedAt": 1783460171510
+    },
+    {
+      "publicId": "tvs_videos/video_1783475445093",
+      "resourceType": "video",
+      "uploadedAt": 1783475447357
     }
   ]
 }
