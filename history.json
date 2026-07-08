@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Two",
+    "Players",
     "Brown",
     "Traded",
     "LeBron",
@@ -14,6 +16,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/best-odds-for-the-no-1-pick-in-the-2026-draft",
     "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers",
     "https://www.mlb.com/news/justin-lebron-2026-mlb-draft-prospect-profile",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/mlb-hosting-4th-of-july-movie-drive-in-events",
     "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-two-homer-first-inning",
     "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/ce8jx2e4y6ro?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c4gyzyq0p7lo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/football/articles/ce8jx2e4y6ro?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Who goes No. 1 in the Draft? Here are the odds and the case for each candidate",
     "Shades of Keane and Gerrard in Bellingham display - Rooney",
     "NBA execs react to the shocking Jaylen Brown trade...",
     "Potential Top 10 Draft pick Lebron inspired by brother born with Williams syndrome",
@@ -414,15 +417,9 @@
     "MLB to host 4th of July drive-in events across the country",
     "Alvarez notches 6 RBIs in historic 2-homer 1st inning in Astros' win",
     "'No-one knows it's on' - NBA finals feed US apathy to World Cup",
-    "Wales and Spurs legend Jones, 91, made MBE",
-    "Critics of Mbappe have gone 'too far', says Dembele"
+    "Wales and Spurs legend Jones, 91, made MBE"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783390217340",
-      "resourceType": "video",
-      "uploadedAt": 1783390218967
-    },
     {
       "publicId": "tvs_cards/card_1783397136099",
       "resourceType": "image",
@@ -467,6 +464,11 @@
       "publicId": "tvs_videos/video_1783475445093",
       "resourceType": "video",
       "uploadedAt": 1783475447357
+    },
+    {
+      "publicId": "tvs_cards/card_1783481449370",
+      "resourceType": "image",
+      "uploadedAt": 1783481450753
     }
   ]
 }
