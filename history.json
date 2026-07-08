@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Yankees",
     "Set",
     "Two",
@@ -8,16 +9,10 @@
     "Traded",
     "LeBron",
     "Tennis",
-    "Revolution",
-    "Dodgers",
-    "Reach",
-    "Messi",
-    "Ronaldo",
-    "Era",
-    "First",
-    "Player"
+    "Revolution"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-expected-to-make-next-pitching-start-vs-d-backs",
     "https://www.mlb.com/news/yankees-strike-out-17-times-for-second-straight-game",
     "https://www.mlb.com/news/best-odds-for-the-no-1-pick-in-the-2026-draft",
     "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
@@ -216,10 +211,10 @@
     "https://www.sport.es/es/noticias/barca/robert-lewandowski-vuela-chicago-fire-mls-barcelona-131354849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/how-a-slow-fastball-gets-so-many-late-swings",
     "https://www.mlb.com/news/mlb-hosting-4th-of-july-movie-drive-in-events",
-    "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-two-homer-first-inning",
-    "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-two-homer-first-inning"
   ],
   "postedTitles": [
+    "Ohtani expected to make final 1st-half start Friday vs. Arizona",
     "'That's a lot of strikeouts': Yanks set club record with 2nd straight 17-K game",
     "Who goes No. 1 in the Draft? Here are the odds and the case for each candidate",
     "Shades of Keane and Gerrard in Bellingham display - Rooney",
@@ -418,8 +413,7 @@
     "Robert Lewandowski ya vuela a Chicago",
     "MLB's slowest fastball gets hitters to swing the latest. But how?",
     "MLB to host 4th of July drive-in events across the country",
-    "Alvarez notches 6 RBIs in historic 2-homer 1st inning in Astros' win",
-    "'No-one knows it's on' - NBA finals feed US apathy to World Cup"
+    "Alvarez notches 6 RBIs in historic 2-homer 1st inning in Astros' win"
   ],
   "cloudinaryAssets": [
     {
@@ -471,6 +465,11 @@
       "publicId": "tvs_cards/card_1783492501488",
       "resourceType": "image",
       "uploadedAt": 1783492502400
+    },
+    {
+      "publicId": "tvs_videos/video_1783498265487",
+      "resourceType": "video",
+      "uploadedAt": 1783498267247
     }
   ]
 }
