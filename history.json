@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "England",
     "Crush",
     "Messi",
@@ -8,16 +9,10 @@
     "Tops",
     "Ohtani",
     "Yankees",
-    "Set",
-    "Two",
-    "Players",
-    "Brown",
-    "Traded",
-    "LeBron",
-    "Tennis",
-    "Revolution"
+    "Set"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/cx235r031rko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +211,10 @@
     "https://www.sport.es/es/noticias/barca/barca-sigue-lucas-herrington-nueva-131364813?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/shohei-ohtani-hits-leadoff-home-run-vs-white-sox",
     "https://www.bbc.com/sport/formula1/articles/c8025pdgyj1o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/49030972/mlb-2026-disappointing-starts-blue-jays-mets-red-sox-machado-guerrero-tatis",
-    "https://www.mlb.com/news/the-first-baseball-game-ever-recorded"
+    "https://www.espn.com/mlb/story/_/id/49030972/mlb-2026-disappointing-starts-blue-jays-mets-red-sox-machado-guerrero-tatis"
   ],
   "postedTitles": [
+    "From Barcelona to Bromley: Inside Putellas' move to LCL",
     "England enjoy stunning victory as India fall to record T20 defeat",
     "Messi rescues Argentina with equaliser against Egypt",
     "'They've been hammered' - Rashid wicket inflicts record loss on India",
@@ -418,15 +413,9 @@
     "El Barça sigue a Lucas Herrington, la nueva sensación australiana",
     "Asked and answered ... Ohtani blasts HR after Sox fans chant 'We want Shohei'",
     "Fight is on for Hamilton as he and Russell reset successfully",
-    "An early verdict on MLB disappointments",
-    "\nThe first baseball game in recorded history involved ... the Knicks?"
+    "An early verdict on MLB disappointments"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783447613046",
-      "resourceType": "image",
-      "uploadedAt": 1783447614481
-    },
     {
       "publicId": "tvs_videos/video_1783453450773",
       "resourceType": "video",
@@ -476,6 +465,11 @@
       "publicId": "tvs_cards/card_1783532771671",
       "resourceType": "image",
       "uploadedAt": 1783532772679
+    },
+    {
+      "publicId": "tvs_videos/video_1783537819849",
+      "resourceType": "video",
+      "uploadedAt": 1783537822188
     }
   ]
 }
