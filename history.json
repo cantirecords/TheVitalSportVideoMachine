@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Surtain",
+    "Tops",
     "Ohtani",
     "Yankees",
     "Set",
@@ -12,6 +14,7 @@
     "Revolution"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts",
     "https://www.mlb.com/news/shohei-ohtani-expected-to-make-next-pitching-start-vs-d-backs",
     "https://www.mlb.com/news/yankees-strike-out-17-times-for-second-straight-game",
     "https://www.mlb.com/news/best-odds-for-the-no-1-pick-in-the-2026-draft",
@@ -210,10 +213,10 @@
     "https://www.mlb.com/news/the-first-baseball-game-ever-recorded",
     "https://www.sport.es/es/noticias/barca/robert-lewandowski-vuela-chicago-fire-mls-barcelona-131354849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.mlb.com/news/how-a-slow-fastball-gets-so-many-late-swings",
-    "https://www.mlb.com/news/mlb-hosting-4th-of-july-movie-drive-in-events",
-    "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-two-homer-first-inning"
+    "https://www.mlb.com/news/mlb-hosting-4th-of-july-movie-drive-in-events"
   ],
   "postedTitles": [
+    "Let's stack the NFL's best cornerbacks: This year'...",
     "Ohtani expected to make final 1st-half start Friday vs. Arizona",
     "'That's a lot of strikeouts': Yanks set club record with 2nd straight 17-K game",
     "Who goes No. 1 in the Draft? Here are the odds and the case for each candidate",
@@ -412,15 +415,9 @@
     "\nThe first baseball game in recorded history involved ... the Knicks?",
     "Robert Lewandowski ya vuela a Chicago",
     "MLB's slowest fastball gets hitters to swing the latest. But how?",
-    "MLB to host 4th of July drive-in events across the country",
-    "Alvarez notches 6 RBIs in historic 2-homer 1st inning in Astros' win"
+    "MLB to host 4th of July drive-in events across the country"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783416399326",
-      "resourceType": "video",
-      "uploadedAt": 1783416401854
-    },
     {
       "publicId": "tvs_cards/card_1783422968029",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1783498265487",
       "resourceType": "video",
       "uploadedAt": 1783498267247
+    },
+    {
+      "publicId": "tvs_cards/card_1783506438182",
+      "resourceType": "image",
+      "uploadedAt": 1783506439036
     }
   ]
 }
