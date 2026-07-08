@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Messi",
+    "Scores",
     "Surtain",
     "Tops",
     "Ohtani",
@@ -14,6 +16,7 @@
     "Revolution"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts",
     "https://www.mlb.com/news/shohei-ohtani-expected-to-make-next-pitching-start-vs-d-backs",
@@ -212,10 +215,10 @@
     "https://www.bbc.com/sport/formula1/articles/c8025pdgyj1o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/49030972/mlb-2026-disappointing-starts-blue-jays-mets-red-sox-machado-guerrero-tatis",
     "https://www.mlb.com/news/the-first-baseball-game-ever-recorded",
-    "https://www.sport.es/es/noticias/barca/robert-lewandowski-vuela-chicago-fire-mls-barcelona-131354849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/how-a-slow-fastball-gets-so-many-late-swings"
+    "https://www.sport.es/es/noticias/barca/robert-lewandowski-vuela-chicago-fire-mls-barcelona-131354849?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Messi rescues Argentina with equaliser against Egypt",
     "'They've been hammered' - Rashid wicket inflicts record loss on India",
     "Let's stack the NFL's best cornerbacks: This year'...",
     "Ohtani expected to make final 1st-half start Friday vs. Arizona",
@@ -414,15 +417,9 @@
     "Fight is on for Hamilton as he and Russell reset successfully",
     "An early verdict on MLB disappointments",
     "\nThe first baseball game in recorded history involved ... the Knicks?",
-    "Robert Lewandowski ya vuela a Chicago",
-    "MLB's slowest fastball gets hitters to swing the latest. But how?"
+    "Robert Lewandowski ya vuela a Chicago"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783433428847",
-      "resourceType": "video",
-      "uploadedAt": 1783433430341
-    },
     {
       "publicId": "tvs_cards/card_1783436032926",
       "resourceType": "image",
@@ -472,6 +469,11 @@
       "publicId": "tvs_videos/video_1783518196343",
       "resourceType": "video",
       "uploadedAt": 1783518198138
+    },
+    {
+      "publicId": "tvs_cards/card_1783521111770",
+      "resourceType": "image",
+      "uploadedAt": 1783521113692
     }
   ]
 }
