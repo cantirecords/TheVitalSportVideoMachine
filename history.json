@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Chelsea",
+    "Signs",
     "Fery",
     "Reaches",
     "Verlander",
@@ -20,6 +22,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/john-schneider-on-managing-all-star-game",
     "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game",
@@ -218,10 +221,10 @@
     "https://www.mlb.com/news/nationals-score-five-runs-in-fourth-inning-beat-mariners",
     "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
     "https://www.bbc.com/sport/rugby-league/articles/cdx7v4y94r4o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/baseball-injury-updates"
+    "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Idolises Ronaldo, plays like Saka - Chelsea's new £40m winger",
     "From 13th-round Draft pick to All-Star manager: Schneider reflects on journey",
     "'Epic moments' - How relentless Fery dismantled Cobolli",
     "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game",
@@ -420,8 +423,7 @@
     "With another big frame, Nats look the part of one of MLB's best offenses",
     "Sources: Real Madrid agree $69M Cucurella deal",
     "Charnley breaks try record as Leigh beat Bradford  ",
-    "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
-    "Injuries: J-Ram, Vlad, Suzuki, Yankees, Dodgers, Strider"
+    "Spectacular Vinicius Jr goal earns Brazil draw against Morocco"
   ],
   "cloudinaryAssets": [
     {
@@ -468,6 +470,11 @@
       "publicId": "tvs_videos/video_1783607712763",
       "resourceType": "video",
       "uploadedAt": 1783607715440
+    },
+    {
+      "publicId": "tvs_cards/card_1783610816954",
+      "resourceType": "image",
+      "uploadedAt": 1783610817815
     }
   ]
 }
