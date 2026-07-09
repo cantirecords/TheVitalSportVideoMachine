@@ -20,6 +20,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/john-schneider-on-managing-all-star-game",
     "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game",
     "https://www.mlb.com/news/justin-verlander-legacy-all-star",
@@ -218,10 +219,10 @@
     "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
     "https://www.bbc.com/sport/rugby-league/articles/cdx7v4y94r4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/baseball-injury-updates",
-    "https://www.bbc.com/sport/american-football/articles/c70yqydwnwpo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/baseball-injury-updates"
   ],
   "postedTitles": [
+    "From 13th-round Draft pick to All-Star manager: Schneider reflects on journey",
     "'Epic moments' - How relentless Fery dismantled Cobolli",
     "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game",
     "Verlander, named All-Star Legend Pick, will retire after this season",
@@ -420,20 +421,9 @@
     "Sources: Real Madrid agree $69M Cucurella deal",
     "Charnley breaks try record as Leigh beat Bradford  ",
     "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
-    "Injuries: J-Ram, Vlad, Suzuki, Yankees, Dodgers, Strider",
-    "Former NFL defensive end Smith dies aged 36"
+    "Injuries: J-Ram, Vlad, Suzuki, Yankees, Dodgers, Strider"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783518196343",
-      "resourceType": "video",
-      "uploadedAt": 1783518198138
-    },
-    {
-      "publicId": "tvs_cards/card_1783521111770",
-      "resourceType": "image",
-      "uploadedAt": 1783521113692
-    },
     {
       "publicId": "tvs_cards/card_1783532771671",
       "resourceType": "image",
@@ -473,6 +463,11 @@
       "publicId": "tvs_cards/card_1783595615427",
       "resourceType": "image",
       "uploadedAt": 1783595616544
+    },
+    {
+      "publicId": "tvs_videos/video_1783607712763",
+      "resourceType": "video",
+      "uploadedAt": 1783607715440
     }
   ]
 }
