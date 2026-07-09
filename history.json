@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Fery",
+    "Reaches",
     "Verlander",
     "Announces",
     "Federer",
@@ -18,6 +20,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game",
     "https://www.mlb.com/news/justin-verlander-legacy-all-star",
     "https://www.bbc.co.uk/sport/tennis/articles/cx2xjvqd6w0o?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.bbc.com/sport/rugby-league/articles/cdx7v4y94r4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/baseball-injury-updates",
-    "https://www.bbc.com/sport/american-football/articles/c70yqydwnwpo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49013444/nba-offseason-2026-lebron-lakers-giannis-bucks-heat-thunder-10-most-interesting-teams"
+    "https://www.bbc.com/sport/american-football/articles/c70yqydwnwpo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'Epic moments' - How relentless Fery dismantled Cobolli",
     "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game",
     "Verlander, named All-Star Legend Pick, will retire after this season",
     "Who are the Wimbledon record-holders?",
@@ -418,15 +421,9 @@
     "Charnley breaks try record as Leigh beat Bradford  ",
     "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
     "Injuries: J-Ram, Vlad, Suzuki, Yankees, Dodgers, Strider",
-    "Former NFL defensive end Smith dies aged 36",
-    "Get ready for a wild NBA offseason: 10 teams to wa..."
+    "Former NFL defensive end Smith dies aged 36"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783506438182",
-      "resourceType": "image",
-      "uploadedAt": 1783506439036
-    },
     {
       "publicId": "tvs_videos/video_1783518196343",
       "resourceType": "video",
@@ -471,6 +468,11 @@
       "publicId": "tvs_videos/video_1783589308855",
       "resourceType": "video",
       "uploadedAt": 1783589310348
+    },
+    {
+      "publicId": "tvs_cards/card_1783595615427",
+      "resourceType": "image",
+      "uploadedAt": 1783595616544
     }
   ]
 }
