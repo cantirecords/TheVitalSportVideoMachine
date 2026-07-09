@@ -18,6 +18,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game",
     "https://www.mlb.com/news/justin-verlander-legacy-all-star",
     "https://www.bbc.co.uk/sport/tennis/articles/cx2xjvqd6w0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/ckg49gzm3k0o?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/baseball-injury-updates",
     "https://www.bbc.com/sport/american-football/articles/c70yqydwnwpo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49013444/nba-offseason-2026-lebron-lakers-giannis-bucks-heat-thunder-10-most-interesting-teams",
-    "https://www.mlb.com/news/rhett-lowder-chase-petty-help-reds-beat-d-backs"
+    "https://www.espn.com/nba/story/_/id/49013444/nba-offseason-2026-lebron-lakers-giannis-bucks-heat-thunder-10-most-interesting-teams"
   ],
   "postedTitles": [
+    "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game",
     "Verlander, named All-Star Legend Pick, will retire after this season",
     "Who are the Wimbledon record-holders?",
     "Good tennis IQ & inner belief - how Fery reached shock Wimbledon semi-final",
@@ -418,15 +419,9 @@
     "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
     "Injuries: J-Ram, Vlad, Suzuki, Yankees, Dodgers, Strider",
     "Former NFL defensive end Smith dies aged 36",
-    "Get ready for a wild NBA offseason: 10 teams to wa...",
-    "Reds rookies rise up as Lowder's strong start leads to Petty's 1st MLB win"
+    "Get ready for a wild NBA offseason: 10 teams to wa..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783498265487",
-      "resourceType": "video",
-      "uploadedAt": 1783498267247
-    },
     {
       "publicId": "tvs_cards/card_1783506438182",
       "resourceType": "image",
@@ -471,6 +466,11 @@
       "publicId": "tvs_cards/card_1783583654134",
       "resourceType": "image",
       "uploadedAt": 1783583655485
+    },
+    {
+      "publicId": "tvs_videos/video_1783589308855",
+      "resourceType": "video",
+      "uploadedAt": 1783589310348
     }
   ]
 }
