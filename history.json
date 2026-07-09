@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Barca",
+    "Bid",
     "Chelsea",
     "Signs",
     "Fery",
@@ -22,6 +24,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.espn.com/soccer/story/_/id/49312905/barcelona-bid-borussia-dortmund-karim-adeyemi-source",
     "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/john-schneider-on-managing-all-star-game",
     "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss",
@@ -220,10 +223,10 @@
     "https://www.bbc.com/sport/formula1/articles/cx24k2vpmpyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/nationals-score-five-runs-in-fourth-inning-beat-mariners",
     "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
-    "https://www.bbc.com/sport/rugby-league/articles/cdx7v4y94r4o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/rugby-league/articles/cdx7v4y94r4o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Source: Barça bid for Dortmund's Karim Adeyemi",
     "Idolises Ronaldo, plays like Saka - Chelsea's new £40m winger",
     "From 13th-round Draft pick to All-Star manager: Schneider reflects on journey",
     "'Epic moments' - How relentless Fery dismantled Cobolli",
@@ -422,15 +425,9 @@
     "Hamilton says Barcelona win beyond wildest dreams",
     "With another big frame, Nats look the part of one of MLB's best offenses",
     "Sources: Real Madrid agree $69M Cucurella deal",
-    "Charnley breaks try record as Leigh beat Bradford  ",
-    "Spectacular Vinicius Jr goal earns Brazil draw against Morocco"
+    "Charnley breaks try record as Leigh beat Bradford  "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783532771671",
-      "resourceType": "image",
-      "uploadedAt": 1783532772679
-    },
     {
       "publicId": "tvs_videos/video_1783537819849",
       "resourceType": "video",
@@ -475,6 +472,11 @@
       "publicId": "tvs_cards/card_1783610816954",
       "resourceType": "image",
       "uploadedAt": 1783610817815
+    },
+    {
+      "publicId": "tvs_cards/card_1783620249599",
+      "resourceType": "image",
+      "uploadedAt": 1783620251272
     }
   ]
 }
