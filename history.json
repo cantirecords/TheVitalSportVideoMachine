@@ -26,6 +26,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/eduardo-valencia-homers-in-first-mlb-at-bat",
     "https://www.espn.com/wnba/story/_/id/49307458/wnba-2026-olivia-miles-rookie-season-minnesota-lynx",
     "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49312905/barcelona-bid-borussia-dortmund-karim-adeyemi-source",
@@ -224,10 +225,10 @@
     "https://www.sport.es/es/noticias/barca/junior-kroupi-alternativa-arriesgada-julian-131390211?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-dodgers-series-opener-preview-june-15",
-    "https://www.bbc.com/sport/formula1/articles/cx24k2vpmpyo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/nationals-score-five-runs-in-fourth-inning-beat-mariners"
+    "https://www.bbc.com/sport/formula1/articles/cx24k2vpmpyo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Valencia becomes 10th Tiger to homer in first MLB at-bat",
     "'Ready for the moment': Breaking down Olivia Miles...",
     "How Kane and Haaland compare - who would you pick?",
     "Source: Barça bid for Dortmund's Karim Adeyemi",
@@ -426,8 +427,7 @@
     "Junior Kroupi, la alternativa arriesgada a Julián Álvarez que gusta en el Barça",
     "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
     "Red-hot Ohtani leads Dodgers into clash with Rays (ESPN, 10 ET)",
-    "Hamilton says Barcelona win beyond wildest dreams",
-    "With another big frame, Nats look the part of one of MLB's best offenses"
+    "Hamilton says Barcelona win beyond wildest dreams"
   ],
   "cloudinaryAssets": [
     {
@@ -479,6 +479,11 @@
       "publicId": "tvs_cards/card_1783632957874",
       "resourceType": "image",
       "uploadedAt": 1783632958924
+    },
+    {
+      "publicId": "tvs_videos/video_1783648903309",
+      "resourceType": "video",
+      "uploadedAt": 1783648904971
     }
   ]
 }
