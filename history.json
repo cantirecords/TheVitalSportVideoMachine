@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Filer",
+    "Takes",
     "Djokovic",
     "Faces",
     "Defense",
@@ -32,6 +34,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/cricket/videos/cvg7yglq74ko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/6-mlb-draft-storylines-to-follow-2026",
     "https://www.bbc.co.uk/sport/tennis/articles/cq51xjg2vnlo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
@@ -230,10 +233,10 @@
     "https://www.mlb.com/news/mlb-tv-father-s-day-2026-sale",
     "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
     "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
-    "https://www.mlb.com/news/white-sox-comeback-with-big-6th-inning-to-beat-dodgers",
-    "https://www.sport.es/es/noticias/barca/convencer-chicago-fire-lewandowski-131403757?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/white-sox-comeback-with-big-6th-inning-to-beat-dodgers"
   ],
   "postedTitles": [
+    "'A lovely delivery!' - Filer's historic Test wicket at Lord's",
     "6 Draft storylines to follow this weekend",
     "Sinner again stands between Djokovic and shot at history",
     "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
@@ -432,15 +435,9 @@
     "Father's Day Sale brings you MLB.TV for 50% off",
     "Latest NBA buzz: Everything we're hearing ahead of...",
     "Argentina 'calm' with Emi, Álvarez, Messi ready",
-    "White Sox continue impressive rise with comeback win over Dodgers",
-    "Así intentó convencer el Chicago Fire a Lewandowski"
+    "White Sox continue impressive rise with comeback win over Dodgers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783607712763",
-      "resourceType": "video",
-      "uploadedAt": 1783607715440
-    },
     {
       "publicId": "tvs_cards/card_1783610816954",
       "resourceType": "image",
@@ -490,6 +487,11 @@
       "publicId": "tvs_videos/video_1783692132957",
       "resourceType": "video",
       "uploadedAt": 1783692135990
+    },
+    {
+      "publicId": "tvs_cards/card_1783694664150",
+      "resourceType": "image",
+      "uploadedAt": 1783694665702
     }
   ]
 }
