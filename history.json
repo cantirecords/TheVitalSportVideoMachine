@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Defense",
+    "Dominates",
     "Mbappe",
     "Snubs",
     "Miles",
@@ -28,6 +30,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49239989/ranking-nfl-top-10-defensive-tackles-2026-execs-coaches-scouts",
     "https://www.bbc.co.uk/sport/football/articles/cpd3052gjvxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/eduardo-valencia-homers-in-first-mlb-at-bat",
     "https://www.espn.com/wnba/story/_/id/49307458/wnba-2026-olivia-miles-rookie-season-minnesota-lynx",
@@ -226,10 +229,10 @@
     "https://www.sport.es/es/noticias/barca/convencer-chicago-fire-lewandowski-131403757?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/nba/story/_/id/49052859/victor-wembanyama-first-trip-nba-finals-ends-regrets-spurs-knicks",
     "https://www.sport.es/es/noticias/barca/junior-kroupi-alternativa-arriesgada-julian-131390211?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/rays-dodgers-series-opener-preview-june-15"
+    "https://www.bbc.com/sport/football/articles/c1lypn1zl1mo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "NFL execs, coaches and scouts rank the best defens...",
     "Klopp reveals how Liverpool tried to sign Mbappe",
     "Valencia becomes 10th Tiger to homer in first MLB at-bat",
     "'Ready for the moment': Breaking down Olivia Miles...",
@@ -428,15 +431,9 @@
     "Así intentó convencer el Chicago Fire a Lewandowski",
     "Victor Wembanyama's time is coming -- it just wasn...",
     "Junior Kroupi, la alternativa arriesgada a Julián Álvarez que gusta en el Barça",
-    "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival",
-    "Red-hot Ohtani leads Dodgers into clash with Rays (ESPN, 10 ET)"
+    "Wirtz, Isak & Diomande shine at World Cup as Iraola plots Liverpool revival"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783569558922",
-      "resourceType": "image",
-      "uploadedAt": 1783569559631
-    },
     {
       "publicId": "tvs_cards/card_1783583654134",
       "resourceType": "image",
@@ -486,6 +483,11 @@
       "publicId": "tvs_cards/card_1783655982743",
       "resourceType": "image",
       "uploadedAt": 1783655984078
+    },
+    {
+      "publicId": "tvs_cards/card_1783669658142",
+      "resourceType": "image",
+      "uploadedAt": 1783669659579
     }
   ]
 }
