@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Mikel",
+    "Merino",
     "Martinez",
     "Makes",
     "Jesus",
@@ -42,6 +44,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/49306462/2026-mlb-trade-deadline-addition-top-contender-moves-dodgers-brewers-braves-yankees-phillies",
     "https://www.mlb.com/news/nick-martinez-earns-first-all-star-nod-rays",
     "https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&at_campaign=rss",
@@ -240,10 +243,10 @@
     "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/wnba/story/_/id/49074253/wnba-power-rankings-2026-liberty-commissioners-cup",
     "https://www.espn.com/soccer/story/_/id/49077353/world-cup-daily-live-lionel-messi-kylian-mbappe-erling-haaland-argentina-france-norway",
-    "https://www.espn.com/nfl/story/_/id/49030490/fifa-world-cup-grass-nfl-stadiums-debate-field-surface",
-    "https://www.espn.com/nfl/story/_/id/49074711/2026-nfl-supplemental-draft-brendan-sorsby-quarterback-gambling-eligibility"
+    "https://www.espn.com/nfl/story/_/id/49030490/fifa-world-cup-grass-nfl-stadiums-debate-field-surface"
   ],
   "postedTitles": [
+    "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
     "The perfect trade deadline addition for every MLB ...",
     "Martinez records 8th win hours after being named 1st-time All-Star",
     "Jesus reunites with Ronaldo as new Portugal head coach",
@@ -442,20 +445,9 @@
     "Project Mbappe - the road to becoming France's record scorer",
     "WNBA Power Rankings: Liberty are back on top",
     "World Cup Daily Live: Giant inflatable match ball ...",
-    "World Cup only amplifies NFL players' desire for a...",
-    "Wait, Brendan Sorsby is now going to the NFL suppl..."
+    "World Cup only amplifies NFL players' desire for a..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783669658142",
-      "resourceType": "image",
-      "uploadedAt": 1783669659579
-    },
-    {
-      "publicId": "tvs_videos/video_1783675274739",
-      "resourceType": "video",
-      "uploadedAt": 1783675276848
-    },
     {
       "publicId": "tvs_cards/card_1783681979475",
       "resourceType": "image",
@@ -505,6 +497,11 @@
       "publicId": "tvs_videos/video_1783755773580",
       "resourceType": "video",
       "uploadedAt": 1783755775817
+    },
+    {
+      "publicId": "tvs_cards/card_1783763080563",
+      "resourceType": "image",
+      "uploadedAt": 1783763081548
     }
   ]
 }
