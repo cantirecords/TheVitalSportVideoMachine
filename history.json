@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Pickford",
+    "Leads",
     "Mikel",
     "Merino",
     "Martinez",
@@ -44,6 +46,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/49306462/2026-mlb-trade-deadline-addition-top-contender-moves-dodgers-brewers-braves-yankees-phillies",
@@ -242,10 +245,10 @@
     "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49093654/world-cup-attendance-record-broken-four-matches-same-day",
     "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/wnba/story/_/id/49074253/wnba-power-rankings-2026-liberty-commissioners-cup",
-    "https://www.espn.com/soccer/story/_/id/49077353/world-cup-daily-live-lionel-messi-kylian-mbappe-erling-haaland-argentina-france-norway"
+    "https://www.espn.com/wnba/story/_/id/49074253/wnba-power-rankings-2026-liberty-commissioners-cup"
   ],
   "postedTitles": [
+    "Is it time to give record-breaker Pickford the credit he deserves?",
     "Playing golf with Trump surreal - Kane",
     "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
     "The perfect trade deadline addition for every MLB ...",
@@ -444,8 +447,7 @@
     "Messi stays humble after hat-trick performance",
     "World Cup daily attendance record broken",
     "Project Mbappe - the road to becoming France's record scorer",
-    "WNBA Power Rankings: Liberty are back on top",
-    "World Cup Daily Live: Giant inflatable match ball ..."
+    "WNBA Power Rankings: Liberty are back on top"
   ],
   "cloudinaryAssets": [
     {
@@ -502,6 +504,11 @@
       "publicId": "tvs_videos/video_1783774708137",
       "resourceType": "video",
       "uploadedAt": 1783774709437
+    },
+    {
+      "publicId": "tvs_cards/card_1783777378089",
+      "resourceType": "image",
+      "uploadedAt": 1783777379140
     }
   ]
 }
