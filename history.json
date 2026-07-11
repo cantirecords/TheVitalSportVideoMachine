@@ -38,6 +38,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/videos/cy9r3dnngqno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlbx-all-star-3-on-3-rules-time-players",
     "https://www.mlb.com/news/redoing-every-no-1-overall-mlb-draft-pick",
@@ -236,10 +237,10 @@
     "https://www.espn.com/nfl/story/_/id/49074711/2026-nfl-supplemental-draft-brendan-sorsby-quarterback-gambling-eligibility",
     "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff",
     "https://www.mlb.com/news/all-mlb-team-predictions-for-june-2026",
-    "https://www.sport.es/es/noticias/barca/botas-lamine-yamal-pedri-mundial-131424519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.mlb.com/news/mlb-tv-father-s-day-2026-sale"
+    "https://www.sport.es/es/noticias/barca/botas-lamine-yamal-pedri-mundial-131424519?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "'Influential' Lamine Yamal has 'more to give' to Spain",
     "Football's best bromance: Why Bellingham and Haaland break the mould",
     "What you need to know about star-studded MLBx All-Star 3-on-3 competition",
     "Here's who should've gone 1st in every Draft",
@@ -438,15 +439,9 @@
     "Wait, Brendan Sorsby is now going to the NFL suppl...",
     "Updated NBA mock draft: Predicting all 60 picks on...",
     "Our latest predictions for this year's All-MLB Team",
-    "Las botas de Lamine Yamal y Pedri para el Mundial 2026: un guiño a Marruecos, Guinea Ecuatorial y Canarias",
-    "Father's Day Sale brings you MLB.TV for 50% off"
+    "Las botas de Lamine Yamal y Pedri para el Mundial 2026: un guiño a Marruecos, Guinea Ecuatorial y Canarias"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783632957874",
-      "resourceType": "image",
-      "uploadedAt": 1783632958924
-    },
     {
       "publicId": "tvs_videos/video_1783648903309",
       "resourceType": "video",
@@ -496,6 +491,11 @@
       "publicId": "tvs_cards/card_1783717997509",
       "resourceType": "image",
       "uploadedAt": 1783717998583
+    },
+    {
+      "publicId": "tvs_videos/video_1783734549201",
+      "resourceType": "video",
+      "uploadedAt": 1783734551562
     }
   ]
 }
