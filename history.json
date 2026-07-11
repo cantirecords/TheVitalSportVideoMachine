@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Martinez",
+    "Makes",
     "Jesus",
     "Takes",
     "Bellingham",
@@ -40,6 +42,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/nick-martinez-earns-first-all-star-nod-rays",
     "https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/videos/cy9r3dnngqno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
@@ -238,10 +241,10 @@
     "https://www.espn.com/soccer/story/_/id/49077353/world-cup-daily-live-lionel-messi-kylian-mbappe-erling-haaland-argentina-france-norway",
     "https://www.espn.com/nfl/story/_/id/49030490/fifa-world-cup-grass-nfl-stadiums-debate-field-surface",
     "https://www.espn.com/nfl/story/_/id/49074711/2026-nfl-supplemental-draft-brendan-sorsby-quarterback-gambling-eligibility",
-    "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff",
-    "https://www.mlb.com/news/all-mlb-team-predictions-for-june-2026"
+    "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff"
   ],
   "postedTitles": [
+    "Martinez records 8th win hours after being named 1st-time All-Star",
     "Jesus reunites with Ronaldo as new Portugal head coach",
     "'Influential' Lamine Yamal has 'more to give' to Spain",
     "Football's best bromance: Why Bellingham and Haaland break the mould",
@@ -440,15 +443,9 @@
     "World Cup Daily Live: Giant inflatable match ball ...",
     "World Cup only amplifies NFL players' desire for a...",
     "Wait, Brendan Sorsby is now going to the NFL suppl...",
-    "Updated NBA mock draft: Predicting all 60 picks on...",
-    "Our latest predictions for this year's All-MLB Team"
+    "Updated NBA mock draft: Predicting all 60 picks on..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783655982743",
-      "resourceType": "image",
-      "uploadedAt": 1783655984078
-    },
     {
       "publicId": "tvs_cards/card_1783669658142",
       "resourceType": "image",
@@ -498,6 +495,11 @@
       "publicId": "tvs_cards/card_1783740382189",
       "resourceType": "image",
       "uploadedAt": 1783740382966
+    },
+    {
+      "publicId": "tvs_cards/card_1783750898040",
+      "resourceType": "image",
+      "uploadedAt": 1783750899457
     }
   ]
 }
