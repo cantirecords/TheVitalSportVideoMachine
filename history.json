@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Kane",
+    "Reaches",
     "Seahawks",
     "Win",
     "Rising",
@@ -47,11 +49,10 @@
     "Barcelona",
     "England",
     "Crush",
-    "Messi",
-    "Scores",
-    "Surtain"
+    "Messi"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season",
     "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades",
     "https://www.espn.com/mlb/story/_/id/49307014/mlb-2026-all-star-weekend-futures-game-players-watch",
@@ -250,10 +251,10 @@
     "https://www.marca.com/futbol/valencia/2026/06/18/meunier-le-seduce-valencia-prefiere-equipo-liga.html",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-18",
     "https://www.mlb.com/news/joey-votto-shares-heartwarming-reason-he-named-dog-after-joe-morgan",
-    "https://www.espn.com/nba/story/_/id/48979870/ranking-2026-nba-draft-2025-classes-draft-cooper-flagg-dylan-harper-reclass-dybantsa-peterson",
-    "https://www.espn.com/nba/story/_/id/49086321/lakers-lawrence-tanter-retiring-40-years-microphone"
+    "https://www.espn.com/nba/story/_/id/48979870/ranking-2026-nba-draft-2025-classes-draft-cooper-flagg-dylan-harper-reclass-dybantsa-peterson"
   ],
   "postedTitles": [
+    "'We have another level we can reach' - Kane defends frustrated Tuchel",
     "LIVE: Brewers, Pirates clash in MLB Sunday Leadoff Game on Peacock",
     "🏈 Barnwell's guide to building a Super Bowl roste...",
     "The players we can't wait to see in the MLB Future...",
@@ -452,15 +453,9 @@
     "A Meunier le seduce el Valencia que lo prefiere a otro equipo de la Liga",
     "The Draft is less than a month away. How will the top 3 -- and more! -- shake out?",
     "Votto shares heartwarming reason he named dog after a Hall of Famer and Reds legend",
-    "Let's combine the 2025 and 2026 NBA draft classes:...",
-    "Longtime Lakers P.A. announcer Tanter retiring"
+    "Let's combine the 2025 and 2026 NBA draft classes:..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783803573340",
-      "resourceType": "image",
-      "uploadedAt": 1783803574354
-    },
     {
       "publicId": "tvs_videos/video_1783821086738",
       "resourceType": "video",
@@ -490,6 +485,11 @@
       "publicId": "tvs_videos/video_1783882432338",
       "resourceType": "video",
       "uploadedAt": 1783882434326
+    },
+    {
+      "publicId": "tvs_cards/card_1783889999614",
+      "resourceType": "image",
+      "uploadedAt": 1783890001034
     }
   ]
 }
