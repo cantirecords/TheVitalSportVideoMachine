@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Seahawks",
+    "Win",
     "Rising",
     "Stars",
     "Sinner",
@@ -47,11 +49,10 @@
     "Crush",
     "Messi",
     "Scores",
-    "Surtain",
-    "Tops",
-    "Ohtani"
+    "Surtain"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades",
     "https://www.espn.com/mlb/story/_/id/49307014/mlb-2026-all-star-weekend-futures-game-players-watch",
     "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease",
     "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/joey-votto-shares-heartwarming-reason-he-named-dog-after-joe-morgan",
     "https://www.espn.com/nba/story/_/id/48979870/ranking-2026-nba-draft-2025-classes-draft-cooper-flagg-dylan-harper-reclass-dybantsa-peterson",
     "https://www.espn.com/nba/story/_/id/49086321/lakers-lawrence-tanter-retiring-40-years-microphone",
-    "https://www.bbc.com/sport/articles/c5yzx89v7k0o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/articles/c5yzx89v7k0o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "🏈 Barnwell's guide to building a Super Bowl roste...",
     "The players we can't wait to see in the MLB Future...",
     "Study: NFLers die from dementia at higher rate",
     "Champion Sinner wary of Zverev before Wimbledon final",
@@ -452,15 +453,9 @@
     "Votto shares heartwarming reason he named dog after a Hall of Famer and Reds legend",
     "Let's combine the 2025 and 2026 NBA draft classes:...",
     "Longtime Lakers P.A. announcer Tanter retiring",
-    "Weekly sports quiz: World Cups, F1 and NBA",
-    "'Chip on shoulder' may help Bellingham to best form"
+    "Weekly sports quiz: World Cups, F1 and NBA"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783789542460",
-      "resourceType": "image",
-      "uploadedAt": 1783789543926
-    },
     {
       "publicId": "tvs_cards/card_1783803573340",
       "resourceType": "image",
@@ -485,6 +480,11 @@
       "publicId": "tvs_cards/card_1783850286243",
       "resourceType": "image",
       "uploadedAt": 1783850287021
+    },
+    {
+      "publicId": "tvs_cards/card_1783876099358",
+      "resourceType": "image",
+      "uploadedAt": 1783876100222
     }
   ]
 }
