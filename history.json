@@ -50,6 +50,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49248530/ranking-nfl-top-10-offensive-tackles-2026-execs-coaches-scouts",
     "https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts",
     "https://www.bbc.co.uk/sport/football/articles/cy06rnjzxkyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
@@ -248,10 +249,10 @@
     "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis",
     "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/49093654/world-cup-attendance-record-broken-four-matches-same-day"
+    "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "The best offensive tackles in the NFL: We asked ex...",
     "Who are the NFL's best tight ends? Execs, coaches ...",
     "Salah demands put Saudi switch in doubt - Saturday's gossip",
     "Is it time to give record-breaker Pickford the credit he deserves?",
@@ -450,20 +451,9 @@
     "'Chip on shoulder' may help Bellingham to best form",
     "Portugal have a Ronaldo problem (again) after draw...",
     "Why was Kane's penalty retaken against Croatia? ",
-    "Messi stays humble after hat-trick performance",
-    "World Cup daily attendance record broken"
+    "Messi stays humble after hat-trick performance"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783717997509",
-      "resourceType": "image",
-      "uploadedAt": 1783717998583
-    },
-    {
-      "publicId": "tvs_videos/video_1783734549201",
-      "resourceType": "video",
-      "uploadedAt": 1783734551562
-    },
     {
       "publicId": "tvs_cards/card_1783740382189",
       "resourceType": "image",
@@ -503,6 +493,11 @@
       "publicId": "tvs_cards/card_1783803573340",
       "resourceType": "image",
       "uploadedAt": 1783803574354
+    },
+    {
+      "publicId": "tvs_videos/video_1783821086738",
+      "resourceType": "video",
+      "uploadedAt": 1783821088688
     }
   ]
 }
