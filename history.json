@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Sinner",
+    "Seeks",
     "Top",
     "Tight",
     "Salah",
@@ -50,6 +52,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49248530/ranking-nfl-top-10-offensive-tackles-2026-execs-coaches-scouts",
     "https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts",
     "https://www.bbc.co.uk/sport/football/articles/cy06rnjzxkyo?at_medium=RSS&at_campaign=rss",
@@ -248,10 +251,10 @@
     "https://www.bbc.com/sport/articles/c5yzx89v7k0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis",
-    "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.com/sport/football/videos/cq617v69y50o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Champion Sinner wary of Zverev before Wimbledon final",
     "The best offensive tackles in the NFL: We asked ex...",
     "Who are the NFL's best tight ends? Execs, coaches ...",
     "Salah demands put Saudi switch in doubt - Saturday's gossip",
@@ -450,15 +453,9 @@
     "Weekly sports quiz: World Cups, F1 and NBA",
     "'Chip on shoulder' may help Bellingham to best form",
     "Portugal have a Ronaldo problem (again) after draw...",
-    "Why was Kane's penalty retaken against Croatia? ",
-    "Messi stays humble after hat-trick performance"
+    "Why was Kane's penalty retaken against Croatia? "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783750898040",
-      "resourceType": "image",
-      "uploadedAt": 1783750899457
-    },
     {
       "publicId": "tvs_videos/video_1783755773580",
       "resourceType": "video",
@@ -493,6 +490,11 @@
       "publicId": "tvs_videos/video_1783821086738",
       "resourceType": "video",
       "uploadedAt": 1783821088688
+    },
+    {
+      "publicId": "tvs_cards/card_1783838481088",
+      "resourceType": "image",
+      "uploadedAt": 1783838482433
     }
   ]
 }
