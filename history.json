@@ -52,6 +52,7 @@
     "Set"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease",
     "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49248530/ranking-nfl-top-10-offensive-tackles-2026-execs-coaches-scouts",
     "https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts",
@@ -250,10 +251,10 @@
     "https://www.espn.com/nba/story/_/id/49086321/lakers-lawrence-tanter-retiring-40-years-microphone",
     "https://www.bbc.com/sport/articles/c5yzx89v7k0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis",
-    "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis"
   ],
   "postedTitles": [
+    "Study: NFLers die from dementia at higher rate",
     "Champion Sinner wary of Zverev before Wimbledon final",
     "The best offensive tackles in the NFL: We asked ex...",
     "Who are the NFL's best tight ends? Execs, coaches ...",
@@ -452,15 +453,9 @@
     "Longtime Lakers P.A. announcer Tanter retiring",
     "Weekly sports quiz: World Cups, F1 and NBA",
     "'Chip on shoulder' may help Bellingham to best form",
-    "Portugal have a Ronaldo problem (again) after draw...",
-    "Why was Kane's penalty retaken against Croatia? "
+    "Portugal have a Ronaldo problem (again) after draw..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783755773580",
-      "resourceType": "video",
-      "uploadedAt": 1783755775817
-    },
     {
       "publicId": "tvs_cards/card_1783763080563",
       "resourceType": "image",
@@ -495,6 +490,11 @@
       "publicId": "tvs_cards/card_1783838481088",
       "resourceType": "image",
       "uploadedAt": 1783838482433
+    },
+    {
+      "publicId": "tvs_videos/video_1783843341503",
+      "resourceType": "video",
+      "uploadedAt": 1783843343964
     }
   ]
 }
