@@ -52,6 +52,7 @@
     "Announces"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-13",
     "https://www.espn.com/mlb/story/_/id/49346106/mlb-2026-home-run-derby-olney-contestants-sluggers-pitchers-all-star-analysis",
     "https://www.bbc.co.uk/sport/athletics/articles/c862820221wo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49306202/top-10-nfl-players-every-position-2026-jeremy-fowler-best-quarterbacks-running-backs-wide-receivers",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/yankees-call-up-no-2-prospect-elmer-rodriguez-to-start-sunday",
     "https://www.espn.com/nfl/story/_/id/49073409/2026-nfl-season-breakouts-nosedives-trends-blips-smith-njigba-stroud",
     "https://www.espn.com/nfl/story/_/id/49071567/2026-offseason-nfl-execs-favorite-trades-signings-draft-picks-moves-waddle-garrett",
-    "https://www.espn.com/nba/story/_/id/49098145/nba-2026-underrated-free-agents-offseason-targets",
-    "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers"
+    "https://www.espn.com/nba/story/_/id/49098145/nba-2026-underrated-free-agents-offseason-targets"
   ],
   "postedTitles": [
+    "Trade rumors: Mariners' starters, LA-Skubal, Yankees' catching options",
     "Olney: Breaking down the Home Run Derby contestant...",
     "Kerr's world record attempt confirmed for London",
     "Ranking the NFL's best players at every position",
@@ -452,15 +453,9 @@
     "Yankees call up No. 2 prospect to start Sunday's game vs. Reds",
     "📈 Which NFL breakouts and falloffs will continue?...",
     "NFL execs choose their favorite offseason moves: W...",
-    "My favorite under-the-radar NBA free agents: Six u...",
-    "2026 Fantasy Football Draft Guide: Rankings, mock ..."
+    "My favorite under-the-radar NBA free agents: Six u..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783882432338",
-      "resourceType": "video",
-      "uploadedAt": 1783882434326
-    },
     {
       "publicId": "tvs_cards/card_1783889999614",
       "resourceType": "image",
@@ -495,6 +490,11 @@
       "publicId": "tvs_cards/card_1783965663564",
       "resourceType": "image",
       "uploadedAt": 1783965664493
+    },
+    {
+      "publicId": "tvs_videos/video_1783970072608",
+      "resourceType": "video",
+      "uploadedAt": 1783970074563
     }
   ]
 }
