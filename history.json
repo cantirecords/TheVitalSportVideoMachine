@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "India",
+    "Wins",
     "Harper",
     "Leads",
     "Kerr",
@@ -47,11 +49,10 @@
     "Chelsea",
     "Signs",
     "Fery",
-    "Reaches",
-    "Verlander",
-    "Announces"
+    "Reaches"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/cricket/videos/czx5v54eqqxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-13",
     "https://www.espn.com/mlb/story/_/id/49346106/mlb-2026-home-run-derby-olney-contestants-sluggers-pitchers-all-star-analysis",
     "https://www.bbc.co.uk/sport/athletics/articles/c862820221wo?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.espn.com/soccer/story/_/id/49129008/netherlands-shatter-world-cup-unbeaten-record-streak-crushing-sweden",
     "https://www.mlb.com/news/yankees-call-up-no-2-prospect-elmer-rodriguez-to-start-sunday",
     "https://www.espn.com/nfl/story/_/id/49073409/2026-nfl-season-breakouts-nosedives-trends-blips-smith-njigba-stroud",
-    "https://www.espn.com/nfl/story/_/id/49071567/2026-offseason-nfl-execs-favorite-trades-signings-draft-picks-moves-waddle-garrett",
-    "https://www.espn.com/nba/story/_/id/49098145/nba-2026-underrated-free-agents-offseason-targets"
+    "https://www.espn.com/nfl/story/_/id/49071567/2026-offseason-nfl-execs-favorite-trades-signings-draft-picks-moves-waddle-garrett"
   ],
   "postedTitles": [
+    "India complete historic Test victory",
     "Trade rumors: Mariners' starters, LA-Skubal, Yankees' catching options",
     "Olney: Breaking down the Home Run Derby contestant...",
     "Kerr's world record attempt confirmed for London",
@@ -452,15 +453,9 @@
     "Netherlands break WC record with Sweden thumping",
     "Yankees call up No. 2 prospect to start Sunday's game vs. Reds",
     "📈 Which NFL breakouts and falloffs will continue?...",
-    "NFL execs choose their favorite offseason moves: W...",
-    "My favorite under-the-radar NBA free agents: Six u..."
+    "NFL execs choose their favorite offseason moves: W..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783889999614",
-      "resourceType": "image",
-      "uploadedAt": 1783890001034
-    },
     {
       "publicId": "tvs_videos/video_1783907662883",
       "resourceType": "video",
@@ -495,6 +490,11 @@
       "publicId": "tvs_videos/video_1783970072608",
       "resourceType": "video",
       "uploadedAt": 1783970074563
+    },
+    {
+      "publicId": "tvs_cards/card_1783976714489",
+      "resourceType": "image",
+      "uploadedAt": 1783976716018
     }
   ]
 }
