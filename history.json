@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Victorino",
+    "Wins",
     "Stars",
     "Hit",
     "Kane",
@@ -47,11 +49,10 @@
     "Federer",
     "Still",
     "Myles",
-    "Garrett",
-    "Barcelona",
-    "England"
+    "Garrett"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/team-victorino-wins-mlbx-2026",
     "https://www.mlb.com/news/baseball-injury-updates",
     "https://www.mlb.com/news/2026-ausl-regular-season-faq",
     "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
     "https://www.espn.com/nba/story/_/id/49098405/yaxel-lendeborg-nba-draft-stock-college-development-2026",
     "https://www.espn.com/nba/story/_/id/49113154/the-10-year-anniversary-greatest-2016-nba-finals-history-cleveland-cavaliers-golden-state-warriors-lebron-james-kyrie-irving-stephen-curry",
-    "https://www.marca.com/futbol/valencia/2026/06/18/meunier-le-seduce-valencia-prefiere-equipo-liga.html",
-    "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-18"
+    "https://www.marca.com/futbol/valencia/2026/06/18/meunier-le-seduce-valencia-prefiere-equipo-liga.html"
   ],
   "postedTitles": [
+    "Team Victorino gets the last laugh in 3-on-3 MLBx slugfest vs. Philly faves",
     "Injuries: Miz, Ohtani, Yankees, J-Rod, Kurtz, Burns, deGrom",
     "Watch LIVE on MLB Network, MLB.TV: Talons vs. Spark in AUSL action",
     "'We have another level we can reach' - Kane defends frustrated Tuchel",
@@ -452,15 +453,9 @@
     "2026 Fantasy Football Draft Guide: Rankings, mock ...",
     "How Yaxel Lendeborg raised his NBA stock by delayi...",
     "Where are the 2016 Cavaliers now? 10 years after the greatest NBA Finals in history",
-    "A Meunier le seduce el Valencia que lo prefiere a otro equipo de la Liga",
-    "The Draft is less than a month away. How will the top 3 -- and more! -- shake out?"
+    "A Meunier le seduce el Valencia que lo prefiere a otro equipo de la Liga"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783838481088",
-      "resourceType": "image",
-      "uploadedAt": 1783838482433
-    },
     {
       "publicId": "tvs_videos/video_1783843341503",
       "resourceType": "video",
@@ -495,6 +490,11 @@
       "publicId": "tvs_cards/card_1783914004799",
       "resourceType": "image",
       "uploadedAt": 1783914006274
+    },
+    {
+      "publicId": "tvs_cards/card_1783927790887",
+      "resourceType": "image",
+      "uploadedAt": 1783927792289
     }
   ]
 }
