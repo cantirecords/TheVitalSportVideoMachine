@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Bryce",
+    "Harper",
     "India",
     "Wins",
     "Harper",
@@ -47,11 +49,10 @@
     "Barca",
     "Bid",
     "Chelsea",
-    "Signs",
-    "Fery",
-    "Reaches"
+    "Signs"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/bryce-harper-says-wants-to-play-with-aaron-judge",
     "https://www.mlb.com/news/hunter-dietz-no-35-overall-draft-pick-agrees-to-deal-with-yankees",
     "https://www.bbc.co.uk/sport/cricket/videos/czx5v54eqqxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-13",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/angels-prospect-juan-cespedes-sets-record-with-8-stolen-bases",
     "https://www.bbc.com/sport/football/articles/c9924mxedgno?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49129008/netherlands-shatter-world-cup-unbeaten-record-streak-crushing-sweden",
-    "https://www.mlb.com/news/yankees-call-up-no-2-prospect-elmer-rodriguez-to-start-sunday",
-    "https://www.espn.com/nfl/story/_/id/49073409/2026-nfl-season-breakouts-nosedives-trends-blips-smith-njigba-stroud"
+    "https://www.mlb.com/news/yankees-call-up-no-2-prospect-elmer-rodriguez-to-start-sunday"
   ],
   "postedTitles": [
+    "The one guy in all of MLB history Bryce would like to play alongside? He's still going strong",
     "Yankees, first-round pick Dietz agree to terms on deal",
     "India complete historic Test victory",
     "Trade rumors: Mariners' starters, LA-Skubal, Yankees' catching options",
@@ -452,15 +453,9 @@
     "Off to the races: Angels 17-year-old prospect sets record with 8 swipes",
     "Chelsea weigh up Wirtz move - Sunday's gossip",
     "Netherlands break WC record with Sweden thumping",
-    "Yankees call up No. 2 prospect to start Sunday's game vs. Reds",
-    "📈 Which NFL breakouts and falloffs will continue?..."
+    "Yankees call up No. 2 prospect to start Sunday's game vs. Reds"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783907662883",
-      "resourceType": "video",
-      "uploadedAt": 1783907666088
-    },
     {
       "publicId": "tvs_cards/card_1783914004799",
       "resourceType": "image",
@@ -500,6 +495,11 @@
       "publicId": "tvs_videos/video_1783992667445",
       "resourceType": "video",
       "uploadedAt": 1783992670090
+    },
+    {
+      "publicId": "tvs_cards/card_1783998967112",
+      "resourceType": "image",
+      "uploadedAt": 1783998968530
     }
   ]
 }
