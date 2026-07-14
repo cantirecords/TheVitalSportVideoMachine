@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Cholowsky",
+    "Signs",
     "Verstappen",
     "NBA",
     "Free",
@@ -12,6 +14,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/roch-cholowsky-deal-with-white-sox",
     "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
     "https://www.mlb.com/news/bryce-harper-says-wants-to-play-with-aaron-judge",
@@ -210,10 +213,10 @@
     "https://www.mlb.com/news/kenley-jansen-reacts-to-friend-s-world-cup-saves-record",
     "https://www.sport.es/es/noticias/barca/juega-josue-caicedo-prodigio-fisico-barcelona-ldu-quito-131618026?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/49115778/inside-real-madrid-transfer-plans-mourinho-pulling-strings-build-win-now-team",
-    "https://www.mlb.com/news/angels-prospect-juan-cespedes-sets-record-with-8-stolen-bases",
-    "https://www.bbc.com/sport/football/articles/c9924mxedgno?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/angels-prospect-juan-cespedes-sets-record-with-8-stolen-bases"
   ],
   "postedTitles": [
+    "White Sox to sign No. 1 overall pick Cholowsky to record deal (source)",
     "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
     "NBA offseason buzz: Latest updates from summer lea...",
     "The one guy in all of MLB history Bryce would like to play alongside? He's still going strong",
@@ -412,15 +415,9 @@
     "Jansen 'couldn’t sleep' after watching friend set World Cup saves record",
     "Así juega Josué Caicedo, el nuevo fichaje del Barça: un prodigio físico de largo recorrido",
     "Inside Real Madrid's transfer plans: Mourinho key ...",
-    "Off to the races: Angels 17-year-old prospect sets record with 8 swipes",
-    "Chelsea weigh up Wirtz move - Sunday's gossip"
+    "Off to the races: Angels 17-year-old prospect sets record with 8 swipes"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783932720330",
-      "resourceType": "video",
-      "uploadedAt": 1783932724260
-    },
     {
       "publicId": "tvs_cards/card_1783954307526",
       "resourceType": "image",
@@ -460,6 +457,11 @@
       "publicId": "tvs_videos/video_1784015375880",
       "resourceType": "video",
       "uploadedAt": 1784015378297
+    },
+    {
+      "publicId": "tvs_cards/card_1784023552697",
+      "resourceType": "image",
+      "uploadedAt": 1784023554424
     }
   ]
 }
