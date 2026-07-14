@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Three",
+    "Rookies",
     "Real",
     "Sociedad",
     "Cholowsky",
@@ -16,6 +18,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/2024-draft-class-represented-at-2026-all-star-festivities",
     "https://www.marca.com/futbol/real-sociedad/2026/07/14/real-debutara-laliga-21-agosto-villamarin-aplazarse-26-jornada-inaugural-real-madrid.html",
     "https://www.mlb.com/news/teams-with-best-hauls-in-2026-mlb-draft",
     "https://www.mlb.com/news/roch-cholowsky-deal-with-white-sox",
@@ -214,10 +217,10 @@
     "https://www.mlb.com/news/mlb-power-rankings-week-of-june-21-2026",
     "https://www.sport.es/es/noticias/barca/lamine-yamal-revela-mayor-miedo-131654324?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
     "https://www.espn.com/soccer/story/_/id/49135958/spain-saudi-arabia-2026-world-cup-lamine-yamal-mikel-oyarzabal",
-    "https://www.mlb.com/news/kenley-jansen-reacts-to-friend-s-world-cup-saves-record",
-    "https://www.sport.es/es/noticias/barca/juega-josue-caicedo-prodigio-fisico-barcelona-ldu-quito-131618026?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/kenley-jansen-reacts-to-friend-s-world-cup-saves-record"
   ],
   "postedTitles": [
+    "With 3 All-Stars and 1 HRD slugger, '24 Draft class already one for the ages",
     "La Real debutará en LaLiga el 21 de agosto en el Villamarín, tras aplazarse al 26 la jornada inaugural ante el Real Madrid",
     "6 teams that crushed the Draft",
     "White Sox to sign No. 1 overall pick Cholowsky to record deal (source)",
@@ -416,15 +419,9 @@
     "Ohtani celebrates child No. 2 by helping Dodgers return to No. 1",
     "Lamine Yamal revela cuál es su mayor miedo: \"Mi madre y mi pareja...\"",
     "Yamal nets 1st World Cup goal to fuel Spain rout",
-    "Jansen 'couldn’t sleep' after watching friend set World Cup saves record",
-    "Así juega Josué Caicedo, el nuevo fichaje del Barça: un prodigio físico de largo recorrido"
+    "Jansen 'couldn’t sleep' after watching friend set World Cup saves record"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1783954307526",
-      "resourceType": "image",
-      "uploadedAt": 1783954309350
-    },
     {
       "publicId": "tvs_cards/card_1783965663564",
       "resourceType": "image",
@@ -474,6 +471,11 @@
       "publicId": "tvs_cards/card_1784037703757",
       "resourceType": "image",
       "uploadedAt": 1784037704881
+    },
+    {
+      "publicId": "tvs_cards/card_1784049722872",
+      "resourceType": "image",
+      "uploadedAt": 1784049723855
     }
   ]
 }
