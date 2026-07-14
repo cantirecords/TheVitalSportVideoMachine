@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Madrid",
+    "Delayed",
     "Three",
     "Rookies",
     "Real",
@@ -18,6 +20,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/07/14/madrid-barca-debutaran-tarde-atleti.html",
     "https://www.espn.com/soccer/story/_/id/49358709/harry-kane-england-argentina-world-cup-2026-semifinal",
     "https://www.mlb.com/news/2024-draft-class-represented-at-2026-all-star-festivities",
     "https://www.marca.com/futbol/real-sociedad/2026/07/14/real-debutara-laliga-21-agosto-villamarin-aplazarse-26-jornada-inaugural-real-madrid.html",
@@ -216,10 +219,10 @@
     "https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts",
     "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-power-rankings-week-of-june-21-2026",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-revela-mayor-miedo-131654324?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca",
-    "https://www.espn.com/soccer/story/_/id/49135958/spain-saudi-arabia-2026-world-cup-lamine-yamal-mikel-oyarzabal"
+    "https://www.sport.es/es/noticias/barca/lamine-yamal-revela-mayor-miedo-131654324?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
   ],
   "postedTitles": [
+    "Madrid y Barça debutarán... más tarde que el Atleti",
     "Kane: England can't focus on Argentina history",
     "With 3 All-Stars and 1 HRD slugger, '24 Draft class already one for the ages",
     "La Real debutará en LaLiga el 21 de agosto en el Villamarín, tras aplazarse al 26 la jornada inaugural ante el Real Madrid",
@@ -418,20 +421,9 @@
     "Grades for every NBA free agent signing: Suns, Haw...",
     "Salah's World Cup pain ends as he fires Egypt to historic win",
     "Ohtani celebrates child No. 2 by helping Dodgers return to No. 1",
-    "Lamine Yamal revela cuál es su mayor miedo: \"Mi madre y mi pareja...\"",
-    "Yamal nets 1st World Cup goal to fuel Spain rout"
+    "Lamine Yamal revela cuál es su mayor miedo: \"Mi madre y mi pareja...\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783970072608",
-      "resourceType": "video",
-      "uploadedAt": 1783970074563
-    },
-    {
-      "publicId": "tvs_cards/card_1783976714489",
-      "resourceType": "image",
-      "uploadedAt": 1783976716018
-    },
     {
       "publicId": "tvs_videos/video_1783992667445",
       "resourceType": "video",
@@ -476,6 +468,11 @@
       "publicId": "tvs_videos/video_1784055898936",
       "resourceType": "video",
       "uploadedAt": 1784055900380
+    },
+    {
+      "publicId": "tvs_cards/card_1784063225348",
+      "resourceType": "image",
+      "uploadedAt": 1784063226794
     }
   ]
 }
