@@ -30,6 +30,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/improved-bat-speed-is-behind-some-of-mlb-s-biggest-power-surges-in-2026",
     "https://www.mlb.com/news/carson-wiggins-deal-with-mets",
     "https://www.bbc.co.uk/sport/football/articles/c30y0zqzvl5o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
@@ -228,10 +229,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-klein-opens-for-eric-lauer-vs-twins",
     "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/2026-mlb-draft-combine-coverage",
-    "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all"
+    "https://www.mlb.com/news/2026-mlb-draft-combine-coverage"
   ],
   "postedTitles": [
+    "Want to hit more homers? This metric links some of MLB's biggest power surges in '26",
     "Mets sign their top Draft pick Wiggins",
     "Keane was Kane's England team-mate - this week they are on different paths",
     "Updated top 10 prospect rankings for all 30 MLB te...",
@@ -430,8 +431,7 @@
     "How do you solve a problem like Ronaldo?",
     "Lauer goes six hitless innings behind opener as Dodgers notch win No. 50",
     "'Simply stunning' - Mbappe opens the scoring against Iraq",
-    "Here's everything you need to know about this week's Draft Combine",
-    "Messi breaks tie with Klose for most WC goals"
+    "Here's everything you need to know about this week's Draft Combine"
   ],
   "cloudinaryAssets": [
     {
@@ -483,6 +483,11 @@
       "publicId": "tvs_cards/card_1784136296134",
       "resourceType": "image",
       "uploadedAt": 1784136297710
+    },
+    {
+      "publicId": "tvs_videos/video_1784141880858",
+      "resourceType": "video",
+      "uploadedAt": 1784141883480
     }
   ]
 }
