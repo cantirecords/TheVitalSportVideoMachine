@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Cuban",
+    "Stars",
     "Messi",
     "Leads",
     "NFL",
@@ -24,6 +26,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/record-seven-players-from-cuba-play-in-all-star-game",
     "https://www.bbc.co.uk/sport/football/articles/c5yzy0kl2gzo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49295327/ranking-nfl-top-10-linebackers-2026-execs-coaches-scouts",
@@ -222,10 +225,10 @@
     "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all",
     "https://www.mlb.com/news/what-francisco-lindor-s-upcoming-return-means-for-mets",
     "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/zack-gelof-s-defensive-versatility-has-come-with-bounceback-offense",
-    "https://www.marca.com/futbol/primera-division/2026/06/22/ascensos-primera-locos-historia-racing-depor-malaga-1-rfef-liga-cinco-anos.html"
+    "https://www.mlb.com/news/zack-gelof-s-defensive-versatility-has-come-with-bounceback-offense"
   ],
   "postedTitles": [
+    "Record 7 Cuban 'brothers' take the field for All-Star Game",
     "Bellingham best player at World Cup - Rooney",
     "Walked for 47% of the World Cup - the evolution of Messi",
     "Ranking the best linebackers in the NFL: Our exec ...",
@@ -424,15 +427,9 @@
     "Messi breaks tie with Klose for most WC goals",
     "Lindor's upcoming return comes at crucial inflection point for Mets",
     "How Ferguson became Scotland's most influential World Cup player",
-    "For Gelof, MLB-high hitting streak in 2026 a true slam dunk",
-    "Los ascensos a Primera más locos de la historia: Racing, Dépor y Málaga, de 1ªRFEF a La Liga en cinco años"
+    "For Gelof, MLB-high hitting streak in 2026 a true slam dunk"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1784023552697",
-      "resourceType": "image",
-      "uploadedAt": 1784023554424
-    },
     {
       "publicId": "tvs_videos/video_1784034692817",
       "resourceType": "video",
@@ -477,6 +474,11 @@
       "publicId": "tvs_videos/video_1784101978818",
       "resourceType": "video",
       "uploadedAt": 1784101980147
+    },
+    {
+      "publicId": "tvs_cards/card_1784110182633",
+      "resourceType": "image",
+      "uploadedAt": 1784110184055
     }
   ]
 }
