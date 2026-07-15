@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Kane",
+    "Leads",
     "Cuban",
     "Stars",
     "Messi",
@@ -26,6 +28,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c30y0zqzvl5o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
     "https://www.mlb.com/news/record-seven-players-from-cuba-play-in-all-star-game",
     "https://www.bbc.co.uk/sport/football/articles/c5yzy0kl2gzo?at_medium=RSS&at_campaign=rss",
@@ -224,10 +227,10 @@
     "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-mlb-draft-combine-coverage",
     "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all",
-    "https://www.mlb.com/news/what-francisco-lindor-s-upcoming-return-means-for-mets",
-    "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/what-francisco-lindor-s-upcoming-return-means-for-mets"
   ],
   "postedTitles": [
+    "Keane was Kane's England team-mate - this week they are on different paths",
     "Updated top 10 prospect rankings for all 30 MLB te...",
     "Record 7 Cuban 'brothers' take the field for All-Star Game",
     "Bellingham best player at World Cup - Rooney",
@@ -426,8 +429,7 @@
     "'Simply stunning' - Mbappe opens the scoring against Iraq",
     "Here's everything you need to know about this week's Draft Combine",
     "Messi breaks tie with Klose for most WC goals",
-    "Lindor's upcoming return comes at crucial inflection point for Mets",
-    "How Ferguson became Scotland's most influential World Cup player"
+    "Lindor's upcoming return comes at crucial inflection point for Mets"
   ],
   "cloudinaryAssets": [
     {
@@ -479,6 +481,11 @@
       "publicId": "tvs_videos/video_1784121373927",
       "resourceType": "video",
       "uploadedAt": 1784121375780
+    },
+    {
+      "publicId": "tvs_cards/card_1784123911934",
+      "resourceType": "image",
+      "uploadedAt": 1784123912996
     }
   ]
 }
