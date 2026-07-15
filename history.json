@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "NFL",
+    "Off",
     "Madrid",
     "Delayed",
     "Three",
@@ -20,6 +22,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.espn.com/nfl/story/_/id/49295327/ranking-nfl-top-10-linebackers-2026-execs-coaches-scouts",
     "https://www.mlb.com/news/mlb-all-stars-show-off-outfits-on-the-red-carpet",
     "https://www.marca.com/futbol/primera-division/2026/07/14/madrid-barca-debutaran-tarde-atleti.html",
     "https://www.espn.com/soccer/story/_/id/49358709/harry-kane-england-argentina-world-cup-2026-semifinal",
@@ -218,10 +221,10 @@
     "https://www.mlb.com/news/zack-gelof-s-defensive-versatility-has-come-with-bounceback-offense",
     "https://www.marca.com/futbol/primera-division/2026/06/22/ascensos-primera-locos-historia-racing-depor-malaga-1-rfef-liga-cinco-anos.html",
     "https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts",
-    "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-power-rankings-week-of-june-21-2026"
+    "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ranking the best linebackers in the NFL: Our exec ...",
     "MLB All-Stars walk red carpet dressed to the nines, with meaning behind every stitch",
     "Madrid y Barça debutarán... más tarde que el Atleti",
     "Kane: England can't focus on Argentina history",
@@ -420,15 +423,9 @@
     "For Gelof, MLB-high hitting streak in 2026 a true slam dunk",
     "Los ascensos a Primera más locos de la historia: Racing, Dépor y Málaga, de 1ªRFEF a La Liga en cinco años",
     "Grades for every NBA free agent signing: Suns, Haw...",
-    "Salah's World Cup pain ends as he fires Egypt to historic win",
-    "Ohtani celebrates child No. 2 by helping Dodgers return to No. 1"
+    "Salah's World Cup pain ends as he fires Egypt to historic win"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1783992667445",
-      "resourceType": "video",
-      "uploadedAt": 1783992670090
-    },
     {
       "publicId": "tvs_cards/card_1783998967112",
       "resourceType": "image",
@@ -478,6 +475,11 @@
       "publicId": "tvs_videos/video_1784078889278",
       "resourceType": "video",
       "uploadedAt": 1784078892036
+    },
+    {
+      "publicId": "tvs_cards/card_1784085323196",
+      "resourceType": "image",
+      "uploadedAt": 1784085324600
     }
   ]
 }
