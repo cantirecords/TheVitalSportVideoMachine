@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Mets",
+    "Sign",
     "Kane",
     "Leads",
     "Cuban",
@@ -28,6 +30,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/carson-wiggins-deal-with-mets",
     "https://www.bbc.co.uk/sport/football/articles/c30y0zqzvl5o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
     "https://www.mlb.com/news/record-seven-players-from-cuba-play-in-all-star-game",
@@ -226,10 +229,10 @@
     "https://www.mlb.com/news/will-klein-opens-for-eric-lauer-vs-twins",
     "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-mlb-draft-combine-coverage",
-    "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all",
-    "https://www.mlb.com/news/what-francisco-lindor-s-upcoming-return-means-for-mets"
+    "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all"
   ],
   "postedTitles": [
+    "Mets sign their top Draft pick Wiggins",
     "Keane was Kane's England team-mate - this week they are on different paths",
     "Updated top 10 prospect rankings for all 30 MLB te...",
     "Record 7 Cuban 'brothers' take the field for All-Star Game",
@@ -428,20 +431,9 @@
     "Lauer goes six hitless innings behind opener as Dodgers notch win No. 50",
     "'Simply stunning' - Mbappe opens the scoring against Iraq",
     "Here's everything you need to know about this week's Draft Combine",
-    "Messi breaks tie with Klose for most WC goals",
-    "Lindor's upcoming return comes at crucial inflection point for Mets"
+    "Messi breaks tie with Klose for most WC goals"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1784037703757",
-      "resourceType": "image",
-      "uploadedAt": 1784037704881
-    },
-    {
-      "publicId": "tvs_cards/card_1784049722872",
-      "resourceType": "image",
-      "uploadedAt": 1784049723855
-    },
     {
       "publicId": "tvs_videos/video_1784055898936",
       "resourceType": "video",
@@ -486,6 +478,11 @@
       "publicId": "tvs_cards/card_1784123911934",
       "resourceType": "image",
       "uploadedAt": 1784123912996
+    },
+    {
+      "publicId": "tvs_cards/card_1784136296134",
+      "resourceType": "image",
+      "uploadedAt": 1784136297710
     }
   ]
 }
