@@ -20,6 +20,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-all-stars-show-off-outfits-on-the-red-carpet",
     "https://www.marca.com/futbol/primera-division/2026/07/14/madrid-barca-debutaran-tarde-atleti.html",
     "https://www.espn.com/soccer/story/_/id/49358709/harry-kane-england-argentina-world-cup-2026-semifinal",
     "https://www.mlb.com/news/2024-draft-class-represented-at-2026-all-star-festivities",
@@ -218,10 +219,10 @@
     "https://www.marca.com/futbol/primera-division/2026/06/22/ascensos-primera-locos-historia-racing-depor-malaga-1-rfef-liga-cinco-anos.html",
     "https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts",
     "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-power-rankings-week-of-june-21-2026",
-    "https://www.sport.es/es/noticias/barca/lamine-yamal-revela-mayor-miedo-131654324?utm_source=rss-noticias&utm_medium=feed&utm_campaign=barca"
+    "https://www.mlb.com/news/mlb-power-rankings-week-of-june-21-2026"
   ],
   "postedTitles": [
+    "MLB All-Stars walk red carpet dressed to the nines, with meaning behind every stitch",
     "Madrid y Barça debutarán... más tarde que el Atleti",
     "Kane: England can't focus on Argentina history",
     "With 3 All-Stars and 1 HRD slugger, '24 Draft class already one for the ages",
@@ -420,8 +421,7 @@
     "Los ascensos a Primera más locos de la historia: Racing, Dépor y Málaga, de 1ªRFEF a La Liga en cinco años",
     "Grades for every NBA free agent signing: Suns, Haw...",
     "Salah's World Cup pain ends as he fires Egypt to historic win",
-    "Ohtani celebrates child No. 2 by helping Dodgers return to No. 1",
-    "Lamine Yamal revela cuál es su mayor miedo: \"Mi madre y mi pareja...\""
+    "Ohtani celebrates child No. 2 by helping Dodgers return to No. 1"
   ],
   "cloudinaryAssets": [
     {
@@ -473,6 +473,11 @@
       "publicId": "tvs_cards/card_1784063225348",
       "resourceType": "image",
       "uploadedAt": 1784063226794
+    },
+    {
+      "publicId": "tvs_videos/video_1784078889278",
+      "resourceType": "video",
+      "uploadedAt": 1784078892036
     }
   ]
 }
