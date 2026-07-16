@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Red",
+    "Bull",
     "Ohtani",
     "Female",
     "Tennis",
@@ -12,6 +14,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cr7kr0lx081o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-wins-best-single-game-performance-at-espys",
     "https://www.bbc.co.uk/sport/tennis/articles/c4gxd6vjyj1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cj038y0levyo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/zack-gelof-s-hand-injury-ends-mlb-best-hitting-streak",
     "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused",
-    "https://www.mlb.com/news/2026-draft-combine-day-1-standouts",
-    "https://www.espn.com/nhl/story/_/id/49147109/golden-knights-owner-bill-foley-launching-nba-las-vegas-bid"
+    "https://www.mlb.com/news/2026-draft-combine-day-1-standouts"
   ],
   "postedTitles": [
+    "Red Bull to change wing after Verstappen crashes",
     "Ohtani takes home 2 ESPYS, including for best single game",
     "Female tennis players faced 12,000 abusive posts in 2025",
     "Norris to have 10-place grid penalty in Belgium",
@@ -412,15 +415,9 @@
     "Why Bellingham was not sent off for covering his mouth",
     "Gelof loses MLB-best hitting streak in painful way, but there's reason for optimism",
     "NFL nixes 2026 supplemental draft; Sorsby stuck",
-    "Here are the standouts from Day 1 of the 2026 Draft Combine",
-    "Golden Knights owner launching NBA Vegas bid"
+    "Here are the standouts from Day 1 of the 2026 Draft Combine"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1784141880858",
-      "resourceType": "video",
-      "uploadedAt": 1784141883480
-    },
     {
       "publicId": "tvs_cards/card_1784172093694",
       "resourceType": "image",
@@ -460,6 +457,11 @@
       "publicId": "tvs_videos/video_1784228316343",
       "resourceType": "video",
       "uploadedAt": 1784228317901
+    },
+    {
+      "publicId": "tvs_cards/card_1784236221450",
+      "resourceType": "image",
+      "uploadedAt": 1784236222616
     }
   ]
 }
