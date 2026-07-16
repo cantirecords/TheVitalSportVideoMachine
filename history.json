@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Norris",
+    "Gets",
     "Bellingham",
     "Slaps",
     "Baseball",
@@ -36,6 +38,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cj038y0levyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c3ekj7l55vno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c74glwpv99yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/favorite-mlb-draft-pick-for-each-team-2026",
@@ -234,10 +237,10 @@
     "https://www.mlb.com/news/2026-draft-combine-day-1-standouts",
     "https://www.espn.com/nhl/story/_/id/49147109/golden-knights-owner-bill-foley-launching-nba-las-vegas-bid",
     "https://www.bbc.co.uk/sport/cricket/articles/c4gyv081y14o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/third-annual-east-west-classic-held-at-rickwood-field",
-    "https://www.bbc.co.uk/sport/football/videos/cx2wpz0q0edo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/third-annual-east-west-classic-held-at-rickwood-field"
   ],
   "postedTitles": [
+    "Norris to have 10-place grid penalty in Belgium",
     "Alcaraz eyes return from injury at Cincinnati Open",
     "Bellingham slapped Argentina substitute after England exit",
     "MLB Pipeline's favorite Draft picks -- one for each club",
@@ -436,15 +439,9 @@
     "Here are the standouts from Day 1 of the 2026 Draft Combine",
     "Golden Knights owner launching NBA Vegas bid",
     "Ice packs & F1 cooling vests - England ready for heat",
-    "MLB greats converge upon Rickwood Field for third East-West Classic",
-    "'Scoring machine' Haaland hits second double of World Cup"
+    "MLB greats converge upon Rickwood Field for third East-West Classic"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1784123911934",
-      "resourceType": "image",
-      "uploadedAt": 1784123912996
-    },
     {
       "publicId": "tvs_cards/card_1784136296134",
       "resourceType": "image",
@@ -479,6 +476,11 @@
       "publicId": "tvs_videos/video_1784208213095",
       "resourceType": "video",
       "uploadedAt": 1784208215406
+    },
+    {
+      "publicId": "tvs_cards/card_1784211026369",
+      "resourceType": "image",
+      "uploadedAt": 1784211028007
     }
   ]
 }
