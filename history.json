@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Baseball",
+    "Legends",
     "Biggest",
     "Steals",
     "Mets",
@@ -32,6 +34,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/players-alliance-honors-black-greats-in-philadelphia",
     "https://www.mlb.com/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast",
     "https://www.mlb.com/news/improved-bat-speed-is-behind-some-of-mlb-s-biggest-power-surges-in-2026",
     "https://www.mlb.com/news/carson-wiggins-deal-with-mets",
@@ -230,10 +233,10 @@
     "https://www.bbc.co.uk/sport/football/videos/cx2wpz0q0edo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/ckg042kgj4yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/will-klein-opens-for-eric-lauer-vs-twins",
-    "https://www.bbc.com/sport/football/videos/cm2rkpmvglmo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/will-klein-opens-for-eric-lauer-vs-twins"
   ],
   "postedTitles": [
+    "Black legends detail their stories, love for game at Players Alliance dinner",
     "Biggest steals of the 2026 Draft -- 1 from each of the first 10 rounds",
     "Want to hit more homers? This metric links some of MLB's biggest power surges in '26",
     "Mets sign their top Draft pick Wiggins",
@@ -432,15 +435,9 @@
     "'Scoring machine' Haaland hits second double of World Cup",
     "Is Gasly's podium justice or a can of worms best left unopened? F1 Q&A",
     "How do you solve a problem like Ronaldo?",
-    "Lauer goes six hitless innings behind opener as Dodgers notch win No. 50",
-    "'Simply stunning' - Mbappe opens the scoring against Iraq"
+    "Lauer goes six hitless innings behind opener as Dodgers notch win No. 50"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1784096563447",
-      "resourceType": "image",
-      "uploadedAt": 1784096564892
-    },
     {
       "publicId": "tvs_videos/video_1784101978818",
       "resourceType": "video",
@@ -475,6 +472,11 @@
       "publicId": "tvs_cards/card_1784172093694",
       "resourceType": "image",
       "uploadedAt": 1784172094672
+    },
+    {
+      "publicId": "tvs_cards/card_1784183173687",
+      "resourceType": "image",
+      "uploadedAt": 1784183174743
     }
   ]
 }
