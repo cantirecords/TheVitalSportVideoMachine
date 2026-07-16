@@ -36,6 +36,7 @@
     "Targets"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/c3ekj7l55vno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c74glwpv99yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/favorite-mlb-draft-pick-for-each-team-2026",
     "https://www.mlb.com/news/players-alliance-honors-black-greats-in-philadelphia",
@@ -234,10 +235,10 @@
     "https://www.espn.com/nhl/story/_/id/49147109/golden-knights-owner-bill-foley-launching-nba-las-vegas-bid",
     "https://www.bbc.co.uk/sport/cricket/articles/c4gyv081y14o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/third-annual-east-west-classic-held-at-rickwood-field",
-    "https://www.bbc.co.uk/sport/football/videos/cx2wpz0q0edo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/ckg042kgj4yo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/videos/cx2wpz0q0edo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Alcaraz eyes return from injury at Cincinnati Open",
     "Bellingham slapped Argentina substitute after England exit",
     "MLB Pipeline's favorite Draft picks -- one for each club",
     "Black legends detail their stories, love for game at Players Alliance dinner",
@@ -436,15 +437,9 @@
     "Golden Knights owner launching NBA Vegas bid",
     "Ice packs & F1 cooling vests - England ready for heat",
     "MLB greats converge upon Rickwood Field for third East-West Classic",
-    "'Scoring machine' Haaland hits second double of World Cup",
-    "Is Gasly's podium justice or a can of worms best left unopened? F1 Q&A"
+    "'Scoring machine' Haaland hits second double of World Cup"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1784121373927",
-      "resourceType": "video",
-      "uploadedAt": 1784121375780
-    },
     {
       "publicId": "tvs_cards/card_1784123911934",
       "resourceType": "image",
@@ -479,6 +474,11 @@
       "publicId": "tvs_cards/card_1784197144536",
       "resourceType": "image",
       "uploadedAt": 1784197145950
+    },
+    {
+      "publicId": "tvs_videos/video_1784208213095",
+      "resourceType": "video",
+      "uploadedAt": 1784208215406
     }
   ]
 }
