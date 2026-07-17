@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Villa",
+    "Signs",
     "Eagle",
     "On",
     "Verstappen",
@@ -24,6 +26,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cj365336l52o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/golf/videos/cvgv50vle0ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo?at_medium=RSS&at_campaign=rss",
@@ -222,10 +225,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/clye9gmmxg3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49169047/nba-2026-draft-superlatives-aj-dybansta-cameron-boozer",
-    "https://www.bbc.co.uk/sport/football/videos/cly753x9el3o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension"
+    "https://www.bbc.co.uk/sport/football/videos/cly753x9el3o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Villa complete club record Manzambi signing ",
     "Suber hits 'miracle shot' for eagle to move top of Open leaderboard",
     "Verstappen top in first practice as Hadjar takes grid penalty",
     "Clark 'a political football' says NBA chief Silver",
@@ -424,15 +427,9 @@
     "Hamilton and Ferrari a huge title threat - Russell",
     "Vinicius Jr leaves Scots down... and out?",
     "NBA draft superlatives: Potential jersey negotiati...",
-    "Mexico beat Czech Republic to maintain 100% winning record",
-    "Lakers' Reaves intends to sign a $185M extension"
+    "Mexico beat Czech Republic to maintain 100% winning record"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1784228316343",
-      "resourceType": "video",
-      "uploadedAt": 1784228317901
-    },
     {
       "publicId": "tvs_cards/card_1784236221450",
       "resourceType": "image",
@@ -477,6 +474,11 @@
       "publicId": "tvs_cards/card_1784308735723",
       "resourceType": "image",
       "uploadedAt": 1784308736778
+    },
+    {
+      "publicId": "tvs_cards/card_1784322205805",
+      "resourceType": "image",
+      "uploadedAt": 1784322207288
     }
   ]
 }
