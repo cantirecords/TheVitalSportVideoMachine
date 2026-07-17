@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Serrano",
+    "Seeks",
     "Kerr",
     "Returns",
     "Red",
@@ -16,6 +18,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/boxing/articles/cvgwd3ydn5vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ckge5jkjz9eo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c1k13mvgyljo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cr7kr0lx081o?at_medium=RSS&at_campaign=rss",
@@ -214,10 +217,10 @@
     "https://www.espn.com/nba/story/_/id/49157116/2026-nba-draft-top-fashion-looks-fits-prospects",
     "https://www.mlb.com/news/eury-perez-reinstated-from-injured-list-to-start-vs-rangers",
     "https://www.espn.com/nba/story/_/id/49085966/2026-nba-round-2-mock-draft-best-available-players-picks-predictions",
-    "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/zack-gelof-s-hand-injury-ends-mlb-best-hitting-streak"
+    "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Serrano to meet Manzur with knockout record on line",
     "Record crowd as Kerr returns to Gotham FC",
     "Kane unsure if he will play at next World Cup",
     "Red Bull to change wing after Verstappen crashes",
@@ -416,8 +419,7 @@
     "📸 Boozer, Dybantsa lead NBA draft night fits",
     "Marlins improve to MLB-best 16-5 in June in Eury's return",
     "Copy of Let's project every Round 2 pick: Our NBA mock dra...",
-    "Why Bellingham was not sent off for covering his mouth",
-    "Gelof loses MLB-best hitting streak in painful way, but there's reason for optimism"
+    "Why Bellingham was not sent off for covering his mouth"
   ],
   "cloudinaryAssets": [
     {
@@ -469,6 +471,11 @@
       "publicId": "tvs_cards/card_1784258702186",
       "resourceType": "image",
       "uploadedAt": 1784258703156
+    },
+    {
+      "publicId": "tvs_cards/card_1784269416335",
+      "resourceType": "image",
+      "uploadedAt": 1784269417767
     }
   ]
 }
