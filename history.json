@@ -20,6 +20,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/boxing/articles/cvgwd3ydn5vo?at_medium=RSS&at_campaign=rss",
@@ -218,10 +219,10 @@
     "https://www.bbc.co.uk/sport/football/videos/cly753x9el3o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension",
     "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
-    "https://www.espn.com/nba/story/_/id/49157116/2026-nba-draft-top-fashion-looks-fits-prospects",
-    "https://www.mlb.com/news/eury-perez-reinstated-from-injured-list-to-start-vs-rangers"
+    "https://www.espn.com/nba/story/_/id/49157116/2026-nba-draft-top-fashion-looks-fits-prospects"
   ],
   "postedTitles": [
+    "Clark 'a political football' says NBA chief Silver",
     "How coach-on-pitch Messi undid England's tactics on the fly",
     "England missing final piece of jigsaw - Kane",
     "Serrano to meet Manzur with knockout record on line",
@@ -420,15 +421,9 @@
     "Mexico beat Czech Republic to maintain 100% winning record",
     "Lakers' Reaves intends to sign a $185M extension",
     "Grading big NBA trades: Who fared best in the Wolv...",
-    "📸 Boozer, Dybantsa lead NBA draft night fits",
-    "Marlins improve to MLB-best 16-5 in June in Eury's return"
+    "📸 Boozer, Dybantsa lead NBA draft night fits"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1784197144536",
-      "resourceType": "image",
-      "uploadedAt": 1784197145950
-    },
     {
       "publicId": "tvs_videos/video_1784208213095",
       "resourceType": "video",
@@ -478,6 +473,11 @@
       "publicId": "tvs_cards/card_1784282791970",
       "resourceType": "image",
       "uploadedAt": 1784282794829
+    },
+    {
+      "publicId": "tvs_videos/video_1784293645659",
+      "resourceType": "video",
+      "uploadedAt": 1784293647151
     }
   ]
 }
