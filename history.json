@@ -14,6 +14,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c1k13mvgyljo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cr7kr0lx081o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-wins-best-single-game-performance-at-espys",
     "https://www.bbc.co.uk/sport/tennis/articles/c4gxd6vjyj1o?at_medium=RSS&at_campaign=rss",
@@ -212,10 +213,10 @@
     "https://www.espn.com/nba/story/_/id/49085966/2026-nba-round-2-mock-draft-best-available-players-picks-predictions",
     "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/zack-gelof-s-hand-injury-ends-mlb-best-hitting-streak",
-    "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused",
-    "https://www.mlb.com/news/2026-draft-combine-day-1-standouts"
+    "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused"
   ],
   "postedTitles": [
+    "Kane unsure if he will play at next World Cup",
     "Red Bull to change wing after Verstappen crashes",
     "Ohtani takes home 2 ESPYS, including for best single game",
     "Female tennis players faced 12,000 abusive posts in 2025",
@@ -414,8 +415,7 @@
     "Copy of Let's project every Round 2 pick: Our NBA mock dra...",
     "Why Bellingham was not sent off for covering his mouth",
     "Gelof loses MLB-best hitting streak in painful way, but there's reason for optimism",
-    "NFL nixes 2026 supplemental draft; Sorsby stuck",
-    "Here are the standouts from Day 1 of the 2026 Draft Combine"
+    "NFL nixes 2026 supplemental draft; Sorsby stuck"
   ],
   "cloudinaryAssets": [
     {
@@ -462,6 +462,11 @@
       "publicId": "tvs_cards/card_1784236221450",
       "resourceType": "image",
       "uploadedAt": 1784236222616
+    },
+    {
+      "publicId": "tvs_videos/video_1784253090389",
+      "resourceType": "video",
+      "uploadedAt": 1784253092435
     }
   ]
 }
