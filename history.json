@@ -28,6 +28,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/c3d3v0njz7zo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/harry-ford-promoted-nationals-debut",
     "https://www.bbc.co.uk/sport/football/articles/cj365336l52o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/golf/videos/cvgv50vle0ko?at_medium=RSS&at_campaign=rss",
@@ -226,10 +227,10 @@
     "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
     "https://www.mlb.com/news/yankees-trade-deadline-questions-2026",
     "https://www.bbc.co.uk/sport/formula1/articles/clye9gmmxg3o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49169047/nba-2026-draft-superlatives-aj-dybansta-cameron-boozer"
+    "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "NFL players want more grass fields after World Cup",
     "Ford hits first MLB HR as Nats come out of break with 23-run outburst",
     "Villa complete club record Manzambi signing ",
     "Suber hits 'miracle shot' for eagle to move top of Open leaderboard",
@@ -428,15 +429,9 @@
     "FIFA president clocks up 24,000 miles on epic Worl...",
     "3 questions that could shape Yankees’ Trade Deadline plans",
     "Hamilton and Ferrari a huge title threat - Russell",
-    "Vinicius Jr leaves Scots down... and out?",
-    "NBA draft superlatives: Potential jersey negotiati..."
+    "Vinicius Jr leaves Scots down... and out?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1784269416335",
-      "resourceType": "image",
-      "uploadedAt": 1784269417767
-    },
     {
       "publicId": "tvs_videos/video_1784274866741",
       "resourceType": "video",
@@ -471,6 +466,11 @@
       "publicId": "tvs_cards/card_1784355095091",
       "resourceType": "image",
       "uploadedAt": 1784355095924
+    },
+    {
+      "publicId": "tvs_videos/video_1784359780815",
+      "resourceType": "video",
+      "uploadedAt": 1784359781987
     }
   ]
 }
