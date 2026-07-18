@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Ryan",
+    "Fox",
     "De",
     "Paula",
     "Nats",
@@ -30,6 +32,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/golf/articles/c5y4w9xlnqdo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-top-prospect-josue-de-paula-homers",
     "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/c3d3v0njz7zo?at_medium=RSS&at_campaign=rss",
@@ -228,10 +231,10 @@
     "https://www.espn.com/nba/story/_/id/49101766/2027-nba-mock-draft-no-1-pick-options-top-players-race-picks",
     "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-25",
-    "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
-    "https://www.mlb.com/news/yankees-trade-deadline-questions-2026"
+    "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour"
   ],
   "postedTitles": [
+    "A third 62 at Birkdale - Fox equals Open record",
     "MLB No. 4 prospect De Paula stays hot with go-ahead homer",
     "Life after Kane - are England facing a false nine future?",
     "NFL players want more grass fields after World Cup",
@@ -430,8 +433,7 @@
     "New NBA mock draft -- for next year's class: Stack...",
     "Man City agree record fee with Forest for Anderson",
     "MLB Pipeline experts tag-team the latest mock draft, featuring fresh Combine intel",
-    "FIFA president clocks up 24,000 miles on epic Worl...",
-    "3 questions that could shape Yankees’ Trade Deadline plans"
+    "FIFA president clocks up 24,000 miles on epic Worl..."
   ],
   "cloudinaryAssets": [
     {
@@ -458,6 +460,11 @@
       "publicId": "tvs_cards/card_1784394288614",
       "resourceType": "image",
       "uploadedAt": 1784394290264
+    },
+    {
+      "publicId": "tvs_cards/card_1784408374128",
+      "resourceType": "image",
+      "uploadedAt": 1784408374999
     }
   ]
 }
