@@ -36,6 +36,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cam-schlittler-faces-dodgers",
     "https://www.bbc.co.uk/sport/cricket/videos/cn5nwk35z1do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cycling/videos/c2lq9z49119o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/golf/articles/c5y4w9xlnqdo?at_medium=RSS&at_campaign=rss",
@@ -234,10 +235,10 @@
     "https://www.bbc.co.uk/sport/athletics/articles/c99238jplr1o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49176705/stephen-curry-yaxel-lendeborg-golden-state-warriors-joke",
     "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49101766/2027-nba-mock-draft-no-1-pick-options-top-players-race-picks",
-    "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nba/story/_/id/49101766/2027-nba-mock-draft-no-1-pick-options-top-players-race-picks"
   ],
   "postedTitles": [
+    "Schlittler K's 8 Dodgers, but takes the loss in duel with Yamamoto",
     "'He's got it!' - Rohit Sharma reaches historic century in style",
     "GB's Shriever claims historic win as extreme weather halts final ",
     "A third 62 at Birkdale - Fox equals Open record",
@@ -436,8 +437,7 @@
     "Speed suits & altitude rooms - how Kerr plans to beat mile world record",
     "Copy of Stephen Curry responds to Yaxel Lendeborg's 'used ...",
     "How Oyarzabal shows Spain are more than just Lamine Yamal - Azpilicueta",
-    "New NBA mock draft -- for next year's class: Stack...",
-    "Man City agree record fee with Forest for Anderson"
+    "New NBA mock draft -- for next year's class: Stack..."
   ],
   "cloudinaryAssets": [
     {
@@ -449,6 +449,11 @@
       "publicId": "tvs_cards/card_1784494811061",
       "resourceType": "image",
       "uploadedAt": 1784494812686
+    },
+    {
+      "publicId": "tvs_videos/video_1784513162821",
+      "resourceType": "video",
+      "uploadedAt": 1784513164289
     }
   ]
 }
