@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "England",
     "Win",
     "Rohit",
@@ -8,36 +9,10 @@
     "Wins",
     "Ryan",
     "Fox",
-    "De",
-    "Paula",
-    "Nats",
-    "Rookie",
-    "Villa",
-    "Signs",
-    "Eagle",
-    "On",
-    "Verstappen",
-    "Dominates",
-    "Messi",
-    "Masterclass",
-    "Serrano",
-    "Seeks",
-    "Kerr",
-    "Returns",
-    "Red",
-    "Bull",
-    "Ohtani",
-    "Female",
-    "Tennis",
-    "Norris",
-    "Gets",
-    "Bellingham",
-    "Slaps",
-    "Baseball",
-    "Legends",
-    "Biggest"
+    "De"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/andrew-benintendi-hits-bases-clearing-double-celebrates-10-years-service-time",
     "https://www.mlb.com/news/cooper-pratt-hits-first-major-league-home-run",
     "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&at_campaign=rss",
@@ -236,10 +211,10 @@
     "https://www.espn.com/nhl/story/_/id/49116941/nhl-2026-offseason-trade-grades-deals-report-cards-top-players-prospects-biggest-deals",
     "https://www.espn.com/wnba/story/_/id/49181720/tempo-mabrey-scores-53-tie-wnba-single-game-scoring-record",
     "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
-    "https://www.espn.com/nba/story/_/id/49171485/nba-offseason-2026-how-lakers-warriors-heat-knicks-all-30-teams-ace-summer",
-    "https://www.bbc.co.uk/sport/athletics/articles/c99238jplr1o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nba/story/_/id/49171485/nba-offseason-2026-how-lakers-warriors-heat-knicks-all-30-teams-ace-summer"
   ],
   "postedTitles": [
+    "Gallery: Spain celebrate World Cup triumph in Madrid",
     "Benintendi has his own way of celebrating 10 years of MLB service time",
     "Top 100 prospect Pratt tags former Brewer Peralta for first MLB HR",
     "England seal series with record Lord's ODI total",
@@ -438,8 +413,7 @@
     "Trade grades for all the NHL draft week swaps: Pet...",
     "Mabrey explodes for 53 to tie WNBA scoring mark",
     "Miz vs. Cubs, Dodgers-Padres showdown highlight 'Friday Night Baseball' doubleheader on Apple TV",
-    "NBA free agency 2026: How all 30 teams can ace the...",
-    "Speed suits & altitude rooms - how Kerr plans to beat mile world record"
+    "NBA free agency 2026: How all 30 teams can ace the..."
   ],
   "cloudinaryAssets": [
     {
@@ -451,6 +425,11 @@
       "publicId": "tvs_videos/video_1784621422570",
       "resourceType": "video",
       "uploadedAt": 1784621424480
+    },
+    {
+      "publicId": "tvs_videos/video_1784639996395",
+      "resourceType": "video",
+      "uploadedAt": 1784639998573
     }
   ]
 }
