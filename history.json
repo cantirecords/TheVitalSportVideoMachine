@@ -38,6 +38,7 @@
     "Biggest"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cooper-pratt-hits-first-major-league-home-run",
     "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cam-schlittler-faces-dodgers",
     "https://www.bbc.co.uk/sport/cricket/videos/cn5nwk35z1do?at_medium=RSS&at_campaign=rss",
@@ -236,10 +237,10 @@
     "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
     "https://www.espn.com/nba/story/_/id/49171485/nba-offseason-2026-how-lakers-warriors-heat-knicks-all-30-teams-ace-summer",
     "https://www.bbc.co.uk/sport/athletics/articles/c99238jplr1o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49176705/stephen-curry-yaxel-lendeborg-golden-state-warriors-joke",
-    "https://www.bbc.co.uk/sport/football/articles/cg531yd0ddpo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nba/story/_/id/49176705/stephen-curry-yaxel-lendeborg-golden-state-warriors-joke"
   ],
   "postedTitles": [
+    "Top 100 prospect Pratt tags former Brewer Peralta for first MLB HR",
     "England seal series with record Lord's ODI total",
     "Schlittler K's 8 Dodgers, but takes the loss in duel with Yamamoto",
     "'He's got it!' - Rohit Sharma reaches historic century in style",
@@ -438,8 +439,7 @@
     "Miz vs. Cubs, Dodgers-Padres showdown highlight 'Friday Night Baseball' doubleheader on Apple TV",
     "NBA free agency 2026: How all 30 teams can ace the...",
     "Speed suits & altitude rooms - how Kerr plans to beat mile world record",
-    "Copy of Stephen Curry responds to Yaxel Lendeborg's 'used ...",
-    "How Oyarzabal shows Spain are more than just Lamine Yamal - Azpilicueta"
+    "Copy of Stephen Curry responds to Yaxel Lendeborg's 'used ..."
   ],
   "cloudinaryAssets": [
     {
@@ -451,6 +451,11 @@
       "publicId": "tvs_cards/card_1784519343621",
       "resourceType": "image",
       "uploadedAt": 1784519344682
+    },
+    {
+      "publicId": "tvs_videos/video_1784598604758",
+      "resourceType": "video",
+      "uploadedAt": 1784598606363
     }
   ]
 }
