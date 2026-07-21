@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Hamilton",
     "Madrid",
     "England",
     "Win",
@@ -8,10 +9,10 @@
     "Shriever",
     "Wins",
     "Ryan",
-    "Fox",
-    "De"
+    "Fox"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/andrew-benintendi-hits-bases-clearing-double-celebrates-10-years-service-time",
     "https://www.mlb.com/news/cooper-pratt-hits-first-major-league-home-run",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/cricket/articles/crelxqlgpeeo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nhl/story/_/id/49116941/nhl-2026-offseason-trade-grades-deals-report-cards-top-players-prospects-biggest-deals",
     "https://www.espn.com/wnba/story/_/id/49181720/tempo-mabrey-scores-53-tie-wnba-single-game-scoring-record",
-    "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season",
-    "https://www.espn.com/nba/story/_/id/49171485/nba-offseason-2026-how-lakers-warriors-heat-knicks-all-30-teams-ace-summer"
+    "https://www.mlb.com/news/friday-night-baseball-on-apple-tv-for-2026-mlb-season"
   ],
   "postedTitles": [
+    "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
     "Gallery: Spain celebrate World Cup triumph in Madrid",
     "Benintendi has his own way of celebrating 10 years of MLB service time",
     "Top 100 prospect Pratt tags former Brewer Peralta for first MLB HR",
@@ -412,8 +413,7 @@
     "The rare therapy used by NBA icon O'Neal to get Sciver-Brunt fit",
     "Trade grades for all the NHL draft week swaps: Pet...",
     "Mabrey explodes for 53 to tie WNBA scoring mark",
-    "Miz vs. Cubs, Dodgers-Padres showdown highlight 'Friday Night Baseball' doubleheader on Apple TV",
-    "NBA free agency 2026: How all 30 teams can ace the..."
+    "Miz vs. Cubs, Dodgers-Padres showdown highlight 'Friday Night Baseball' doubleheader on Apple TV"
   ],
   "cloudinaryAssets": [
     {
@@ -430,6 +430,11 @@
       "publicId": "tvs_videos/video_1784639996395",
       "resourceType": "video",
       "uploadedAt": 1784639998573
+    },
+    {
+      "publicId": "tvs_videos/video_1784660776531",
+      "resourceType": "video",
+      "uploadedAt": 1784660778447
     }
   ]
 }
