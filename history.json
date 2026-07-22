@@ -12,6 +12,7 @@
     "Fox"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/ildemaro-vargas-hits-walk-off-after-kohl-drake-strong-in-debut",
     "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026",
     "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.espn.com/nba/story/_/id/49102074/2026-nba-draft-recap-best-value-picks-moves-rookie-year-predictions-trades",
     "https://www.espn.com/soccer/story/_/id/49189170/tchouameni-camavinga-complicating-real-madrid-midfield-signing-sources",
     "https://www.bbc.co.uk/sport/cricket/articles/crelxqlgpeeo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nhl/story/_/id/49116941/nhl-2026-offseason-trade-grades-deals-report-cards-top-players-prospects-biggest-deals",
-    "https://www.espn.com/wnba/story/_/id/49181720/tempo-mabrey-scores-53-tie-wnba-single-game-scoring-record"
+    "https://www.espn.com/nhl/story/_/id/49116941/nhl-2026-offseason-trade-grades-deals-report-cards-top-players-prospects-biggest-deals"
   ],
   "postedTitles": [
+    "Drake shines in MLB debut (in front of Mom and Dad!) before Vargas walks it off",
     "Pirates-Yankees rained out Tuesday; split doubleheader set for Wednesday",
     "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
     "Gallery: Spain celebrate World Cup triumph in Madrid",
@@ -412,8 +413,7 @@
     "Answering 13 big questions on the NBA draft: Best ...",
     "Sources: Madrid want Camavinga exit to sign MF",
     "The rare therapy used by NBA icon O'Neal to get Sciver-Brunt fit",
-    "Trade grades for all the NHL draft week swaps: Pet...",
-    "Mabrey explodes for 53 to tie WNBA scoring mark"
+    "Trade grades for all the NHL draft week swaps: Pet..."
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1784684930201",
       "resourceType": "video",
       "uploadedAt": 1784684934077
+    },
+    {
+      "publicId": "tvs_videos/video_1784707854112",
+      "resourceType": "video",
+      "uploadedAt": 1784707856171
     }
   ]
 }
