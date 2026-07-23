@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Hamilton",
     "Madrid",
     "England",
@@ -8,10 +9,10 @@
     "Sharma",
     "Shriever",
     "Wins",
-    "Ryan",
-    "Fox"
+    "Ryan"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-bullpen-session-july-2026",
     "https://www.mlb.com/news/james-rowson-ejected-after-jose-caballero-pitch-timer-violation",
     "https://www.mlb.com/news/dodgers-end-game-on-phillies-baserunning-mistake",
     "https://www.mlb.com/news/ildemaro-vargas-hits-walk-off-after-kohl-drake-strong-in-debut",
@@ -210,10 +211,10 @@
     "https://www.espn.com/mens-college-basketball/story/_/id/49180679/clippers-draft-pick-ngoy-plans-play-auburn-season",
     "https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/benches-clear-warnings-issued-in-yankees-red-sox",
-    "https://www.espn.com/nba/story/_/id/49102074/2026-nba-draft-recap-best-value-picks-moves-rookie-year-predictions-trades",
-    "https://www.espn.com/soccer/story/_/id/49189170/tchouameni-camavinga-complicating-real-madrid-midfield-signing-sources"
+    "https://www.espn.com/nba/story/_/id/49102074/2026-nba-draft-recap-best-value-picks-moves-rookie-year-predictions-trades"
   ],
   "postedTitles": [
+    "Ohtani throws around 30 pitches in encouraging bullpen session",
     "Yankees frustrated after Caballero's pitch-timer approach is rebuffed",
     "Phils' blunder on bases turns into chaotic game-ending 5-2-6-4 DP for Dodgers",
     "Drake shines in MLB debut (in front of Mom and Dad!) before Vargas walks it off",
@@ -412,8 +413,7 @@
     "Clippers draftee Ngoy opts for Auburn next season",
     "Russell claims controversial pole after Verstappen crash",
     "Contreras, Warren provide beef for Sox-Yankees' benches-clearing 'picnic'",
-    "Answering 13 big questions on the NBA draft: Best ...",
-    "Sources: Madrid want Camavinga exit to sign MF"
+    "Answering 13 big questions on the NBA draft: Best ..."
   ],
   "cloudinaryAssets": [
     {
@@ -425,6 +425,11 @@
       "publicId": "tvs_videos/video_1784794486030",
       "resourceType": "video",
       "uploadedAt": 1784794487718
+    },
+    {
+      "publicId": "tvs_videos/video_1784813238179",
+      "resourceType": "video",
+      "uploadedAt": 1784813241640
     }
   ]
 }
