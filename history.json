@@ -12,6 +12,7 @@
     "Fox"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/james-rowson-ejected-after-jose-caballero-pitch-timer-violation",
     "https://www.mlb.com/news/dodgers-end-game-on-phillies-baserunning-mistake",
     "https://www.mlb.com/news/ildemaro-vargas-hits-walk-off-after-kohl-drake-strong-in-debut",
     "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/benches-clear-warnings-issued-in-yankees-red-sox",
     "https://www.espn.com/nba/story/_/id/49102074/2026-nba-draft-recap-best-value-picks-moves-rookie-year-predictions-trades",
-    "https://www.espn.com/soccer/story/_/id/49189170/tchouameni-camavinga-complicating-real-madrid-midfield-signing-sources",
-    "https://www.bbc.co.uk/sport/cricket/articles/crelxqlgpeeo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/49189170/tchouameni-camavinga-complicating-real-madrid-midfield-signing-sources"
   ],
   "postedTitles": [
+    "Yankees frustrated after Caballero's pitch-timer approach is rebuffed",
     "Phils' blunder on bases turns into chaotic game-ending 5-2-6-4 DP for Dodgers",
     "Drake shines in MLB debut (in front of Mom and Dad!) before Vargas walks it off",
     "Pirates-Yankees rained out Tuesday; split doubleheader set for Wednesday",
@@ -412,19 +413,18 @@
     "Russell claims controversial pole after Verstappen crash",
     "Contreras, Warren provide beef for Sox-Yankees' benches-clearing 'picnic'",
     "Answering 13 big questions on the NBA draft: Best ...",
-    "Sources: Madrid want Camavinga exit to sign MF",
-    "The rare therapy used by NBA icon O'Neal to get Sciver-Brunt fit"
+    "Sources: Madrid want Camavinga exit to sign MF"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1784707854112",
-      "resourceType": "video",
-      "uploadedAt": 1784707856171
-    },
     {
       "publicId": "tvs_videos/video_1784746815449",
       "resourceType": "video",
       "uploadedAt": 1784746818664
+    },
+    {
+      "publicId": "tvs_videos/video_1784794486030",
+      "resourceType": "video",
+      "uploadedAt": 1784794487718
     }
   ]
 }
