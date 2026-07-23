@@ -12,6 +12,7 @@
     "Ryan"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-rotation-in-focus-at-2026-trade-deadline",
     "https://www.mlb.com/news/shohei-ohtani-bullpen-session-july-2026",
     "https://www.mlb.com/news/james-rowson-ejected-after-jose-caballero-pitch-timer-violation",
     "https://www.mlb.com/news/dodgers-end-game-on-phillies-baserunning-mistake",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/injury-updates-for-dodgers-blake-snell-edwin-diaz-will-smith",
     "https://www.espn.com/mens-college-basketball/story/_/id/49180679/clippers-draft-pick-ngoy-plans-play-auburn-season",
     "https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/benches-clear-warnings-issued-in-yankees-red-sox",
-    "https://www.espn.com/nba/story/_/id/49102074/2026-nba-draft-recap-best-value-picks-moves-rookie-year-predictions-trades"
+    "https://www.mlb.com/news/benches-clear-warnings-issued-in-yankees-red-sox"
   ],
   "postedTitles": [
+    "Status of Dodgers' 4 aces to dictate Trade Deadline strategy",
     "Ohtani throws around 30 pitches in encouraging bullpen session",
     "Yankees frustrated after Caballero's pitch-timer approach is rebuffed",
     "Phils' blunder on bases turns into chaotic game-ending 5-2-6-4 DP for Dodgers",
@@ -412,8 +413,7 @@
     "How close are these Dodgers stars to a potential return? ",
     "Clippers draftee Ngoy opts for Auburn next season",
     "Russell claims controversial pole after Verstappen crash",
-    "Contreras, Warren provide beef for Sox-Yankees' benches-clearing 'picnic'",
-    "Answering 13 big questions on the NBA draft: Best ..."
+    "Contreras, Warren provide beef for Sox-Yankees' benches-clearing 'picnic'"
   ],
   "cloudinaryAssets": [
     {
@@ -430,6 +430,11 @@
       "publicId": "tvs_videos/video_1784813238179",
       "resourceType": "video",
       "uploadedAt": 1784813241640
+    },
+    {
+      "publicId": "tvs_videos/video_1784833312092",
+      "resourceType": "video",
+      "uploadedAt": 1784833314489
     }
   ]
 }
