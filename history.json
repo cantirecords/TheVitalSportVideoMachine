@@ -12,6 +12,7 @@
     "Ryan"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-visit-white-house-to-celebrate-2025-world-series-championship",
     "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/rugby-league/articles/c1w1eznwgd0o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/barcelona/2026/07/23/adeyemi-bala-incontrolable-dejo-boquiabierto-bellingham-vuela.html",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/cooper-ingle-first-mlb-hit-rbi-guardians-win",
     "https://www.espn.com/wnba/story/_/id/49200618/mercury-nate-tibbetts-irked-wnba-suspension-process",
     "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value",
-    "https://www.mlb.com/news/nba-draft-pick-aj-dybantsa-throws-first-pitch-fenway-park",
-    "https://www.mlb.com/news/injury-updates-for-dodgers-blake-snell-edwin-diaz-will-smith"
+    "https://www.mlb.com/news/nba-draft-pick-aj-dybantsa-throws-first-pitch-fenway-park"
   ],
   "postedTitles": [
+    "Dodgers visit White House to celebrate back-to-back World Series titles",
     "Kane set for talks with Bayern Munich over new deal",
     "Hull KR inflict more derby misery on Hull FC",
     "Adeyemi, una 'bala' incontrolable que dejó boquiabierto a Bellingham: \"Vuela\"",
@@ -412,15 +413,9 @@
     "Ingle tallies 1st MLB hit as Guardians' youth movement fuels win",
     "Mercury's Tibbetts rips WNBA after Thomas ruling",
     "Report cards for every GM after the 2026 NHL draft...",
-    "Living the dream! Top NBA Draft pick Dybantsa throws out 1st pitch at Fenway",
-    "How close are these Dodgers stars to a potential return? "
+    "Living the dream! Top NBA Draft pick Dybantsa throws out 1st pitch at Fenway"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1784833312092",
-      "resourceType": "video",
-      "uploadedAt": 1784833314489
-    },
     {
       "publicId": "tvs_videos/video_1784857898937",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1784899229425",
       "resourceType": "video",
       "uploadedAt": 1784899231607
+    },
+    {
+      "publicId": "tvs_videos/video_1784920483760",
+      "resourceType": "video",
+      "uploadedAt": 1784920485521
     }
   ]
 }
