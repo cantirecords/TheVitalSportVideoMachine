@@ -12,6 +12,7 @@
     "Ryan"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options",
     "https://www.mlb.com/news/dodgers-visit-white-house-to-celebrate-2025-world-series-championship",
     "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/rugby-league/articles/c1w1eznwgd0o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cooper-ingle-first-mlb-hit-rbi-guardians-win",
     "https://www.espn.com/wnba/story/_/id/49200618/mercury-nate-tibbetts-irked-wnba-suspension-process",
-    "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value",
-    "https://www.mlb.com/news/nba-draft-pick-aj-dybantsa-throws-first-pitch-fenway-park"
+    "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value"
   ],
   "postedTitles": [
+    "The best trade options to fill Yankees' catching need",
     "Dodgers visit White House to celebrate back-to-back World Series titles",
     "Kane set for talks with Bayern Munich over new deal",
     "Hull KR inflict more derby misery on Hull FC",
@@ -412,8 +413,7 @@
     "Sinner opens play on day one - how to follow Wimbledon on the BBC",
     "Ingle tallies 1st MLB hit as Guardians' youth movement fuels win",
     "Mercury's Tibbetts rips WNBA after Thomas ruling",
-    "Report cards for every GM after the 2026 NHL draft...",
-    "Living the dream! Top NBA Draft pick Dybantsa throws out 1st pitch at Fenway"
+    "Report cards for every GM after the 2026 NHL draft..."
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1784920483760",
       "resourceType": "video",
       "uploadedAt": 1784920485521
+    },
+    {
+      "publicId": "tvs_videos/video_1784944301072",
+      "resourceType": "video",
+      "uploadedAt": 1784944303070
     }
   ]
 }
