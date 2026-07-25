@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryce-harper-reacts-to-lebron-james-signing-with-76ers",
     "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/cricket/articles/cewq812yyz2o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/opinion/2026/06/28/burofax-messi-sueno-julian-alvarez.html",
     "https://www.mlb.com/news/michael-grove-rays-retake-first-place-in-al-east",
-    "https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/cooper-ingle-first-mlb-hit-rbi-guardians-win"
+    "https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
     "NBA superstar James, 41, to join Philadelphia 76ers",
     "Excited about LeBron signing with 76ers? Harper is right there with you",
     "The best trade options to fill Yankees' catching need",
@@ -412,8 +413,7 @@
     "Kent stun Hants as Lees ties record in T20 Blast",
     "El burofax de Messi y el sueño de Julián Alvarez",
     "Rays back atop AL East behind Grove's 1st MLB game in 630 days",
-    "Sinner opens play on day one - how to follow Wimbledon on the BBC",
-    "Ingle tallies 1st MLB hit as Guardians' youth movement fuels win"
+    "Sinner opens play on day one - how to follow Wimbledon on the BBC"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1784984652914",
       "resourceType": "video",
       "uploadedAt": 1784984654984
+    },
+    {
+      "publicId": "tvs_videos/video_1785005715538",
+      "resourceType": "video",
+      "uploadedAt": 1785005716884
     }
   ]
 }
