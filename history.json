@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.espn.com/mlb/story/_/id/49212701/red-sox-rally-10th-complete-four-game-sweep-yankees",
     "https://www.espn.com/soccer/story/_/id/49203383/could-overworked-ronaldo-hurt-portugal-world-cup-chances",
     "https://www.bbc.co.uk/sport/cricket/articles/cewq812yyz2o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/primera-division/opinion/2026/06/28/burofax-messi-sueno-julian-alvarez.html",
-    "https://www.mlb.com/news/michael-grove-rays-retake-first-place-in-al-east"
+    "https://www.marca.com/futbol/primera-division/opinion/2026/06/28/burofax-messi-sueno-julian-alvarez.html"
   ],
   "postedTitles": [
+    "How Eala's Wimbledon run made Filipinos fall in love with tennis",
     "Arsenal explore Vinicius Jr move - Sunday's gossip",
     "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
     "NBA superstar James, 41, to join Philadelphia 76ers",
@@ -412,15 +413,9 @@
     "Gray no-hitter ends in 8th, Red Sox sweep Yankees",
     "Could an overworked Ronaldo hurt Portugal's World ...",
     "Kent stun Hants as Lees ties record in T20 Blast",
-    "El burofax de Messi y el sueño de Julián Alvarez",
-    "Rays back atop AL East behind Grove's 1st MLB game in 630 days"
+    "El burofax de Messi y el sueño de Julián Alvarez"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1784965981261",
-      "resourceType": "video",
-      "uploadedAt": 1784965982611
-    },
     {
       "publicId": "tvs_videos/video_1784984652914",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1785030871114",
       "resourceType": "video",
       "uploadedAt": 1785030874860
+    },
+    {
+      "publicId": "tvs_videos/video_1785053467346",
+      "resourceType": "video",
+      "uploadedAt": 1785053469837
     }
   ]
 }
