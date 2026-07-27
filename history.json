@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
     "https://www.mlb.com/news/george-lombard-jr-pressing-for-shot-with-yankees",
     "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/ckg0nngzxvko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-rookie-card-sells-for-2-5-million-at-auction",
     "https://www.mlb.com/news/red-sox-walk-off-yankees-for-four-game-sweep-at-fenway",
-    "https://www.espn.com/mlb/story/_/id/49212701/red-sox-rally-10th-complete-four-game-sweep-yankees",
-    "https://www.espn.com/soccer/story/_/id/49203383/could-overworked-ronaldo-hurt-portugal-world-cup-chances"
+    "https://www.espn.com/mlb/story/_/id/49212701/red-sox-rally-10th-complete-four-game-sweep-yankees"
   ],
   "postedTitles": [
+    "Norris and McLaren almost perfect as Ferrari flounder in Hungary",
     "LIVE: Made (MLB No. 1) clashes with Duno (MLB No. 23) at Double-A",
     "Red-hot Lombard has 'put himself in the conversation' for shot with Yankees",
     "How Eala's Wimbledon run made Filipinos fall in love with tennis",
@@ -412,15 +413,9 @@
     "Defending champion Sinner survives five-set scare",
     "1-of-1 Ohtani rookie card sells for $2.5 million at public auction",
     "Red Sox complete 4-game sweep of Yankees with wild 10th-inning walk-off",
-    "Gray no-hitter ends in 8th, Red Sox sweep Yankees",
-    "Could an overworked Ronaldo hurt Portugal's World ..."
+    "Gray no-hitter ends in 8th, Red Sox sweep Yankees"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1785030871114",
-      "resourceType": "video",
-      "uploadedAt": 1785030874860
-    },
     {
       "publicId": "tvs_videos/video_1785053467346",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1785092371227",
       "resourceType": "video",
       "uploadedAt": 1785092373899
+    },
+    {
+      "publicId": "tvs_videos/video_1785117748179",
+      "resourceType": "video",
+      "uploadedAt": 1785117750490
     }
   ]
 }
