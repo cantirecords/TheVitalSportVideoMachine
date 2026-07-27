@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/07/27/calendario-liga-2026-27-clasicos-derbis-fechas-clave-laliga-ea-sports.html",
     "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
     "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/atletico/2026/06/29/atletico-madrid-presenta-equipacion-2026-27-neptuno-protagonista.html",
-    "https://www.bbc.co.uk/sport/tennis/articles/ckg0nngzxvko?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-rookie-card-sells-for-2-5-million-at-auction"
+    "https://www.bbc.co.uk/sport/tennis/articles/ckg0nngzxvko?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Salah, Stones & Sancho - who are the Premier League free agents?",
     "Calendario de la liga 2026/27: Clásicos, derbis y fechas clave de LaLiga EA Sports",
     "Ferrari must 'do better' after errors in Hungary",
     "Norris and McLaren almost perfect as Ferrari flounder in Hungary",
@@ -412,15 +413,9 @@
     "From Messi to Haaland: Which World Cup frontrunner...",
     "Lewandowski joins MLS side Chicago Fire until 2028",
     "El Atlético de Madrid presenta su equipación 2026-27 con Neptuno como protagonista",
-    "Defending champion Sinner survives five-set scare",
-    "1-of-1 Ohtani rookie card sells for $2.5 million at public auction"
+    "Defending champion Sinner survives five-set scare"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1785092371227",
-      "resourceType": "video",
-      "uploadedAt": 1785092373899
-    },
     {
       "publicId": "tvs_videos/video_1785117748179",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1785161590451",
       "resourceType": "video",
       "uploadedAt": 1785161592497
+    },
+    {
+      "publicId": "tvs_videos/video_1785179738688",
+      "resourceType": "video",
+      "uploadedAt": 1785179741403
     }
   ]
 }
