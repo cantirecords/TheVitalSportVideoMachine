@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/07/27/calendario-liga-2026-27-clasicos-derbis-fechas-clave-laliga-ea-sports.html",
     "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/atletico/2026/06/29/atletico-madrid-presenta-equipacion-2026-27-neptuno-protagonista.html",
     "https://www.bbc.co.uk/sport/tennis/articles/ckg0nngzxvko?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-rookie-card-sells-for-2-5-million-at-auction",
-    "https://www.mlb.com/news/red-sox-walk-off-yankees-for-four-game-sweep-at-fenway"
+    "https://www.mlb.com/news/shohei-ohtani-rookie-card-sells-for-2-5-million-at-auction"
   ],
   "postedTitles": [
+    "Calendario de la liga 2026/27: Clásicos, derbis y fechas clave de LaLiga EA Sports",
     "Ferrari must 'do better' after errors in Hungary",
     "Norris and McLaren almost perfect as Ferrari flounder in Hungary",
     "LIVE: Made (MLB No. 1) clashes with Duno (MLB No. 23) at Double-A",
@@ -412,15 +413,9 @@
     "Lewandowski joins MLS side Chicago Fire until 2028",
     "El Atlético de Madrid presenta su equipación 2026-27 con Neptuno como protagonista",
     "Defending champion Sinner survives five-set scare",
-    "1-of-1 Ohtani rookie card sells for $2.5 million at public auction",
-    "Red Sox complete 4-game sweep of Yankees with wild 10th-inning walk-off"
+    "1-of-1 Ohtani rookie card sells for $2.5 million at public auction"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1785070868102",
-      "resourceType": "video",
-      "uploadedAt": 1785070870395
-    },
     {
       "publicId": "tvs_videos/video_1785092371227",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1785144835915",
       "resourceType": "video",
       "uploadedAt": 1785144838458
+    },
+    {
+      "publicId": "tvs_videos/video_1785161590451",
+      "resourceType": "video",
+      "uploadedAt": 1785161592497
     }
   ]
 }
