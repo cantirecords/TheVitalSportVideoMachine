@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "LeBron",
     "Ohtani",
     "Hamilton",
@@ -8,10 +9,10 @@
     "Win",
     "Rohit",
     "Sharma",
-    "Shriever",
-    "Wins"
+    "Shriever"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-news-for-july-27-2026",
     "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cqj1wjll810o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/c0mykge4pmjo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/49205906/dont-fooled-thinking-haaland-norway-dont-care-world-cup",
-    "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency"
+    "https://www.espn.com/soccer/story/_/id/49205906/dont-fooled-thinking-haaland-norway-dont-care-world-cup"
   ],
   "postedTitles": [
+    "Chelsea set to sign Italy's Dragoni from Barcelona",
     "Local match goes viral over 'finger-clicking' cheating claim",
     "Trade rumors: Yankees, Skubal, Miller, Astros",
     "Mercedes driver scout Lagrue to join Red Bull",
@@ -412,8 +413,7 @@
     "Who am I? Guess the tennis star No 1",
     "Did Russell's pole set dangerous precedent? F1 Q&A",
     "NZ thrash England to seal historic series win",
-    "Don't be fooled into thinking Haaland, Norway 'don...",
-    "From Messi to Haaland: Which World Cup frontrunner..."
+    "Don't be fooled into thinking Haaland, Norway 'don..."
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1785246131944",
       "resourceType": "video",
       "uploadedAt": 1785246134248
+    },
+    {
+      "publicId": "tvs_videos/video_1785265828504",
+      "resourceType": "video",
+      "uploadedAt": 1785265830987
     }
   ]
 }
