@@ -12,6 +12,7 @@
     "Wins"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-news-for-july-27-2026",
     "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/c0mykge4pmjo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49205906/dont-fooled-thinking-haaland-norway-dont-care-world-cup",
-    "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
-    "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency"
   ],
   "postedTitles": [
+    "Local match goes viral over 'finger-clicking' cheating claim",
     "Trade rumors: Yankees, Skubal, Miller, Astros",
     "Mercedes driver scout Lagrue to join Red Bull",
     "Salah, Stones & Sancho - who are the Premier League free agents?",
@@ -412,8 +413,7 @@
     "Did Russell's pole set dangerous precedent? F1 Q&A",
     "NZ thrash England to seal historic series win",
     "Don't be fooled into thinking Haaland, Norway 'don...",
-    "From Messi to Haaland: Which World Cup frontrunner...",
-    "Lewandowski joins MLS side Chicago Fire until 2028"
+    "From Messi to Haaland: Which World Cup frontrunner..."
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1785226607581",
       "resourceType": "video",
       "uploadedAt": 1785226610238
+    },
+    {
+      "publicId": "tvs_videos/video_1785246131944",
+      "resourceType": "video",
+      "uploadedAt": 1785246134248
     }
   ]
 }
