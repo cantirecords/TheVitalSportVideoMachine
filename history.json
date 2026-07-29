@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/clyj898j2p0o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-28",
     "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/seiya-suzuki-hits-walk-off-single-in-cubs-win-over-padres",
     "https://www.mlb.com/news/dodgers-hit-3-homers-to-beat-athletics",
-    "https://www.bbc.co.uk/sport/tennis/articles/cqj1wjll810o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/c79yxx3ve9do?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/articles/cqj1wjll810o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Season to end in Europe if war continues - F1 boss",
     "Five things we've learned from first half of F1 season",
     "Trade rumors: Red Sox's SS targets, Dodgers, Skubal, Detmers",
     "Chelsea set to sign Italy's Dragoni from Barcelona",
@@ -412,15 +413,9 @@
     "Defying logic - how Haaland could end up with 260 international goals",
     "Facing baseball's most dominant closer, Suzuki delivers Cubs' MLB-best 10th walk-off",
     "Dodgers take advantage of hitters' park, smash 3 home runs vs. A's",
-    "Who am I? Guess the tennis star No 1",
-    "Did Russell's pole set dangerous precedent? F1 Q&A"
+    "Who am I? Guess the tennis star No 1"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1785246131944",
-      "resourceType": "video",
-      "uploadedAt": 1785246134248
-    },
     {
       "publicId": "tvs_videos/video_1785265828504",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1785313373922",
       "resourceType": "video",
       "uploadedAt": 1785313376199
+    },
+    {
+      "publicId": "tvs_videos/video_1785332902253",
+      "resourceType": "video",
+      "uploadedAt": 1785332904909
     }
   ]
 }
