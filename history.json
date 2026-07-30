@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-2026-trade-deadline-targets",
     "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/munetaka-murakami-is-crushing-high-velocity-in-mlb",
     "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/dave-roberts-earns-1-000th-managerial-win-as-dodgers-top-a-s",
     "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-astros-win-over-twins",
     "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
-    "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/seiya-suzuki-hits-walk-off-single-in-cubs-win-over-padres"
+    "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Catcher? Bullpen? Outfielder? Who are Yankees targeting at Deadline?",
     "The phone call that made Briton an NFL trailblazer",
     "Scouts thought Murakami wouldn't handle MLB velo. He's proven them wrong",
     "Season to end in Europe if war continues - F1 boss",
@@ -412,19 +413,18 @@
     "'It's mind-blowing': Roberts becomes fastest MLB manager to 1,000 career wins",
     "Altuve's clutch ABS challenge sets up Yordan's franchise-record-tying slam",
     "Judge Doty, who ruled on many NFL cases, dies",
-    "Defying logic - how Haaland could end up with 260 international goals",
-    "Facing baseball's most dominant closer, Suzuki delivers Cubs' MLB-best 10th walk-off"
+    "Defying logic - how Haaland could end up with 260 international goals"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1785351606874",
-      "resourceType": "video",
-      "uploadedAt": 1785351609313
-    },
     {
       "publicId": "tvs_videos/video_1785418193322",
       "resourceType": "video",
       "uploadedAt": 1785418196559
+    },
+    {
+      "publicId": "tvs_videos/video_1785438742001",
+      "resourceType": "video",
+      "uploadedAt": 1785438744272
     }
   ]
 }
