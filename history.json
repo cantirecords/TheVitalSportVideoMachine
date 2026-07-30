@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/munetaka-murakami-is-crushing-high-velocity-in-mlb",
     "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/clyj898j2p0o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-astros-win-over-twins",
     "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
     "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/seiya-suzuki-hits-walk-off-single-in-cubs-win-over-padres",
-    "https://www.mlb.com/news/dodgers-hit-3-homers-to-beat-athletics"
+    "https://www.mlb.com/news/seiya-suzuki-hits-walk-off-single-in-cubs-win-over-padres"
   ],
   "postedTitles": [
+    "The phone call that made Briton an NFL trailblazer",
     "Scouts thought Murakami wouldn't handle MLB velo. He's proven them wrong",
     "Season to end in Europe if war continues - F1 boss",
     "Five things we've learned from first half of F1 season",
@@ -412,8 +413,7 @@
     "Altuve's clutch ABS challenge sets up Yordan's franchise-record-tying slam",
     "Judge Doty, who ruled on many NFL cases, dies",
     "Defying logic - how Haaland could end up with 260 international goals",
-    "Facing baseball's most dominant closer, Suzuki delivers Cubs' MLB-best 10th walk-off",
-    "Dodgers take advantage of hitters' park, smash 3 home runs vs. A's"
+    "Facing baseball's most dominant closer, Suzuki delivers Cubs' MLB-best 10th walk-off"
   ],
   "cloudinaryAssets": [
     {
@@ -425,6 +425,11 @@
       "publicId": "tvs_videos/video_1785351606874",
       "resourceType": "video",
       "uploadedAt": 1785351609313
+    },
+    {
+      "publicId": "tvs_videos/video_1785418193322",
+      "resourceType": "video",
+      "uploadedAt": 1785418196559
     }
   ]
 }
