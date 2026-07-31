@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later",
     "https://www.mlb.com/news/fernando-cruz-walks-in-winning-run-in-11th-for-yankees",
     "https://www.mlb.com/news/yankees-2026-trade-deadline-targets",
     "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.espn.com/soccer/story/_/id/49229840/lamine-yamal-welcome-julian-alvarez-barcelona",
     "https://www.bbc.co.uk/sport/tennis/videos/c6210wl58z6o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dave-roberts-earns-1-000th-managerial-win-as-dodgers-top-a-s",
-    "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-astros-win-over-twins",
-    "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96"
+    "https://www.mlb.com/news/yordan-alvarez-hits-grand-slam-in-astros-win-over-twins"
   ],
   "postedTitles": [
+    "10 years since Astros plucked Yordan from Dodgers",
     "Cruz takes the 'L' -- but the Yankees' offense takes the blame",
     "Catcher? Bullpen? Outfielder? Who are Yankees targeting at Deadline?",
     "The phone call that made Briton an NFL trailblazer",
@@ -412,8 +413,7 @@
     "Yamal: We would welcome Álvarez at Barcelona",
     "Williams edged by Joint in epic three‑setter on singles return",
     "'It's mind-blowing': Roberts becomes fastest MLB manager to 1,000 career wins",
-    "Altuve's clutch ABS challenge sets up Yordan's franchise-record-tying slam",
-    "Judge Doty, who ruled on many NFL cases, dies"
+    "Altuve's clutch ABS challenge sets up Yordan's franchise-record-tying slam"
   ],
   "cloudinaryAssets": [
     {
@@ -425,6 +425,11 @@
       "publicId": "tvs_videos/video_1785463017449",
       "resourceType": "video",
       "uploadedAt": 1785463019244
+    },
+    {
+      "publicId": "tvs_videos/video_1785525052602",
+      "resourceType": "video",
+      "uploadedAt": 1785525054194
     }
   ]
 }
