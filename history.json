@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-warren-pitches-6-2-3-scoreless-innings-to-lift-yankees",
     "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later",
     "https://www.mlb.com/news/fernando-cruz-walks-in-winning-run-in-11th-for-yankees",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/connelly-early-injured-list-left-elbow-inflammation",
     "https://www.espn.com/soccer/story/_/id/49229840/lamine-yamal-welcome-julian-alvarez-barcelona",
-    "https://www.bbc.co.uk/sport/tennis/videos/c6210wl58z6o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/dave-roberts-earns-1-000th-managerial-win-as-dodgers-top-a-s"
+    "https://www.bbc.co.uk/sport/tennis/videos/c6210wl58z6o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola",
     "Warren finds his joy again as Yankees continue rotation dominance",
     "10 years since Astros plucked Yordan from Dodgers",
     "Cruz takes the 'L' -- but the Yankees' offense takes the blame",
@@ -412,8 +413,7 @@
     "Egypt optimistic Salah will be fit to face Australia",
     "Red Sox place Early on IL with left elbow inflammation",
     "Yamal: We would welcome Álvarez at Barcelona",
-    "Williams edged by Joint in epic three‑setter on singles return",
-    "'It's mind-blowing': Roberts becomes fastest MLB manager to 1,000 career wins"
+    "Williams edged by Joint in epic three‑setter on singles return"
   ],
   "cloudinaryAssets": [
     {
@@ -425,6 +425,11 @@
       "publicId": "tvs_videos/video_1785549469982",
       "resourceType": "video",
       "uploadedAt": 1785549471602
+    },
+    {
+      "publicId": "tvs_videos/video_1785571567811",
+      "resourceType": "video",
+      "uploadedAt": 1785571569219
     }
   ]
 }
