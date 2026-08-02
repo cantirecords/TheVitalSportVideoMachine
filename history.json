@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season",
     "https://www.bbc.co.uk/sport/football/articles/ckg9jlzwrnro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade",
     "https://www.mlb.com/news/brewers-top-prospect-jesus-made-5-hits-2-homers-7-rbi-double-a",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/ce8kwp30jejo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/crlw4ykp3x3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/cg4wg7lee1vo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/videos/cj6gdj8e04ro?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-1"
+    "https://www.bbc.co.uk/sport/tennis/videos/cj6gdj8e04ro?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Fresh off Skubal trade, Dodgers face surging Red Sox on Sunday Night Baseball (NBC, 7:20 ET)",
     "Salah close to Trabzonspor move - Sunday's gossip",
     "Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)",
     "The Jesús Made Game: 5 hits, 2 homers, 7 RBIs for MLB's No. 1 prospect",
@@ -412,8 +413,7 @@
     "LeBron's Last Dance - what next for James after Lakers exit?",
     "Pundits split on Kane penalty claim",
     "Relief for England as Kane heads in equalising goal against DR Congo",
-    "Defending champion Sinner beats Borges to reach round three",
-    "Trade rumors: Skubal, Angels, Yankees, starting pitchers"
+    "Defending champion Sinner beats Borges to reach round three"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1785675682366",
       "resourceType": "video",
       "uploadedAt": 1785675684095
+    },
+    {
+      "publicId": "tvs_videos/video_1785697062958",
+      "resourceType": "video",
+      "uploadedAt": 1785697065108
     }
   ]
 }
