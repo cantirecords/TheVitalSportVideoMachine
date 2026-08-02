@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade",
     "https://www.mlb.com/news/brewers-top-prospect-jesus-made-5-hits-2-homers-7-rbi-double-a",
     "https://www.mlb.com/news/camilo-doval-pirates-yankees-trade",
     "https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/videos/cg4wg7lee1vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/cj6gdj8e04ro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-1",
-    "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/connelly-early-injured-list-left-elbow-inflammation"
+    "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)",
     "The Jesús Made Game: 5 hits, 2 homers, 7 RBIs for MLB's No. 1 prospect",
     "Yankees trading reliever Doval to Pirates for 2 prospects (source)",
     "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola",
@@ -412,8 +413,7 @@
     "Relief for England as Kane heads in equalising goal against DR Congo",
     "Defending champion Sinner beats Borges to reach round three",
     "Trade rumors: Skubal, Angels, Yankees, starting pitchers",
-    "Egypt optimistic Salah will be fit to face Australia",
-    "Red Sox place Early on IL with left elbow inflammation"
+    "Egypt optimistic Salah will be fit to face Australia"
   ],
   "cloudinaryAssets": [
     {
@@ -430,6 +430,11 @@
       "publicId": "tvs_videos/video_1785635646483",
       "resourceType": "video",
       "uploadedAt": 1785635648083
+    },
+    {
+      "publicId": "tvs_videos/video_1785658019189",
+      "resourceType": "video",
+      "uploadedAt": 1785658021762
     }
   ]
 }
