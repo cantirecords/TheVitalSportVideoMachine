@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.mlb.com/live-stream-games/subscribe/mlbplus",
     "https://www.mlb.com/news/red-sox-sweep-dodgers-for-first-time-since-2010",
     "https://www.mlb.com/news/tarik-skubal-to-make-first-start-for-dodgers-against-cubs",
     "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/dansby-swanson-hits-three-home-runs-as-cubs-score-23-runs",
     "https://www.marca.com/futbol/barcelona/2026/07/02/tebas-dice-buena-relacion-barca-laporta-influira-decisiones-laliga.html",
     "https://www.mlb.com/news/sean-keys-hits-first-major-league-home-run-on-canada-day",
-    "https://www.bbc.co.uk/sport/basketball/articles/ce8kwp30jejo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/videos/crlw4ykp3x3o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/basketball/articles/ce8kwp30jejo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Watch NOW: Live Trade Deadline coverage on MLB Network and MLB+",
     "Scorching Sox sweep Dodgers for first time since 2010",
     "Dodgers get first look at Skubal on the mound Tuesday at Wrigley",
     "Fresh off Skubal trade, Dodgers face surging Red Sox on Sunday Night Baseball (NBC, 7:20 ET)",
@@ -412,15 +413,9 @@
     "Swanson slugs 3 HRs in Cubs' historic 23-run, 8-HR romp",
     "Tebas dice que su \"buena relación\" con el Barça y Laporta no influirá en las decisiones de LaLiga",
     "Keys turns on the ignition for 1st MLB homer -- on Canada Day!",
-    "LeBron's Last Dance - what next for James after Lakers exit?",
-    "Pundits split on Kane penalty claim"
+    "LeBron's Last Dance - what next for James after Lakers exit?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1785675682366",
-      "resourceType": "video",
-      "uploadedAt": 1785675684095
-    },
     {
       "publicId": "tvs_videos/video_1785697062958",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1785749082481",
       "resourceType": "video",
       "uploadedAt": 1785749084061
+    },
+    {
+      "publicId": "tvs_videos/video_1785766713864",
+      "resourceType": "video",
+      "uploadedAt": 1785766715870
     }
   ]
 }
