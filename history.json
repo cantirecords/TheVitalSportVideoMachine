@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-2026-trade-deadline-analysis",
     "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cpd79ln1p93o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cp36le6vlv6o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/swimming/articles/cwykj555q72o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/cn8kv39lxglo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/49238551/mlb-2026-power-rankings-week-14-dodgers-brewers-rays-braves-yankees-marlins"
+    "https://www.bbc.co.uk/sport/tennis/articles/cn8kv39lxglo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Dodgers come out of Deadline with bolstered rotation, catching depth",
     "Mourners line streets of Milan for legend Baresi's funeral",
     "Why we are still waiting for the 'Newey effect' - F1 Q&A",
     "Trade Deadline sale offers you the best deal for MLB.TV",
@@ -412,8 +413,7 @@
     "Why are Man City breaking the bank for Anderson?",
     "Silverstone completely different with new cars - Hamilton",
     "Firth breaks own S14 100m backstroke world record",
-    "Who am I? Guess the tennis star No 3",
-    "MLB Power Rankings: Rays, Marlins bring Florida he..."
+    "Who am I? Guess the tennis star No 3"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1785851423031",
       "resourceType": "video",
       "uploadedAt": 1785851425523
+    },
+    {
+      "publicId": "tvs_videos/video_1785871205485",
+      "resourceType": "video",
+      "uploadedAt": 1785871206865
     }
   ]
 }
