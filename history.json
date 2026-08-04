@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale",
     "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/live-stream-games/subscribe/mlbplus",
     "https://www.mlb.com/news/red-sox-sweep-dodgers-for-first-time-since-2010",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cn8kv39lxglo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/49238551/mlb-2026-power-rankings-week-14-dodgers-brewers-rays-braves-yankees-marlins",
     "https://www.mlb.com/news/dansby-swanson-hits-three-home-runs-as-cubs-score-23-runs",
-    "https://www.marca.com/futbol/barcelona/2026/07/02/tebas-dice-buena-relacion-barca-laporta-influira-decisiones-laliga.html",
-    "https://www.mlb.com/news/sean-keys-hits-first-major-league-home-run-on-canada-day"
+    "https://www.marca.com/futbol/barcelona/2026/07/02/tebas-dice-buena-relacion-barca-laporta-influira-decisiones-laliga.html"
   ],
   "postedTitles": [
+    "Trade Deadline sale offers you the best deal for MLB.TV",
     "Real to resume talks with Arsenal target Vinicius Jr",
     "Watch NOW: Live Trade Deadline coverage on MLB Network and MLB+",
     "Scorching Sox sweep Dodgers for first time since 2010",
@@ -412,8 +413,7 @@
     "Who am I? Guess the tennis star No 3",
     "MLB Power Rankings: Rays, Marlins bring Florida he...",
     "Swanson slugs 3 HRs in Cubs' historic 23-run, 8-HR romp",
-    "Tebas dice que su \"buena relación\" con el Barça y Laporta no influirá en las decisiones de LaLiga",
-    "Keys turns on the ignition for 1st MLB homer -- on Canada Day!"
+    "Tebas dice que su \"buena relación\" con el Barça y Laporta no influirá en las decisiones de LaLiga"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1785784882105",
       "resourceType": "video",
       "uploadedAt": 1785784883831
+    },
+    {
+      "publicId": "tvs_videos/video_1785807097336",
+      "resourceType": "video",
+      "uploadedAt": 1785807098975
     }
   ]
 }
