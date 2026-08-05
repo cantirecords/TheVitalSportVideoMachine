@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/basketball/articles/cg5l1p3ng70o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/javier-assad-cubs-lineup-delivers-against-dodgers",
     "https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-2026-trade-deadline-analysis",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-turn-early-deficit-into-big-win-over-padres",
     "https://www.bbc.co.uk/sport/football/videos/ce3edkv33kvo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cp36le6vlv6o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "NBA Europe will take UK to another level - Anunoby",
     "Assad keeps pace with Skubal as Cubs hand Dodgers 5th straight loss",
     "Turkish club Trabzonspor begin talks to sign Salah",
     "Dodgers come out of Deadline with bolstered rotation, catching depth",
@@ -412,8 +413,7 @@
     "Real Madrid have 'no intention' of signing Fernandez",
     "Never-say-die Dodgers turn 6-run deficit into 5-run victory over Padres",
     "Ronaldo has equaliser ruled out for offside",
-    "Why are Man City breaking the bank for Anderson?",
-    "Silverstone completely different with new cars - Hamilton"
+    "Why are Man City breaking the bank for Anderson?"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1785918022137",
       "resourceType": "video",
       "uploadedAt": 1785918024461
+    },
+    {
+      "publicId": "tvs_videos/video_1785937560838",
+      "resourceType": "video",
+      "uploadedAt": 1785937563299
     }
   ]
 }
