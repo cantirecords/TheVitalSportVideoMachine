@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c20e1723pdno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cg5l1p3ng70o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/javier-assad-cubs-lineup-delivers-against-dodgers",
@@ -210,10 +211,10 @@
     "https://www.espn.com/nba/story/_/id/49239780/los-angeles-lakers-overall-biggest-questions-lebron-james-luka-doncic-walker-kessler-nba-free-agency-offseason",
     "https://www.mlb.com/news/top-250-draft-prospects-for-2026",
     "https://www.bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/dodgers-turn-early-deficit-into-big-win-over-padres",
-    "https://www.bbc.co.uk/sport/football/videos/ce3edkv33kvo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/dodgers-turn-early-deficit-into-big-win-over-padres"
   ],
   "postedTitles": [
+    "Salah mobbed at airport before Trabzonspor move",
     "Alcaraz out of Cincinnati Open with lingering injury",
     "NBA Europe will take UK to another level - Anunoby",
     "Assad keeps pace with Skubal as Cubs hand Dodgers 5th straight loss",
@@ -412,8 +413,7 @@
     "Making sense of the Lakers' overhaul: Why do the K...",
     "The Draft Top 250 is out! For the 1st time all year, there's a new No. 1",
     "Real Madrid have 'no intention' of signing Fernandez",
-    "Never-say-die Dodgers turn 6-run deficit into 5-run victory over Padres",
-    "Ronaldo has equaliser ruled out for offside"
+    "Never-say-die Dodgers turn 6-run deficit into 5-run victory over Padres"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1785957434059",
       "resourceType": "video",
       "uploadedAt": 1785957436109
+    },
+    {
+      "publicId": "tvs_videos/video_1785980698899",
+      "resourceType": "video",
+      "uploadedAt": 1785980701130
     }
   ]
 }
