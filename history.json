@@ -12,6 +12,7 @@
     "Shriever"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/five-things-to-know-about-2026-mlb-at-field-of-dreams-game",
     "https://www.mlb.com/news/heliot-ramos-loses-shoe-helmet-on-first-hit-with-yankees",
     "https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jefry-yan-celebrates-after-strikeouts-in-mlb-debut",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49249828/one-free-throw-rule-embedded-ball-tech-test-set-summer-league",
-    "https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49239780/los-angeles-lakers-overall-biggest-questions-lebron-james-luka-doncic-walker-kessler-nba-free-agency-offseason"
+    "https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Five things you need to know about the 2026 MLB at Field of Dreams Game",
     "So excited about his first Yankees hit, he lost his shoe. And still made it to second!",
     "Why Liverpool icon Salah has chosen Trabzonspor",
     "Rookie's pitches sing in MLB debut -- and he can dance, too!",
@@ -412,15 +413,9 @@
     "'I decided last minute!' - Salah on Panenka penalty",
     "Eala's historic Wimbledon run thrills boxing-obsessed Philippines",
     "NBA testing one free throw rule in summer league",
-    "Djokovic fights off Rinderknech to claim more history",
-    "Making sense of the Lakers' overhaul: Why do the K..."
+    "Djokovic fights off Rinderknech to claim more history"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1785980698899",
-      "resourceType": "video",
-      "uploadedAt": 1785980701130
-    },
     {
       "publicId": "tvs_videos/video_1786004272792",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1786060329400",
       "resourceType": "video",
       "uploadedAt": 1786060331495
+    },
+    {
+      "publicId": "tvs_videos/video_1786068603465",
+      "resourceType": "video",
+      "uploadedAt": 1786068605538
     }
   ]
 }
