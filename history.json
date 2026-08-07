@@ -12,6 +12,7 @@
     "Sharma"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/why-kris-bubic-could-help-the-dodgers-in-the-playoffs",
     "https://www.bbc.co.uk/sport/formula1/videos/cy07p71522po?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/andrew-pinckney-hits-first-mlb-home-run-off-ace-cristopher-sanchez",
     "https://www.mlb.com/news/five-things-to-know-about-2026-mlb-at-field-of-dreams-game",
@@ -210,10 +211,10 @@
     "https://www.espn.com/mlb/story/_/id/49265557/dodgers-shohei-ohtani-exits-early-vs-padres-bicep-issue-held-lineup-saturday",
     "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cr7xmgy7x52o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Why Dodgers' other trade could pay off in October",
     "'Verstappen to McLaren!' - Mid-season F1 predictions",
     "First MLB hit? Pinckney makes his a 402-foot homer off a Cy Young contender!",
     "Five things you need to know about the 2026 MLB at Field of Dreams Game",
@@ -412,8 +413,7 @@
     "Dodgers to hold Ohtani (bicep) out Sat. after exit...",
     "Murals, flags and beef dishes - Messi mania takes hold in Miami",
     "Who am I? Guess the tennis star No 4",
-    "'I decided last minute!' - Salah on Panenka penalty",
-    "Eala's historic Wimbledon run thrills boxing-obsessed Philippines"
+    "'I decided last minute!' - Salah on Panenka penalty"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1786106549985",
       "resourceType": "video",
       "uploadedAt": 1786106552597
+    },
+    {
+      "publicId": "tvs_videos/video_1786128132682",
+      "resourceType": "video",
+      "uploadedAt": 1786128134435
     }
   ]
 }
