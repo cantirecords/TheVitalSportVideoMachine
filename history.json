@@ -12,6 +12,7 @@
     "Sharma"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers",
     "https://www.mlb.com/news/carlos-rodon-to-begin-minor-league-rehab-saturday",
     "https://www.mlb.com/news/why-kris-bubic-could-help-the-dodgers-in-the-playoffs",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/videos/c4gy0zrd0eeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/gerrit-cole-starts-series-opener-vs-twins",
-    "https://www.espn.com/mlb/story/_/id/49265557/dodgers-shohei-ohtani-exits-early-vs-padres-bicep-issue-held-lineup-saturday",
-    "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/mlb/story/_/id/49265557/dodgers-shohei-ohtani-exits-early-vs-padres-bicep-issue-held-lineup-saturday"
   ],
   "postedTitles": [
+    "NBA forward Clarke's death due to effects of drugs",
     "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
     "Rodón to begin rehab Saturday, could piggyback upon return to Yankees",
     "Why Dodgers' other trade could pay off in October",
@@ -412,8 +413,7 @@
     "'Quite stressed' - Djokovic relieved to get past Rinderknech",
     "Antonelli passes Hamilton to win Silverstone sprint",
     "Cole defies weather, Boone's hook to help Yankees snap skid",
-    "Dodgers to hold Ohtani (bicep) out Sat. after exit...",
-    "Murals, flags and beef dishes - Messi mania takes hold in Miami"
+    "Dodgers to hold Ohtani (bicep) out Sat. after exit..."
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1786171022522",
       "resourceType": "video",
       "uploadedAt": 1786171024745
+    },
+    {
+      "publicId": "tvs_videos/video_1786192153548",
+      "resourceType": "video",
+      "uploadedAt": 1786192154903
     }
   ]
 }
