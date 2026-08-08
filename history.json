@@ -12,6 +12,7 @@
     "Sharma"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/this-week-in-baseball-tarik-skubal-debuts-with-dodgers",
     "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers",
     "https://www.mlb.com/news/carlos-rodon-to-begin-minor-league-rehab-saturday",
@@ -210,10 +211,10 @@
     "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
     "https://www.bbc.co.uk/sport/tennis/videos/c4gy0zrd0eeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/gerrit-cole-starts-series-opener-vs-twins",
-    "https://www.espn.com/mlb/story/_/id/49265557/dodgers-shohei-ohtani-exits-early-vs-padres-bicep-issue-held-lineup-saturday"
+    "https://www.mlb.com/news/gerrit-cole-starts-series-opener-vs-twins"
   ],
   "postedTitles": [
+    "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
     "NBA forward Clarke's death due to effects of drugs",
     "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
     "Rodón to begin rehab Saturday, could piggyback upon return to Yankees",
@@ -412,8 +413,7 @@
     "Windhorst: NBA execs on the Brown trade, big-money...",
     "'Quite stressed' - Djokovic relieved to get past Rinderknech",
     "Antonelli passes Hamilton to win Silverstone sprint",
-    "Cole defies weather, Boone's hook to help Yankees snap skid",
-    "Dodgers to hold Ohtani (bicep) out Sat. after exit..."
+    "Cole defies weather, Boone's hook to help Yankees snap skid"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1786192153548",
       "resourceType": "video",
       "uploadedAt": 1786192154903
+    },
+    {
+      "publicId": "tvs_videos/video_1786213453482",
+      "resourceType": "video",
+      "uploadedAt": 1786213455972
     }
   ]
 }
