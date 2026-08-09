@@ -12,6 +12,7 @@
     "Sharma"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-hold-2026-old-timers-day",
     "https://www.mlb.com/news/this-week-in-baseball-tarik-skubal-debuts-with-dodgers",
     "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/cardinals-cruise-to-historic-rout-of-cubs",
     "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
     "https://www.bbc.co.uk/sport/tennis/videos/c4gy0zrd0eeo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/gerrit-cole-starts-series-opener-vs-twins"
+    "https://www.bbc.co.uk/sport/formula1/articles/cvglegml3llo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
     "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
     "NBA forward Clarke's death due to effects of drugs",
     "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
@@ -412,15 +413,9 @@
     "Relentless 2-out attack leads Cardinals to historic rout of rival Cubs",
     "Windhorst: NBA execs on the Brown trade, big-money...",
     "'Quite stressed' - Djokovic relieved to get past Rinderknech",
-    "Antonelli passes Hamilton to win Silverstone sprint",
-    "Cole defies weather, Boone's hook to help Yankees snap skid"
+    "Antonelli passes Hamilton to win Silverstone sprint"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786150662299",
-      "resourceType": "video",
-      "uploadedAt": 1786150664426
-    },
     {
       "publicId": "tvs_videos/video_1786171022522",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1786213453482",
       "resourceType": "video",
       "uploadedAt": 1786213455972
+    },
+    {
+      "publicId": "tvs_videos/video_1786237246493",
+      "resourceType": "video",
+      "uploadedAt": 1786237248183
     }
   ]
 }
