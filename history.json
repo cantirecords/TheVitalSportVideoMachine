@@ -12,6 +12,7 @@
     "Sharma"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
     "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-hold-2026-old-timers-day",
     "https://www.mlb.com/news/this-week-in-baseball-tarik-skubal-debuts-with-dodgers",
@@ -210,10 +211,10 @@
     "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
     "https://www.espn.com/nba/story/_/id/49259879/sources-lakers-trading-ayton-wizards-hardy-future-picks",
     "https://www.mlb.com/news/cardinals-cruise-to-historic-rout-of-cubs",
-    "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
-    "https://www.bbc.co.uk/sport/tennis/videos/c4gy0zrd0eeo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap"
   ],
   "postedTitles": [
+    "Chris Sale -- who wasn't pitching Sunday -- ejected before game vs. Yankees",
     "World number one Sinner to miss Cincinnati Open",
     "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
     "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
@@ -412,8 +413,7 @@
     "Copy of How can Brazil stop Haaland? It might come down to...",
     "Sources: Lakers trading center Ayton to Wizards",
     "Relentless 2-out attack leads Cardinals to historic rout of rival Cubs",
-    "Windhorst: NBA execs on the Brown trade, big-money...",
-    "'Quite stressed' - Djokovic relieved to get past Rinderknech"
+    "Windhorst: NBA execs on the Brown trade, big-money..."
   ],
   "cloudinaryAssets": [
     {
@@ -425,6 +425,11 @@
       "publicId": "tvs_videos/video_1786300044034",
       "resourceType": "video",
       "uploadedAt": 1786300045717
+    },
+    {
+      "publicId": "tvs_videos/video_1786323772454",
+      "resourceType": "video",
+      "uploadedAt": 1786323774303
     }
   ]
 }
