@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Wilson",
+    "Breaks",
     "Nationals",
     "Lead",
     "Miz",
@@ -16,6 +18,7 @@
     "Sharma"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/jacob-wilson-mlb-error-free-shortstop-record",
     "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-10-2026",
     "https://www.mlb.com/news/2026-nationals-have-youngest-lineup-ever",
     "https://www.mlb.com/news/jacob-misiorowski-notches-200th-strikeout-of-season-vs-twins",
@@ -214,10 +217,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cj3gp85me40o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/videos/cdejpjng0p7o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-freddie-freeman-max-muncy-andy-pages-yoshinobu-yamamoto-dodgers-all-stars",
-    "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders"
+    "https://www.mlb.com/news/shohei-ohtani-freddie-freeman-max-muncy-andy-pages-yoshinobu-yamamoto-dodgers-all-stars"
   ],
   "postedTitles": [
+    "111 games, zero errors: Wilson sets MLB record at shortstop",
     "Brewers-Dodgers clash among 5 series to watch this week",
     "MLB's highest-scoring offense is also its all-time youngest",
     "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
@@ -416,8 +419,7 @@
     "GB's Fery fights off Bergs and nosebleeds to win five-set epic",
     "Real Madrid sign defender Dumfries from Inter Milan",
     "No world record, no win - Hodgkinson beaten again in Diamond League",
-    "Dodgers boast 4 ASG starters, tie MLB lead with 5 total reps",
-    "Copy of How can Brazil stop Haaland? It might come down to..."
+    "Dodgers boast 4 ASG starters, tie MLB lead with 5 total reps"
   ],
   "cloudinaryAssets": [
     {
@@ -444,6 +446,11 @@
       "publicId": "tvs_videos/video_1786345990916",
       "resourceType": "video",
       "uploadedAt": 1786345992339
+    },
+    {
+      "publicId": "tvs_cards/card_1786354847931",
+      "resourceType": "image",
+      "uploadedAt": 1786354849163
     }
   ]
 }
