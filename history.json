@@ -16,6 +16,7 @@
     "Sharma"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-10-2026",
     "https://www.mlb.com/news/2026-nationals-have-youngest-lineup-ever",
     "https://www.mlb.com/news/jacob-misiorowski-notches-200th-strikeout-of-season-vs-twins",
     "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
@@ -214,10 +215,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/videos/cdejpjng0p7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-freddie-freeman-max-muncy-andy-pages-yoshinobu-yamamoto-dodgers-all-stars",
-    "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
-    "https://www.espn.com/nba/story/_/id/49259879/sources-lakers-trading-ayton-wizards-hardy-future-picks"
+    "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders"
   ],
   "postedTitles": [
+    "Brewers-Dodgers clash among 5 series to watch this week",
     "MLB's highest-scoring offense is also its all-time youngest",
     "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
     "Chris Sale -- who wasn't pitching Sunday -- ejected before game vs. Yankees",
@@ -416,8 +417,7 @@
     "Real Madrid sign defender Dumfries from Inter Milan",
     "No world record, no win - Hodgkinson beaten again in Diamond League",
     "Dodgers boast 4 ASG starters, tie MLB lead with 5 total reps",
-    "Copy of How can Brazil stop Haaland? It might come down to...",
-    "Sources: Lakers trading center Ayton to Wizards"
+    "Copy of How can Brazil stop Haaland? It might come down to..."
   ],
   "cloudinaryAssets": [
     {
@@ -439,6 +439,11 @@
       "publicId": "tvs_cards/card_1786340329891",
       "resourceType": "image",
       "uploadedAt": 1786340331411
+    },
+    {
+      "publicId": "tvs_videos/video_1786345990916",
+      "resourceType": "video",
+      "uploadedAt": 1786345992339
     }
   ]
 }
