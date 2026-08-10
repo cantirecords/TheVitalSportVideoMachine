@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Nationals",
+    "Lead",
     "Miz",
     "Reaches",
     "Verstappen",
@@ -14,6 +16,7 @@
     "Sharma"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/2026-nationals-have-youngest-lineup-ever",
     "https://www.mlb.com/news/jacob-misiorowski-notches-200th-strikeout-of-season-vs-twins",
     "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
     "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.bbc.co.uk/sport/athletics/videos/cdejpjng0p7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-freddie-freeman-max-muncy-andy-pages-yoshinobu-yamamoto-dodgers-all-stars",
     "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
-    "https://www.espn.com/nba/story/_/id/49259879/sources-lakers-trading-ayton-wizards-hardy-future-picks",
-    "https://www.mlb.com/news/cardinals-cruise-to-historic-rout-of-cubs"
+    "https://www.espn.com/nba/story/_/id/49259879/sources-lakers-trading-ayton-wizards-hardy-future-picks"
   ],
   "postedTitles": [
+    "MLB's highest-scoring offense is also its all-time youngest",
     "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
     "Chris Sale -- who wasn't pitching Sunday -- ejected before game vs. Yankees",
     "World number one Sinner to miss Cincinnati Open",
@@ -414,8 +417,7 @@
     "No world record, no win - Hodgkinson beaten again in Diamond League",
     "Dodgers boast 4 ASG starters, tie MLB lead with 5 total reps",
     "Copy of How can Brazil stop Haaland? It might come down to...",
-    "Sources: Lakers trading center Ayton to Wizards",
-    "Relentless 2-out attack leads Cardinals to historic rout of rival Cubs"
+    "Sources: Lakers trading center Ayton to Wizards"
   ],
   "cloudinaryAssets": [
     {
@@ -432,6 +434,11 @@
       "publicId": "tvs_cards/card_1786328508365",
       "resourceType": "image",
       "uploadedAt": 1786328510304
+    },
+    {
+      "publicId": "tvs_cards/card_1786340329891",
+      "resourceType": "image",
+      "uploadedAt": 1786340331411
     }
   ]
 }
