@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "Ichiro",
     "Returns",
     "Hodgkinson",
@@ -8,20 +9,10 @@
     "Breaks",
     "Nationals",
     "Lead",
-    "Miz",
-    "Reaches",
-    "Verstappen",
-    "Barcelona",
-    "LeBron",
-    "Ohtani",
-    "Hamilton",
-    "Madrid",
-    "England",
-    "Win",
-    "Rohit",
-    "Sharma"
+    "Miz"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html",
     "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments",
     "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/c0m7kl42grlo?at_medium=RSS&at_campaign=rss",
@@ -220,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c1ky0km90zxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers",
-    "https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add",
-    "https://www.bbc.co.uk/sport/tennis/articles/cj3gp85me40o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add"
   ],
   "postedTitles": [
+    "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves",
     "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration",
     "The team behind Hodgkinson's golden rise and the hunt for a world record",
     "Mayobridge to Madden – Smyth enjoying next level in NFL",
@@ -422,15 +413,9 @@
     "Haaland double fires Norway into World Cup quarter-finals",
     "Who am I? Guess the tennis star No 6",
     "Agent: LeBron eyeing Heat, Cavs, Sixers, others",
-    "Sources: 76ers, with Brown on board, eye LeBron",
-    "GB's Fery fights off Bergs and nosebleeds to win five-set epic"
+    "Sources: 76ers, with Brown on board, eye LeBron"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786300044034",
-      "resourceType": "video",
-      "uploadedAt": 1786300045717
-    },
     {
       "publicId": "tvs_videos/video_1786323772454",
       "resourceType": "video",
@@ -470,6 +455,11 @@
       "publicId": "tvs_cards/card_1786381285451",
       "resourceType": "image",
       "uploadedAt": 1786381286609
+    },
+    {
+      "publicId": "tvs_videos/video_1786387477516",
+      "resourceType": "video",
+      "uploadedAt": 1786387479869
     }
   ]
 }
