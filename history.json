@@ -12,6 +12,7 @@
     "Miz"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals",
     "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/swimming/articles/cwy00lnj2zxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/best-tools-in-the-2026-mlb-draft-class",
     "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/c1ky0km90zxo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Feeling urgency after tough road trip, Dodgers conjure some clutch magic",
     "Who could Arsenal sign after missing out on Vinicius Jr? ",
     "The transgender controversy surrounding the WNBA",
     "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves",
@@ -412,15 +413,9 @@
     "McIntosh breaks last of 'supersuit' world records",
     "Here are the top tools in the 2026 Draft class",
     "Bellingham scores two in 98 seconds to silence the Azteca",
-    "Haaland double fires Norway into World Cup quarter-finals",
-    "Who am I? Guess the tennis star No 6"
+    "Haaland double fires Norway into World Cup quarter-finals"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1786354847931",
-      "resourceType": "image",
-      "uploadedAt": 1786354849163
-    },
     {
       "publicId": "tvs_videos/video_1786366017632",
       "resourceType": "video",
@@ -450,6 +445,11 @@
       "publicId": "tvs_videos/video_1786431056734",
       "resourceType": "video",
       "uploadedAt": 1786431058994
+    },
+    {
+      "publicId": "tvs_videos/video_1786452220764",
+      "resourceType": "video",
+      "uploadedAt": 1786452222711
     }
   ]
 }
