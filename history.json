@@ -12,6 +12,7 @@
     "Miz"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html",
     "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/best-tools-in-the-2026-mlb-draft-class",
     "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/c1ky0km90zxo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers"
+    "https://www.bbc.co.uk/sport/tennis/articles/c1ky0km90zxo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Who could Arsenal sign after missing out on Vinicius Jr? ",
     "The transgender controversy surrounding the WNBA",
     "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves",
     "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration",
@@ -412,15 +413,9 @@
     "Here are the top tools in the 2026 Draft class",
     "Bellingham scores two in 98 seconds to silence the Azteca",
     "Haaland double fires Norway into World Cup quarter-finals",
-    "Who am I? Guess the tennis star No 6",
-    "Agent: LeBron eyeing Heat, Cavs, Sixers, others"
+    "Who am I? Guess the tennis star No 6"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1786340329891",
-      "resourceType": "image",
-      "uploadedAt": 1786340331411
-    },
     {
       "publicId": "tvs_videos/video_1786345990916",
       "resourceType": "video",
@@ -455,6 +450,11 @@
       "publicId": "tvs_videos/video_1786410106373",
       "resourceType": "video",
       "uploadedAt": 1786410108351
+    },
+    {
+      "publicId": "tvs_videos/video_1786431056734",
+      "resourceType": "video",
+      "uploadedAt": 1786431058994
     }
   ]
 }
