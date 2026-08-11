@@ -12,6 +12,7 @@
     "Miz"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html",
     "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments",
     "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c1ky0km90zxo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers",
-    "https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add"
+    "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers"
   ],
   "postedTitles": [
+    "The transgender controversy surrounding the WNBA",
     "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves",
     "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration",
     "The team behind Hodgkinson's golden rise and the hunt for a world record",
@@ -412,8 +413,7 @@
     "Bellingham scores two in 98 seconds to silence the Azteca",
     "Haaland double fires Norway into World Cup quarter-finals",
     "Who am I? Guess the tennis star No 6",
-    "Agent: LeBron eyeing Heat, Cavs, Sixers, others",
-    "Sources: 76ers, with Brown on board, eye LeBron"
+    "Agent: LeBron eyeing Heat, Cavs, Sixers, others"
   ],
   "cloudinaryAssets": [
     {
@@ -460,6 +460,11 @@
       "publicId": "tvs_videos/video_1786387477516",
       "resourceType": "video",
       "uploadedAt": 1786387479869
+    },
+    {
+      "publicId": "tvs_videos/video_1786410106373",
+      "resourceType": "video",
+      "uploadedAt": 1786410108351
     }
   ]
 }
