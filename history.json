@@ -12,6 +12,7 @@
     "Miz"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
     "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals",
     "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/swimming/articles/cwy00lnj2zxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/best-tools-in-the-2026-mlb-draft-class",
-    "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
     "Feeling urgency after tough road trip, Dodgers conjure some clutch magic",
     "Who could Arsenal sign after missing out on Vinicius Jr? ",
     "The transgender controversy surrounding the WNBA",
@@ -412,15 +413,9 @@
     "The man England will fear most - Haaland fires Norway to history",
     "McIntosh breaks last of 'supersuit' world records",
     "Here are the top tools in the 2026 Draft class",
-    "Bellingham scores two in 98 seconds to silence the Azteca",
-    "Haaland double fires Norway into World Cup quarter-finals"
+    "Bellingham scores two in 98 seconds to silence the Azteca"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786387477516",
-      "resourceType": "video",
-      "uploadedAt": 1786387479869
-    },
     {
       "publicId": "tvs_videos/video_1786410106373",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1786452220764",
       "resourceType": "video",
       "uploadedAt": 1786452222711
+    },
+    {
+      "publicId": "tvs_videos/video_1786474196065",
+      "resourceType": "video",
+      "uploadedAt": 1786474198443
     }
   ]
 }
