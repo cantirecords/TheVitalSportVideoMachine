@@ -12,6 +12,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/eury-perez-throws-seven-scoreless-innings-vs-pirates",
     "https://www.marca.com/futbol/primera-division/2026/08/11/juega-real-madrid-primer-partido-laliga-rival-fecha-horario.html",
     "https://www.marca.com/futbol/primera-division/2026/08/11/juega-barcelona-primer-partido-laliga-rival-fecha-horario.html",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/mlb-tv-july-2026-sale",
     "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-al-east-showdown-between-rays-yankees",
-    "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "LA Lakers to be sold in record $12.5bn deal",
     "Pérez passes latest test in quest to be one of MLB's elite starters",
     "Cuándo juega el Real Madrid su primer partido de LaLiga: Rival, fecha y horario",
     "Cuándo juega el Barcelona su primer partido de LaLiga: Rival, fecha y horario",
@@ -412,8 +413,7 @@
     "All-Star Sale brings you MLB.TV for 50% off",
     "'I'm speechless' - Kane reacts to England's victory over Mexico",
     "Rays, Yankees battle in four-game AL East showdown",
-    "Djokovic breaks Federer's Wimbledon record to reach quarters",
-    "The man England will fear most - Haaland fires Norway to history"
+    "Djokovic breaks Federer's Wimbledon record to reach quarters"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1786538816804",
       "resourceType": "video",
       "uploadedAt": 1786538818513
+    },
+    {
+      "publicId": "tvs_videos/video_1786560619052",
+      "resourceType": "video",
+      "uploadedAt": 1786560621078
     }
   ]
 }
