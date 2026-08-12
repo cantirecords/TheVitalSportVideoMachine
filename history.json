@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Barcelona",
     "Barça",
     "Ichiro",
@@ -8,10 +9,10 @@
     "Chases",
     "Wilson",
     "Breaks",
-    "Nationals",
-    "Lead"
+    "Nationals"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/08/11/juega-real-madrid-primer-partido-laliga-rival-fecha-horario.html",
     "https://www.marca.com/futbol/primera-division/2026/08/11/juega-barcelona-primer-partido-laliga-rival-fecha-horario.html",
     "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
     "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/2026-al-east-showdown-between-rays-yankees",
     "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/swimming/articles/cwy00lnj2zxo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/best-tools-in-the-2026-mlb-draft-class"
+    "https://www.bbc.co.uk/sport/swimming/articles/cwy00lnj2zxo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Cuándo juega el Real Madrid su primer partido de LaLiga: Rival, fecha y horario",
     "Cuándo juega el Barcelona su primer partido de LaLiga: Rival, fecha y horario",
     "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
     "Feeling urgency after tough road trip, Dodgers conjure some clutch magic",
@@ -412,15 +413,9 @@
     "Rays, Yankees battle in four-game AL East showdown",
     "Djokovic breaks Federer's Wimbledon record to reach quarters",
     "The man England will fear most - Haaland fires Norway to history",
-    "McIntosh breaks last of 'supersuit' world records",
-    "Here are the top tools in the 2026 Draft class"
+    "McIntosh breaks last of 'supersuit' world records"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786431056734",
-      "resourceType": "video",
-      "uploadedAt": 1786431058994
-    },
     {
       "publicId": "tvs_videos/video_1786452220764",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1786496924599",
       "resourceType": "video",
       "uploadedAt": 1786496927278
+    },
+    {
+      "publicId": "tvs_videos/video_1786518649283",
+      "resourceType": "video",
+      "uploadedAt": 1786518650685
     }
   ]
 }
