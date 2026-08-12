@@ -12,6 +12,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/eury-perez-throws-seven-scoreless-innings-vs-pirates",
     "https://www.marca.com/futbol/primera-division/2026/08/11/juega-real-madrid-primer-partido-laliga-rival-fecha-horario.html",
     "https://www.marca.com/futbol/primera-division/2026/08/11/juega-barcelona-primer-partido-laliga-rival-fecha-horario.html",
     "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-al-east-showdown-between-rays-yankees",
     "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/swimming/articles/cwy00lnj2zxo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Pérez passes latest test in quest to be one of MLB's elite starters",
     "Cuándo juega el Real Madrid su primer partido de LaLiga: Rival, fecha y horario",
     "Cuándo juega el Barcelona su primer partido de LaLiga: Rival, fecha y horario",
     "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
@@ -412,15 +413,9 @@
     "'I'm speechless' - Kane reacts to England's victory over Mexico",
     "Rays, Yankees battle in four-game AL East showdown",
     "Djokovic breaks Federer's Wimbledon record to reach quarters",
-    "The man England will fear most - Haaland fires Norway to history",
-    "McIntosh breaks last of 'supersuit' world records"
+    "The man England will fear most - Haaland fires Norway to history"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786452220764",
-      "resourceType": "video",
-      "uploadedAt": 1786452222711
-    },
     {
       "publicId": "tvs_videos/video_1786474196065",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1786518649283",
       "resourceType": "video",
       "uploadedAt": 1786518650685
+    },
+    {
+      "publicId": "tvs_videos/video_1786538816804",
+      "resourceType": "video",
+      "uploadedAt": 1786538818513
     }
   ]
 }
