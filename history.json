@@ -18,6 +18,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
     "https://www.marca.com/futbol/celta/2026/08/12/liga-pospone-decision-sobre-celta-osasuna-jueves.html",
     "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/braves-update-aj-smith-shawver-spencer-schwellenbach-robert-suarez",
@@ -216,10 +217,10 @@
     "https://www.mlb.com/news/dalton-rushing-has-walk-off-hit-in-dodgers-first-extra-inning-game",
     "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late",
-    "https://www.mlb.com/news/2026-mlb-draft-prospect-guides",
-    "https://www.mlb.com/news/carson-bolemon-2026-mlb-draft-profile"
+    "https://www.mlb.com/news/2026-mlb-draft-prospect-guides"
   ],
   "postedTitles": [
+    "Everything to know about tonight's MLB at Field of Dreams Game on Netflix",
     "La Liga pospone la decisión sobre el Celta-Osasuna a este jueves",
     "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report",
     "Smith-Shawver nears return, while Schwellenbach's road back looks longer",
@@ -418,15 +419,9 @@
     "Rushing the walk-off hero in Dodgers' 1st extra-inning game -- and 60th win!",
     "The different ways Salah and Messi are viewed by their people",
     "Ronaldo's World Cup career ends with a whimper as ...",
-    "1 thing to know about each Top 10 Draft prospect",
-    "5 state titles in baseball, 2 in football, 1 ER in 2 years -- this Draft prospect's resume is bonkers!"
+    "1 thing to know about each Top 10 Draft prospect"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786518649283",
-      "resourceType": "video",
-      "uploadedAt": 1786518650685
-    },
     {
       "publicId": "tvs_videos/video_1786538816804",
       "resourceType": "video",
@@ -456,6 +451,11 @@
       "publicId": "tvs_cards/card_1786599901913",
       "resourceType": "image",
       "uploadedAt": 1786599903083
+    },
+    {
+      "publicId": "tvs_videos/video_1786605319661",
+      "resourceType": "video",
+      "uploadedAt": 1786605321673
     }
   ]
 }
