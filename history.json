@@ -14,6 +14,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/braves-update-aj-smith-shawver-spencer-schwellenbach-robert-suarez",
     "https://www.bbc.co.uk/sport/american-football/articles/cx2rgrdd1d2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/eury-perez-throws-seven-scoreless-innings-vs-pirates",
@@ -212,10 +213,10 @@
     "https://www.mlb.com/news/2026-mlb-draft-prospect-guides",
     "https://www.mlb.com/news/carson-bolemon-2026-mlb-draft-profile",
     "https://www.mlb.com/news/mlb-tv-july-2026-sale",
-    "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/2026-al-east-showdown-between-rays-yankees"
+    "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Smith-Shawver nears return, while Schwellenbach's road back looks longer",
     "Briton Obada retires from NFL to pursue 'true calling'",
     "LA Lakers to be sold in record $12.5bn deal",
     "Pérez passes latest test in quest to be one of MLB's elite starters",
@@ -414,8 +415,7 @@
     "1 thing to know about each Top 10 Draft prospect",
     "5 state titles in baseball, 2 in football, 1 ER in 2 years -- this Draft prospect's resume is bonkers!",
     "All-Star Sale brings you MLB.TV for 50% off",
-    "'I'm speechless' - Kane reacts to England's victory over Mexico",
-    "Rays, Yankees battle in four-game AL East showdown"
+    "'I'm speechless' - Kane reacts to England's victory over Mexico"
   ],
   "cloudinaryAssets": [
     {
@@ -442,6 +442,11 @@
       "publicId": "tvs_cards/card_1786568089573",
       "resourceType": "image",
       "uploadedAt": 1786568091027
+    },
+    {
+      "publicId": "tvs_videos/video_1786583417346",
+      "resourceType": "video",
+      "uploadedAt": 1786583419859
     }
   ]
 }
