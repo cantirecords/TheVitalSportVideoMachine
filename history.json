@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Reducing",
+    "Time",
     "Evans",
     "Wins",
     "Celta",
@@ -20,6 +22,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/08/13/cta-perseguira-perdidas-aplicara-ley-vinicius-laliga-1.html",
     "https://www.mlb.com/news/spencer-jones-drives-in-three-as-yankees-beat-mariners",
     "https://www.bbc.co.uk/sport/swimming/videos/c70gv8455jvo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
@@ -218,10 +221,10 @@
     "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers",
     "https://www.mlb.com/news/justin-lebron-2026-mlb-draft-prospect-profile",
     "https://www.bbc.co.uk/sport/tennis/articles/c1e2nlj58zxo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/dalton-rushing-has-walk-off-hit-in-dodgers-first-extra-inning-game",
-    "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/dalton-rushing-has-walk-off-hit-in-dodgers-first-extra-inning-game"
   ],
   "postedTitles": [
+    "El CTA perseguirá las pérdidas de tiempo y no aplicará la 'Ley Vinicius' en LaLiga",
     "Moved into 3 hole, Jones rewards faith by fueling Yankees' outburst",
     "Evans wins breaststroke gold in British record time",
     "Everything to know about tonight's MLB at Field of Dreams Game on Netflix",
@@ -420,15 +423,9 @@
     "NBA execs react to the shocking Jaylen Brown trade...",
     "Potential Top 10 Draft pick Lebron inspired by brother born with Williams syndrome",
     "The man who invented a sport and played tennis with Willy Wonka",
-    "Rushing the walk-off hero in Dodgers' 1st extra-inning game -- and 60th win!",
-    "The different ways Salah and Messi are viewed by their people"
+    "Rushing the walk-off hero in Dodgers' 1st extra-inning game -- and 60th win!"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786538816804",
-      "resourceType": "video",
-      "uploadedAt": 1786538818513
-    },
     {
       "publicId": "tvs_videos/video_1786560619052",
       "resourceType": "video",
@@ -468,6 +465,11 @@
       "publicId": "tvs_videos/video_1786625279208",
       "resourceType": "video",
       "uploadedAt": 1786625281629
+    },
+    {
+      "publicId": "tvs_cards/card_1786627624250",
+      "resourceType": "image",
+      "uploadedAt": 1786627625763
     }
   ]
 }
