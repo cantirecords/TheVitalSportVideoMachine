@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Celta",
+    "Vs",
     "Hudson",
     "Smith",
     "Efe",
@@ -16,6 +18,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/celta/2026/08/12/liga-pospone-decision-sobre-celta-osasuna-jueves.html",
     "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/braves-update-aj-smith-shawver-spencer-schwellenbach-robert-suarez",
     "https://www.bbc.co.uk/sport/american-football/articles/cx2rgrdd1d2o?at_medium=RSS&at_campaign=rss",
@@ -214,10 +217,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late",
     "https://www.mlb.com/news/2026-mlb-draft-prospect-guides",
-    "https://www.mlb.com/news/carson-bolemon-2026-mlb-draft-profile",
-    "https://www.mlb.com/news/mlb-tv-july-2026-sale"
+    "https://www.mlb.com/news/carson-bolemon-2026-mlb-draft-profile"
   ],
   "postedTitles": [
+    "La Liga pospone la decisión sobre el Celta-Osasuna a este jueves",
     "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report",
     "Smith-Shawver nears return, while Schwellenbach's road back looks longer",
     "Briton Obada retires from NFL to pursue 'true calling'",
@@ -416,8 +419,7 @@
     "The different ways Salah and Messi are viewed by their people",
     "Ronaldo's World Cup career ends with a whimper as ...",
     "1 thing to know about each Top 10 Draft prospect",
-    "5 state titles in baseball, 2 in football, 1 ER in 2 years -- this Draft prospect's resume is bonkers!",
-    "All-Star Sale brings you MLB.TV for 50% off"
+    "5 state titles in baseball, 2 in football, 1 ER in 2 years -- this Draft prospect's resume is bonkers!"
   ],
   "cloudinaryAssets": [
     {
@@ -449,6 +451,11 @@
       "publicId": "tvs_cards/card_1786588315549",
       "resourceType": "image",
       "uploadedAt": 1786588316295
+    },
+    {
+      "publicId": "tvs_cards/card_1786599901913",
+      "resourceType": "image",
+      "uploadedAt": 1786599903083
     }
   ]
 }
