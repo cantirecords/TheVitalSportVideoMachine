@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Sprint",
+    "Weekends",
     "Messi",
     "Returns",
     "Reducing",
@@ -24,6 +26,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/videos/c5y3ey5lpydo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryson-stott-to-wear-custom-cleats-at-field-of-dreams",
     "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/08/13/cta-perseguira-perdidas-aplicara-ley-vinicius-laliga-1.html",
@@ -222,10 +225,10 @@
     "https://www.mlb.com/news/yankees-strike-out-17-times-for-second-straight-game",
     "https://www.mlb.com/news/best-odds-for-the-no-1-pick-in-the-2026-draft",
     "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers",
-    "https://www.mlb.com/news/justin-lebron-2026-mlb-draft-prospect-profile"
+    "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers"
   ],
   "postedTitles": [
+    "Would more sprint races be a positive change for Formula 1?",
     "Stott bringing angels to infield with homage to late Phillies at MLB at Field of Dreams",
     "Messi plays for Inter Miami after father's death",
     "El CTA perseguirá las pérdidas de tiempo y no aplicará la 'Ley Vinicius' en LaLiga",
@@ -424,15 +427,9 @@
     "'That's a lot of strikeouts': Yanks set club record with 2nd straight 17-K game",
     "Who goes No. 1 in the Draft? Here are the odds and the case for each candidate",
     "Shades of Keane and Gerrard in Bellingham display - Rooney",
-    "NBA execs react to the shocking Jaylen Brown trade...",
-    "Potential Top 10 Draft pick Lebron inspired by brother born with Williams syndrome"
+    "NBA execs react to the shocking Jaylen Brown trade..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786560619052",
-      "resourceType": "video",
-      "uploadedAt": 1786560621078
-    },
     {
       "publicId": "tvs_cards/card_1786568089573",
       "resourceType": "image",
@@ -482,6 +479,11 @@
       "publicId": "tvs_videos/video_1786647110235",
       "resourceType": "video",
       "uploadedAt": 1786647111680
+    },
+    {
+      "publicId": "tvs_cards/card_1786654354491",
+      "resourceType": "image",
+      "uploadedAt": 1786654355714
     }
   ]
 }
