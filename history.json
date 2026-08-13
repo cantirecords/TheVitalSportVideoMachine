@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Evans",
+    "Wins",
     "Celta",
     "Vs",
     "Hudson",
@@ -18,6 +20,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/swimming/videos/c70gv8455jvo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
     "https://www.marca.com/futbol/celta/2026/08/12/liga-pospone-decision-sobre-celta-osasuna-jueves.html",
     "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/c1e2nlj58zxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dalton-rushing-has-walk-off-hit-in-dodgers-first-extra-inning-game",
     "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late",
-    "https://www.mlb.com/news/2026-mlb-draft-prospect-guides"
+    "https://www.espn.com/soccer/story/_/id/49289909/cristiano-ronaldo-portugal-world-cup-career-ends-whimper-spain-subs-win-late"
   ],
   "postedTitles": [
+    "Evans wins breaststroke gold in British record time",
     "Everything to know about tonight's MLB at Field of Dreams Game on Netflix",
     "La Liga pospone la decisión sobre el Celta-Osasuna a este jueves",
     "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report",
@@ -418,8 +421,7 @@
     "The man who invented a sport and played tennis with Willy Wonka",
     "Rushing the walk-off hero in Dodgers' 1st extra-inning game -- and 60th win!",
     "The different ways Salah and Messi are viewed by their people",
-    "Ronaldo's World Cup career ends with a whimper as ...",
-    "1 thing to know about each Top 10 Draft prospect"
+    "Ronaldo's World Cup career ends with a whimper as ..."
   ],
   "cloudinaryAssets": [
     {
@@ -456,6 +458,11 @@
       "publicId": "tvs_videos/video_1786605319661",
       "resourceType": "video",
       "uploadedAt": 1786605321673
+    },
+    {
+      "publicId": "tvs_cards/card_1786612755212",
+      "resourceType": "image",
+      "uploadedAt": 1786612756470
     }
   ]
 }
