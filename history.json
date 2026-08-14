@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Torres",
+    "Joins",
     "Ohtani",
     "Gavin",
     "Williams",
@@ -12,6 +14,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-progressing-toward-return-to-pitching",
     "https://www.mlb.com/news/guardians-gavin-williams-historic-stretch",
     "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
@@ -210,10 +213,10 @@
     "https://www.espn.com/nfl/story/_/id/49237026/ranking-nfl-top-10-edge-rushers-2026-execs-coaches-scouts",
     "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/cx235r031rko?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "PSG agree deal in principle for Barcelona's Torres",
     "Ohtani progresses to long toss; throwing off mound could be next",
     "The changes that fueled Gavin Williams' historic stretch ",
     "Brew Crew rallies in 9th to stun Dodgers, stay atop NL ",
@@ -412,15 +415,9 @@
     "Ranking the NFL's top edge rushers: Execs, coaches...",
     "From Barcelona to Bromley: Inside Putellas' move to LCL",
     "England enjoy stunning victory as India fall to record T20 defeat",
-    "Messi rescues Argentina with equaliser against Egypt",
-    "'They've been hammered' - Rashid wicket inflicts record loss on India"
+    "Messi rescues Argentina with equaliser against Egypt"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786625279208",
-      "resourceType": "video",
-      "uploadedAt": 1786625281629
-    },
     {
       "publicId": "tvs_cards/card_1786627624250",
       "resourceType": "image",
@@ -470,6 +467,11 @@
       "publicId": "tvs_videos/video_1786711439836",
       "resourceType": "video",
       "uploadedAt": 1786711441205
+    },
+    {
+      "publicId": "tvs_cards/card_1786713703010",
+      "resourceType": "image",
+      "uploadedAt": 1786713704225
     }
   ]
 }
