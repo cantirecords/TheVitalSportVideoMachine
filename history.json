@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Gavin",
+    "Williams",
     "La",
     "Liga",
     "MLB",
@@ -30,6 +32,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/guardians-gavin-williams-historic-stretch",
     "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
     "https://www.marca.com/futbol/primera-division/opinion/2026/08/14/empieza-liga-sigue-mercado.html",
     "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients",
@@ -228,10 +231,10 @@
     "https://www.bbc.co.uk/sport/cricket/videos/cx235r031rko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts",
-    "https://www.mlb.com/news/shohei-ohtani-expected-to-make-next-pitching-start-vs-d-backs"
+    "https://www.espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts"
   ],
   "postedTitles": [
+    "The changes that fueled Gavin Williams' historic stretch ",
     "Brew Crew rallies in 9th to stun Dodgers, stay atop NL ",
     "Empieza la Liga, sigue el mercado",
     "MLB surprises MercyOne patients with Field of Dreams experience",
@@ -430,15 +433,9 @@
     "England enjoy stunning victory as India fall to record T20 defeat",
     "Messi rescues Argentina with equaliser against Egypt",
     "'They've been hammered' - Rashid wicket inflicts record loss on India",
-    "Let's stack the NFL's best cornerbacks: This year'...",
-    "Ohtani expected to make final 1st-half start Friday vs. Arizona"
+    "Let's stack the NFL's best cornerbacks: This year'..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786605319661",
-      "resourceType": "video",
-      "uploadedAt": 1786605321673
-    },
     {
       "publicId": "tvs_cards/card_1786612755212",
       "resourceType": "image",
@@ -488,6 +485,11 @@
       "publicId": "tvs_videos/video_1786691487453",
       "resourceType": "video",
       "uploadedAt": 1786691489747
+    },
+    {
+      "publicId": "tvs_cards/card_1786698832193",
+      "resourceType": "image",
+      "uploadedAt": 1786698833481
     }
   ]
 }
