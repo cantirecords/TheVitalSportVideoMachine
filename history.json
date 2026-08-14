@@ -30,6 +30,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
     "https://www.marca.com/futbol/primera-division/opinion/2026/08/14/empieza-liga-sigue-mercado.html",
     "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients",
     "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss",
@@ -228,10 +229,10 @@
     "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts",
-    "https://www.mlb.com/news/shohei-ohtani-expected-to-make-next-pitching-start-vs-d-backs",
-    "https://www.mlb.com/news/yankees-strike-out-17-times-for-second-straight-game"
+    "https://www.mlb.com/news/shohei-ohtani-expected-to-make-next-pitching-start-vs-d-backs"
   ],
   "postedTitles": [
+    "Brew Crew rallies in 9th to stun Dodgers, stay atop NL ",
     "Empieza la Liga, sigue el mercado",
     "MLB surprises MercyOne patients with Field of Dreams experience",
     "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA",
@@ -430,15 +431,9 @@
     "Messi rescues Argentina with equaliser against Egypt",
     "'They've been hammered' - Rashid wicket inflicts record loss on India",
     "Let's stack the NFL's best cornerbacks: This year'...",
-    "Ohtani expected to make final 1st-half start Friday vs. Arizona",
-    "'That's a lot of strikeouts': Yanks set club record with 2nd straight 17-K game"
+    "Ohtani expected to make final 1st-half start Friday vs. Arizona"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1786599901913",
-      "resourceType": "image",
-      "uploadedAt": 1786599903083
-    },
     {
       "publicId": "tvs_videos/video_1786605319661",
       "resourceType": "video",
@@ -488,6 +483,11 @@
       "publicId": "tvs_cards/card_1786686129314",
       "resourceType": "image",
       "uploadedAt": 1786686130872
+    },
+    {
+      "publicId": "tvs_videos/video_1786691487453",
+      "resourceType": "video",
+      "uploadedAt": 1786691489747
     }
   ]
 }
