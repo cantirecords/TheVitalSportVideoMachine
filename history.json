@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "MLB",
+    "Surprises",
     "Sprint",
     "Weekends",
     "Messi",
@@ -26,6 +28,7 @@
     "Nationals"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients",
     "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/videos/c5y3ey5lpydo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryson-stott-to-wear-custom-cleats-at-field-of-dreams",
@@ -224,10 +227,10 @@
     "https://www.espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts",
     "https://www.mlb.com/news/shohei-ohtani-expected-to-make-next-pitching-start-vs-d-backs",
     "https://www.mlb.com/news/yankees-strike-out-17-times-for-second-straight-game",
-    "https://www.mlb.com/news/best-odds-for-the-no-1-pick-in-the-2026-draft",
-    "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/best-odds-for-the-no-1-pick-in-the-2026-draft"
   ],
   "postedTitles": [
+    "MLB surprises MercyOne patients with Field of Dreams experience",
     "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA",
     "Would more sprint races be a positive change for Formula 1?",
     "Stott bringing angels to infield with homage to late Phillies at MLB at Field of Dreams",
@@ -426,15 +429,9 @@
     "Let's stack the NFL's best cornerbacks: This year'...",
     "Ohtani expected to make final 1st-half start Friday vs. Arizona",
     "'That's a lot of strikeouts': Yanks set club record with 2nd straight 17-K game",
-    "Who goes No. 1 in the Draft? Here are the odds and the case for each candidate",
-    "Shades of Keane and Gerrard in Bellingham display - Rooney"
+    "Who goes No. 1 in the Draft? Here are the odds and the case for each candidate"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786583417346",
-      "resourceType": "video",
-      "uploadedAt": 1786583419859
-    },
     {
       "publicId": "tvs_cards/card_1786588315549",
       "resourceType": "image",
@@ -484,6 +481,11 @@
       "publicId": "tvs_videos/video_1786669722020",
       "resourceType": "video",
       "uploadedAt": 1786669724005
+    },
+    {
+      "publicId": "tvs_cards/card_1786674594458",
+      "resourceType": "image",
+      "uploadedAt": 1786674595301
     }
   ]
 }
