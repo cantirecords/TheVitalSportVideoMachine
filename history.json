@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "Gavin",
     "Williams",
     "La",
@@ -8,30 +9,10 @@
     "Surprises",
     "Sprint",
     "Weekends",
-    "Messi",
-    "Returns",
-    "Reducing",
-    "Time",
-    "Evans",
-    "Wins",
-    "Celta",
-    "Vs",
-    "Hudson",
-    "Smith",
-    "Efe",
-    "Obada",
-    "Madrid",
-    "Barcelona",
-    "Barça",
-    "Ichiro",
-    "Returns",
-    "Hodgkinson",
-    "Chases",
-    "Wilson",
-    "Breaks",
-    "Nationals"
+    "Messi"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-progressing-toward-return-to-pitching",
     "https://www.mlb.com/news/guardians-gavin-williams-historic-stretch",
     "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
     "https://www.marca.com/futbol/primera-division/opinion/2026/08/14/empieza-liga-sigue-mercado.html",
@@ -230,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/videos/cx235r031rko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/49232779/ranking-nfl-top-10-cornerbacks-2026-execs-coaches-scouts"
+    "https://www.bbc.co.uk/sport/cricket/videos/cvg4932ywpxo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ohtani progresses to long toss; throwing off mound could be next",
     "The changes that fueled Gavin Williams' historic stretch ",
     "Brew Crew rallies in 9th to stun Dodgers, stay atop NL ",
     "Empieza la Liga, sigue el mercado",
@@ -432,15 +413,9 @@
     "From Barcelona to Bromley: Inside Putellas' move to LCL",
     "England enjoy stunning victory as India fall to record T20 defeat",
     "Messi rescues Argentina with equaliser against Egypt",
-    "'They've been hammered' - Rashid wicket inflicts record loss on India",
-    "Let's stack the NFL's best cornerbacks: This year'..."
+    "'They've been hammered' - Rashid wicket inflicts record loss on India"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1786612755212",
-      "resourceType": "image",
-      "uploadedAt": 1786612756470
-    },
     {
       "publicId": "tvs_videos/video_1786625279208",
       "resourceType": "video",
@@ -490,6 +465,11 @@
       "publicId": "tvs_cards/card_1786698832193",
       "resourceType": "image",
       "uploadedAt": 1786698833481
+    },
+    {
+      "publicId": "tvs_videos/video_1786711439836",
+      "resourceType": "video",
+      "uploadedAt": 1786711441205
     }
   ]
 }
