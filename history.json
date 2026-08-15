@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Fiorini",
+    "Shatters",
     "Fastest",
     "Woman",
     "Lombard",
@@ -18,6 +20,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/athletics/videos/cvg0lgwlwggo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/george-lombard-jr-learning-from-yankees-teammates-early-in-career",
     "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.mlb.com/news/justin-verlander-legacy-all-star",
     "https://www.bbc.co.uk/sport/tennis/articles/cx2xjvqd6w0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/ckg49gzm3k0o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/49237026/ranking-nfl-top-10-edge-rushers-2026-execs-coaches-scouts",
-    "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/story/_/id/49237026/ranking-nfl-top-10-edge-rushers-2026-execs-coaches-scouts"
   ],
   "postedTitles": [
+    "Fiorini and Perez break race walking world records",
     "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
     "Lombard embracing little things as he begins to carve Yankees legacy",
     "PSG agree deal in principle for Barcelona's Torres",
@@ -418,15 +421,9 @@
     "Verlander, named All-Star Legend Pick, will retire after this season",
     "Who are the Wimbledon record-holders?",
     "Good tennis IQ & inner belief - how Fery reached shock Wimbledon semi-final",
-    "Ranking the NFL's top edge rushers: Execs, coaches...",
-    "From Barcelona to Bromley: Inside Putellas' move to LCL"
+    "Ranking the NFL's top edge rushers: Execs, coaches..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786711439836",
-      "resourceType": "video",
-      "uploadedAt": 1786711441205
-    },
     {
       "publicId": "tvs_cards/card_1786713703010",
       "resourceType": "image",
@@ -441,6 +438,11 @@
       "publicId": "tvs_cards/card_1786739827646",
       "resourceType": "image",
       "uploadedAt": 1786739829258
+    },
+    {
+      "publicId": "tvs_cards/card_1786798246508",
+      "resourceType": "image",
+      "uploadedAt": 1786798247607
     }
   ]
 }
