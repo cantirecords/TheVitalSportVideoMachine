@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "First",
+    "Player",
     "Baez",
     "Makes",
     "Britain",
@@ -26,6 +28,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/jurrangelo-cijntje-captures-joshua-baez-s-home-run-on-camera-phone",
     "https://www.mlb.com/news/charles-mcadoo-drives-in-2-as-blue-jays-beat-yankees",
     "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc",
     "https://www.mlb.com/news/logan-henderson-vs-tarik-skubal-in-brewers-dodgers-series-finale",
@@ -224,10 +227,10 @@
     "https://www.espn.com/wnba/story/_/id/49307458/wnba-2026-olivia-miles-rookie-season-minnesota-lynx",
     "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/soccer/story/_/id/49312905/barcelona-bid-borussia-dortmund-karim-adeyemi-source",
-    "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/john-schneider-on-managing-all-star-game"
+    "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Báez sends Memphis Redbirds' clubhouse into frenzy with historic third homer",
     "Surging Blue Jays withstand Schlittler, take down Yankees",
     "Báez looks to build on historic 3-HR debut today vs. Cubs (3:15 p.m. ET, ABC/ESPN App)",
     "Trade target vs. trade prize: Brewers' Henderson to square off with Dodgers' Skubal",
@@ -426,15 +429,9 @@
     "'Ready for the moment': Breaking down Olivia Miles...",
     "How Kane and Haaland compare - who would you pick?",
     "Source: Barça bid for Dortmund's Karim Adeyemi",
-    "Idolises Ronaldo, plays like Saka - Chelsea's new £40m winger",
-    "From 13th-round Draft pick to All-Star manager: Schneider reflects on journey"
+    "Idolises Ronaldo, plays like Saka - Chelsea's new £40m winger"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1786798246508",
-      "resourceType": "image",
-      "uploadedAt": 1786798247607
-    },
     {
       "publicId": "tvs_cards/card_1786825819493",
       "resourceType": "image",
@@ -464,6 +461,11 @@
       "publicId": "tvs_videos/video_1786882892614",
       "resourceType": "video",
       "uploadedAt": 1786882895132
+    },
+    {
+      "publicId": "tvs_cards/card_1786884749263",
+      "resourceType": "image",
+      "uploadedAt": 1786884750946
     }
   ]
 }
