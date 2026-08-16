@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Britain",
+    "Sets",
     "Whitmore",
     "Hits",
     "Fiorini",
@@ -22,6 +24,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/wpbl-star-kelsie-whitmore-hits-2-home-runs-pitches-in-win",
     "https://www.bbc.co.uk/sport/athletics/videos/cvg0lgwlwggo?at_medium=RSS&at_campaign=rss",
@@ -220,10 +223,10 @@
     "https://www.mlb.com/news/john-schneider-on-managing-all-star-game",
     "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game",
-    "https://www.mlb.com/news/justin-verlander-legacy-all-star",
-    "https://www.bbc.co.uk/sport/tennis/articles/cx2xjvqd6w0o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/justin-verlander-legacy-all-star"
   ],
   "postedTitles": [
+    "Great Britain win gold with mixed freestyle 4x200m championship record",
     "Djokovic suffers in heat as Tirante inflicts shock defeat",
     "After historic 3-homer game, Whitmore hits 2 more dingers ... and pitches!",
     "Fiorini and Perez break race walking world records",
@@ -422,8 +425,7 @@
     "From 13th-round Draft pick to All-Star manager: Schneider reflects on journey",
     "'Epic moments' - How relentless Fery dismantled Cobolli",
     "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game",
-    "Verlander, named All-Star Legend Pick, will retire after this season",
-    "Who are the Wimbledon record-holders?"
+    "Verlander, named All-Star Legend Pick, will retire after this season"
   ],
   "cloudinaryAssets": [
     {
@@ -440,6 +442,11 @@
       "publicId": "tvs_videos/video_1786841070002",
       "resourceType": "video",
       "uploadedAt": 1786841071867
+    },
+    {
+      "publicId": "tvs_cards/card_1786844829278",
+      "resourceType": "image",
+      "uploadedAt": 1786844830721
     }
   ]
 }
