@@ -22,6 +22,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/wpbl-star-kelsie-whitmore-hits-2-home-runs-pitches-in-win",
     "https://www.bbc.co.uk/sport/athletics/videos/cvg0lgwlwggo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
@@ -220,10 +221,10 @@
     "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game",
     "https://www.mlb.com/news/justin-verlander-legacy-all-star",
-    "https://www.bbc.co.uk/sport/tennis/articles/cx2xjvqd6w0o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/ckg49gzm3k0o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/articles/cx2xjvqd6w0o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Djokovic suffers in heat as Tirante inflicts shock defeat",
     "After historic 3-homer game, Whitmore hits 2 more dingers ... and pitches!",
     "Fiorini and Perez break race walking world records",
     "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
@@ -422,15 +423,9 @@
     "'Epic moments' - How relentless Fery dismantled Cobolli",
     "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game",
     "Verlander, named All-Star Legend Pick, will retire after this season",
-    "Who are the Wimbledon record-holders?",
-    "Good tennis IQ & inner belief - how Fery reached shock Wimbledon semi-final"
+    "Who are the Wimbledon record-holders?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1786739827646",
-      "resourceType": "image",
-      "uploadedAt": 1786739829258
-    },
     {
       "publicId": "tvs_cards/card_1786798246508",
       "resourceType": "image",
@@ -440,6 +435,11 @@
       "publicId": "tvs_cards/card_1786825819493",
       "resourceType": "image",
       "uploadedAt": 1786825820551
+    },
+    {
+      "publicId": "tvs_videos/video_1786841070002",
+      "resourceType": "video",
+      "uploadedAt": 1786841071867
     }
   ]
 }
