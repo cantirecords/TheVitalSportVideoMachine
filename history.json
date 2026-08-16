@@ -24,6 +24,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/logan-henderson-vs-tarik-skubal-in-brewers-dodgers-series-finale",
     "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/wpbl-star-kelsie-whitmore-hits-2-home-runs-pitches-in-win",
@@ -222,10 +223,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/john-schneider-on-managing-all-star-game",
     "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game",
-    "https://www.mlb.com/news/justin-verlander-legacy-all-star"
+    "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game"
   ],
   "postedTitles": [
+    "Trade target vs. trade prize: Brewers' Henderson to square off with Dodgers' Skubal",
     "Great Britain win gold with mixed freestyle 4x200m championship record",
     "Djokovic suffers in heat as Tirante inflicts shock defeat",
     "After historic 3-homer game, Whitmore hits 2 more dingers ... and pitches!",
@@ -424,8 +425,7 @@
     "Idolises Ronaldo, plays like Saka - Chelsea's new £40m winger",
     "From 13th-round Draft pick to All-Star manager: Schneider reflects on journey",
     "'Epic moments' - How relentless Fery dismantled Cobolli",
-    "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game",
-    "Verlander, named All-Star Legend Pick, will retire after this season"
+    "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game"
   ],
   "cloudinaryAssets": [
     {
@@ -447,6 +447,11 @@
       "publicId": "tvs_cards/card_1786844829278",
       "resourceType": "image",
       "uploadedAt": 1786844830721
+    },
+    {
+      "publicId": "tvs_videos/video_1786861503273",
+      "resourceType": "video",
+      "uploadedAt": 1786861504784
     }
   ]
 }
