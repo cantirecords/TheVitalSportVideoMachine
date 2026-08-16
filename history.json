@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Rodri",
+    "Joins",
     "West",
     "Ham",
     "First",
@@ -30,6 +32,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jurrangelo-cijntje-captures-joshua-baez-s-home-run-on-camera-phone",
     "https://www.mlb.com/news/charles-mcadoo-drives-in-2-as-blue-jays-beat-yankees",
@@ -228,10 +231,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cpd3052gjvxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/eduardo-valencia-homers-in-first-mlb-at-bat",
     "https://www.espn.com/wnba/story/_/id/49307458/wnba-2026-olivia-miles-rookie-season-minnesota-lynx",
-    "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/soccer/story/_/id/49312905/barcelona-bid-borussia-dortmund-karim-adeyemi-source"
+    "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Barcelona agree £65m deal to sign Rodri from Man City",
     "West Ham break EFL record to sign Engels for £22m",
     "Báez sends Memphis Redbirds' clubhouse into frenzy with historic third homer",
     "Surging Blue Jays withstand Schlittler, take down Yankees",
@@ -430,8 +433,7 @@
     "Klopp reveals how Liverpool tried to sign Mbappe",
     "Valencia becomes 10th Tiger to homer in first MLB at-bat",
     "'Ready for the moment': Breaking down Olivia Miles...",
-    "How Kane and Haaland compare - who would you pick?",
-    "Source: Barça bid for Dortmund's Karim Adeyemi"
+    "How Kane and Haaland compare - who would you pick?"
   ],
   "cloudinaryAssets": [
     {
@@ -473,6 +475,11 @@
       "publicId": "tvs_cards/card_1786898027931",
       "resourceType": "image",
       "uploadedAt": 1786898029202
+    },
+    {
+      "publicId": "tvs_cards/card_1786912232015",
+      "resourceType": "image",
+      "uploadedAt": 1786912232997
     }
   ]
 }
