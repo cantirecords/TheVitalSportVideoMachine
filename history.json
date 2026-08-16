@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Baez",
+    "Makes",
     "Britain",
     "Sets",
     "Whitmore",
@@ -24,6 +26,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc",
     "https://www.mlb.com/news/logan-henderson-vs-tarik-skubal-in-brewers-dodgers-series-finale",
     "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
@@ -222,10 +225,10 @@
     "https://www.espn.com/soccer/story/_/id/49312905/barcelona-bid-borussia-dortmund-karim-adeyemi-source",
     "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/john-schneider-on-managing-all-star-game",
-    "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-phillies-charities-host-all-star-miracle-league-game"
+    "https://www.bbc.co.uk/sport/tennis/videos/cx235265556o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Báez looks to build on historic 3-HR debut today vs. Cubs (3:15 p.m. ET, ABC/ESPN App)",
     "Trade target vs. trade prize: Brewers' Henderson to square off with Dodgers' Skubal",
     "Great Britain win gold with mixed freestyle 4x200m championship record",
     "Djokovic suffers in heat as Tirante inflicts shock defeat",
@@ -424,8 +427,7 @@
     "Source: Barça bid for Dortmund's Karim Adeyemi",
     "Idolises Ronaldo, plays like Saka - Chelsea's new £40m winger",
     "From 13th-round Draft pick to All-Star manager: Schneider reflects on journey",
-    "'Epic moments' - How relentless Fery dismantled Cobolli",
-    "MLB, Phillies Charities make kids feel like 'rock stars' at All-Star Miracle League game"
+    "'Epic moments' - How relentless Fery dismantled Cobolli"
   ],
   "cloudinaryAssets": [
     {
@@ -452,6 +454,11 @@
       "publicId": "tvs_videos/video_1786861503273",
       "resourceType": "video",
       "uploadedAt": 1786861504784
+    },
+    {
+      "publicId": "tvs_cards/card_1786869477354",
+      "resourceType": "image",
+      "uploadedAt": 1786869478729
     }
   ]
 }
