@@ -2,6 +2,8 @@
   "recentKeywords": [
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "First",
     "Player",
     "Dodgers",
@@ -38,6 +40,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/hall-of-fame-wants-joshua-baez-s-equipment-from-historic-debut",
     "https://www.mlb.com/news/tarik-skubal-strikes-out-7-vs-brewers",
@@ -236,10 +239,10 @@
     "https://www.mlb.com/news/6-mlb-draft-storylines-to-follow-2026",
     "https://www.bbc.co.uk/sport/tennis/articles/cq51xjg2vnlo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/49239989/ranking-nfl-top-10-defensive-tackles-2026-execs-coaches-scouts",
-    "https://www.bbc.co.uk/sport/football/articles/cpd3052gjvxo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/story/_/id/49239989/ranking-nfl-top-10-defensive-tackles-2026-execs-coaches-scouts"
   ],
   "postedTitles": [
+    "£2.14bn and counting - why Premier League spending could set new record",
     "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
     "Báez's borrowed cleats from historic debut heading to Cooperstown",
     "Skubal finishes with a flourish, but Dodgers lose potentially pivotal season series",
@@ -438,15 +441,9 @@
     "6 Draft storylines to follow this weekend",
     "Sinner again stands between Djokovic and shot at history",
     "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
-    "NFL execs, coaches and scouts rank the best defens...",
-    "Klopp reveals how Liverpool tried to sign Mbappe"
+    "NFL execs, coaches and scouts rank the best defens..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1786898027931",
-      "resourceType": "image",
-      "uploadedAt": 1786898029202
-    },
     {
       "publicId": "tvs_cards/card_1786912232015",
       "resourceType": "image",
@@ -466,6 +463,11 @@
       "publicId": "tvs_cards/card_1786956748863",
       "resourceType": "image",
       "uploadedAt": 1786956750271
+    },
+    {
+      "publicId": "tvs_cards/card_1786984522436",
+      "resourceType": "image",
+      "uploadedAt": 1786984523884
     }
   ]
 }
