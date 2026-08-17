@@ -1,7 +1,6 @@
 {
   "recentKeywords": [
-    "DEVELOPING",
-    "STORY",
+    "Madrid",
     "DEVELOPING",
     "STORY",
     "First",
@@ -10,36 +9,10 @@
     "Lose",
     "Rodri",
     "Joins",
-    "West",
-    "Ham",
-    "First",
-    "Player",
-    "Baez",
-    "Makes",
-    "Britain",
-    "Sets",
-    "Whitmore",
-    "Hits",
-    "Fiorini",
-    "Shatters",
-    "Fastest",
-    "Woman",
-    "Lombard",
-    "Shines",
-    "Torres",
-    "Joins",
-    "Ohtani",
-    "Gavin",
-    "Williams",
-    "La",
-    "Liga",
-    "MLB",
-    "Surprises",
-    "Sprint",
-    "Weekends",
-    "Messi"
+    "West"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/atletico/2026/08/17/atletico-madrid-confirma-arnau-ortiz-jugador-primer-equipo.html",
     "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/hall-of-fame-wants-joshua-baez-s-equipment-from-historic-debut",
@@ -238,10 +211,10 @@
     "https://www.bbc.co.uk/sport/cricket/videos/cvg7yglq74ko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/6-mlb-draft-storylines-to-follow-2026",
     "https://www.bbc.co.uk/sport/tennis/articles/cq51xjg2vnlo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/49239989/ranking-nfl-top-10-defensive-tackles-2026-execs-coaches-scouts"
+    "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "El Atlético de Madrid confirma a Arnau Ortiz como jugador del primer equipo",
     "£2.14bn and counting - why Premier League spending could set new record",
     "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
     "Báez's borrowed cleats from historic debut heading to Cooperstown",
@@ -440,8 +413,7 @@
     "'A lovely delivery!' - Filer's historic Test wicket at Lord's",
     "6 Draft storylines to follow this weekend",
     "Sinner again stands between Djokovic and shot at history",
-    "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
-    "NFL execs, coaches and scouts rank the best defens..."
+    "Born in Leeds, crafted in Norway - Haaland's worlds about to collide"
   ],
   "cloudinaryAssets": [
     {
@@ -468,6 +440,11 @@
       "publicId": "tvs_cards/card_1786984522436",
       "resourceType": "image",
       "uploadedAt": 1786984523884
+    },
+    {
+      "publicId": "tvs_videos/video_1786991150603",
+      "resourceType": "video",
+      "uploadedAt": 1786991152447
     }
   ]
 }
