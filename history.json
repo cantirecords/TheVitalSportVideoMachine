@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "Dodgers",
+    "Lose",
     "Rodri",
     "Joins",
     "West",
@@ -32,6 +34,7 @@
     "Messi"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/tarik-skubal-strikes-out-7-vs-brewers",
     "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jurrangelo-cijntje-captures-joshua-baez-s-home-run-on-camera-phone",
@@ -230,10 +233,10 @@
     "https://www.espn.com/nfl/story/_/id/49239989/ranking-nfl-top-10-defensive-tackles-2026-execs-coaches-scouts",
     "https://www.bbc.co.uk/sport/football/articles/cpd3052gjvxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/eduardo-valencia-homers-in-first-mlb-at-bat",
-    "https://www.espn.com/wnba/story/_/id/49307458/wnba-2026-olivia-miles-rookie-season-minnesota-lynx",
-    "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/wnba/story/_/id/49307458/wnba-2026-olivia-miles-rookie-season-minnesota-lynx"
   ],
   "postedTitles": [
+    "Skubal finishes with a flourish, but Dodgers lose potentially pivotal season series",
     "Barcelona agree £65m deal to sign Rodri from Man City",
     "West Ham break EFL record to sign Engels for £22m",
     "Báez sends Memphis Redbirds' clubhouse into frenzy with historic third homer",
@@ -432,15 +435,9 @@
     "NFL execs, coaches and scouts rank the best defens...",
     "Klopp reveals how Liverpool tried to sign Mbappe",
     "Valencia becomes 10th Tiger to homer in first MLB at-bat",
-    "'Ready for the moment': Breaking down Olivia Miles...",
-    "How Kane and Haaland compare - who would you pick?"
+    "'Ready for the moment': Breaking down Olivia Miles..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1786841070002",
-      "resourceType": "video",
-      "uploadedAt": 1786841071867
-    },
     {
       "publicId": "tvs_cards/card_1786844829278",
       "resourceType": "image",
@@ -475,6 +472,11 @@
       "publicId": "tvs_cards/card_1786912232015",
       "resourceType": "image",
       "uploadedAt": 1786912232997
+    },
+    {
+      "publicId": "tvs_cards/card_1786931132868",
+      "resourceType": "image",
+      "uploadedAt": 1786931134153
     }
   ]
 }
