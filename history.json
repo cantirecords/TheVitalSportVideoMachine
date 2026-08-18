@@ -18,6 +18,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game",
     "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/mlb/story/_/id/49306462/2026-mlb-trade-deadline-addition-top-contender-moves-dodgers-brewers-braves-yankees-phillies",
-    "https://www.mlb.com/news/nick-martinez-earns-first-all-star-nod-rays",
-    "https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/nick-martinez-earns-first-all-star-nod-rays"
   ],
   "postedTitles": [
+    "This Russian tennis superstar is a massive Reds fan -- and he can prove it",
     "Kane set to begin talks over new Bayern contract",
     "What's going on at Cadillac and Haas? F1 Q&A",
     "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions ",
@@ -418,8 +419,7 @@
     "Playing golf with Trump surreal - Kane",
     "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
     "The perfect trade deadline addition for every MLB ...",
-    "Martinez records 8th win hours after being named 1st-time All-Star",
-    "Jesus reunites with Ronaldo as new Portugal head coach"
+    "Martinez records 8th win hours after being named 1st-time All-Star"
   ],
   "cloudinaryAssets": [
     {
@@ -466,6 +466,11 @@
       "publicId": "tvs_cards/card_1787071137387",
       "resourceType": "image",
       "uploadedAt": 1787071138353
+    },
+    {
+      "publicId": "tvs_videos/video_1787077505491",
+      "resourceType": "video",
+      "uploadedAt": 1787077507179
     }
   ]
 }
