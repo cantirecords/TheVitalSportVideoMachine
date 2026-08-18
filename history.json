@@ -2,6 +2,8 @@
   "recentKeywords": [
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -14,6 +16,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-smith-working-toward-returning-to-dodgers-from-injured-list",
     "https://www.mlb.com/news/shohei-ohtani-homer-caught-by-dodgers-reliever",
@@ -212,10 +215,10 @@
     "https://www.espn.com/mlb/story/_/id/49306462/2026-mlb-trade-deadline-addition-top-contender-moves-dodgers-brewers-braves-yankees-phillies",
     "https://www.mlb.com/news/nick-martinez-earns-first-all-star-nod-rays",
     "https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/videos/cy9r3dnngqno?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/videos/cy9r3dnngqno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "What's going on at Cadillac and Haas? F1 Q&A",
     "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions ",
     "Smith (neck inflammation) could start rehab soon on road back from IL",
     "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
@@ -414,8 +417,7 @@
     "The perfect trade deadline addition for every MLB ...",
     "Martinez records 8th win hours after being named 1st-time All-Star",
     "Jesus reunites with Ronaldo as new Portugal head coach",
-    "'Influential' Lamine Yamal has 'more to give' to Spain",
-    "Football's best bromance: Why Bellingham and Haaland break the mould"
+    "'Influential' Lamine Yamal has 'more to give' to Spain"
   ],
   "cloudinaryAssets": [
     {
@@ -457,6 +459,11 @@
       "publicId": "tvs_videos/video_1787055992732",
       "resourceType": "video",
       "uploadedAt": 1787055994688
+    },
+    {
+      "publicId": "tvs_cards/card_1787057934940",
+      "resourceType": "image",
+      "uploadedAt": 1787057936349
     }
   ]
 }
