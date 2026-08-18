@@ -1,19 +1,18 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "DEVELOPING",
     "STORY",
     "Barcelona",
-    "DEVELOPING",
-    "STORY",
     "Madrid",
     "First",
     "Player",
     "Dodgers",
     "Lose",
-    "Rodri",
-    "Joins"
+    "Rodri"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-homer-caught-by-dodgers-reliever",
     "https://www.mlb.com/news/bryan-baker-records-5-out-save-to-help-rays-beat-orioles",
     "https://www.marca.com/futbol/primera-division/2026/08/17/juega-barcelona-primer-partido-laliga-ea-sports-rival-fecha-horario-ver-tv.html",
     "https://www.bbc.co.uk/sport/equestrian/videos/cp8e0n2yjnxo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +211,10 @@
     "https://www.bbc.co.uk/sport/videos/cy9r3dnngqno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlbx-all-star-3-on-3-rules-time-players",
-    "https://www.mlb.com/news/redoing-every-no-1-overall-mlb-draft-pick",
-    "https://www.bbc.co.uk/sport/cricket/videos/cvg7yglq74ko?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/redoing-every-no-1-overall-mlb-draft-pick"
   ],
   "postedTitles": [
+    "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
     "Fresh, strong and efficient, Baker gives Rays 5 outs in his MLB-leading 35th save",
     "Cuándo juega el Barcelona su primer partido de LaLiga EA Sports: Rival, fecha, horario y dónde ver en TV",
     "GB eventing team claim record-breaking world title",
@@ -414,15 +413,9 @@
     "'Influential' Lamine Yamal has 'more to give' to Spain",
     "Football's best bromance: Why Bellingham and Haaland break the mould",
     "What you need to know about star-studded MLBx All-Star 3-on-3 competition",
-    "Here's who should've gone 1st in every Draft",
-    "'A lovely delivery!' - Filer's historic Test wicket at Lord's"
+    "Here's who should've gone 1st in every Draft"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1786942296420",
-      "resourceType": "image",
-      "uploadedAt": 1786942297846
-    },
     {
       "publicId": "tvs_cards/card_1786956748863",
       "resourceType": "image",
@@ -452,6 +445,11 @@
       "publicId": "tvs_cards/card_1787028126567",
       "resourceType": "image",
       "uploadedAt": 1787028127406
+    },
+    {
+      "publicId": "tvs_videos/video_1787034455785",
+      "resourceType": "video",
+      "uploadedAt": 1787034457637
     }
   ]
 }
