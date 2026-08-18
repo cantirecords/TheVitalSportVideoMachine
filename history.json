@@ -1,19 +1,18 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "DEVELOPING",
     "STORY",
     "Madrid",
-    "DEVELOPING",
-    "STORY",
     "First",
     "Player",
     "Dodgers",
     "Lose",
     "Rodri",
-    "Joins",
-    "West"
+    "Joins"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/08/17/juega-barcelona-primer-partido-laliga-ea-sports-rival-fecha-horario-ver-tv.html",
     "https://www.bbc.co.uk/sport/equestrian/videos/cp8e0n2yjnxo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/atletico/2026/08/17/atletico-madrid-confirma-arnau-ortiz-jugador-primer-equipo.html",
     "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
@@ -212,10 +211,10 @@
     "https://www.mlb.com/news/mlbx-all-star-3-on-3-rules-time-players",
     "https://www.mlb.com/news/redoing-every-no-1-overall-mlb-draft-pick",
     "https://www.bbc.co.uk/sport/cricket/videos/cvg7yglq74ko?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/6-mlb-draft-storylines-to-follow-2026",
-    "https://www.bbc.co.uk/sport/tennis/articles/cq51xjg2vnlo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/6-mlb-draft-storylines-to-follow-2026"
   ],
   "postedTitles": [
+    "Cuándo juega el Barcelona su primer partido de LaLiga EA Sports: Rival, fecha, horario y dónde ver en TV",
     "GB eventing team claim record-breaking world title",
     "El Atlético de Madrid confirma a Arnau Ortiz como jugador del primer equipo",
     "£2.14bn and counting - why Premier League spending could set new record",
@@ -414,8 +413,7 @@
     "What you need to know about star-studded MLBx All-Star 3-on-3 competition",
     "Here's who should've gone 1st in every Draft",
     "'A lovely delivery!' - Filer's historic Test wicket at Lord's",
-    "6 Draft storylines to follow this weekend",
-    "Sinner again stands between Djokovic and shot at history"
+    "6 Draft storylines to follow this weekend"
   ],
   "cloudinaryAssets": [
     {
@@ -447,6 +445,11 @@
       "publicId": "tvs_cards/card_1786998865735",
       "resourceType": "image",
       "uploadedAt": 1786998867299
+    },
+    {
+      "publicId": "tvs_videos/video_1787013748389",
+      "resourceType": "video",
+      "uploadedAt": 1787013750001
     }
   ]
 }
