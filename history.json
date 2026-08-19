@@ -22,6 +22,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/trent-grisham-drives-in-all-3-runs-as-yankees-beat-orioles",
     "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/max-fried-hopes-to-miss-minimum-in-il-stint-for-yankees",
@@ -220,10 +221,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49248530/ranking-nfl-top-10-offensive-tackles-2026-execs-coaches-scouts",
     "https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts",
-    "https://www.bbc.co.uk/sport/football/articles/cy06rnjzxkyo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/cy06rnjzxkyo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Keeping focus on 'process,' surging Grisham knocks in all 3 Yankees runs",
     "Al Hilal target England's Kane - Wednesday's gossip",
     "Buss trying to block her siblings' sale of family stake in Lakers",
     "Yankees optimistic Fried will miss minimum in latest IL stint",
@@ -422,20 +423,9 @@
     "Champion Sinner wary of Zverev before Wimbledon final",
     "The best offensive tackles in the NFL: We asked ex...",
     "Who are the NFL's best tight ends? Execs, coaches ...",
-    "Salah demands put Saudi switch in doubt - Saturday's gossip",
-    "Is it time to give record-breaker Pickford the credit he deserves?"
+    "Salah demands put Saudi switch in doubt - Saturday's gossip"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1787034455785",
-      "resourceType": "video",
-      "uploadedAt": 1787034457637
-    },
-    {
-      "publicId": "tvs_cards/card_1787042770656",
-      "resourceType": "image",
-      "uploadedAt": 1787042771514
-    },
     {
       "publicId": "tvs_videos/video_1787055992732",
       "resourceType": "video",
@@ -475,6 +465,11 @@
       "publicId": "tvs_videos/video_1787120949479",
       "resourceType": "video",
       "uploadedAt": 1787120957292
+    },
+    {
+      "publicId": "tvs_videos/video_1787142421348",
+      "resourceType": "video",
+      "uploadedAt": 1787142423082
     }
   ]
 }
