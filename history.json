@@ -20,6 +20,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/max-fried-hopes-to-miss-minimum-in-il-stint-for-yankees",
     "https://www.mlb.com/news/pete-crow-armstrong-records-second-straight-30-30-season",
     "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game",
     "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss",
@@ -218,10 +219,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cy06rnjzxkyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/49306462/2026-mlb-trade-deadline-addition-top-contender-moves-dodgers-brewers-braves-yankees-phillies"
+    "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Yankees optimistic Fried will miss minimum in latest IL stint",
     "PCA secures 2nd straight 30-30 season -- & boosts MVP case -- in epic way",
     "This Russian tennis superstar is a massive Reds fan -- and he can prove it",
     "Kane set to begin talks over new Bayern contract",
@@ -420,8 +421,7 @@
     "Salah demands put Saudi switch in doubt - Saturday's gossip",
     "Is it time to give record-breaker Pickford the credit he deserves?",
     "Playing golf with Trump surreal - Kane",
-    "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
-    "The perfect trade deadline addition for every MLB ..."
+    "Merino the unlikely hero again - as Spain wait for Lamine Yamal show"
   ],
   "cloudinaryAssets": [
     {
@@ -468,6 +468,11 @@
       "publicId": "tvs_cards/card_1787085404514",
       "resourceType": "image",
       "uploadedAt": 1787085405384
+    },
+    {
+      "publicId": "tvs_videos/video_1787100156190",
+      "resourceType": "video",
+      "uploadedAt": 1787100158441
     }
   ]
 }
