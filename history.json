@@ -10,6 +10,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -22,6 +24,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/trent-grisham-drives-in-all-3-runs-as-yankees-beat-orioles",
     "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
@@ -220,10 +223,10 @@
     "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease",
     "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49248530/ranking-nfl-top-10-offensive-tackles-2026-execs-coaches-scouts",
-    "https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts",
-    "https://www.bbc.co.uk/sport/football/articles/cy06rnjzxkyo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts"
   ],
   "postedTitles": [
+    "Mourinho told Vinicius Jr it was 'not worth' leaving Real",
     "Keeping focus on 'process,' surging Grisham knocks in all 3 Yankees runs",
     "Al Hilal target England's Kane - Wednesday's gossip",
     "Buss trying to block her siblings' sale of family stake in Lakers",
@@ -422,20 +425,9 @@
     "Study: NFLers die from dementia at higher rate",
     "Champion Sinner wary of Zverev before Wimbledon final",
     "The best offensive tackles in the NFL: We asked ex...",
-    "Who are the NFL's best tight ends? Execs, coaches ...",
-    "Salah demands put Saudi switch in doubt - Saturday's gossip"
+    "Who are the NFL's best tight ends? Execs, coaches ..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1787055992732",
-      "resourceType": "video",
-      "uploadedAt": 1787055994688
-    },
-    {
-      "publicId": "tvs_cards/card_1787057934940",
-      "resourceType": "image",
-      "uploadedAt": 1787057936349
-    },
     {
       "publicId": "tvs_cards/card_1787071137387",
       "resourceType": "image",
@@ -470,6 +462,11 @@
       "publicId": "tvs_videos/video_1787142421348",
       "resourceType": "video",
       "uploadedAt": 1787142423082
+    },
+    {
+      "publicId": "tvs_cards/card_1787144380647",
+      "resourceType": "image",
+      "uploadedAt": 1787144381366
     }
   ]
 }
