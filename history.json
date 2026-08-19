@@ -24,6 +24,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-network-to-premiere-new-original-documentary-on-9-11",
     "https://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/trent-grisham-drives-in-all-3-runs-as-yankees-beat-orioles",
     "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss",
@@ -222,10 +223,10 @@
     "https://www.espn.com/mlb/story/_/id/49307014/mlb-2026-all-star-weekend-futures-game-players-watch",
     "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease",
     "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/49248530/ranking-nfl-top-10-offensive-tackles-2026-execs-coaches-scouts",
-    "https://www.espn.com/nfl/story/_/id/49267903/ranking-nfl-top-10-tight-ends-2026-execs-coaches-scouts"
+    "https://www.espn.com/nfl/story/_/id/49248530/ranking-nfl-top-10-offensive-tackles-2026-execs-coaches-scouts"
   ],
   "postedTitles": [
+    "MLB Network documentary on baseball's role after 9/11 to premiere Sept. 10",
     "Mourinho told Vinicius Jr it was 'not worth' leaving Real",
     "Keeping focus on 'process,' surging Grisham knocks in all 3 Yankees runs",
     "Al Hilal target England's Kane - Wednesday's gossip",
@@ -424,15 +425,9 @@
     "The players we can't wait to see in the MLB Future...",
     "Study: NFLers die from dementia at higher rate",
     "Champion Sinner wary of Zverev before Wimbledon final",
-    "The best offensive tackles in the NFL: We asked ex...",
-    "Who are the NFL's best tight ends? Execs, coaches ..."
+    "The best offensive tackles in the NFL: We asked ex..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1787071137387",
-      "resourceType": "image",
-      "uploadedAt": 1787071138353
-    },
     {
       "publicId": "tvs_videos/video_1787077505491",
       "resourceType": "video",
@@ -467,6 +462,11 @@
       "publicId": "tvs_cards/card_1787144380647",
       "resourceType": "image",
       "uploadedAt": 1787144381366
+    },
+    {
+      "publicId": "tvs_videos/video_1787163804548",
+      "resourceType": "video",
+      "uploadedAt": 1787163807071
     }
   ]
 }
