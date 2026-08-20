@@ -32,6 +32,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/matt-wilkinson-delivers-scoreless-outing-in-mlb-debut",
     "https://www.marca.com/futbol/celta/2026/08/19/hugo-gonzalez-he-trabajado-durante-toda-mi-vida-esto.html",
     "https://www.bbc.co.uk/sport/football/articles/cn8nx2wnjq9o?at_medium=RSS&at_campaign=rss",
@@ -230,10 +231,10 @@
     "https://www.mlb.com/news/team-victorino-wins-mlbx-2026",
     "https://www.mlb.com/news/baseball-injury-updates",
     "https://www.mlb.com/news/2026-ausl-regular-season-faq",
-    "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season"
+    "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Kane plays down returning to Premier League in future",
     "'Tugboat' kicks off Giants' shutout win with stout showing vs. team that drafted him",
     "Hugo González: “He trabajado durante toda mi vida para esto”",
     "To the well and back - how Malaga returned to La Liga",
@@ -432,15 +433,9 @@
     "Team Victorino gets the last laugh in 3-on-3 MLBx slugfest vs. Philly faves",
     "Injuries: Miz, Ohtani, Yankees, J-Rod, Kurtz, Burns, deGrom",
     "Watch LIVE on MLB Network, MLB.TV: Talons vs. Spark in AUSL action",
-    "'We have another level we can reach' - Kane defends frustrated Tuchel",
-    "LIVE: Brewers, Pirates clash in MLB Sunday Leadoff Game on Peacock"
+    "'We have another level we can reach' - Kane defends frustrated Tuchel"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1787142421348",
-      "resourceType": "video",
-      "uploadedAt": 1787142423082
-    },
     {
       "publicId": "tvs_cards/card_1787144380647",
       "resourceType": "image",
@@ -475,6 +470,11 @@
       "publicId": "tvs_cards/card_1787215757823",
       "resourceType": "image",
       "uploadedAt": 1787215759606
+    },
+    {
+      "publicId": "tvs_videos/video_1787228966305",
+      "resourceType": "video",
+      "uploadedAt": 1787228968681
     }
   ]
 }
