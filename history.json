@@ -16,6 +16,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -28,6 +30,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/celta/2026/08/19/hugo-gonzalez-he-trabajado-durante-toda-mi-vida-esto.html",
     "https://www.bbc.co.uk/sport/football/articles/cn8nx2wnjq9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/christian-bethancourt-traded-to-pirates-from-yankees",
     "https://www.mlb.com/news/rbi-world-series-mlb-together-mental-wellness-event-2026",
@@ -226,10 +229,10 @@
     "https://www.mlb.com/news/2026-ausl-regular-season-faq",
     "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-sunday-leadoff-on-nbc-peacock-for-2026-season",
-    "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades",
-    "https://www.espn.com/mlb/story/_/id/49307014/mlb-2026-all-star-weekend-futures-game-players-watch"
+    "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades"
   ],
   "postedTitles": [
+    "Hugo González: “He trabajado durante toda mi vida para esto”",
     "To the well and back - how Malaga returned to La Liga",
     "Pirates acquire veteran catcher Bethancourt from Yankees",
     "MLB Together teaches mental wellness at RBI World Series",
@@ -428,15 +431,9 @@
     "Watch LIVE on MLB Network, MLB.TV: Talons vs. Spark in AUSL action",
     "'We have another level we can reach' - Kane defends frustrated Tuchel",
     "LIVE: Brewers, Pirates clash in MLB Sunday Leadoff Game on Peacock",
-    "🏈 Barnwell's guide to building a Super Bowl roste...",
-    "The players we can't wait to see in the MLB Future..."
+    "🏈 Barnwell's guide to building a Super Bowl roste..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1787103733410",
-      "resourceType": "image",
-      "uploadedAt": 1787103734879
-    },
     {
       "publicId": "tvs_videos/video_1787120949479",
       "resourceType": "video",
@@ -471,6 +468,11 @@
       "publicId": "tvs_cards/card_1787190049966",
       "resourceType": "image",
       "uploadedAt": 1787190051617
+    },
+    {
+      "publicId": "tvs_cards/card_1787201027064",
+      "resourceType": "image",
+      "uploadedAt": 1787201027908
     }
   ]
 }
