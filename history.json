@@ -26,6 +26,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -38,6 +40,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crl7g5ypdeeo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-madrid/2026/08/21/veterano-vinicius.html",
     "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
@@ -236,10 +239,10 @@
     "https://www.mlb.com/news/hunter-dietz-no-35-overall-draft-pick-agrees-to-deal-with-yankees",
     "https://www.bbc.co.uk/sport/cricket/videos/czx5v54eqqxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-13",
-    "https://www.espn.com/mlb/story/_/id/49346106/mlb-2026-home-run-derby-olney-contestants-sluggers-pitchers-all-star-analysis",
-    "https://www.bbc.co.uk/sport/athletics/articles/c862820221wo?at_medium=RSS&at_campaign=rss"
+    "https://www.espn.com/mlb/story/_/id/49346106/mlb-2026-home-run-derby-olney-contestants-sluggers-pitchers-all-star-analysis"
   ],
   "postedTitles": [
+    "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
     "Medication switch behind Musiala collapses - Bayern",
     "El 'veterano' Vinicius",
     "Alcaraz to play US Open after four months out",
@@ -438,15 +441,9 @@
     "Yankees, first-round pick Dietz agree to terms on deal",
     "India complete historic Test victory",
     "Trade rumors: Mariners' starters, LA-Skubal, Yankees' catching options",
-    "Olney: Breaking down the Home Run Derby contestant...",
-    "Kerr's world record attempt confirmed for London"
+    "Olney: Breaking down the Home Run Derby contestant..."
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1787230927000",
-      "resourceType": "image",
-      "uploadedAt": 1787230928915
-    },
     {
       "publicId": "tvs_cards/card_1787244114755",
       "resourceType": "image",
@@ -466,6 +463,11 @@
       "publicId": "tvs_videos/video_1787315341917",
       "resourceType": "video",
       "uploadedAt": 1787315343359
+    },
+    {
+      "publicId": "tvs_cards/card_1787330518882",
+      "resourceType": "image",
+      "uploadedAt": 1787330519740
     }
   ]
 }
