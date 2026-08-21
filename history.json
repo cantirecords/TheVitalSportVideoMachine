@@ -28,6 +28,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -40,6 +42,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/reds-1st-round-draft-pick-justin-lebron-hits-4th-home-run",
     "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crl7g5ypdeeo?at_medium=RSS&at_campaign=rss",
@@ -238,10 +241,10 @@
     "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
     "https://www.mlb.com/news/bryce-harper-says-wants-to-play-with-aaron-judge",
     "https://www.mlb.com/news/hunter-dietz-no-35-overall-draft-pick-agrees-to-deal-with-yankees",
-    "https://www.bbc.co.uk/sport/cricket/videos/czx5v54eqqxo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-13"
+    "https://www.bbc.co.uk/sport/cricket/videos/czx5v54eqqxo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Reds 1st-rounder Lebron stays HOT with 4th homer in just 8 professional games",
     "Injured Sinner & Draper withdraw from US Open",
     "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
     "Medication switch behind Musiala collapses - Bayern",
@@ -440,15 +443,9 @@
     "NBA offseason buzz: Latest updates from summer lea...",
     "The one guy in all of MLB history Bryce would like to play alongside? He's still going strong",
     "Yankees, first-round pick Dietz agree to terms on deal",
-    "India complete historic Test victory",
-    "Trade rumors: Mariners' starters, LA-Skubal, Yankees' catching options"
+    "India complete historic Test victory"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1787250363267",
-      "resourceType": "video",
-      "uploadedAt": 1787250364904
-    },
     {
       "publicId": "tvs_cards/card_1787276774254",
       "resourceType": "image",
@@ -468,6 +465,11 @@
       "publicId": "tvs_videos/video_1787336693819",
       "resourceType": "video",
       "uploadedAt": 1787336696112
+    },
+    {
+      "publicId": "tvs_cards/card_1787344373071",
+      "resourceType": "image",
+      "uploadedAt": 1787344374390
     }
   ]
 }
