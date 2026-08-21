@@ -38,6 +38,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/crl7g5ypdeeo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-madrid/2026/08/21/veterano-vinicius.html",
     "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cy4k33x1yw4o?at_medium=RSS&at_campaign=rss",
@@ -236,10 +237,10 @@
     "https://www.bbc.co.uk/sport/cricket/videos/czx5v54eqqxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-13",
     "https://www.espn.com/mlb/story/_/id/49346106/mlb-2026-home-run-derby-olney-contestants-sluggers-pitchers-all-star-analysis",
-    "https://www.bbc.co.uk/sport/athletics/articles/c862820221wo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/49306202/top-10-nfl-players-every-position-2026-jeremy-fowler-best-quarterbacks-running-backs-wide-receivers"
+    "https://www.bbc.co.uk/sport/athletics/articles/c862820221wo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Medication switch behind Musiala collapses - Bayern",
     "El 'veterano' Vinicius",
     "Alcaraz to play US Open after four months out",
     "'I feel I am imprisoning myself' - Djokovic on doubts, childhood and future",
@@ -438,8 +439,7 @@
     "India complete historic Test victory",
     "Trade rumors: Mariners' starters, LA-Skubal, Yankees' catching options",
     "Olney: Breaking down the Home Run Derby contestant...",
-    "Kerr's world record attempt confirmed for London",
-    "Ranking the NFL's best players at every position"
+    "Kerr's world record attempt confirmed for London"
   ],
   "cloudinaryAssets": [
     {
@@ -466,6 +466,11 @@
       "publicId": "tvs_cards/card_1787276774254",
       "resourceType": "image",
       "uploadedAt": 1787276775485
+    },
+    {
+      "publicId": "tvs_videos/video_1787315341917",
+      "resourceType": "video",
+      "uploadedAt": 1787315343359
     }
   ]
 }
