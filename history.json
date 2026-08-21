@@ -40,6 +40,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crl7g5ypdeeo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-madrid/2026/08/21/veterano-vinicius.html",
@@ -238,10 +239,10 @@
     "https://www.mlb.com/news/bryce-harper-says-wants-to-play-with-aaron-judge",
     "https://www.mlb.com/news/hunter-dietz-no-35-overall-draft-pick-agrees-to-deal-with-yankees",
     "https://www.bbc.co.uk/sport/cricket/videos/czx5v54eqqxo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-13",
-    "https://www.espn.com/mlb/story/_/id/49346106/mlb-2026-home-run-derby-olney-contestants-sluggers-pitchers-all-star-analysis"
+    "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-13"
   ],
   "postedTitles": [
+    "Injured Sinner & Draper withdraw from US Open",
     "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
     "Medication switch behind Musiala collapses - Bayern",
     "El 'veterano' Vinicius",
@@ -440,15 +441,9 @@
     "The one guy in all of MLB history Bryce would like to play alongside? He's still going strong",
     "Yankees, first-round pick Dietz agree to terms on deal",
     "India complete historic Test victory",
-    "Trade rumors: Mariners' starters, LA-Skubal, Yankees' catching options",
-    "Olney: Breaking down the Home Run Derby contestant..."
+    "Trade rumors: Mariners' starters, LA-Skubal, Yankees' catching options"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1787244114755",
-      "resourceType": "image",
-      "uploadedAt": 1787244115984
-    },
     {
       "publicId": "tvs_videos/video_1787250363267",
       "resourceType": "video",
@@ -468,6 +463,11 @@
       "publicId": "tvs_cards/card_1787330518882",
       "resourceType": "image",
       "uploadedAt": 1787330519740
+    },
+    {
+      "publicId": "tvs_videos/video_1787336693819",
+      "resourceType": "video",
+      "uploadedAt": 1787336696112
     }
   ]
 }
