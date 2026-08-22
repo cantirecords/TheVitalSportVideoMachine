@@ -42,6 +42,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cade-cunningham-advice-for-texas-rangers",
     "https://www.mlb.com/news/reds-1st-round-draft-pick-justin-lebron-hits-4th-home-run",
     "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&at_campaign=rss",
@@ -240,10 +241,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
     "https://www.mlb.com/news/bryce-harper-says-wants-to-play-with-aaron-judge",
-    "https://www.mlb.com/news/hunter-dietz-no-35-overall-draft-pick-agrees-to-deal-with-yankees",
-    "https://www.bbc.co.uk/sport/cricket/videos/czx5v54eqqxo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/hunter-dietz-no-35-overall-draft-pick-agrees-to-deal-with-yankees"
   ],
   "postedTitles": [
+    "NBA superstar has sage advice for Rangers' playoff push",
     "Reds 1st-rounder Lebron stays HOT with 4th homer in just 8 professional games",
     "Injured Sinner & Draper withdraw from US Open",
     "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
@@ -442,8 +443,7 @@
     "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
     "NBA offseason buzz: Latest updates from summer lea...",
     "The one guy in all of MLB history Bryce would like to play alongside? He's still going strong",
-    "Yankees, first-round pick Dietz agree to terms on deal",
-    "India complete historic Test victory"
+    "Yankees, first-round pick Dietz agree to terms on deal"
   ],
   "cloudinaryAssets": [
     {
@@ -470,6 +470,11 @@
       "publicId": "tvs_cards/card_1787344373071",
       "resourceType": "image",
       "uploadedAt": 1787344374390
+    },
+    {
+      "publicId": "tvs_videos/video_1787359390335",
+      "resourceType": "video",
+      "uploadedAt": 1787359392615
     }
   ]
 }
