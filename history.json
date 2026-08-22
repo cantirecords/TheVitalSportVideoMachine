@@ -34,6 +34,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -46,6 +48,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
@@ -244,10 +247,10 @@
     "https://www.mlb.com/news/2024-draft-class-represented-at-2026-all-star-festivities",
     "https://www.marca.com/futbol/real-sociedad/2026/07/14/real-debutara-laliga-21-agosto-villamarin-aplazarse-26-jornada-inaugural-real-madrid.html",
     "https://www.mlb.com/news/teams-with-best-hauls-in-2026-mlb-draft",
-    "https://www.mlb.com/news/roch-cholowsky-deal-with-white-sox",
-    "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/roch-cholowsky-deal-with-white-sox"
   ],
   "postedTitles": [
+    "Sydney Marathon medal mistakenly depicts Munich stadium",
     "Sex toys again thrown on court during WNBA matches ",
     "Messi fined for slapping opponent in MLS game ",
     "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
@@ -446,15 +449,9 @@
     "With 3 All-Stars and 1 HRD slugger, '24 Draft class already one for the ages",
     "La Real debutará en LaLiga el 21 de agosto en el Villamarín, tras aplazarse al 26 la jornada inaugural ante el Real Madrid",
     "6 teams that crushed the Draft",
-    "White Sox to sign No. 1 overall pick Cholowsky to record deal (source)",
-    "Could it work if Verstappen wanted to go to McLaren? F1 Q&A"
+    "White Sox to sign No. 1 overall pick Cholowsky to record deal (source)"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1787315341917",
-      "resourceType": "video",
-      "uploadedAt": 1787315343359
-    },
     {
       "publicId": "tvs_cards/card_1787330518882",
       "resourceType": "image",
@@ -489,6 +486,11 @@
       "publicId": "tvs_videos/video_1787401288105",
       "resourceType": "video",
       "uploadedAt": 1787401290157
+    },
+    {
+      "publicId": "tvs_cards/card_1787403136311",
+      "resourceType": "image",
+      "uploadedAt": 1787403137424
     }
   ]
 }
