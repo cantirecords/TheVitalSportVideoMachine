@@ -50,6 +50,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss",
@@ -248,10 +249,10 @@
     "https://www.marca.com/futbol/primera-division/2026/07/14/madrid-barca-debutaran-tarde-atleti.html",
     "https://www.espn.com/soccer/story/_/id/49358709/harry-kane-england-argentina-world-cup-2026-semifinal",
     "https://www.mlb.com/news/2024-draft-class-represented-at-2026-all-star-festivities",
-    "https://www.marca.com/futbol/real-sociedad/2026/07/14/real-debutara-laliga-21-agosto-villamarin-aplazarse-26-jornada-inaugural-real-madrid.html",
-    "https://www.mlb.com/news/teams-with-best-hauls-in-2026-mlb-draft"
+    "https://www.marca.com/futbol/real-sociedad/2026/07/14/real-debutara-laliga-21-agosto-villamarin-aplazarse-26-jornada-inaugural-real-madrid.html"
   ],
   "postedTitles": [
+    "Williams and Alcaraz to play US Open mixed doubles",
     "Norris beats Russell to pole position at Zandvoort",
     "Sydney Marathon medal mistakenly depicts Munich stadium",
     "Sex toys again thrown on court during WNBA matches ",
@@ -450,15 +451,9 @@
     "Madrid y Barça debutarán... más tarde que el Atleti",
     "Kane: England can't focus on Argentina history",
     "With 3 All-Stars and 1 HRD slugger, '24 Draft class already one for the ages",
-    "La Real debutará en LaLiga el 21 de agosto en el Villamarín, tras aplazarse al 26 la jornada inaugural ante el Real Madrid",
-    "6 teams that crushed the Draft"
+    "La Real debutará en LaLiga el 21 de agosto en el Villamarín, tras aplazarse al 26 la jornada inaugural ante el Real Madrid"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1787330518882",
-      "resourceType": "image",
-      "uploadedAt": 1787330519740
-    },
     {
       "publicId": "tvs_videos/video_1787336693819",
       "resourceType": "video",
@@ -498,6 +493,11 @@
       "publicId": "tvs_cards/card_1787416349182",
       "resourceType": "image",
       "uploadedAt": 1787416350456
+    },
+    {
+      "publicId": "tvs_videos/video_1787422667101",
+      "resourceType": "video",
+      "uploadedAt": 1787422668866
     }
   ]
 }
