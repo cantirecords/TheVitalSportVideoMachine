@@ -46,6 +46,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
     "https://www.mlb.com/news/cade-cunningham-advice-for-texas-rangers",
@@ -244,10 +245,10 @@
     "https://www.marca.com/futbol/real-sociedad/2026/07/14/real-debutara-laliga-21-agosto-villamarin-aplazarse-26-jornada-inaugural-real-madrid.html",
     "https://www.mlb.com/news/teams-with-best-hauls-in-2026-mlb-draft",
     "https://www.mlb.com/news/roch-cholowsky-deal-with-white-sox",
-    "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason"
+    "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Sex toys again thrown on court during WNBA matches ",
     "Messi fined for slapping opponent in MLS game ",
     "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
     "NBA superstar has sage advice for Rangers' playoff push",
@@ -446,8 +447,7 @@
     "La Real debutará en LaLiga el 21 de agosto en el Villamarín, tras aplazarse al 26 la jornada inaugural ante el Real Madrid",
     "6 teams that crushed the Draft",
     "White Sox to sign No. 1 overall pick Cholowsky to record deal (source)",
-    "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
-    "NBA offseason buzz: Latest updates from summer lea..."
+    "Could it work if Verstappen wanted to go to McLaren? F1 Q&A"
   ],
   "cloudinaryAssets": [
     {
@@ -484,6 +484,11 @@
       "publicId": "tvs_cards/card_1787387889466",
       "resourceType": "image",
       "uploadedAt": 1787387890536
+    },
+    {
+      "publicId": "tvs_videos/video_1787401288105",
+      "resourceType": "video",
+      "uploadedAt": 1787401290157
     }
   ]
 }
