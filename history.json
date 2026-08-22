@@ -32,6 +32,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -44,6 +46,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
     "https://www.mlb.com/news/cade-cunningham-advice-for-texas-rangers",
     "https://www.mlb.com/news/reds-1st-round-draft-pick-justin-lebron-hits-4th-home-run",
@@ -242,10 +245,10 @@
     "https://www.mlb.com/news/teams-with-best-hauls-in-2026-mlb-draft",
     "https://www.mlb.com/news/roch-cholowsky-deal-with-white-sox",
     "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-    "https://www.mlb.com/news/bryce-harper-says-wants-to-play-with-aaron-judge"
+    "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason"
   ],
   "postedTitles": [
+    "Messi fined for slapping opponent in MLS game ",
     "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
     "NBA superstar has sage advice for Rangers' playoff push",
     "Reds 1st-rounder Lebron stays HOT with 4th homer in just 8 professional games",
@@ -444,8 +447,7 @@
     "6 teams that crushed the Draft",
     "White Sox to sign No. 1 overall pick Cholowsky to record deal (source)",
     "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
-    "NBA offseason buzz: Latest updates from summer lea...",
-    "The one guy in all of MLB history Bryce would like to play alongside? He's still going strong"
+    "NBA offseason buzz: Latest updates from summer lea..."
   ],
   "cloudinaryAssets": [
     {
@@ -477,6 +479,11 @@
       "publicId": "tvs_cards/card_1787362770211",
       "resourceType": "image",
       "uploadedAt": 1787362771555
+    },
+    {
+      "publicId": "tvs_cards/card_1787387889466",
+      "resourceType": "image",
+      "uploadedAt": 1787387890536
     }
   ]
 }
