@@ -50,6 +50,7 @@
     "Rodri"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dylan-cease-takes-no-hitter-into-seventh-against-yankees",
     "https://www.mlb.com/news/mlb-at-field-of-dreams-game-highlights-this-week-in-baseball",
@@ -248,10 +249,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c5yzy0kl2gzo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss",
     "https://www.espn.com/nfl/story/_/id/49295327/ranking-nfl-top-10-linebackers-2026-execs-coaches-scouts",
-    "https://www.mlb.com/news/mlb-all-stars-show-off-outfits-on-the-red-carpet",
-    "https://www.marca.com/futbol/primera-division/2026/07/14/madrid-barca-debutaran-tarde-atleti.html"
+    "https://www.mlb.com/news/mlb-all-stars-show-off-outfits-on-the-red-carpet"
   ],
   "postedTitles": [
+    "'New season, new trim' - Haaland reveals buzzcut",
     "Life after Salah - why Isak and Wirtz must step up for Liverpool",
     "Cease's latest no-hit bid gives Jays crucial win over Yankees",
     "TWIB: Relive the iconic MLB at Field of Dreams Game",
@@ -450,8 +451,7 @@
     "Bellingham best player at World Cup - Rooney",
     "Walked for 47% of the World Cup - the evolution of Messi",
     "Ranking the best linebackers in the NFL: Our exec ...",
-    "MLB All-Stars walk red carpet dressed to the nines, with meaning behind every stitch",
-    "Madrid y Barça debutarán... más tarde que el Atleti"
+    "MLB All-Stars walk red carpet dressed to the nines, with meaning behind every stitch"
   ],
   "cloudinaryAssets": [
     {
@@ -473,6 +473,11 @@
       "publicId": "tvs_videos/video_1787487726921",
       "resourceType": "video",
       "uploadedAt": 1787487729445
+    },
+    {
+      "publicId": "tvs_videos/video_1787509029276",
+      "resourceType": "video",
+      "uploadedAt": 1787509031195
     }
   ]
 }
