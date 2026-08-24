@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Barça",
     "Hamilton",
     "DEVELOPING",
     "STORY",
@@ -8,10 +9,10 @@
     "Madrid",
     "First",
     "Player",
-    "Dodgers",
-    "Lose"
+    "Dodgers"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/opinion/2026/08/24/espi-barca-atleti.html",
     "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
     "https://www.mlb.com/news/record-seven-players-from-cuba-play-in-all-star-game",
     "https://www.bbc.co.uk/sport/football/articles/c5yzy0kl2gzo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/nfl/story/_/id/49295327/ranking-nfl-top-10-linebackers-2026-execs-coaches-scouts"
+    "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Espí, el Barça y el Atleti",
     "Ferrari delay in moving Leclerc costly - Hamilton ",
     "'New season, new trim' - Haaland reveals buzzcut",
     "Life after Salah - why Isak and Wirtz must step up for Liverpool",
@@ -412,15 +413,9 @@
     "Updated top 10 prospect rankings for all 30 MLB te...",
     "Record 7 Cuban 'brothers' take the field for All-Star Game",
     "Bellingham best player at World Cup - Rooney",
-    "Walked for 47% of the World Cup - the evolution of Messi",
-    "Ranking the best linebackers in the NFL: Our exec ..."
+    "Walked for 47% of the World Cup - the evolution of Messi"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1787466352235",
-      "resourceType": "video",
-      "uploadedAt": 1787466354200
-    },
     {
       "publicId": "tvs_videos/video_1787487726921",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1787532230453",
       "resourceType": "video",
       "uploadedAt": 1787532231807
+    },
+    {
+      "publicId": "tvs_videos/video_1787553565825",
+      "resourceType": "video",
+      "uploadedAt": 1787553567967
     }
   ]
 }
