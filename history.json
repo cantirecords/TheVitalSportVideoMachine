@@ -12,6 +12,7 @@
     "Dodgers"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/c3v0v4951k6o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mason-adams-callup-for-mlb-debut",
     "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-24-2026",
     "https://www.marca.com/futbol/primera-division/opinion/2026/08/24/espi-barca-atleti.html",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/improved-bat-speed-is-behind-some-of-mlb-s-biggest-power-surges-in-2026",
     "https://www.mlb.com/news/carson-wiggins-deal-with-mets",
     "https://www.bbc.co.uk/sport/football/articles/c30y0zqzvl5o?at_medium=RSS&at_campaign=rss",
-    "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel",
-    "https://www.mlb.com/news/record-seven-players-from-cuba-play-in-all-star-game"
+    "https://www.espn.com/mlb/story/_/id/47684227/2026-top-10-prospect-rankings-all-30-mlb-teams-kiley-mcdaniel"
   ],
   "postedTitles": [
+    "Mercedes' upgrades & Ferrari team orders - F1 Q&A",
     "Rox calling up No. 20 prospect for MLB debut vs. Nats (source)",
     "Skubal vs. Tigers, Red Sox-Yankees showdown among 5 series to watch this week",
     "Espí, el Barça y el Atleti",
@@ -412,8 +413,7 @@
     "Want to hit more homers? This metric links some of MLB's biggest power surges in '26",
     "Mets sign their top Draft pick Wiggins",
     "Keane was Kane's England team-mate - this week they are on different paths",
-    "Updated top 10 prospect rankings for all 30 MLB te...",
-    "Record 7 Cuban 'brothers' take the field for All-Star Game"
+    "Updated top 10 prospect rankings for all 30 MLB te..."
   ],
   "cloudinaryAssets": [
     {
@@ -425,6 +425,11 @@
       "publicId": "tvs_videos/video_1787618662946",
       "resourceType": "video",
       "uploadedAt": 1787618665012
+    },
+    {
+      "publicId": "tvs_videos/video_1787661034718",
+      "resourceType": "video",
+      "uploadedAt": 1787661036596
     }
   ]
 }
