@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/videos/cd68qgj4p14o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cy7z6nnm4mdo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-sociedad/2026/08/25/jon-martin-mbappe-vinicius-son-dificiles-parar-tuviese-destacar-igual-dia-mbappe-espacio.html",
     "https://www.bbc.co.uk/sport/formula1/articles/c3v0v4951k6o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/favorite-mlb-draft-pick-for-each-team-2026",
     "https://www.mlb.com/news/players-alliance-honors-black-greats-in-philadelphia",
     "https://www.mlb.com/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast",
-    "https://www.mlb.com/news/improved-bat-speed-is-behind-some-of-mlb-s-biggest-power-surges-in-2026",
-    "https://www.mlb.com/news/carson-wiggins-deal-with-mets"
+    "https://www.mlb.com/news/improved-bat-speed-is-behind-some-of-mlb-s-biggest-power-surges-in-2026"
   ],
   "postedTitles": [
+    "Williams and Alcaraz team up at US Open",
     "NBA recruits boost GB bid for EuroBasket success",
     "Jon Martín: \"Mbappé y Vinicius son muy difíciles de parar, si tuviese que destacar uno igual día Mbappé por el espacio\"",
     "Mercedes' upgrades & Ferrari team orders - F1 Q&A",
@@ -412,8 +413,7 @@
     "MLB Pipeline's favorite Draft picks -- one for each club",
     "Black legends detail their stories, love for game at Players Alliance dinner",
     "Biggest steals of the 2026 Draft -- 1 from each of the first 10 rounds",
-    "Want to hit more homers? This metric links some of MLB's biggest power surges in '26",
-    "Mets sign their top Draft pick Wiggins"
+    "Want to hit more homers? This metric links some of MLB's biggest power surges in '26"
   ],
   "cloudinaryAssets": [
     {
@@ -425,6 +425,11 @@
       "publicId": "tvs_videos/video_1787747578540",
       "resourceType": "video",
       "uploadedAt": 1787747580394
+    },
+    {
+      "publicId": "tvs_videos/video_1787773243316",
+      "resourceType": "video",
+      "uploadedAt": 1787773245275
     }
   ]
 }
