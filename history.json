@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/elmer-rodriguez-goes-career-high-6-plus-in-yankees-win",
     "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/cd68qgj4p14o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cy7z6nnm4mdo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/c3ekj7l55vno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c74glwpv99yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/favorite-mlb-draft-pick-for-each-team-2026",
-    "https://www.mlb.com/news/players-alliance-honors-black-greats-in-philadelphia",
-    "https://www.mlb.com/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast"
+    "https://www.mlb.com/news/players-alliance-honors-black-greats-in-philadelphia"
   ],
   "postedTitles": [
+    "Rodríguez finds his swagger in return to Yankees: 'He was nasty'",
     "From influencers to queens of women's boxing - five years of MVP",
     "Williams and Alcaraz team up at US Open",
     "NBA recruits boost GB bid for EuroBasket success",
@@ -412,15 +413,9 @@
     "Alcaraz eyes return from injury at Cincinnati Open",
     "Bellingham slapped Argentina substitute after England exit",
     "MLB Pipeline's favorite Draft picks -- one for each club",
-    "Black legends detail their stories, love for game at Players Alliance dinner",
-    "Biggest steals of the 2026 Draft -- 1 from each of the first 10 rounds"
+    "Black legends detail their stories, love for game at Players Alliance dinner"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1787747578540",
-      "resourceType": "video",
-      "uploadedAt": 1787747580394
-    },
     {
       "publicId": "tvs_videos/video_1787773243316",
       "resourceType": "video",
@@ -430,6 +425,11 @@
       "publicId": "tvs_videos/video_1787809899942",
       "resourceType": "video",
       "uploadedAt": 1787809901993
+    },
+    {
+      "publicId": "tvs_videos/video_1787850544960",
+      "resourceType": "video",
+      "uploadedAt": 1787850546641
     }
   ]
 }
