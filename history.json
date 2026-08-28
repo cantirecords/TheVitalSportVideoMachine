@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cr50m4vlvr3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/elmer-rodriguez-goes-career-high-6-plus-in-yankees-win",
     "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/c4gxd6vjyj1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cj038y0levyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c3ekj7l55vno?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/c74glwpv99yo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/favorite-mlb-draft-pick-for-each-team-2026"
+    "https://www.bbc.co.uk/sport/football/articles/c74glwpv99yo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "What is the aim for Kompany, Kane and Bayern?",
     "European franchise a question for NFL - Belichick",
     "Rodríguez finds his swagger in return to Yankees: 'He was nasty'",
     "From influencers to queens of women's boxing - five years of MVP",
@@ -412,19 +413,18 @@
     "Female tennis players faced 12,000 abusive posts in 2025",
     "Norris to have 10-place grid penalty in Belgium",
     "Alcaraz eyes return from injury at Cincinnati Open",
-    "Bellingham slapped Argentina substitute after England exit",
-    "MLB Pipeline's favorite Draft picks -- one for each club"
+    "Bellingham slapped Argentina substitute after England exit"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1787850544960",
-      "resourceType": "video",
-      "uploadedAt": 1787850546641
-    },
     {
       "publicId": "tvs_videos/video_1787882236399",
       "resourceType": "video",
       "uploadedAt": 1787882238490
+    },
+    {
+      "publicId": "tvs_videos/video_1787939764275",
+      "resourceType": "video",
+      "uploadedAt": 1787939766471
     }
   ]
 }
