@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
     "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cr50m4vlvr3o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cr7kr0lx081o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-wins-best-single-game-performance-at-espys",
     "https://www.bbc.co.uk/sport/tennis/articles/c4gxd6vjyj1o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cj038y0levyo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/c3ekj7l55vno?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/cj038y0levyo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Injury uncertainty led to 'intrusive thoughts' for Alcaraz",
     "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
     "What is the aim for Kompany, Kane and Bayern?",
     "European franchise a question for NFL - Belichick",
@@ -412,8 +413,7 @@
     "Red Bull to change wing after Verstappen crashes",
     "Ohtani takes home 2 ESPYS, including for best single game",
     "Female tennis players faced 12,000 abusive posts in 2025",
-    "Norris to have 10-place grid penalty in Belgium",
-    "Alcaraz eyes return from injury at Cincinnati Open"
+    "Norris to have 10-place grid penalty in Belgium"
   ],
   "cloudinaryAssets": [
     {
@@ -425,6 +425,11 @@
       "publicId": "tvs_videos/video_1787966514318",
       "resourceType": "video",
       "uploadedAt": 1787966516198
+    },
+    {
+      "publicId": "tvs_videos/video_1788004813179",
+      "resourceType": "video",
+      "uploadedAt": 1788004814950
     }
   ]
 }
