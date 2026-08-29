@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/spencer-schwellenbach-on-setbacks-that-led-to-another-elbow-surgery",
     "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/ckge5jkjz9eo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c1k13mvgyljo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cr7kr0lx081o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-wins-best-single-game-performance-at-espys",
-    "https://www.bbc.co.uk/sport/tennis/articles/c4gxd6vjyj1o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/shohei-ohtani-wins-best-single-game-performance-at-espys"
   ],
   "postedTitles": [
+    "Schwellenbach frustrated by need for elbow surgery after setbacks in rehab",
     "Haaland and Cherki fire impressive Man City to victory at Palace",
     "Injury uncertainty led to 'intrusive thoughts' for Alcaraz",
     "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
@@ -412,8 +413,7 @@
     "Record crowd as Kerr returns to Gotham FC",
     "Kane unsure if he will play at next World Cup",
     "Red Bull to change wing after Verstappen crashes",
-    "Ohtani takes home 2 ESPYS, including for best single game",
-    "Female tennis players faced 12,000 abusive posts in 2025"
+    "Ohtani takes home 2 ESPYS, including for best single game"
   ],
   "cloudinaryAssets": [
     {
@@ -430,6 +430,11 @@
       "publicId": "tvs_videos/video_1788020222722",
       "resourceType": "video",
       "uploadedAt": 1788020224689
+    },
+    {
+      "publicId": "tvs_videos/video_1788034407539",
+      "resourceType": "video",
+      "uploadedAt": 1788034409072
     }
   ]
 }
