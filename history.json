@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/clyk5gmvmero?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-madrid/2026/08/30/bellingham-sigue-imparable.html",
     "https://www.mlb.com/news/baseball-injury-updates",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/boxing/articles/cvgwd3ydn5vo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/ckge5jkjz9eo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/boxing/articles/cvgwd3ydn5vo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Midnight matches and money disputes - why is tennis schedule such a headache?",
     "Watch: Djokovic overcome with emotion during US Open loss",
     "Bellingham sigue imparable",
     "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres",
@@ -412,15 +413,9 @@
     "Clark 'a political football' says NBA chief Silver",
     "How coach-on-pitch Messi undid England's tactics on the fly",
     "England missing final piece of jigsaw - Kane",
-    "Serrano to meet Manzur with knockout record on line",
-    "Record crowd as Kerr returns to Gotham FC"
+    "Serrano to meet Manzur with knockout record on line"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1788121247752",
-      "resourceType": "video",
-      "uploadedAt": 1788121249541
-    },
     {
       "publicId": "tvs_videos/video_1788143174315",
       "resourceType": "video",
@@ -430,6 +425,11 @@
       "publicId": "tvs_videos/video_1788178371858",
       "resourceType": "video",
       "uploadedAt": 1788178373298
+    },
+    {
+      "publicId": "tvs_videos/video_1788214422720",
+      "resourceType": "video",
+      "uploadedAt": 1788214427487
     }
   ]
 }
