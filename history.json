@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop",
     "https://www.bbc.co.uk/sport/tennis/articles/c93vq29kpn7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers",
     "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cj365336l52o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/golf/videos/cvgv50vle0ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Save big on MLB.TV for the stretch run",
     "A newspaper gown and an NBA tribute - Osaka's US Open fashion statement",
     "Yankees add more depth to 'pen with waiver claim of Schreiber",
     "Midnight matches and money disputes - why is tennis schedule such a headache?",
@@ -412,8 +413,7 @@
     "Villa complete club record Manzambi signing ",
     "Suber hits 'miracle shot' for eagle to move top of Open leaderboard",
     "Verstappen top in first practice as Hadjar takes grid penalty",
-    "Clark 'a political football' says NBA chief Silver",
-    "How coach-on-pitch Messi undid England's tactics on the fly"
+    "Clark 'a political football' says NBA chief Silver"
   ],
   "cloudinaryAssets": [
     {
@@ -430,6 +430,11 @@
       "publicId": "tvs_videos/video_1788259788318",
       "resourceType": "video",
       "uploadedAt": 1788259790379
+    },
+    {
+      "publicId": "tvs_videos/video_1788277739041",
+      "resourceType": "video",
+      "uploadedAt": 1788277741445
     }
   ]
 }
