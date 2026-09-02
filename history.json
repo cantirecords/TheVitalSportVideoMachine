@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
     "https://www.mlb.com/news/mlb-postseason-roster-rules-explained",
     "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/golf/articles/c5y4w9xlnqdo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-top-prospect-josue-de-paula-homers",
     "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/american-football/articles/c3d3v0njz7zo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/harry-ford-promoted-nationals-debut"
+    "https://www.bbc.co.uk/sport/american-football/articles/c3d3v0njz7zo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
     "Everything you need to know about MLB's postseason roster rules",
     "What does Norris deal mean for Piastri? F1 Q&A",
     "Premier League breaks transfer record for second straight summer",
@@ -412,8 +413,7 @@
     "A third 62 at Birkdale - Fox equals Open record",
     "MLB No. 4 prospect De Paula stays hot with go-ahead homer",
     "Life after Kane - are England facing a false nine future?",
-    "NFL players want more grass fields after World Cup",
-    "Ford hits first MLB HR as Nats come out of break with 23-run outburst"
+    "NFL players want more grass fields after World Cup"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788363657886",
       "resourceType": "video",
       "uploadedAt": 1788363659573
+    },
+    {
+      "publicId": "tvs_videos/video_1788380411481",
+      "resourceType": "video",
+      "uploadedAt": 1788380413712
     }
   ]
 }
