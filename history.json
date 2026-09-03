@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cam-schlittler-faces-dodgers",
     "https://www.bbc.co.uk/sport/cricket/videos/cn5nwk35z1do?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/cycling/videos/c2lq9z49119o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/golf/articles/c5y4w9xlnqdo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/cycling/videos/c2lq9z49119o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Breaking down Chelsea's staggering 39 summer exits",
     "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
     "Man City buy costly new midfield - but have they overlooked Haaland cover?",
     "LA Clippers fined $30m by NBA over Leonard scandal",
@@ -412,8 +413,7 @@
     "England seal series with record Lord's ODI total",
     "Schlittler K's 8 Dodgers, but takes the loss in duel with Yamamoto",
     "'He's got it!' - Rohit Sharma reaches historic century in style",
-    "GB's Shriever claims historic win as extreme weather halts final ",
-    "A third 62 at Birkdale - Fox equals Open record"
+    "GB's Shriever claims historic win as extreme weather halts final "
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788449438122",
       "resourceType": "video",
       "uploadedAt": 1788449440594
+    },
+    {
+      "publicId": "tvs_videos/video_1788466796733",
+      "resourceType": "video",
+      "uploadedAt": 1788466799262
     }
   ]
 }
