@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/cam-schlittler-faces-dodgers",
     "https://www.bbc.co.uk/sport/cricket/videos/cn5nwk35z1do?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cycling/videos/c2lq9z49119o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/golf/articles/c5y4w9xlnqdo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/dodgers-top-prospect-josue-de-paula-homers"
+    "https://www.bbc.co.uk/sport/golf/articles/c5y4w9xlnqdo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
     "Man City buy costly new midfield - but have they overlooked Haaland cover?",
     "LA Clippers fined $30m by NBA over Leonard scandal",
     "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
@@ -412,8 +413,7 @@
     "Schlittler K's 8 Dodgers, but takes the loss in duel with Yamamoto",
     "'He's got it!' - Rohit Sharma reaches historic century in style",
     "GB's Shriever claims historic win as extreme weather halts final ",
-    "A third 62 at Birkdale - Fox equals Open record",
-    "MLB No. 4 prospect De Paula stays hot with go-ahead homer"
+    "A third 62 at Birkdale - Fox equals Open record"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788431179488",
       "resourceType": "video",
       "uploadedAt": 1788431181914
+    },
+    {
+      "publicId": "tvs_videos/video_1788449438122",
+      "resourceType": "video",
+      "uploadedAt": 1788449440594
     }
   ]
 }
