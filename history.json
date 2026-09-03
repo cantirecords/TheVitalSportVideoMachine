@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
     "https://www.mlb.com/news/mlb-postseason-roster-rules-explained",
     "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/cycling/videos/c2lq9z49119o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/golf/articles/c5y4w9xlnqdo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-top-prospect-josue-de-paula-homers",
-    "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/american-football/articles/c3d3v0njz7zo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "LA Clippers fined $30m by NBA over Leonard scandal",
     "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
     "Everything you need to know about MLB's postseason roster rules",
     "What does Norris deal mean for Piastri? F1 Q&A",
@@ -412,15 +413,9 @@
     "GB's Shriever claims historic win as extreme weather halts final ",
     "A third 62 at Birkdale - Fox equals Open record",
     "MLB No. 4 prospect De Paula stays hot with go-ahead homer",
-    "Life after Kane - are England facing a false nine future?",
-    "NFL players want more grass fields after World Cup"
+    "Life after Kane - are England facing a false nine future?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1788314658394",
-      "resourceType": "video",
-      "uploadedAt": 1788314661041
-    },
     {
       "publicId": "tvs_videos/video_1788344026991",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1788380411481",
       "resourceType": "video",
       "uploadedAt": 1788380413712
+    },
+    {
+      "publicId": "tvs_videos/video_1788401326640",
+      "resourceType": "video",
+      "uploadedAt": 1788401328419
     }
   ]
 }
