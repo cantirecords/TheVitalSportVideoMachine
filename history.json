@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cardinals-have-more-world-series-titles-than-dodgers-for-now",
     "https://www.mlb.com/news/mlb-monthly-awards-for-august-2026",
     "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/andrew-benintendi-hits-bases-clearing-double-celebrates-10-years-service-time",
     "https://www.mlb.com/news/cooper-pratt-hits-first-major-league-home-run",
-    "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/cam-schlittler-faces-dodgers"
+    "https://www.bbc.co.uk/sport/cricket/articles/cglj4n91744o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'My position now is as one of two 10s' - Kane breaks down his evolution",
     "Can Cards hold off the Dodgers for all-time National League supremacy?",
     "These are the MLB monthly award winners for August",
     "Breaking down Chelsea's staggering 39 summer exits",
@@ -412,8 +413,7 @@
     "Gallery: Spain celebrate World Cup triumph in Madrid",
     "Benintendi has his own way of celebrating 10 years of MLB service time",
     "Top 100 prospect Pratt tags former Brewer Peralta for first MLB HR",
-    "England seal series with record Lord's ODI total",
-    "Schlittler K's 8 Dodgers, but takes the loss in duel with Yamamoto"
+    "England seal series with record Lord's ODI total"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788516787985",
       "resourceType": "video",
       "uploadedAt": 1788516790771
+    },
+    {
+      "publicId": "tvs_videos/video_1788535760569",
+      "resourceType": "video",
+      "uploadedAt": 1788535762452
     }
   ]
 }
