@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/james-rowson-ejected-after-jose-caballero-pitch-timer-violation",
     "https://www.mlb.com/news/dodgers-end-game-on-phillies-baserunning-mistake",
     "https://www.mlb.com/news/ildemaro-vargas-hits-walk-off-after-kohl-drake-strong-in-debut",
-    "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026",
-    "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026"
   ],
   "postedTitles": [
+    "Haaland header maintains perfect winning start for Man City",
     "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
     "Improving Alcaraz underlines title credentials in wide-open draw",
     "How 'unique' Bellingham is thriving in Mourinho's system",
@@ -412,8 +413,7 @@
     "Yankees frustrated after Caballero's pitch-timer approach is rebuffed",
     "Phils' blunder on bases turns into chaotic game-ending 5-2-6-4 DP for Dodgers",
     "Drake shines in MLB debut (in front of Mom and Dad!) before Vargas walks it off",
-    "Pirates-Yankees rained out Tuesday; split doubleheader set for Wednesday",
-    "Why was Hamilton penalised but not Leclerc? - F1 Q&A"
+    "Pirates-Yankees rained out Tuesday; split doubleheader set for Wednesday"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788617852468",
       "resourceType": "video",
       "uploadedAt": 1788617854351
+    },
+    {
+      "publicId": "tvs_videos/video_1788637522623",
+      "resourceType": "video",
+      "uploadedAt": 1788637524723
     }
   ]
 }
