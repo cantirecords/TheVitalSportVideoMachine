@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-announce-25th-anniversary-of-9-11-plans",
     "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cardinals-have-more-world-series-titles-than-dodgers-for-now",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026",
     "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/andrew-benintendi-hits-bases-clearing-double-celebrates-10-years-service-time",
-    "https://www.mlb.com/news/cooper-pratt-hits-first-major-league-home-run"
+    "https://www.mlb.com/news/andrew-benintendi-hits-bases-clearing-double-celebrates-10-years-service-time"
   ],
   "postedTitles": [
+    "How 'unique' Bellingham is thriving in Mourinho's system",
     "Yankees announce commemoration plans for 25th anniversary of 9/11",
     "'My position now is as one of two 10s' - Kane breaks down his evolution",
     "Can Cards hold off the Dodgers for all-time National League supremacy?",
@@ -412,8 +413,7 @@
     "Pirates-Yankees rained out Tuesday; split doubleheader set for Wednesday",
     "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
     "Gallery: Spain celebrate World Cup triumph in Madrid",
-    "Benintendi has his own way of celebrating 10 years of MLB service time",
-    "Top 100 prospect Pratt tags former Brewer Peralta for first MLB HR"
+    "Benintendi has his own way of celebrating 10 years of MLB service time"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788552272965",
       "resourceType": "video",
       "uploadedAt": 1788552274439
+    },
+    {
+      "publicId": "tvs_videos/video_1788573944613",
+      "resourceType": "video",
+      "uploadedAt": 1788573946601
     }
   ]
 }
