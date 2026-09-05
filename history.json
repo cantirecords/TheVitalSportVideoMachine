@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-announce-25th-anniversary-of-9-11-plans",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/dodgers-end-game-on-phillies-baserunning-mistake",
     "https://www.mlb.com/news/ildemaro-vargas-hits-walk-off-after-kohl-drake-strong-in-debut",
     "https://www.mlb.com/news/pirates-yankees-postponed-july-21-2026",
-    "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
     "Improving Alcaraz underlines title credentials in wide-open draw",
     "How 'unique' Bellingham is thriving in Mourinho's system",
     "Yankees announce commemoration plans for 25th anniversary of 9/11",
@@ -412,8 +413,7 @@
     "Phils' blunder on bases turns into chaotic game-ending 5-2-6-4 DP for Dodgers",
     "Drake shines in MLB debut (in front of Mom and Dad!) before Vargas walks it off",
     "Pirates-Yankees rained out Tuesday; split doubleheader set for Wednesday",
-    "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
-    "Gallery: Spain celebrate World Cup triumph in Madrid"
+    "Why was Hamilton penalised but not Leclerc? - F1 Q&A"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788601338697",
       "resourceType": "video",
       "uploadedAt": 1788601340811
+    },
+    {
+      "publicId": "tvs_videos/video_1788617852468",
+      "resourceType": "video",
+      "uploadedAt": 1788617854351
     }
   ]
 }
