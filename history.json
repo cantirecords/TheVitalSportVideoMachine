@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cm2my2z365lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/max-muncy-dalton-rushing-scratched-from-dodgers-lineup-sept-5",
     "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/dodgers-rotation-in-focus-at-2026-trade-deadline",
     "https://www.mlb.com/news/shohei-ohtani-bullpen-session-july-2026",
     "https://www.mlb.com/news/james-rowson-ejected-after-jose-caballero-pitch-timer-violation",
-    "https://www.mlb.com/news/dodgers-end-game-on-phillies-baserunning-mistake",
-    "https://www.mlb.com/news/ildemaro-vargas-hits-walk-off-after-kohl-drake-strong-in-debut"
+    "https://www.mlb.com/news/dodgers-end-game-on-phillies-baserunning-mistake"
   ],
   "postedTitles": [
+    "Antonelli 'walks over water' for win that will go down in F1 folklore",
     "Muncy (illness), Rushing (elbow discomfort) scratched from Dodgers' lineup Saturday",
     "Haaland header maintains perfect winning start for Man City",
     "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
@@ -412,14 +413,18 @@
     "Status of Dodgers' 4 aces to dictate Trade Deadline strategy",
     "Ohtani throws around 30 pitches in encouraging bullpen session",
     "Yankees frustrated after Caballero's pitch-timer approach is rebuffed",
-    "Phils' blunder on bases turns into chaotic game-ending 5-2-6-4 DP for Dodgers",
-    "Drake shines in MLB debut (in front of Mom and Dad!) before Vargas walks it off"
+    "Phils' blunder on bases turns into chaotic game-ending 5-2-6-4 DP for Dodgers"
   ],
   "cloudinaryAssets": [
     {
       "publicId": "tvs_videos/video_1788660088687",
       "resourceType": "video",
       "uploadedAt": 1788660090662
+    },
+    {
+      "publicId": "tvs_videos/video_1788746312247",
+      "resourceType": "video",
+      "uploadedAt": 1788746314395
     }
   ]
 }
