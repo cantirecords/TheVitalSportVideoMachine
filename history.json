@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/cly46kylr9lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/aaron-judge-s-return-a-factor-in-al-east-wild-card-races",
     "https://www.mlb.com/news/mariners-call-up-top-hitting-prospect-michael-arroyo",
     "https://www.mlb.com/news/mookie-betts-go-ahead-home-run-lifts-dodgers-over-nationals",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/dodgers-visit-white-house-to-celebrate-2025-world-series-championship",
     "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/rugby-league/articles/c1w1eznwgd0o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/barcelona/2026/07/23/adeyemi-bala-incontrolable-dejo-boquiabierto-bellingham-vuela.html",
-    "https://www.mlb.com/news/dodgers-rotation-in-focus-at-2026-trade-deadline"
+    "https://www.marca.com/futbol/barcelona/2026/07/23/adeyemi-bala-incontrolable-dejo-boquiabierto-bellingham-vuela.html"
   ],
   "postedTitles": [
+    "Kelce's last dance? Five things to look out for in new NFL season",
     "How Judge's return may turn the tide in Yankees' favor",
     "Mariners call up Arroyo for MLB debut -- and reunion with his best friend",
     "Betts' homer, Tucker's robbery highlight key 8th inning to seal Dodgers' sweep",
@@ -412,15 +413,9 @@
     "Dodgers visit White House to celebrate back-to-back World Series titles",
     "Kane set for talks with Bayern Munich over new deal",
     "Hull KR inflict more derby misery on Hull FC",
-    "Adeyemi, una 'bala' incontrolable que dejó boquiabierto a Bellingham: \"Vuela\"",
-    "Status of Dodgers' 4 aces to dictate Trade Deadline strategy"
+    "Adeyemi, una 'bala' incontrolable que dejó boquiabierto a Bellingham: \"Vuela\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1788746312247",
-      "resourceType": "video",
-      "uploadedAt": 1788746314395
-    },
     {
       "publicId": "tvs_videos/video_1788779156184",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1788814665083",
       "resourceType": "video",
       "uploadedAt": 1788814667165
+    },
+    {
+      "publicId": "tvs_videos/video_1788833388730",
+      "resourceType": "video",
+      "uploadedAt": 1788833390829
     }
   ]
 }
