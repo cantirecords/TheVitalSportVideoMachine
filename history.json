@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cly46kylr9lo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryce-harper-reacts-to-lebron-james-signing-with-76ers",
     "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options",
-    "https://www.mlb.com/news/dodgers-visit-white-house-to-celebrate-2025-world-series-championship",
-    "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/dodgers-visit-white-house-to-celebrate-2025-world-series-championship"
   ],
   "postedTitles": [
+    "Who will reach Super Bowl? - NFL predictions for 2026 season",
     "Favourite Kane makes Ballon d'Or shortlist",
     "Russell hindered or just Antonelli brilliance? - F1 Q&A",
     "Kelce's last dance? Five things to look out for in new NFL season",
@@ -412,8 +413,7 @@
     "NBA superstar James, 41, to join Philadelphia 76ers",
     "Excited about LeBron signing with 76ers? Harper is right there with you",
     "The best trade options to fill Yankees' catching need",
-    "Dodgers visit White House to celebrate back-to-back World Series titles",
-    "Kane set for talks with Bayern Munich over new deal"
+    "Dodgers visit White House to celebrate back-to-back World Series titles"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788882159330",
       "resourceType": "video",
       "uploadedAt": 1788882161535
+    },
+    {
+      "publicId": "tvs_videos/video_1788899519813",
+      "resourceType": "video",
+      "uploadedAt": 1788899522414
     }
   ]
 }
