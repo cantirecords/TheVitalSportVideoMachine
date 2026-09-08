@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cly46kylr9lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/aaron-judge-s-return-a-factor-in-al-east-wild-card-races",
     "https://www.mlb.com/news/mariners-call-up-top-hitting-prospect-michael-arroyo",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options",
     "https://www.mlb.com/news/dodgers-visit-white-house-to-celebrate-2025-world-series-championship",
     "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/rugby-league/articles/c1w1eznwgd0o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/barcelona/2026/07/23/adeyemi-bala-incontrolable-dejo-boquiabierto-bellingham-vuela.html"
+    "https://www.bbc.co.uk/sport/rugby-league/articles/c1w1eznwgd0o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Russell hindered or just Antonelli brilliance? - F1 Q&A",
     "Kelce's last dance? Five things to look out for in new NFL season",
     "How Judge's return may turn the tide in Yankees' favor",
     "Mariners call up Arroyo for MLB debut -- and reunion with his best friend",
@@ -412,8 +413,7 @@
     "The best trade options to fill Yankees' catching need",
     "Dodgers visit White House to celebrate back-to-back World Series titles",
     "Kane set for talks with Bayern Munich over new deal",
-    "Hull KR inflict more derby misery on Hull FC",
-    "Adeyemi, una 'bala' incontrolable que dejó boquiabierto a Bellingham: \"Vuela\""
+    "Hull KR inflict more derby misery on Hull FC"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1788833388730",
       "resourceType": "video",
       "uploadedAt": 1788833390829
+    },
+    {
+      "publicId": "tvs_videos/video_1788862801228",
+      "resourceType": "video",
+      "uploadedAt": 1788862802547
     }
   ]
 }
