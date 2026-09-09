@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton",
@@ -12,6 +14,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/cam-schlittler-strikes-out-10-in-7-innings-against-rockies",
     "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
     "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +213,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/bryce-harper-reacts-to-lebron-james-signing-with-76ers",
-    "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options"
+    "https://www.mlb.com/news/bryce-harper-reacts-to-lebron-james-signing-with-76ers"
   ],
   "postedTitles": [
+    "Schlittler extends Yankees mark with 20th start of 1 or 0 runs",
     "Judge brings crowd to its feet in return, goes hitless in Yankees' win",
     "Who will reach Super Bowl? - NFL predictions for 2026 season",
     "Favourite Kane makes Ballon d'Or shortlist",
@@ -412,8 +415,7 @@
     "Arsenal explore Vinicius Jr move - Sunday's gossip",
     "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
     "NBA superstar James, 41, to join Philadelphia 76ers",
-    "Excited about LeBron signing with 76ers? Harper is right there with you",
-    "The best trade options to fill Yankees' catching need"
+    "Excited about LeBron signing with 76ers? Harper is right there with you"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +437,11 @@
       "publicId": "tvs_videos/video_1788920073633",
       "resourceType": "video",
       "uploadedAt": 1788920075076
+    },
+    {
+      "publicId": "tvs_cards/card_1788927570473",
+      "resourceType": "image",
+      "uploadedAt": 1788927571947
     }
   ]
 }
