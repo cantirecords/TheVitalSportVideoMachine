@@ -14,6 +14,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/when-america-took-the-field-mlb-network-documentary",
     "https://www.mlb.com/news/cam-schlittler-strikes-out-10-in-7-innings-against-rockies",
     "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
     "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
@@ -212,10 +213,10 @@
     "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/bryce-harper-reacts-to-lebron-james-signing-with-76ers"
+    "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'When America Took the Field' documentary to premiere Thursday on MLB Network (10 ET)",
     "Schlittler extends Yankees mark with 20th start of 1 or 0 runs",
     "Judge brings crowd to its feet in return, goes hitless in Yankees' win",
     "Who will reach Super Bowl? - NFL predictions for 2026 season",
@@ -414,15 +415,9 @@
     "How Eala's Wimbledon run made Filipinos fall in love with tennis",
     "Arsenal explore Vinicius Jr move - Sunday's gossip",
     "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
-    "NBA superstar James, 41, to join Philadelphia 76ers",
-    "Excited about LeBron signing with 76ers? Harper is right there with you"
+    "NBA superstar James, 41, to join Philadelphia 76ers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1788862801228",
-      "resourceType": "video",
-      "uploadedAt": 1788862802547
-    },
     {
       "publicId": "tvs_videos/video_1788882159330",
       "resourceType": "video",
@@ -442,6 +437,11 @@
       "publicId": "tvs_cards/card_1788927570473",
       "resourceType": "image",
       "uploadedAt": 1788927571947
+    },
+    {
+      "publicId": "tvs_videos/video_1788949643968",
+      "resourceType": "video",
+      "uploadedAt": 1788949646446
     }
   ]
 }
