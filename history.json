@@ -2,6 +2,8 @@
   "recentKeywords": [
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton",
@@ -14,6 +16,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/c0lrwlg3rxko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/when-america-took-the-field-mlb-network-documentary",
     "https://www.mlb.com/news/cam-schlittler-strikes-out-10-in-7-innings-against-rockies",
     "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/george-lombard-jr-pressing-for-shot-with-yankees",
     "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Which NFL team should you support?",
     "'When America Took the Field' documentary to premiere Thursday on MLB Network (10 ET)",
     "Schlittler extends Yankees mark with 20th start of 1 or 0 runs",
     "Judge brings crowd to its feet in return, goes hitless in Yankees' win",
@@ -414,8 +417,7 @@
     "Red-hot Lombard has 'put himself in the conversation' for shot with Yankees",
     "How Eala's Wimbledon run made Filipinos fall in love with tennis",
     "Arsenal explore Vinicius Jr move - Sunday's gossip",
-    "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
-    "NBA superstar James, 41, to join Philadelphia 76ers"
+    "Changes called for as Sinner and Djokovic withdraw from Canadian Open"
   ],
   "cloudinaryAssets": [
     {
@@ -442,6 +444,11 @@
       "publicId": "tvs_videos/video_1788949643968",
       "resourceType": "video",
       "uploadedAt": 1788949646446
+    },
+    {
+      "publicId": "tvs_cards/card_1788958416993",
+      "resourceType": "image",
+      "uploadedAt": 1788958419143
     }
   ]
 }
