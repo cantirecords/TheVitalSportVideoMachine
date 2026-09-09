@@ -12,6 +12,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
     "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryce-harper-reacts-to-lebron-james-signing-with-76ers",
-    "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options",
-    "https://www.mlb.com/news/dodgers-visit-white-house-to-celebrate-2025-world-series-championship"
+    "https://www.mlb.com/news/yankees-trade-deadline-2026-catcher-options"
   ],
   "postedTitles": [
+    "Judge brings crowd to its feet in return, goes hitless in Yankees' win",
     "Who will reach Super Bowl? - NFL predictions for 2026 season",
     "Favourite Kane makes Ballon d'Or shortlist",
     "Russell hindered or just Antonelli brilliance? - F1 Q&A",
@@ -412,15 +413,9 @@
     "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
     "NBA superstar James, 41, to join Philadelphia 76ers",
     "Excited about LeBron signing with 76ers? Harper is right there with you",
-    "The best trade options to fill Yankees' catching need",
-    "Dodgers visit White House to celebrate back-to-back World Series titles"
+    "The best trade options to fill Yankees' catching need"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1788833388730",
-      "resourceType": "video",
-      "uploadedAt": 1788833390829
-    },
     {
       "publicId": "tvs_videos/video_1788862801228",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1788899519813",
       "resourceType": "video",
       "uploadedAt": 1788899522414
+    },
+    {
+      "publicId": "tvs_videos/video_1788920073633",
+      "resourceType": "video",
+      "uploadedAt": 1788920075076
     }
   ]
 }
