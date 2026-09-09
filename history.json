@@ -16,6 +16,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/videos/c1mvp82m7dpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/c0lrwlg3rxko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/when-america-took-the-field-mlb-network-documentary",
     "https://www.mlb.com/news/cam-schlittler-strikes-out-10-in-7-innings-against-rockies",
@@ -214,10 +215,10 @@
     "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
     "https://www.mlb.com/news/george-lombard-jr-pressing-for-shot-with-yankees",
     "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Shelton reaches semis after beating Alcaraz in five-set epic",
     "Which NFL team should you support?",
     "'When America Took the Field' documentary to premiere Thursday on MLB Network (10 ET)",
     "Schlittler extends Yankees mark with 20th start of 1 or 0 runs",
@@ -416,8 +417,7 @@
     "LIVE: Made (MLB No. 1) clashes with Duno (MLB No. 23) at Double-A",
     "Red-hot Lombard has 'put himself in the conversation' for shot with Yankees",
     "How Eala's Wimbledon run made Filipinos fall in love with tennis",
-    "Arsenal explore Vinicius Jr move - Sunday's gossip",
-    "Changes called for as Sinner and Djokovic withdraw from Canadian Open"
+    "Arsenal explore Vinicius Jr move - Sunday's gossip"
   ],
   "cloudinaryAssets": [
     {
@@ -449,6 +449,11 @@
       "publicId": "tvs_cards/card_1788958416993",
       "resourceType": "image",
       "uploadedAt": 1788958419143
+    },
+    {
+      "publicId": "tvs_videos/video_1788968220669",
+      "resourceType": "video",
+      "uploadedAt": 1788968222111
     }
   ]
 }
