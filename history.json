@@ -6,6 +6,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton",
@@ -18,6 +20,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/max-clark-changing-tigers-games-with-his-speed",
     "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/c1mvp82m7dpo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.marca.com/futbol/primera-division/2026/07/27/calendario-liga-2026-27-clasicos-derbis-fechas-clave-laliga-ea-sports.html",
     "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026",
-    "https://www.mlb.com/news/george-lombard-jr-pressing-for-shot-with-yankees"
+    "https://www.mlb.com/news/watch-minor-league-baseball-games-for-free-2026"
   ],
   "postedTitles": [
+    "Clark just scratching surface of his game-breaking speed",
     "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
     "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
     "Shelton reaches semis after beating Alcaraz in five-set epic",
@@ -418,15 +421,9 @@
     "Calendario de la liga 2026/27: Clásicos, derbis y fechas clave de LaLiga EA Sports",
     "Ferrari must 'do better' after errors in Hungary",
     "Norris and McLaren almost perfect as Ferrari flounder in Hungary",
-    "LIVE: Made (MLB No. 1) clashes with Duno (MLB No. 23) at Double-A",
-    "Red-hot Lombard has 'put himself in the conversation' for shot with Yankees"
+    "LIVE: Made (MLB No. 1) clashes with Duno (MLB No. 23) at Double-A"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1788899519813",
-      "resourceType": "video",
-      "uploadedAt": 1788899522414
-    },
     {
       "publicId": "tvs_videos/video_1788920073633",
       "resourceType": "video",
@@ -461,6 +458,11 @@
       "publicId": "tvs_videos/video_1788984866287",
       "resourceType": "video",
       "uploadedAt": 1788984868718
+    },
+    {
+      "publicId": "tvs_cards/card_1788992763612",
+      "resourceType": "image",
+      "uploadedAt": 1788992765288
     }
   ]
 }
