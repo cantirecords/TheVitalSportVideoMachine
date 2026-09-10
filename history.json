@@ -22,6 +22,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-visit-national-september-11-memorial-museum",
     "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds",
     "https://www.bbc.co.uk/sport/american-football/articles/cz64qdn4z6qo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c62kj1109plo?at_medium=RSS&at_campaign=rss",
@@ -220,10 +221,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-news-for-july-27-2026",
-    "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Yankees visit 9/11 Memorial & Museum ahead of 25th anniversary",
     "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7",
     "Why is there an NFL game in Australia?",
     "Haaland strikes twice as Manchester City secure win at Porto",
@@ -422,15 +423,9 @@
     "Chelsea set to sign Italy's Dragoni from Barcelona",
     "Local match goes viral over 'finger-clicking' cheating claim",
     "Trade rumors: Yankees, Skubal, Miller, Astros",
-    "Mercedes driver scout Lagrue to join Red Bull",
-    "Salah, Stones & Sancho - who are the Premier League free agents?"
+    "Mercedes driver scout Lagrue to join Red Bull"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1788981174688",
-      "resourceType": "image",
-      "uploadedAt": 1788981176408
-    },
     {
       "publicId": "tvs_videos/video_1788984866287",
       "resourceType": "video",
@@ -460,6 +455,11 @@
       "publicId": "tvs_videos/video_1789054335272",
       "resourceType": "video",
       "uploadedAt": 1789054337537
+    },
+    {
+      "publicId": "tvs_videos/video_1789071393431",
+      "resourceType": "video",
+      "uploadedAt": 1789071396242
     }
   ]
 }
