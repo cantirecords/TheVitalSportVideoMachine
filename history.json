@@ -8,6 +8,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton",
@@ -20,6 +22,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/c62kj1109plo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/c77g24g3zkjo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/max-clark-changing-tigers-games-with-his-speed",
     "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
@@ -218,10 +221,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cvg7kdnv4p2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/07/27/calendario-liga-2026-27-clasicos-derbis-fechas-clave-laliga-ea-sports.html",
-    "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Haaland strikes twice as Manchester City secure win at Porto",
     "Super Bowl rematch to open new season - your guide to NFL's key games",
     "Clark just scratching surface of his game-breaking speed",
     "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
@@ -420,15 +423,9 @@
     "Mercedes driver scout Lagrue to join Red Bull",
     "Salah, Stones & Sancho - who are the Premier League free agents?",
     "Calendario de la liga 2026/27: Clásicos, derbis y fechas clave de LaLiga EA Sports",
-    "Ferrari must 'do better' after errors in Hungary",
-    "Norris and McLaren almost perfect as Ferrari flounder in Hungary"
+    "Ferrari must 'do better' after errors in Hungary"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1788920073633",
-      "resourceType": "video",
-      "uploadedAt": 1788920075076
-    },
     {
       "publicId": "tvs_cards/card_1788927570473",
       "resourceType": "image",
@@ -468,6 +465,11 @@
       "publicId": "tvs_videos/video_1789006317807",
       "resourceType": "video",
       "uploadedAt": 1789006319426
+    },
+    {
+      "publicId": "tvs_cards/card_1789013773131",
+      "resourceType": "image",
+      "uploadedAt": 1789013774736
     }
   ]
 }
