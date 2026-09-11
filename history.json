@@ -22,6 +22,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/what-to-expect-from-dodgers-prospect-josue-de-paula-in-mlb",
     "https://www.mlb.com/news/yankees-visit-national-september-11-memorial-museum",
     "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds",
@@ -220,10 +221,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/clyj898j2p0o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-trade-rumors-and-2026-trade-deadline-news-july-28",
     "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-trade-rumors-and-news-for-july-27-2026"
+    "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Alonso cannot leave F1 while uncompetitive - FIA boss",
     "What to expect from Dodgers top prospect De Paula in The Show",
     "Yankees visit 9/11 Memorial & Museum ahead of 25th anniversary",
     "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7",
@@ -422,8 +423,7 @@
     "Five things we've learned from first half of F1 season",
     "Trade rumors: Red Sox's SS targets, Dodgers, Skubal, Detmers",
     "Chelsea set to sign Italy's Dragoni from Barcelona",
-    "Local match goes viral over 'finger-clicking' cheating claim",
-    "Trade rumors: Yankees, Skubal, Miller, Astros"
+    "Local match goes viral over 'finger-clicking' cheating claim"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1789121789810",
       "resourceType": "video",
       "uploadedAt": 1789121791631
+    },
+    {
+      "publicId": "tvs_videos/video_1789157746069",
+      "resourceType": "video",
+      "uploadedAt": 1789157748242
     }
   ]
 }
