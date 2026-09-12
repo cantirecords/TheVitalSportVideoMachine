@@ -18,6 +18,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton",
@@ -30,6 +32,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mookie-betts-hits-10-000th-home-run-in-la-dodgers-history",
     "https://www.marca.com/futbol/racing-santander/2026/09/12/zabiri-irrupcion-importante-liga.html",
     "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/josue-de-paula-earns-walk-in-mlb-debut-with-dodgers",
@@ -228,10 +231,10 @@
     "https://www.mlb.com/news/will-warren-pitches-6-2-3-scoreless-innings-to-lift-yankees",
     "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later",
     "https://www.mlb.com/news/fernando-cruz-walks-in-winning-run-in-11th-for-yankees",
-    "https://www.mlb.com/news/yankees-2026-trade-deadline-targets",
-    "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/yankees-2026-trade-deadline-targets"
   ],
   "postedTitles": [
+    "Betts hits Los Angeles Dodgers' 10,000th home run; Muncy goes back to back",
     "Zabiri, la irrupción más importante de la Liga",
     "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
     "De Paula gets 1st taste with 'the big boys' in MLB debut",
@@ -430,15 +433,9 @@
     "Warren finds his joy again as Yankees continue rotation dominance",
     "10 years since Astros plucked Yordan from Dodgers",
     "Cruz takes the 'L' -- but the Yankees' offense takes the blame",
-    "Catcher? Bullpen? Outfielder? Who are Yankees targeting at Deadline?",
-    "The phone call that made Briton an NFL trailblazer"
+    "Catcher? Bullpen? Outfielder? Who are Yankees targeting at Deadline?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789157746069",
-      "resourceType": "video",
-      "uploadedAt": 1789157748242
-    },
     {
       "publicId": "tvs_cards/card_1789165504861",
       "resourceType": "image",
@@ -468,6 +465,11 @@
       "publicId": "tvs_cards/card_1789237016981",
       "resourceType": "image",
       "uploadedAt": 1789237017797
+    },
+    {
+      "publicId": "tvs_cards/card_1789250967174",
+      "resourceType": "image",
+      "uploadedAt": 1789250969086
     }
   ]
 }
