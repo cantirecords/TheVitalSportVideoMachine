@@ -16,6 +16,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton",
@@ -28,6 +30,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/racing-santander/2026/09/12/zabiri-irrupcion-importante-liga.html",
     "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/josue-de-paula-earns-walk-in-mlb-debut-with-dodgers",
     "https://www.marca.com/futbol/real-sociedad/2026/09/11/matarazzo-final-copa-vale-recordar-nivel-competitividad-demas-ayudar-ganar.html",
@@ -226,10 +229,10 @@
     "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later",
     "https://www.mlb.com/news/fernando-cruz-walks-in-winning-run-in-11th-for-yankees",
     "https://www.mlb.com/news/yankees-2026-trade-deadline-targets",
-    "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/munetaka-murakami-is-crushing-high-velocity-in-mlb"
+    "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Zabiri, la irrupción más importante de la Liga",
     "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
     "De Paula gets 1st taste with 'the big boys' in MLB debut",
     "Matarazzo: \"De la final de Copa nos vale recordar el nivel de competitividad, lo demás no nos va a ayudar a ganar\"",
@@ -428,8 +431,7 @@
     "10 years since Astros plucked Yordan from Dodgers",
     "Cruz takes the 'L' -- but the Yankees' offense takes the blame",
     "Catcher? Bullpen? Outfielder? Who are Yankees targeting at Deadline?",
-    "The phone call that made Briton an NFL trailblazer",
-    "Scouts thought Murakami wouldn't handle MLB velo. He's proven them wrong"
+    "The phone call that made Briton an NFL trailblazer"
   ],
   "cloudinaryAssets": [
     {
@@ -461,6 +463,11 @@
       "publicId": "tvs_cards/card_1789214766172",
       "resourceType": "image",
       "uploadedAt": 1789214767672
+    },
+    {
+      "publicId": "tvs_cards/card_1789237016981",
+      "resourceType": "image",
+      "uploadedAt": 1789237017797
     }
   ]
 }
