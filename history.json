@@ -26,6 +26,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/josue-de-paula-earns-walk-in-mlb-debut-with-dodgers",
     "https://www.marca.com/futbol/real-sociedad/2026/09/11/matarazzo-final-copa-vale-recordar-nivel-competitividad-demas-ayudar-ganar.html",
     "https://www.mlb.com/news/mlb-25th-anniversary-september-11-tributes",
     "https://www.marca.com/futbol/sevilla/2026/09/11/luis-garcia-plaza-encara-microfono-dazn-durante-pausa-hidratacion.html",
@@ -224,10 +225,10 @@
     "https://www.mlb.com/news/yankees-2026-trade-deadline-targets",
     "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/munetaka-murakami-is-crushing-high-velocity-in-mlb",
-    "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/clyj898j2p0o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/cx2r0ne2ky1o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "De Paula gets 1st taste with 'the big boys' in MLB debut",
     "Matarazzo: \"De la final de Copa nos vale recordar el nivel de competitividad, lo demás no nos va a ayudar a ganar\"",
     "MLB to mark 25th anniversary of 9/11 with tributes, service",
     "Luis García Plaza se encara con el micrófono de DAZN durante una pausa de hidratación",
@@ -426,8 +427,7 @@
     "Catcher? Bullpen? Outfielder? Who are Yankees targeting at Deadline?",
     "The phone call that made Briton an NFL trailblazer",
     "Scouts thought Murakami wouldn't handle MLB velo. He's proven them wrong",
-    "Season to end in Europe if war continues - F1 boss",
-    "Five things we've learned from first half of F1 season"
+    "Season to end in Europe if war continues - F1 boss"
   ],
   "cloudinaryAssets": [
     {
@@ -454,6 +454,11 @@
       "publicId": "tvs_cards/card_1789186489615",
       "resourceType": "image",
       "uploadedAt": 1789186491133
+    },
+    {
+      "publicId": "tvs_videos/video_1789206628461",
+      "resourceType": "video",
+      "uploadedAt": 1789206630401
     }
   ]
 }
