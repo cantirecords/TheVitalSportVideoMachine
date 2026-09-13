@@ -32,6 +32,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
     "https://www.mlb.com/news/mookie-betts-hits-10-000th-home-run-in-la-dodgers-history",
     "https://www.marca.com/futbol/racing-santander/2026/09/12/zabiri-irrupcion-importante-liga.html",
@@ -230,10 +231,10 @@
     "https://www.mlb.com/news/camilo-doval-pirates-yankees-trade",
     "https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-warren-pitches-6-2-3-scoreless-innings-to-lift-yankees",
-    "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later",
-    "https://www.mlb.com/news/fernando-cruz-walks-in-winning-run-in-11th-for-yankees"
+    "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later"
   ],
   "postedTitles": [
+    "How virtual safety car cost Norris win - and should F1 change rules?",
     "Rodriguez's 'mesmerizing' day includes HR in 1st MLB AB",
     "Betts hits Los Angeles Dodgers' 10,000th home run; Muncy goes back to back",
     "Zabiri, la irrupción más importante de la Liga",
@@ -432,8 +433,7 @@
     "Yankees trading reliever Doval to Pirates for 2 prospects (source)",
     "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola",
     "Warren finds his joy again as Yankees continue rotation dominance",
-    "10 years since Astros plucked Yordan from Dodgers",
-    "Cruz takes the 'L' -- but the Yankees' offense takes the blame"
+    "10 years since Astros plucked Yordan from Dodgers"
   ],
   "cloudinaryAssets": [
     {
@@ -445,6 +445,11 @@
       "publicId": "tvs_videos/video_1789265450121",
       "resourceType": "video",
       "uploadedAt": 1789265452198
+    },
+    {
+      "publicId": "tvs_videos/video_1789329796329",
+      "resourceType": "video",
+      "uploadedAt": 1789329798829
     }
   ]
 }
