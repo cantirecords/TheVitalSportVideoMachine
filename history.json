@@ -32,6 +32,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
     "https://www.mlb.com/news/mookie-betts-hits-10-000th-home-run-in-la-dodgers-history",
     "https://www.marca.com/futbol/racing-santander/2026/09/12/zabiri-irrupcion-importante-liga.html",
     "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
@@ -230,10 +231,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-warren-pitches-6-2-3-scoreless-innings-to-lift-yankees",
     "https://www.mlb.com/news/yordan-alvarez-2016-trade-astros-dodgers-10-years-later",
-    "https://www.mlb.com/news/fernando-cruz-walks-in-winning-run-in-11th-for-yankees",
-    "https://www.mlb.com/news/yankees-2026-trade-deadline-targets"
+    "https://www.mlb.com/news/fernando-cruz-walks-in-winning-run-in-11th-for-yankees"
   ],
   "postedTitles": [
+    "Rodriguez's 'mesmerizing' day includes HR in 1st MLB AB",
     "Betts hits Los Angeles Dodgers' 10,000th home run; Muncy goes back to back",
     "Zabiri, la irrupción más importante de la Liga",
     "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
@@ -432,15 +433,9 @@
     "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola",
     "Warren finds his joy again as Yankees continue rotation dominance",
     "10 years since Astros plucked Yordan from Dodgers",
-    "Cruz takes the 'L' -- but the Yankees' offense takes the blame",
-    "Catcher? Bullpen? Outfielder? Who are Yankees targeting at Deadline?"
+    "Cruz takes the 'L' -- but the Yankees' offense takes the blame"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1789165504861",
-      "resourceType": "image",
-      "uploadedAt": 1789165505807
-    },
     {
       "publicId": "tvs_videos/video_1789179245514",
       "resourceType": "video",
@@ -470,6 +465,11 @@
       "publicId": "tvs_cards/card_1789250967174",
       "resourceType": "image",
       "uploadedAt": 1789250969086
+    },
+    {
+      "publicId": "tvs_videos/video_1789265450121",
+      "resourceType": "video",
+      "uploadedAt": 1789265452198
     }
   ]
 }
