@@ -32,6 +32,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast",
     "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cpved014n83o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
@@ -230,10 +231,10 @@
     "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season",
     "https://www.bbc.co.uk/sport/football/articles/ckg9jlzwrnro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade",
-    "https://www.mlb.com/news/brewers-top-prospect-jesus-made-5-hits-2-homers-7-rbi-double-a",
-    "https://www.mlb.com/news/camilo-doval-pirates-yankees-trade"
+    "https://www.mlb.com/news/brewers-top-prospect-jesus-made-5-hits-2-homers-7-rbi-double-a"
   ],
   "postedTitles": [
+    "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
     "Haaland scores controversial winner as Man City win derby despite Foden red",
     "Honda changes F1 design boss after slow start to return",
     "Refereeing body admits judgement error over Haaland derby winner",
@@ -432,8 +433,7 @@
     "Fresh off Skubal trade, Dodgers face surging Red Sox on Sunday Night Baseball (NBC, 7:20 ET)",
     "Salah close to Trabzonspor move - Sunday's gossip",
     "Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)",
-    "The Jesús Made Game: 5 hits, 2 homers, 7 RBIs for MLB's No. 1 prospect",
-    "Yankees trading reliever Doval to Pirates for 2 prospects (source)"
+    "The Jesús Made Game: 5 hits, 2 homers, 7 RBIs for MLB's No. 1 prospect"
   ],
   "cloudinaryAssets": [
     {
@@ -450,6 +450,11 @@
       "publicId": "tvs_videos/video_1789406265022",
       "resourceType": "video",
       "uploadedAt": 1789406267201
+    },
+    {
+      "publicId": "tvs_videos/video_1789420433511",
+      "resourceType": "video",
+      "uploadedAt": 1789420435799
     }
   ]
 }
