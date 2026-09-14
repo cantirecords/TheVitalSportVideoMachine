@@ -32,6 +32,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cpved014n83o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
@@ -230,10 +231,10 @@
     "https://www.bbc.co.uk/sport/football/articles/ckg9jlzwrnro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/tarik-skubal-dodgers-tigers-trade",
     "https://www.mlb.com/news/brewers-top-prospect-jesus-made-5-hits-2-homers-7-rbi-double-a",
-    "https://www.mlb.com/news/camilo-doval-pirates-yankees-trade",
-    "https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/camilo-doval-pirates-yankees-trade"
   ],
   "postedTitles": [
+    "Haaland scores controversial winner as Man City win derby despite Foden red",
     "Honda changes F1 design boss after slow start to return",
     "Refereeing body admits judgement error over Haaland derby winner",
     "How virtual safety car cost Norris win - and should F1 change rules?",
@@ -432,8 +433,7 @@
     "Salah close to Trabzonspor move - Sunday's gossip",
     "Dodgers deliver blockbuster, set to acquire Skubal from Tigers (source)",
     "The Jesús Made Game: 5 hits, 2 homers, 7 RBIs for MLB's No. 1 prospect",
-    "Yankees trading reliever Doval to Pirates for 2 prospects (source)",
-    "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola"
+    "Yankees trading reliever Doval to Pirates for 2 prospects (source)"
   ],
   "cloudinaryAssets": [
     {
@@ -450,6 +450,11 @@
       "publicId": "tvs_videos/video_1789384633219",
       "resourceType": "video",
       "uploadedAt": 1789384636683
+    },
+    {
+      "publicId": "tvs_videos/video_1789406265022",
+      "resourceType": "video",
+      "uploadedAt": 1789406267201
     }
   ]
 }
