@@ -32,6 +32,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-beat-reds-clinch-2026-playoff-berth",
     "https://www.mlb.com/news/angel-martinez-exits-game-vs-white-sox",
     "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast",
@@ -230,10 +231,10 @@
     "https://www.mlb.com/live-stream-games/subscribe/mlbplus",
     "https://www.mlb.com/news/red-sox-sweep-dodgers-for-first-time-since-2010",
     "https://www.mlb.com/news/tarik-skubal-to-make-first-start-for-dodgers-against-cubs",
-    "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season",
-    "https://www.bbc.co.uk/sport/football/articles/ckg9jlzwrnro?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/sunday-night-baseball-on-peacock-nbc-for-2026-mlb-season"
   ],
   "postedTitles": [
+    "Leeds inflict heavy defeat on Newcastle to climb to third",
     "14 straight! Dodgers tie MLB record for most consecutive playoff clinches",
     "Martínez (right flank inflammation) exits opener vs. White Sox",
     "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
@@ -432,8 +433,7 @@
     "Watch NOW: Live Trade Deadline coverage on MLB Network and MLB+",
     "Scorching Sox sweep Dodgers for first time since 2010",
     "Dodgers get first look at Skubal on the mound Tuesday at Wrigley",
-    "Fresh off Skubal trade, Dodgers face surging Red Sox on Sunday Night Baseball (NBC, 7:20 ET)",
-    "Salah close to Trabzonspor move - Sunday's gossip"
+    "Fresh off Skubal trade, Dodgers face surging Red Sox on Sunday Night Baseball (NBC, 7:20 ET)"
   ],
   "cloudinaryAssets": [
     {
@@ -450,6 +450,11 @@
       "publicId": "tvs_videos/video_1789487860240",
       "resourceType": "video",
       "uploadedAt": 1789487862207
+    },
+    {
+      "publicId": "tvs_videos/video_1789504895626",
+      "resourceType": "video",
+      "uploadedAt": 1789504897699
     }
   ]
 }
