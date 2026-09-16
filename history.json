@@ -36,6 +36,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/videos/cr624d03l6zgo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
@@ -234,10 +235,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cpd79ln1p93o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale",
     "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/live-stream-games/subscribe/mlbplus",
-    "https://www.mlb.com/news/red-sox-sweep-dodgers-for-first-time-since-2010"
+    "https://www.mlb.com/live-stream-games/subscribe/mlbplus"
   ],
   "postedTitles": [
+    "F1 to have 10 sprint races in 2027, including Monaco",
     "How did they get the Madring track so wrong? - F1 Q&A",
     "Diving catches and a 60-yard touchdown - best plays of NFL week one",
     "Leeds inflict heavy defeat on Newcastle to climb to third",
@@ -436,8 +437,7 @@
     "Why we are still waiting for the 'Newey effect' - F1 Q&A",
     "Trade Deadline sale offers you the best deal for MLB.TV",
     "Real to resume talks with Arsenal target Vinicius Jr",
-    "Watch NOW: Live Trade Deadline coverage on MLB Network and MLB+",
-    "Scorching Sox sweep Dodgers for first time since 2010"
+    "Watch NOW: Live Trade Deadline coverage on MLB Network and MLB+"
   ],
   "cloudinaryAssets": [
     {
@@ -464,6 +464,11 @@
       "publicId": "tvs_cards/card_1789532978949",
       "resourceType": "image",
       "uploadedAt": 1789532980264
+    },
+    {
+      "publicId": "tvs_videos/video_1789554762014",
+      "resourceType": "video",
+      "uploadedAt": 1789554764307
     }
   ]
 }
