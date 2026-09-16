@@ -26,6 +26,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton",
@@ -38,6 +40,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/clarke-schmidt-activated-oswaldo-cabrera-designated-for-assignment",
     "https://www.mlb.com/news/yoshinobu-yamamoto-dominates-as-dodgers-shut-out-reds",
     "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
@@ -236,10 +239,10 @@
     "https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-2026-trade-deadline-analysis",
     "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cpd79ln1p93o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale"
+    "https://www.bbc.co.uk/sport/formula1/articles/cpd79ln1p93o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Yankees activate Schmidt from 60-day IL, DFA Cabrera",
     "'Vintage Yama' locks in after shaky 1st as Dodgers shut out Reds",
     "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
     "F1 to have 10 sprint races in 2027, including Monaco",
@@ -438,15 +441,9 @@
     "Turkish club Trabzonspor begin talks to sign Salah",
     "Dodgers come out of Deadline with bolstered rotation, catching depth",
     "Mourners line streets of Milan for legend Baresi's funeral",
-    "Why we are still waiting for the 'Newey effect' - F1 Q&A",
-    "Trade Deadline sale offers you the best deal for MLB.TV"
+    "Why we are still waiting for the 'Newey effect' - F1 Q&A"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789487860240",
-      "resourceType": "video",
-      "uploadedAt": 1789487862207
-    },
     {
       "publicId": "tvs_videos/video_1789504895626",
       "resourceType": "video",
@@ -476,6 +473,11 @@
       "publicId": "tvs_videos/video_1789573769740",
       "resourceType": "video",
       "uploadedAt": 1789573772612
+    },
+    {
+      "publicId": "tvs_cards/card_1789587009881",
+      "resourceType": "image",
+      "uploadedAt": 1789587011585
     }
   ]
 }
