@@ -24,6 +24,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton",
@@ -36,6 +38,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/videos/cr624d03l6zgo?at_medium=RSS&at_campaign=rss",
@@ -234,10 +237,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cpd79ln1p93o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale",
-    "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/live-stream-games/subscribe/mlbplus"
+    "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
     "F1 to have 10 sprint races in 2027, including Monaco",
     "How did they get the Madring track so wrong? - F1 Q&A",
     "Diving catches and a 60-yard touchdown - best plays of NFL week one",
@@ -436,15 +439,9 @@
     "Mourners line streets of Milan for legend Baresi's funeral",
     "Why we are still waiting for the 'Newey effect' - F1 Q&A",
     "Trade Deadline sale offers you the best deal for MLB.TV",
-    "Real to resume talks with Arsenal target Vinicius Jr",
-    "Watch NOW: Live Trade Deadline coverage on MLB Network and MLB+"
+    "Real to resume talks with Arsenal target Vinicius Jr"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789469067554",
-      "resourceType": "video",
-      "uploadedAt": 1789469068982
-    },
     {
       "publicId": "tvs_videos/video_1789487860240",
       "resourceType": "video",
@@ -469,6 +466,11 @@
       "publicId": "tvs_videos/video_1789554762014",
       "resourceType": "video",
       "uploadedAt": 1789554764307
+    },
+    {
+      "publicId": "tvs_cards/card_1789564988254",
+      "resourceType": "image",
+      "uploadedAt": 1789564989431
     }
   ]
 }
