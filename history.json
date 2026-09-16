@@ -38,6 +38,7 @@
     "Player"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yoshinobu-yamamoto-dominates-as-dodgers-shut-out-reds",
     "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
@@ -236,10 +237,10 @@
     "https://www.mlb.com/news/dodgers-2026-trade-deadline-analysis",
     "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cpd79ln1p93o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale",
-    "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/mlb-tv-trade-deadline-2026-sale"
   ],
   "postedTitles": [
+    "'Vintage Yama' locks in after shaky 1st as Dodgers shut out Reds",
     "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
     "F1 to have 10 sprint races in 2027, including Monaco",
     "How did they get the Madring track so wrong? - F1 Q&A",
@@ -438,8 +439,7 @@
     "Dodgers come out of Deadline with bolstered rotation, catching depth",
     "Mourners line streets of Milan for legend Baresi's funeral",
     "Why we are still waiting for the 'Newey effect' - F1 Q&A",
-    "Trade Deadline sale offers you the best deal for MLB.TV",
-    "Real to resume talks with Arsenal target Vinicius Jr"
+    "Trade Deadline sale offers you the best deal for MLB.TV"
   ],
   "cloudinaryAssets": [
     {
@@ -471,6 +471,11 @@
       "publicId": "tvs_cards/card_1789564988254",
       "resourceType": "image",
       "uploadedAt": 1789564989431
+    },
+    {
+      "publicId": "tvs_videos/video_1789573769740",
+      "resourceType": "video",
+      "uploadedAt": 1789573772612
     }
   ]
 }
