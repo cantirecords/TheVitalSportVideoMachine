@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -12,6 +14,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/justin-turner-wins-mexican-league-title-with-toros-de-tijuana",
     "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/clarke-schmidt-activated-oswaldo-cabrera-designated-for-assignment",
     "https://www.mlb.com/news/yoshinobu-yamamoto-dominates-as-dodgers-shut-out-reds",
@@ -210,10 +213,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/cg5l1p3ng70o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/javier-assad-cubs-lineup-delivers-against-dodgers",
     "https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/dodgers-2026-trade-deadline-analysis",
-    "https://www.bbc.co.uk/sport/football/articles/cyvl88rr95zo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/dodgers-2026-trade-deadline-analysis"
   ],
   "postedTitles": [
+    "Justin Turner, 41, among several former MLB players to win Mexican League title",
     "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
     "Yankees activate Schmidt from 60-day IL, DFA Cabrera",
     "'Vintage Yama' locks in after shaky 1st as Dodgers shut out Reds",
@@ -412,15 +415,9 @@
     "NBA Europe will take UK to another level - Anunoby",
     "Assad keeps pace with Skubal as Cubs hand Dodgers 5th straight loss",
     "Turkish club Trabzonspor begin talks to sign Salah",
-    "Dodgers come out of Deadline with bolstered rotation, catching depth",
-    "Mourners line streets of Milan for legend Baresi's funeral"
+    "Dodgers come out of Deadline with bolstered rotation, catching depth"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789504895626",
-      "resourceType": "video",
-      "uploadedAt": 1789504897699
-    },
     {
       "publicId": "tvs_cards/card_1789512606704",
       "resourceType": "image",
@@ -455,6 +452,11 @@
       "publicId": "tvs_videos/video_1789591243177",
       "resourceType": "video",
       "uploadedAt": 1789591245289
+    },
+    {
+      "publicId": "tvs_cards/card_1789599021312",
+      "resourceType": "image",
+      "uploadedAt": 1789599022459
     }
   ]
 }
