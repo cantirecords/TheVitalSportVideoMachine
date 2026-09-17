@@ -2,6 +2,8 @@
   "recentKeywords": [
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -14,6 +16,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/rays-extend-al-east-lead-over-yankees-with-5th-straight-win",
     "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win",
     "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game",
     "https://www.mlb.com/news/justin-turner-wins-mexican-league-title-with-toros-de-tijuana",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/jefry-yan-celebrates-after-strikeouts-in-mlb-debut",
     "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c20e1723pdno?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/cg5l1p3ng70o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/javier-assad-cubs-lineup-delivers-against-dodgers"
+    "https://www.bbc.co.uk/sport/basketball/articles/cg5l1p3ng70o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Rays watch Yankees lose ... then pad AL East lead with 5th straight win",
     "Crew follows up clinch with MLB-best 95th win ... but there's 'work to do'",
     "Yankees to see how Judge (lower leg tightness) recovers after early exit in 13-inning loss",
     "Justin Turner, 41, among several former MLB players to win Mexican League title",
@@ -414,8 +417,7 @@
     "Rookie's pitches sing in MLB debut -- and he can dance, too!",
     "Salah mobbed at airport before Trabzonspor move",
     "Alcaraz out of Cincinnati Open with lingering injury",
-    "NBA Europe will take UK to another level - Anunoby",
-    "Assad keeps pace with Skubal as Cubs hand Dodgers 5th straight loss"
+    "NBA Europe will take UK to another level - Anunoby"
   ],
   "cloudinaryAssets": [
     {
@@ -452,6 +454,11 @@
       "publicId": "tvs_videos/video_1789641703528",
       "resourceType": "video",
       "uploadedAt": 1789641705773
+    },
+    {
+      "publicId": "tvs_cards/card_1789651134172",
+      "resourceType": "image",
+      "uploadedAt": 1789651135539
     }
   ]
 }
