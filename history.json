@@ -14,6 +14,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win",
     "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game",
     "https://www.mlb.com/news/justin-turner-wins-mexican-league-title-with-toros-de-tijuana",
     "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +213,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c20e1723pdno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cg5l1p3ng70o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/javier-assad-cubs-lineup-delivers-against-dodgers",
-    "https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/javier-assad-cubs-lineup-delivers-against-dodgers"
   ],
   "postedTitles": [
+    "Crew follows up clinch with MLB-best 95th win ... but there's 'work to do'",
     "Yankees to see how Judge (lower leg tightness) recovers after early exit in 13-inning loss",
     "Justin Turner, 41, among several former MLB players to win Mexican League title",
     "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
@@ -414,15 +415,9 @@
     "Salah mobbed at airport before Trabzonspor move",
     "Alcaraz out of Cincinnati Open with lingering injury",
     "NBA Europe will take UK to another level - Anunoby",
-    "Assad keeps pace with Skubal as Cubs hand Dodgers 5th straight loss",
-    "Turkish club Trabzonspor begin talks to sign Salah"
+    "Assad keeps pace with Skubal as Cubs hand Dodgers 5th straight loss"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789554762014",
-      "resourceType": "video",
-      "uploadedAt": 1789554764307
-    },
     {
       "publicId": "tvs_cards/card_1789564988254",
       "resourceType": "image",
@@ -452,6 +447,11 @@
       "publicId": "tvs_videos/video_1789612313715",
       "resourceType": "video",
       "uploadedAt": 1789612315833
+    },
+    {
+      "publicId": "tvs_videos/video_1789641703528",
+      "resourceType": "video",
+      "uploadedAt": 1789641705773
     }
   ]
 }
