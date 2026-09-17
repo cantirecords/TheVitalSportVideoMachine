@@ -16,6 +16,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
     "https://www.mlb.com/news/rays-extend-al-east-lead-over-yankees-with-5th-straight-win",
     "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win",
     "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game",
@@ -214,10 +215,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/jefry-yan-celebrates-after-strikeouts-in-mlb-debut",
     "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/c20e1723pdno?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/cg5l1p3ng70o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/articles/c20e1723pdno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'Glad it's not worse': Snell's early exit complicates Dodgers' plans",
     "Rays watch Yankees lose ... then pad AL East lead with 5th straight win",
     "Crew follows up clinch with MLB-best 95th win ... but there's 'work to do'",
     "Yankees to see how Judge (lower leg tightness) recovers after early exit in 13-inning loss",
@@ -416,20 +417,9 @@
     "Why Liverpool icon Salah has chosen Trabzonspor",
     "Rookie's pitches sing in MLB debut -- and he can dance, too!",
     "Salah mobbed at airport before Trabzonspor move",
-    "Alcaraz out of Cincinnati Open with lingering injury",
-    "NBA Europe will take UK to another level - Anunoby"
+    "Alcaraz out of Cincinnati Open with lingering injury"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1789564988254",
-      "resourceType": "image",
-      "uploadedAt": 1789564989431
-    },
-    {
-      "publicId": "tvs_videos/video_1789573769740",
-      "resourceType": "video",
-      "uploadedAt": 1789573772612
-    },
     {
       "publicId": "tvs_cards/card_1789587009881",
       "resourceType": "image",
@@ -459,6 +449,11 @@
       "publicId": "tvs_cards/card_1789651134172",
       "resourceType": "image",
       "uploadedAt": 1789651135539
+    },
+    {
+      "publicId": "tvs_videos/video_1789660597157",
+      "resourceType": "video",
+      "uploadedAt": 1789660599415
     }
   ]
 }
