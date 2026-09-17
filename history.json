@@ -18,6 +18,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-2026-postseason-faq",
     "https://www.bbc.co.uk/sport/basketball/articles/c5wyz8jj2nlko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
     "https://www.mlb.com/news/rays-extend-al-east-lead-over-yankees-with-5th-straight-win",
@@ -216,10 +217,10 @@
     "https://www.mlb.com/news/five-things-to-know-about-2026-mlb-at-field-of-dreams-game",
     "https://www.mlb.com/news/heliot-ramos-loses-shoe-helmet-on-first-hit-with-yankees",
     "https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/jefry-yan-celebrates-after-strikeouts-in-mlb-debut",
-    "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/jefry-yan-celebrates-after-strikeouts-in-mlb-debut"
   ],
   "postedTitles": [
+    "Postseason FAQ: What's next for Dodgers?",
     "London Lions set for NBA test as British basketball bids to step up",
     "'Glad it's not worse': Snell's early exit complicates Dodgers' plans",
     "Rays watch Yankees lose ... then pad AL East lead with 5th straight win",
@@ -418,15 +419,9 @@
     "Five things you need to know about the 2026 MLB at Field of Dreams Game",
     "So excited about his first Yankees hit, he lost his shoe. And still made it to second!",
     "Why Liverpool icon Salah has chosen Trabzonspor",
-    "Rookie's pitches sing in MLB debut -- and he can dance, too!",
-    "Salah mobbed at airport before Trabzonspor move"
+    "Rookie's pitches sing in MLB debut -- and he can dance, too!"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789591243177",
-      "resourceType": "video",
-      "uploadedAt": 1789591245289
-    },
     {
       "publicId": "tvs_cards/card_1789599021312",
       "resourceType": "image",
@@ -456,6 +451,11 @@
       "publicId": "tvs_cards/card_1789674058581",
       "resourceType": "image",
       "uploadedAt": 1789674059938
+    },
+    {
+      "publicId": "tvs_videos/video_1789678099460",
+      "resourceType": "video",
+      "uploadedAt": 1789678101745
     }
   ]
 }
