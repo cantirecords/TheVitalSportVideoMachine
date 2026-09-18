@@ -14,6 +14,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -26,6 +28,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis",
     "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/xander-bogaerts-flirts-with-cycle-against-rockies",
@@ -224,10 +227,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers",
     "https://www.mlb.com/news/carlos-rodon-to-begin-minor-league-rehab-saturday",
-    "https://www.mlb.com/news/why-kris-bubic-could-help-the-dodgers-in-the-playoffs",
-    "https://www.bbc.co.uk/sport/formula1/videos/cy07p71522po?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/why-kris-bubic-could-help-the-dodgers-in-the-playoffs"
   ],
   "postedTitles": [
+    "Wakefield beat Leigh to claim historic last-four spot",
     "Could MLB's top 3 in RBIs come from the same division? This trio is going for it",
     "I have experienced racism a thousand times - Lamine Yamal",
     "'I wanted it bad': Bogaerts narrowly misses cycle on historic day",
@@ -426,15 +429,9 @@
     "NBA forward Clarke's death due to effects of drugs",
     "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
     "Rodón to begin rehab Saturday, could piggyback upon return to Yankees",
-    "Why Dodgers' other trade could pay off in October",
-    "'Verstappen to McLaren!' - Mid-season F1 predictions"
+    "Why Dodgers' other trade could pay off in October"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789678099460",
-      "resourceType": "video",
-      "uploadedAt": 1789678101745
-    },
     {
       "publicId": "tvs_cards/card_1789685254315",
       "resourceType": "image",
@@ -459,6 +456,11 @@
       "publicId": "tvs_cards/card_1789757941875",
       "resourceType": "image",
       "uploadedAt": 1789757943379
+    },
+    {
+      "publicId": "tvs_cards/card_1789770438561",
+      "resourceType": "image",
+      "uploadedAt": 1789770440295
     }
   ]
 }
