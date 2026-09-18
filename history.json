@@ -8,6 +8,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -20,6 +22,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-2026-all-debut-team",
     "https://www.mlb.com/news/dodgers-clinch-2026-nl-west-title",
     "https://www.mlb.com/news/dodgers-2026-postseason-faq",
     "https://www.bbc.co.uk/sport/basketball/articles/c5wyz8jj2nlko?at_medium=RSS&at_campaign=rss",
@@ -218,10 +221,10 @@
     "https://www.bbc.co.uk/sport/formula1/videos/cy07p71522po?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/andrew-pinckney-hits-first-mlb-home-run-off-ace-cristopher-sanchez",
     "https://www.mlb.com/news/five-things-to-know-about-2026-mlb-at-field-of-dreams-game",
-    "https://www.mlb.com/news/heliot-ramos-loses-shoe-helmet-on-first-hit-with-yankees",
-    "https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/heliot-ramos-loses-shoe-helmet-on-first-hit-with-yankees"
   ],
   "postedTitles": [
+    "The best of the best who made their MLB debuts this season",
     "Dodgers claim NL West crown for 13th time in past 14 years",
     "Postseason FAQ: What's next for Dodgers?",
     "London Lions set for NBA test as British basketball bids to step up",
@@ -420,15 +423,9 @@
     "'Verstappen to McLaren!' - Mid-season F1 predictions",
     "First MLB hit? Pinckney makes his a 402-foot homer off a Cy Young contender!",
     "Five things you need to know about the 2026 MLB at Field of Dreams Game",
-    "So excited about his first Yankees hit, he lost his shoe. And still made it to second!",
-    "Why Liverpool icon Salah has chosen Trabzonspor"
+    "So excited about his first Yankees hit, he lost his shoe. And still made it to second!"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789612313715",
-      "resourceType": "video",
-      "uploadedAt": 1789612315833
-    },
     {
       "publicId": "tvs_videos/video_1789641703528",
       "resourceType": "video",
@@ -458,6 +455,11 @@
       "publicId": "tvs_cards/card_1789685254315",
       "resourceType": "image",
       "uploadedAt": 1789685255423
+    },
+    {
+      "publicId": "tvs_cards/card_1789705255395",
+      "resourceType": "image",
+      "uploadedAt": 1789705256856
     }
   ]
 }
