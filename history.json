@@ -10,6 +10,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -22,6 +24,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/xander-bogaerts-flirts-with-cycle-against-rockies",
     "https://www.mlb.com/news/mlb-2026-all-debut-team",
     "https://www.mlb.com/news/dodgers-clinch-2026-nl-west-title",
     "https://www.mlb.com/news/dodgers-2026-postseason-faq",
@@ -220,10 +223,10 @@
     "https://www.mlb.com/news/why-kris-bubic-could-help-the-dodgers-in-the-playoffs",
     "https://www.bbc.co.uk/sport/formula1/videos/cy07p71522po?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/andrew-pinckney-hits-first-mlb-home-run-off-ace-cristopher-sanchez",
-    "https://www.mlb.com/news/five-things-to-know-about-2026-mlb-at-field-of-dreams-game",
-    "https://www.mlb.com/news/heliot-ramos-loses-shoe-helmet-on-first-hit-with-yankees"
+    "https://www.mlb.com/news/five-things-to-know-about-2026-mlb-at-field-of-dreams-game"
   ],
   "postedTitles": [
+    "'I wanted it bad': Bogaerts narrowly misses cycle on historic day",
     "The best of the best who made their MLB debuts this season",
     "Dodgers claim NL West crown for 13th time in past 14 years",
     "Postseason FAQ: What's next for Dodgers?",
@@ -422,15 +425,9 @@
     "Why Dodgers' other trade could pay off in October",
     "'Verstappen to McLaren!' - Mid-season F1 predictions",
     "First MLB hit? Pinckney makes his a 402-foot homer off a Cy Young contender!",
-    "Five things you need to know about the 2026 MLB at Field of Dreams Game",
-    "So excited about his first Yankees hit, he lost his shoe. And still made it to second!"
+    "Five things you need to know about the 2026 MLB at Field of Dreams Game"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789641703528",
-      "resourceType": "video",
-      "uploadedAt": 1789641705773
-    },
     {
       "publicId": "tvs_cards/card_1789651134172",
       "resourceType": "image",
@@ -460,6 +457,11 @@
       "publicId": "tvs_cards/card_1789705255395",
       "resourceType": "image",
       "uploadedAt": 1789705256856
+    },
+    {
+      "publicId": "tvs_cards/card_1789736011703",
+      "resourceType": "image",
+      "uploadedAt": 1789736013250
     }
   ]
 }
