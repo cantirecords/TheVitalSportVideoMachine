@@ -12,6 +12,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -24,6 +26,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis",
     "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/xander-bogaerts-flirts-with-cycle-against-rockies",
     "https://www.mlb.com/news/mlb-2026-all-debut-team",
@@ -222,10 +225,10 @@
     "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers",
     "https://www.mlb.com/news/carlos-rodon-to-begin-minor-league-rehab-saturday",
     "https://www.mlb.com/news/why-kris-bubic-could-help-the-dodgers-in-the-playoffs",
-    "https://www.bbc.co.uk/sport/formula1/videos/cy07p71522po?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/andrew-pinckney-hits-first-mlb-home-run-off-ace-cristopher-sanchez"
+    "https://www.bbc.co.uk/sport/formula1/videos/cy07p71522po?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Could MLB's top 3 in RBIs come from the same division? This trio is going for it",
     "I have experienced racism a thousand times - Lamine Yamal",
     "'I wanted it bad': Bogaerts narrowly misses cycle on historic day",
     "The best of the best who made their MLB debuts this season",
@@ -424,15 +427,9 @@
     "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
     "Rodón to begin rehab Saturday, could piggyback upon return to Yankees",
     "Why Dodgers' other trade could pay off in October",
-    "'Verstappen to McLaren!' - Mid-season F1 predictions",
-    "First MLB hit? Pinckney makes his a 402-foot homer off a Cy Young contender!"
+    "'Verstappen to McLaren!' - Mid-season F1 predictions"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789660597157",
-      "resourceType": "video",
-      "uploadedAt": 1789660599415
-    },
     {
       "publicId": "tvs_cards/card_1789674058581",
       "resourceType": "image",
@@ -462,6 +459,11 @@
       "publicId": "tvs_videos/video_1789745398545",
       "resourceType": "video",
       "uploadedAt": 1789745400976
+    },
+    {
+      "publicId": "tvs_cards/card_1789757941875",
+      "resourceType": "image",
+      "uploadedAt": 1789757943379
     }
   ]
 }
