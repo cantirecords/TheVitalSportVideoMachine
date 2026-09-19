@@ -30,6 +30,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-hit-five-home-runs-to-beat-giants",
     "https://www.mlb.com/news/blake-snell-expected-to-make-another-start-after-groin-injury",
     "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis",
@@ -228,10 +229,10 @@
     "https://www.mlb.com/news/yankees-hold-2026-old-timers-day",
     "https://www.mlb.com/news/this-week-in-baseball-tarik-skubal-debuts-with-dodgers",
     "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers",
-    "https://www.mlb.com/news/carlos-rodon-to-begin-minor-league-rehab-saturday"
+    "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers"
   ],
   "postedTitles": [
+    "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
     "Snell (groin) expected to start again for Dodgers before postseason",
     "Wakefield beat Leigh to claim historic last-four spot",
     "Could MLB's top 3 in RBIs come from the same division? This trio is going for it",
@@ -430,15 +431,9 @@
     "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
     "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
     "NBA forward Clarke's death due to effects of drugs",
-    "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers",
-    "Rodón to begin rehab Saturday, could piggyback upon return to Yankees"
+    "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1789705255395",
-      "resourceType": "image",
-      "uploadedAt": 1789705256856
-    },
     {
       "publicId": "tvs_cards/card_1789736011703",
       "resourceType": "image",
@@ -463,6 +458,11 @@
       "publicId": "tvs_cards/card_1789791434702",
       "resourceType": "image",
       "uploadedAt": 1789791436348
+    },
+    {
+      "publicId": "tvs_videos/video_1789812018018",
+      "resourceType": "video",
+      "uploadedAt": 1789812020296
     }
   ]
 }
