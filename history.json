@@ -22,6 +22,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -34,6 +36,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/nasim-nunez-masyn-winn-tic-tac-toe-nationals-cardinals",
     "https://www.mlb.com/news/pavin-smith-hits-walk-off-home-run-in-d-backs-win-vs-yankees",
     "https://www.mlb.com/news/brewers-pitching-questions-regular-season-playoffs",
     "https://www.bbc.co.uk/sport/boxing/articles/cqy8z1jdr2y1o?at_medium=RSS&at_campaign=rss",
@@ -232,10 +235,10 @@
     "https://www.mlb.com/news/2026-nationals-have-youngest-lineup-ever",
     "https://www.mlb.com/news/jacob-misiorowski-notches-200th-strikeout-of-season-vs-twins",
     "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
-    "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/yankees-hold-2026-old-timers-day"
+    "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "X's, O's and MLB bros: Opposing shortstops play tic-tac-toe",
     "D-backs celebrate 2001 title team with walk-off win vs. Yankees",
     "Gasser turns in another strong start in record-tying win as other pitching questions loom for Crew",
     "Brown maintains perfect record with brutal Hedges stoppage ",
@@ -434,8 +437,7 @@
     "MLB's highest-scoring offense is also its all-time youngest",
     "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
     "Chris Sale -- who wasn't pitching Sunday -- ejected before game vs. Yankees",
-    "World number one Sinner to miss Cincinnati Open",
-    "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day"
+    "World number one Sinner to miss Cincinnati Open"
   ],
   "cloudinaryAssets": [
     {
@@ -452,6 +454,11 @@
       "publicId": "tvs_videos/video_1789916966594",
       "resourceType": "video",
       "uploadedAt": 1789916968777
+    },
+    {
+      "publicId": "tvs_cards/card_1789929582586",
+      "resourceType": "image",
+      "uploadedAt": 1789929584043
     }
   ]
 }
