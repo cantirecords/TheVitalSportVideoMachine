@@ -24,6 +24,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -36,6 +38,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/athletics/articles/cq2e0ve219dxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/nasim-nunez-masyn-winn-tic-tac-toe-nationals-cardinals",
     "https://www.mlb.com/news/pavin-smith-hits-walk-off-home-run-in-d-backs-win-vs-yankees",
     "https://www.mlb.com/news/brewers-pitching-questions-regular-season-playoffs",
@@ -234,10 +237,10 @@
     "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-10-2026",
     "https://www.mlb.com/news/2026-nationals-have-youngest-lineup-ever",
     "https://www.mlb.com/news/jacob-misiorowski-notches-200th-strikeout-of-season-vs-twins",
-    "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
-    "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees"
   ],
   "postedTitles": [
+    "Ngetich breaks women-only half-marathon record",
     "X's, O's and MLB bros: Opposing shortstops play tic-tac-toe",
     "D-backs celebrate 2001 title team with walk-off win vs. Yankees",
     "Gasser turns in another strong start in record-tying win as other pitching questions loom for Crew",
@@ -436,8 +439,7 @@
     "Brewers-Dodgers clash among 5 series to watch this week",
     "MLB's highest-scoring offense is also its all-time youngest",
     "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
-    "Chris Sale -- who wasn't pitching Sunday -- ejected before game vs. Yankees",
-    "World number one Sinner to miss Cincinnati Open"
+    "Chris Sale -- who wasn't pitching Sunday -- ejected before game vs. Yankees"
   ],
   "cloudinaryAssets": [
     {
@@ -459,6 +461,11 @@
       "publicId": "tvs_cards/card_1789929582586",
       "resourceType": "image",
       "uploadedAt": 1789929584043
+    },
+    {
+      "publicId": "tvs_cards/card_1789942843253",
+      "resourceType": "image",
+      "uploadedAt": 1789942844696
     }
   ]
 }
