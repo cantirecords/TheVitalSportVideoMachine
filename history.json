@@ -34,6 +34,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/pavin-smith-hits-walk-off-home-run-in-d-backs-win-vs-yankees",
     "https://www.mlb.com/news/brewers-pitching-questions-regular-season-playoffs",
     "https://www.bbc.co.uk/sport/boxing/articles/cqy8z1jdr2y1o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-hit-five-home-runs-to-beat-giants",
@@ -232,10 +233,10 @@
     "https://www.mlb.com/news/jacob-misiorowski-notches-200th-strikeout-of-season-vs-twins",
     "https://www.mlb.com/news/chris-sale-ejected-before-game-against-yankees",
     "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/yankees-hold-2026-old-timers-day",
-    "https://www.mlb.com/news/this-week-in-baseball-tarik-skubal-debuts-with-dodgers"
+    "https://www.mlb.com/news/yankees-hold-2026-old-timers-day"
   ],
   "postedTitles": [
+    "D-backs celebrate 2001 title team with walk-off win vs. Yankees",
     "Gasser turns in another strong start in record-tying win as other pitching questions loom for Crew",
     "Brown maintains perfect record with brutal Hedges stoppage ",
     "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
@@ -434,8 +435,7 @@
     "Miz blazes his way to 200 K's faster than all but one pitcher in MLB history",
     "Chris Sale -- who wasn't pitching Sunday -- ejected before game vs. Yankees",
     "World number one Sinner to miss Cincinnati Open",
-    "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
-    "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field"
+    "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day"
   ],
   "cloudinaryAssets": [
     {
@@ -447,6 +447,11 @@
       "publicId": "tvs_cards/card_1789909222020",
       "resourceType": "image",
       "uploadedAt": 1789909223166
+    },
+    {
+      "publicId": "tvs_videos/video_1789916966594",
+      "resourceType": "video",
+      "uploadedAt": 1789916968777
     }
   ]
 }
