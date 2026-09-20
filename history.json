@@ -18,6 +18,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -30,6 +32,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/boxing/articles/cqy8z1jdr2y1o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-hit-five-home-runs-to-beat-giants",
     "https://www.mlb.com/news/blake-snell-expected-to-make-another-start-after-groin-injury",
     "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss",
@@ -228,10 +231,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-hold-2026-old-timers-day",
     "https://www.mlb.com/news/this-week-in-baseball-tarik-skubal-debuts-with-dodgers",
-    "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/ryan-waldschmidt-hits-walk-off-home-run-against-dodgers"
+    "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Brown maintains perfect record with brutal Hedges stoppage ",
     "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
     "Snell (groin) expected to start again for Dodgers before postseason",
     "Wakefield beat Leigh to claim historic last-four spot",
@@ -430,19 +433,18 @@
     "World number one Sinner to miss Cincinnati Open",
     "Fathers and sons help honor pinstriped legacy at the Yankees' Old-Timers' Day",
     "TWIB: Skubal debuts for Dodgers in an epic series at Wrigley Field",
-    "NBA forward Clarke's death due to effects of drugs",
-    "Waldschmidt's 2nd career HR? Just a walk-off against the Dodgers"
+    "NBA forward Clarke's death due to effects of drugs"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1789791434702",
-      "resourceType": "image",
-      "uploadedAt": 1789791436348
-    },
     {
       "publicId": "tvs_videos/video_1789812018018",
       "resourceType": "video",
       "uploadedAt": 1789812020296
+    },
+    {
+      "publicId": "tvs_cards/card_1789878956760",
+      "resourceType": "image",
+      "uploadedAt": 1789878958111
     }
   ]
 }
