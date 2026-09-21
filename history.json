@@ -30,6 +30,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -42,6 +44,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/rays-nearing-al-east-title-after-win-in-final-regular-season-home-game",
     "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/crz6z2pypgqlo?at_medium=RSS&at_campaign=rss",
@@ -240,10 +243,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html",
     "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments",
-    "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/american-football/articles/c0m7kl42grlo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Rays on precipice of AL East title after setting single-season record for wins at Trop",
     "F1 reduces maximum distance of races by 15km",
     "Ex-Liverpool star Salah given six-month driving ban",
     "Chiefs back in business as star QBs go down - five things from NFL week two",
@@ -442,15 +445,9 @@
     "The transgender controversy surrounding the WNBA",
     "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves",
     "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration",
-    "The team behind Hodgkinson's golden rise and the hunt for a world record",
-    "Mayobridge to Madden – Smyth enjoying next level in NFL"
+    "The team behind Hodgkinson's golden rise and the hunt for a world record"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1789929582586",
-      "resourceType": "image",
-      "uploadedAt": 1789929584043
-    },
     {
       "publicId": "tvs_cards/card_1789942843253",
       "resourceType": "image",
@@ -480,6 +477,11 @@
       "publicId": "tvs_videos/video_1790011757788",
       "resourceType": "video",
       "uploadedAt": 1790011760031
+    },
+    {
+      "publicId": "tvs_cards/card_1790022148432",
+      "resourceType": "image",
+      "uploadedAt": 1790022150074
     }
   ]
 }
