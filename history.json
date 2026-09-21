@@ -44,6 +44,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/videos/c63eq2d2z28jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-nearing-al-east-title-after-win-in-final-regular-season-home-game",
     "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
@@ -242,10 +243,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html",
-    "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments",
-    "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments"
   ],
   "postedTitles": [
+    "'What a play!' - Chase catch leads NFL plays of the week",
     "Rays on precipice of AL East title after setting single-season record for wins at Trop",
     "F1 reduces maximum distance of races by 15km",
     "Ex-Liverpool star Salah given six-month driving ban",
@@ -444,8 +445,7 @@
     "Who could Arsenal sign after missing out on Vinicius Jr? ",
     "The transgender controversy surrounding the WNBA",
     "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves",
-    "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration",
-    "The team behind Hodgkinson's golden rise and the hunt for a world record"
+    "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration"
   ],
   "cloudinaryAssets": [
     {
@@ -482,6 +482,11 @@
       "publicId": "tvs_cards/card_1790022148432",
       "resourceType": "image",
       "uploadedAt": 1790022150074
+    },
+    {
+      "publicId": "tvs_videos/video_1790026037832",
+      "resourceType": "video",
+      "uploadedAt": 1790026039433
     }
   ]
 }
