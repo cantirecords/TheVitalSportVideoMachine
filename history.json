@@ -28,6 +28,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -40,6 +42,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/crz6z2pypgqlo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/firebells-force-wpbl-winner-take-all-game-5",
     "https://www.mlb.com/news/2026-milb-awards-show-on-mlb-network",
@@ -238,10 +241,10 @@
     "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments",
     "https://www.bbc.co.uk/sport/athletics/articles/cjwp3nnlgqpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/c0m7kl42grlo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/jacob-wilson-mlb-error-free-shortstop-record",
-    "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-10-2026"
+    "https://www.mlb.com/news/jacob-wilson-mlb-error-free-shortstop-record"
   ],
   "postedTitles": [
+    "Ex-Liverpool star Salah given six-month driving ban",
     "Chiefs back in business as star QBs go down - five things from NFL week two",
     "Firebells set WPBL record with 20 hits to force winner-take-all Game 5",
     "Here are the finalists for the 2026 MiLB Awards Show (Sept. 28 on MLB Network)",
@@ -440,15 +443,9 @@
     "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration",
     "The team behind Hodgkinson's golden rise and the hunt for a world record",
     "Mayobridge to Madden – Smyth enjoying next level in NFL",
-    "111 games, zero errors: Wilson sets MLB record at shortstop",
-    "Brewers-Dodgers clash among 5 series to watch this week"
+    "111 games, zero errors: Wilson sets MLB record at shortstop"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1789909222020",
-      "resourceType": "image",
-      "uploadedAt": 1789909223166
-    },
     {
       "publicId": "tvs_videos/video_1789916966594",
       "resourceType": "video",
@@ -478,6 +475,11 @@
       "publicId": "tvs_videos/video_1789990228541",
       "resourceType": "video",
       "uploadedAt": 1789990230560
+    },
+    {
+      "publicId": "tvs_cards/card_1790002892133",
+      "resourceType": "image",
+      "uploadedAt": 1790002892954
     }
   ]
 }
