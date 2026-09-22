@@ -32,6 +32,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -44,6 +46,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/sevilla/2026/09/21/juicio-manana-aficionado-sevilla-acusado-llamar-mono-vinicius.html",
     "https://www.mlb.com/news/dylan-cease-right-shoulder-inflammation-mri",
     "https://www.bbc.co.uk/sport/american-football/videos/c63eq2d2z28jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-nearing-al-east-title-after-win-in-final-regular-season-home-game",
@@ -242,10 +245,10 @@
     "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
     "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals",
     "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html"
+    "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "A juicio mañana el aficionado del Sevilla acusado de llamar mono a Vinicius",
     "Cease uncertain for remainder of '26 after MRI reveals shoulder inflammation",
     "'What a play!' - Chase catch leads NFL plays of the week",
     "Rays on precipice of AL East title after setting single-season record for wins at Trop",
@@ -444,8 +447,7 @@
     "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
     "Feeling urgency after tough road trip, Dodgers conjure some clutch magic",
     "Who could Arsenal sign after missing out on Vinicius Jr? ",
-    "The transgender controversy surrounding the WNBA",
-    "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves"
+    "The transgender controversy surrounding the WNBA"
   ],
   "cloudinaryAssets": [
     {
@@ -482,6 +484,11 @@
       "publicId": "tvs_videos/video_1790044232333",
       "resourceType": "video",
       "uploadedAt": 1790044234251
+    },
+    {
+      "publicId": "tvs_cards/card_1790051395235",
+      "resourceType": "image",
+      "uploadedAt": 1790051396553
     }
   ]
 }
