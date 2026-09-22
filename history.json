@@ -44,6 +44,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dylan-cease-right-shoulder-inflammation-mri",
     "https://www.bbc.co.uk/sport/american-football/videos/c63eq2d2z28jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-nearing-al-east-title-after-win-in-final-regular-season-home-game",
     "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
@@ -242,10 +243,10 @@
     "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals",
     "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html",
-    "https://www.mlb.com/news/mariners-50-seasons-celebration-best-moments"
+    "https://www.marca.com/futbol/barcelona/2026/08/10/calendario-barca-liga-2026-27-jornadas-partidos-fechas-claves.html"
   ],
   "postedTitles": [
+    "Cease uncertain for remainder of '26 after MRI reveals shoulder inflammation",
     "'What a play!' - Chase catch leads NFL plays of the week",
     "Rays on precipice of AL East title after setting single-season record for wins at Trop",
     "F1 reduces maximum distance of races by 15km",
@@ -444,20 +445,9 @@
     "Feeling urgency after tough road trip, Dodgers conjure some clutch magic",
     "Who could Arsenal sign after missing out on Vinicius Jr? ",
     "The transgender controversy surrounding the WNBA",
-    "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves",
-    "Ichiro! Lou! Rizzs! Legends come home for packed 50 Seasons Celebration"
+    "Calendario del Barça en la Liga 2026-27: jornadas, partidos y fechas claves"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1789942843253",
-      "resourceType": "image",
-      "uploadedAt": 1789942844696
-    },
-    {
-      "publicId": "tvs_videos/video_1789957620037",
-      "resourceType": "video",
-      "uploadedAt": 1789957621558
-    },
     {
       "publicId": "tvs_cards/card_1789965267594",
       "resourceType": "image",
@@ -487,6 +477,11 @@
       "publicId": "tvs_videos/video_1790026037832",
       "resourceType": "video",
       "uploadedAt": 1790026039433
+    },
+    {
+      "publicId": "tvs_videos/video_1790044232333",
+      "resourceType": "video",
+      "uploadedAt": 1790044234251
     }
   ]
 }
