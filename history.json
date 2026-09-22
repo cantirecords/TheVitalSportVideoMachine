@@ -50,6 +50,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/articles/cmzxzq7gy409o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cwkgx8vkd572o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
@@ -248,10 +249,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/eury-perez-throws-seven-scoreless-innings-vs-pirates",
     "https://www.marca.com/futbol/primera-division/2026/08/11/juega-real-madrid-primer-partido-laliga-rival-fecha-horario.html",
-    "https://www.marca.com/futbol/primera-division/2026/08/11/juega-barcelona-primer-partido-laliga-rival-fecha-horario.html",
-    "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026"
+    "https://www.marca.com/futbol/primera-division/2026/08/11/juega-barcelona-primer-partido-laliga-rival-fecha-horario.html"
   ],
   "postedTitles": [
+    "I was close to joining Liverpool in 2016 - Mbappe",
     "Record prize fund for 2028 European Championships",
     "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
     "Why is Monaco staging a sprint race? F1 Q&A",
@@ -450,15 +451,9 @@
     "LA Lakers to be sold in record $12.5bn deal",
     "Pérez passes latest test in quest to be one of MLB's elite starters",
     "Cuándo juega el Real Madrid su primer partido de LaLiga: Rival, fecha y horario",
-    "Cuándo juega el Barcelona su primer partido de LaLiga: Rival, fecha y horario",
-    "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)"
+    "Cuándo juega el Barcelona su primer partido de LaLiga: Rival, fecha y horario"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790022148432",
-      "resourceType": "image",
-      "uploadedAt": 1790022150074
-    },
     {
       "publicId": "tvs_videos/video_1790026037832",
       "resourceType": "video",
@@ -488,6 +483,11 @@
       "publicId": "tvs_cards/card_1790106097848",
       "resourceType": "image",
       "uploadedAt": 1790106099772
+    },
+    {
+      "publicId": "tvs_videos/video_1790109739233",
+      "resourceType": "video",
+      "uploadedAt": 1790109741051
     }
   ]
 }
