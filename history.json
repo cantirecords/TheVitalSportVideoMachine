@@ -34,6 +34,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -46,6 +48,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/sevilla/2026/09/21/juicio-manana-aficionado-sevilla-acusado-llamar-mono-vinicius.html",
     "https://www.mlb.com/news/dylan-cease-right-shoulder-inflammation-mri",
     "https://www.bbc.co.uk/sport/american-football/videos/c63eq2d2z28jo?at_medium=RSS&at_campaign=rss",
@@ -244,10 +247,10 @@
     "https://www.marca.com/futbol/primera-division/2026/08/11/juega-barcelona-primer-partido-laliga-rival-fecha-horario.html",
     "https://www.mlb.com/news/milb-at-field-of-dreams-game-2026",
     "https://www.mlb.com/news/max-muncy-freddie-freeman-give-dodgers-clutch-hits-to-beat-royals",
-    "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Why is Monaco staging a sprint race? F1 Q&A",
     "A juicio mañana el aficionado del Sevilla acusado de llamar mono a Vinicius",
     "Cease uncertain for remainder of '26 after MRI reveals shoulder inflammation",
     "'What a play!' - Chase catch leads NFL plays of the week",
@@ -446,15 +449,9 @@
     "Cuándo juega el Barcelona su primer partido de LaLiga: Rival, fecha y horario",
     "Watch MiLB at Field of Dreams tonight on MLB Network (7:30 ET)",
     "Feeling urgency after tough road trip, Dodgers conjure some clutch magic",
-    "Who could Arsenal sign after missing out on Vinicius Jr? ",
-    "The transgender controversy surrounding the WNBA"
+    "Who could Arsenal sign after missing out on Vinicius Jr? "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1789990228541",
-      "resourceType": "video",
-      "uploadedAt": 1789990230560
-    },
     {
       "publicId": "tvs_cards/card_1790002892133",
       "resourceType": "image",
@@ -484,6 +481,11 @@
       "publicId": "tvs_cards/card_1790051395235",
       "resourceType": "image",
       "uploadedAt": 1790051396553
+    },
+    {
+      "publicId": "tvs_cards/card_1790083160651",
+      "resourceType": "image",
+      "uploadedAt": 1790083162391
     }
   ]
 }
