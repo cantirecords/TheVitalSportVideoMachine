@@ -52,6 +52,7 @@
     "First"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/andy-pages-activated-from-injured-list-after-hand-fracture",
     "https://www.mlb.com/news/christian-scott-to-injured-list-devin-williams-activated",
     "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/articles/cmzxzq7gy409o?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/braves-update-aj-smith-shawver-spencer-schwellenbach-robert-suarez",
     "https://www.bbc.co.uk/sport/american-football/articles/cx2rgrdd1d2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/eury-perez-throws-seven-scoreless-innings-vs-pirates",
-    "https://www.marca.com/futbol/primera-division/2026/08/11/juega-real-madrid-primer-partido-laliga-rival-fecha-horario.html"
+    "https://www.mlb.com/news/eury-perez-throws-seven-scoreless-innings-vs-pirates"
   ],
   "postedTitles": [
+    "Pages returns from IL, solidifying Dodgers' defense just in time for October",
     "Scott's season over with knee inflammation; Williams returns",
     "I was close to joining Liverpool in 2016 - Mbappe",
     "Record prize fund for 2028 European Championships",
@@ -452,8 +453,7 @@
     "Smith-Shawver nears return, while Schwellenbach's road back looks longer",
     "Briton Obada retires from NFL to pursue 'true calling'",
     "LA Lakers to be sold in record $12.5bn deal",
-    "Pérez passes latest test in quest to be one of MLB's elite starters",
-    "Cuándo juega el Real Madrid su primer partido de LaLiga: Rival, fecha y horario"
+    "Pérez passes latest test in quest to be one of MLB's elite starters"
   ],
   "cloudinaryAssets": [
     {
@@ -490,6 +490,11 @@
       "publicId": "tvs_cards/card_1790117535303",
       "resourceType": "image",
       "uploadedAt": 1790117536662
+    },
+    {
+      "publicId": "tvs_videos/video_1790130622368",
+      "resourceType": "video",
+      "uploadedAt": 1790130624372
     }
   ]
 }
