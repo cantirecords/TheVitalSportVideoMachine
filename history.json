@@ -42,16 +42,17 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
     "Mbappé",
     "Barça",
-    "Hamilton",
-    "Ohtani",
-    "Barcelona"
+    "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/how-yankees-can-thrive-in-the-playoffs-without-aaron-judge",
     "https://www.mlb.com/news/michael-king-allows-five-runs-as-padres-lose-to-dodgers",
     "https://www.bbc.co.uk/sport/rugby-union/articles/ck0e3y42yz2eo?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.bbc.co.uk/sport/swimming/videos/c70gv8455jvo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
     "https://www.marca.com/futbol/celta/2026/08/12/liga-pospone-decision-sobre-celta-osasuna-jueves.html",
-    "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/braves-update-aj-smith-shawver-spencer-schwellenbach-robert-suarez"
+    "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ronaldo spurred on by 1,000 goals and Portugal glory",
     "5 reasons the Yankees can win without Judge",
     "Padres have work to do after loss to Dodgers",
     "'Start-up' Newcastle tapping into Red Bulls spirit",
@@ -452,15 +453,9 @@
     "Evans wins breaststroke gold in British record time",
     "Everything to know about tonight's MLB at Field of Dreams Game on Netflix",
     "La Liga pospone la decisión sobre el Celta-Osasuna a este jueves",
-    "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report",
-    "Smith-Shawver nears return, while Schwellenbach's road back looks longer"
+    "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1790092792927",
-      "resourceType": "video",
-      "uploadedAt": 1790092795310
-    },
     {
       "publicId": "tvs_cards/card_1790106097848",
       "resourceType": "image",
@@ -495,6 +490,11 @@
       "publicId": "tvs_videos/video_1790178591418",
       "resourceType": "video",
       "uploadedAt": 1790178592912
+    },
+    {
+      "publicId": "tvs_cards/card_1790192225864",
+      "resourceType": "image",
+      "uploadedAt": 1790192226801
     }
   ]
 }
