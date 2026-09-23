@@ -1,57 +1,15 @@
 {
   "recentKeywords": [
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
+    "Madrid",
     "DEVELOPING",
     "STORY",
     "Verstappen",
-    "DEVELOPING",
-    "STORY",
     "Mbappé",
     "Barça",
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/real-madrid/2026/09/22/madrid-ironiza-atleti-hoy-piden-respeto-les-perjudican-respetan-tanto.html",
     "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/how-yankees-can-thrive-in-the-playoffs-without-aaron-judge",
     "https://www.mlb.com/news/michael-king-allows-five-runs-as-padres-lose-to-dodgers",
@@ -250,10 +208,10 @@
     "https://www.mlb.com/news/spencer-jones-drives-in-three-as-yankees-beat-mariners",
     "https://www.bbc.co.uk/sport/swimming/videos/c70gv8455jvo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup",
-    "https://www.marca.com/futbol/celta/2026/08/12/liga-pospone-decision-sobre-celta-osasuna-jueves.html",
-    "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss"
+    "https://www.marca.com/futbol/celta/2026/08/12/liga-pospone-decision-sobre-celta-osasuna-jueves.html"
   ],
   "postedTitles": [
+    "El Madrid ironiza con el Atleti: \"Hoy piden respeto, pero si les perjudican, ya no respetan tanto”",
     "Ronaldo spurred on by 1,000 goals and Portugal glory",
     "5 reasons the Yankees can win without Judge",
     "Padres have work to do after loss to Dodgers",
@@ -452,20 +410,9 @@
     "Moved into 3 hole, Jones rewards faith by fueling Yankees' outburst",
     "Evans wins breaststroke gold in British record time",
     "Everything to know about tonight's MLB at Field of Dreams Game on Netflix",
-    "La Liga pospone la decisión sobre el Celta-Osasuna a este jueves",
-    "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report"
+    "La Liga pospone la decisión sobre el Celta-Osasuna a este jueves"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790106097848",
-      "resourceType": "image",
-      "uploadedAt": 1790106099772
-    },
-    {
-      "publicId": "tvs_videos/video_1790109739233",
-      "resourceType": "video",
-      "uploadedAt": 1790109741051
-    },
     {
       "publicId": "tvs_cards/card_1790117535303",
       "resourceType": "image",
@@ -495,6 +442,11 @@
       "publicId": "tvs_cards/card_1790192225864",
       "resourceType": "image",
       "uploadedAt": 1790192226801
+    },
+    {
+      "publicId": "tvs_videos/video_1790196851994",
+      "resourceType": "video",
+      "uploadedAt": 1790196853633
     }
   ]
 }
