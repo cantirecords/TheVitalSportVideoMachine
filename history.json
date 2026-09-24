@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -11,6 +13,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/real-madrid/2026/09/23/diomande-amenaza-reinado-vinicius.html",
     "https://www.mlb.com/news/shohei-ohtani-singles-in-first-at-bat-back-from-injured-list",
     "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
@@ -209,10 +212,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/videos/c5y3ey5lpydo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryson-stott-to-wear-custom-cleats-at-field-of-dreams",
-    "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/primera-division/2026/08/13/cta-perseguira-perdidas-aplicara-ley-vinicius-laliga-1.html"
+    "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Diomande amenaza el reinado de Vinicius",
     "Ohtani singles in first AB off IL as Dodgers near full strength",
     "The moment Antonelli knew he had been transformed as an F1 driver",
     "Barcelona rule out Alvarez deal - Thursday's gossip",
@@ -411,8 +414,7 @@
     "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA",
     "Would more sprint races be a positive change for Formula 1?",
     "Stott bringing angels to infield with homage to late Phillies at MLB at Field of Dreams",
-    "Messi plays for Inter Miami after father's death",
-    "El CTA perseguirá las pérdidas de tiempo y no aplicará la 'Ley Vinicius' en LaLiga"
+    "Messi plays for Inter Miami after father's death"
   ],
   "cloudinaryAssets": [
     {
@@ -454,6 +456,11 @@
       "publicId": "tvs_videos/video_1790246880666",
       "resourceType": "video",
       "uploadedAt": 1790246883486
+    },
+    {
+      "publicId": "tvs_cards/card_1790256515374",
+      "resourceType": "image",
+      "uploadedAt": 1790256516239
     }
   ]
 }
