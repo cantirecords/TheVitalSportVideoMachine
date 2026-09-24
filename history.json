@@ -1,16 +1,16 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "DEVELOPING",
     "STORY",
     "Madrid",
-    "DEVELOPING",
-    "STORY",
     "Verstappen",
     "Mbappé",
     "Barça",
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-expected-back-in-lineup-sept-23",
     "https://www.marca.com/futbol/real-madrid/2026/09/22/madrid-ironiza-atleti-hoy-piden-respeto-les-perjudican-respetan-tanto.html",
     "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
@@ -209,10 +209,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/08/13/cta-perseguira-perdidas-aplicara-ley-vinicius-laliga-1.html",
     "https://www.mlb.com/news/spencer-jones-drives-in-three-as-yankees-beat-mariners",
-    "https://www.bbc.co.uk/sport/swimming/videos/c70gv8455jvo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/2026-mlb-at-field-of-dreams-game-on-netflix-date-time-matchup"
+    "https://www.bbc.co.uk/sport/swimming/videos/c70gv8455jvo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Barcelona rule out Alvarez deal - Thursday's gossip",
     "Ohtani activated, returns to champs' lineup -- but not at leadoff",
     "El Madrid ironiza con el Atleti: \"Hoy piden respeto, pero si les perjudican, ya no respetan tanto”",
     "Ronaldo spurred on by 1,000 goals and Portugal glory",
@@ -411,8 +411,7 @@
     "Messi plays for Inter Miami after father's death",
     "El CTA perseguirá las pérdidas de tiempo y no aplicará la 'Ley Vinicius' en LaLiga",
     "Moved into 3 hole, Jones rewards faith by fueling Yankees' outburst",
-    "Evans wins breaststroke gold in British record time",
-    "Everything to know about tonight's MLB at Field of Dreams Game on Netflix"
+    "Evans wins breaststroke gold in British record time"
   ],
   "cloudinaryAssets": [
     {
@@ -449,6 +448,11 @@
       "publicId": "tvs_cards/card_1790203979654",
       "resourceType": "image",
       "uploadedAt": 1790203980969
+    },
+    {
+      "publicId": "tvs_videos/video_1790216365697",
+      "resourceType": "video",
+      "uploadedAt": 1790216368031
     }
   ]
 }
