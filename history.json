@@ -4,6 +4,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -15,6 +17,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/orioles-yankees-will-play-doubleheader-on-september-25",
     "https://www.mlb.com/news/colson-montgomery-strikeout-records-white-sox-vs-royals",
     "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-madrid/2026/09/23/diomande-amenaza-reinado-vinicius.html",
@@ -213,10 +216,10 @@
     "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
     "https://www.marca.com/futbol/primera-division/opinion/2026/08/14/empieza-liga-sigue-mercado.html",
     "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients",
-    "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/videos/c5y3ey5lpydo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Orioles-Yankees Saturday game moved to Friday for doubleheader",
     "Colson Montgomery sets AL single-season record for K's, matches MLB mark",
     "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
     "Diomande amenaza el reinado de Vinicius",
@@ -415,15 +418,9 @@
     "Brew Crew rallies in 9th to stun Dodgers, stay atop NL ",
     "Empieza la Liga, sigue el mercado",
     "MLB surprises MercyOne patients with Field of Dreams experience",
-    "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA",
-    "Would more sprint races be a positive change for Formula 1?"
+    "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790203979654",
-      "resourceType": "image",
-      "uploadedAt": 1790203980969
-    },
     {
       "publicId": "tvs_videos/video_1790216365697",
       "resourceType": "video",
@@ -453,6 +450,11 @@
       "publicId": "tvs_cards/card_1790279764962",
       "resourceType": "image",
       "uploadedAt": 1790279766300
+    },
+    {
+      "publicId": "tvs_cards/card_1790291365350",
+      "resourceType": "image",
+      "uploadedAt": 1790291366711
     }
   ]
 }
