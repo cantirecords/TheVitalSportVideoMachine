@@ -1,10 +1,9 @@
 {
   "recentKeywords": [
+    "Ohtani",
     "DEVELOPING",
     "STORY",
     "Barcelona",
-    "DEVELOPING",
-    "STORY",
     "Madrid",
     "Verstappen",
     "Mbappé",
@@ -12,6 +11,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shohei-ohtani-singles-in-first-at-bat-back-from-injured-list",
     "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-expected-back-in-lineup-sept-23",
@@ -210,10 +210,10 @@
     "https://www.bbc.co.uk/sport/formula1/videos/c5y3ey5lpydo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bryson-stott-to-wear-custom-cleats-at-field-of-dreams",
     "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/primera-division/2026/08/13/cta-perseguira-perdidas-aplicara-ley-vinicius-laliga-1.html",
-    "https://www.mlb.com/news/spencer-jones-drives-in-three-as-yankees-beat-mariners"
+    "https://www.marca.com/futbol/primera-division/2026/08/13/cta-perseguira-perdidas-aplicara-ley-vinicius-laliga-1.html"
   ],
   "postedTitles": [
+    "Ohtani singles in first AB off IL as Dodgers near full strength",
     "The moment Antonelli knew he had been transformed as an F1 driver",
     "Barcelona rule out Alvarez deal - Thursday's gossip",
     "Ohtani activated, returns to champs' lineup -- but not at leadoff",
@@ -412,15 +412,9 @@
     "Would more sprint races be a positive change for Formula 1?",
     "Stott bringing angels to infield with homage to late Phillies at MLB at Field of Dreams",
     "Messi plays for Inter Miami after father's death",
-    "El CTA perseguirá las pérdidas de tiempo y no aplicará la 'Ley Vinicius' en LaLiga",
-    "Moved into 3 hole, Jones rewards faith by fueling Yankees' outburst"
+    "El CTA perseguirá las pérdidas de tiempo y no aplicará la 'Ley Vinicius' en LaLiga"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1790159477677",
-      "resourceType": "video",
-      "uploadedAt": 1790159481698
-    },
     {
       "publicId": "tvs_cards/card_1790170411442",
       "resourceType": "image",
@@ -455,6 +449,11 @@
       "publicId": "tvs_cards/card_1790223841257",
       "resourceType": "image",
       "uploadedAt": 1790223842658
+    },
+    {
+      "publicId": "tvs_videos/video_1790246880666",
+      "resourceType": "video",
+      "uploadedAt": 1790246883486
     }
   ]
 }
