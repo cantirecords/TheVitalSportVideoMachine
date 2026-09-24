@@ -13,6 +13,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-madrid/2026/09/23/diomande-amenaza-reinado-vinicius.html",
     "https://www.mlb.com/news/shohei-ohtani-singles-in-first-at-bat-back-from-injured-list",
     "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro?at_medium=RSS&at_campaign=rss",
@@ -211,10 +212,10 @@
     "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients",
     "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/videos/c5y3ey5lpydo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/bryson-stott-to-wear-custom-cleats-at-field-of-dreams",
-    "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/bryson-stott-to-wear-custom-cleats-at-field-of-dreams"
   ],
   "postedTitles": [
+    "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
     "Diomande amenaza el reinado de Vinicius",
     "Ohtani singles in first AB off IL as Dodgers near full strength",
     "The moment Antonelli knew he had been transformed as an F1 driver",
@@ -413,20 +414,9 @@
     "MLB surprises MercyOne patients with Field of Dreams experience",
     "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA",
     "Would more sprint races be a positive change for Formula 1?",
-    "Stott bringing angels to infield with homage to late Phillies at MLB at Field of Dreams",
-    "Messi plays for Inter Miami after father's death"
+    "Stott bringing angels to infield with homage to late Phillies at MLB at Field of Dreams"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790170411442",
-      "resourceType": "image",
-      "uploadedAt": 1790170413112
-    },
-    {
-      "publicId": "tvs_videos/video_1790178591418",
-      "resourceType": "video",
-      "uploadedAt": 1790178592912
-    },
     {
       "publicId": "tvs_cards/card_1790192225864",
       "resourceType": "image",
@@ -461,6 +451,11 @@
       "publicId": "tvs_cards/card_1790256515374",
       "resourceType": "image",
       "uploadedAt": 1790256516239
+    },
+    {
+      "publicId": "tvs_videos/video_1790266296855",
+      "resourceType": "video",
+      "uploadedAt": 1790266299031
     }
   ]
 }
