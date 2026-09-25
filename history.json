@@ -8,6 +8,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -19,6 +21,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-secure-first-round-bye-for-2026-postseason",
     "https://www.mlb.com/news/munetaka-murakami-celebrates-white-sox-2026-playoff-clinch",
     "https://www.bbc.co.uk/sport/formula1/articles/cmwyzqn4w20qo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/c52e0l1lxl4ko?at_medium=RSS&at_campaign=rss",
@@ -217,10 +220,10 @@
     "https://www.mlb.com/news/george-lombard-jr-learning-from-yankees-teammates-early-in-career",
     "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shohei-ohtani-progressing-toward-return-to-pitching",
-    "https://www.mlb.com/news/guardians-gavin-williams-historic-stretch",
-    "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record"
+    "https://www.mlb.com/news/guardians-gavin-williams-historic-stretch"
   ],
   "postedTitles": [
+    "Dodgers earn first-round bye after securing Top 2 seed in NL",
     "Murakami keeps it '100!' while celebrating 1st MLB playoff clinch",
     "McLaren miles off pace in Baku practice - Norris",
     "NBA's first MVP Pettit dies aged 93",
@@ -419,15 +422,9 @@
     "Lombard embracing little things as he begins to carve Yankees legacy",
     "PSG agree deal in principle for Barcelona's Torres",
     "Ohtani progresses to long toss; throwing off mound could be next",
-    "The changes that fueled Gavin Williams' historic stretch ",
-    "Brew Crew rallies in 9th to stun Dodgers, stay atop NL "
+    "The changes that fueled Gavin Williams' historic stretch "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790256515374",
-      "resourceType": "image",
-      "uploadedAt": 1790256516239
-    },
     {
       "publicId": "tvs_videos/video_1790266296855",
       "resourceType": "video",
@@ -457,6 +454,11 @@
       "publicId": "tvs_videos/video_1790333581771",
       "resourceType": "video",
       "uploadedAt": 1790333584831
+    },
+    {
+      "publicId": "tvs_cards/card_1790343304042",
+      "resourceType": "image",
+      "uploadedAt": 1790343305471
     }
   ]
 }
