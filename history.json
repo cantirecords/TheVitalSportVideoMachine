@@ -10,6 +10,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -21,6 +23,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/lucas-spence-hits-three-home-runs-in-astros-win-over-a-s",
     "https://www.mlb.com/news/dodgers-secure-first-round-bye-for-2026-postseason",
     "https://www.mlb.com/news/munetaka-murakami-celebrates-white-sox-2026-playoff-clinch",
     "https://www.bbc.co.uk/sport/formula1/articles/cmwyzqn4w20qo?at_medium=RSS&at_campaign=rss",
@@ -219,10 +222,10 @@
     "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/george-lombard-jr-learning-from-yankees-teammates-early-in-career",
     "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-progressing-toward-return-to-pitching",
-    "https://www.mlb.com/news/guardians-gavin-williams-historic-stretch"
+    "https://www.mlb.com/news/shohei-ohtani-progressing-toward-return-to-pitching"
   ],
   "postedTitles": [
+    "Lucas the legend! Spence's 3-HR game keeps Astros in first-place tie",
     "Dodgers earn first-round bye after securing Top 2 seed in NL",
     "Murakami keeps it '100!' while celebrating 1st MLB playoff clinch",
     "McLaren miles off pace in Baku practice - Norris",
@@ -421,20 +424,9 @@
     "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
     "Lombard embracing little things as he begins to carve Yankees legacy",
     "PSG agree deal in principle for Barcelona's Torres",
-    "Ohtani progresses to long toss; throwing off mound could be next",
-    "The changes that fueled Gavin Williams' historic stretch "
+    "Ohtani progresses to long toss; throwing off mound could be next"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1790266296855",
-      "resourceType": "video",
-      "uploadedAt": 1790266299031
-    },
-    {
-      "publicId": "tvs_cards/card_1790279764962",
-      "resourceType": "image",
-      "uploadedAt": 1790279766300
-    },
     {
       "publicId": "tvs_cards/card_1790291365350",
       "resourceType": "image",
@@ -459,6 +451,11 @@
       "publicId": "tvs_cards/card_1790343304042",
       "resourceType": "image",
       "uploadedAt": 1790343305471
+    },
+    {
+      "publicId": "tvs_cards/card_1790366294288",
+      "resourceType": "image",
+      "uploadedAt": 1790366295524
     }
   ]
 }
