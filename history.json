@@ -23,6 +23,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/most-popular-mlb-players-jerseys-for-2026-season",
     "https://www.mlb.com/news/lucas-spence-hits-three-home-runs-in-astros-win-over-a-s",
     "https://www.mlb.com/news/dodgers-secure-first-round-bye-for-2026-postseason",
     "https://www.mlb.com/news/munetaka-murakami-celebrates-white-sox-2026-playoff-clinch",
@@ -221,10 +222,10 @@
     "https://www.bbc.co.uk/sport/athletics/videos/cvg0lgwlwggo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/george-lombard-jr-learning-from-yankees-teammates-early-in-career",
-    "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/shohei-ohtani-progressing-toward-return-to-pitching"
+    "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "These are the top 20 MLB jerseys from 2026 season",
     "Lucas the legend! Spence's 3-HR game keeps Astros in first-place tie",
     "Dodgers earn first-round bye after securing Top 2 seed in NL",
     "Murakami keeps it '100!' while celebrating 1st MLB playoff clinch",
@@ -423,8 +424,7 @@
     "Fiorini and Perez break race walking world records",
     "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
     "Lombard embracing little things as he begins to carve Yankees legacy",
-    "PSG agree deal in principle for Barcelona's Torres",
-    "Ohtani progresses to long toss; throwing off mound could be next"
+    "PSG agree deal in principle for Barcelona's Torres"
   ],
   "cloudinaryAssets": [
     {
@@ -456,6 +456,11 @@
       "publicId": "tvs_cards/card_1790366294288",
       "resourceType": "image",
       "uploadedAt": 1790366295524
+    },
+    {
+      "publicId": "tvs_videos/video_1790369715228",
+      "resourceType": "video",
+      "uploadedAt": 1790369717531
     }
   ]
 }
