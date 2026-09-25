@@ -17,6 +17,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/basketball/articles/c52e0l1lxl4ko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/orioles-yankees-will-play-doubleheader-on-september-25",
     "https://www.mlb.com/news/colson-montgomery-strikeout-records-white-sox-vs-royals",
     "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
@@ -215,10 +216,10 @@
     "https://www.mlb.com/news/guardians-gavin-williams-historic-stretch",
     "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
     "https://www.marca.com/futbol/primera-division/opinion/2026/08/14/empieza-liga-sigue-mercado.html",
-    "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients",
-    "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients"
   ],
   "postedTitles": [
+    "NBA's first MVP Pettit dies aged 93",
     "Orioles-Yankees Saturday game moved to Friday for doubleheader",
     "Colson Montgomery sets AL single-season record for K's, matches MLB mark",
     "'I suffered, but I enjoyed' - Alcaraz on smiling after defeat at 3:34am",
@@ -417,15 +418,9 @@
     "The changes that fueled Gavin Williams' historic stretch ",
     "Brew Crew rallies in 9th to stun Dodgers, stay atop NL ",
     "Empieza la Liga, sigue el mercado",
-    "MLB surprises MercyOne patients with Field of Dreams experience",
-    "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA"
+    "MLB surprises MercyOne patients with Field of Dreams experience"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1790216365697",
-      "resourceType": "video",
-      "uploadedAt": 1790216368031
-    },
     {
       "publicId": "tvs_cards/card_1790223841257",
       "resourceType": "image",
@@ -455,6 +450,11 @@
       "publicId": "tvs_cards/card_1790291365350",
       "resourceType": "image",
       "uploadedAt": 1790291366711
+    },
+    {
+      "publicId": "tvs_videos/video_1790303744684",
+      "resourceType": "video",
+      "uploadedAt": 1790303745950
     }
   ]
 }
