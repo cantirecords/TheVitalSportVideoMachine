@@ -6,6 +6,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -17,6 +19,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cmwyzqn4w20qo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/c52e0l1lxl4ko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/orioles-yankees-will-play-doubleheader-on-september-25",
     "https://www.mlb.com/news/colson-montgomery-strikeout-records-white-sox-vs-royals",
@@ -215,10 +218,10 @@
     "https://www.mlb.com/news/shohei-ohtani-progressing-toward-return-to-pitching",
     "https://www.mlb.com/news/guardians-gavin-williams-historic-stretch",
     "https://www.mlb.com/news/brewers-rally-in-9th-inning-to-beat-dodgers-keep-nl-best-record",
-    "https://www.marca.com/futbol/primera-division/opinion/2026/08/14/empieza-liga-sigue-mercado.html",
-    "https://www.mlb.com/news/mlb-gives-field-of-dreams-game-tickets-to-mercyone-dubuque-patients"
+    "https://www.marca.com/futbol/primera-division/opinion/2026/08/14/empieza-liga-sigue-mercado.html"
   ],
   "postedTitles": [
+    "McLaren miles off pace in Baku practice - Norris",
     "NBA's first MVP Pettit dies aged 93",
     "Orioles-Yankees Saturday game moved to Friday for doubleheader",
     "Colson Montgomery sets AL single-season record for K's, matches MLB mark",
@@ -417,15 +420,9 @@
     "Ohtani progresses to long toss; throwing off mound could be next",
     "The changes that fueled Gavin Williams' historic stretch ",
     "Brew Crew rallies in 9th to stun Dodgers, stay atop NL ",
-    "Empieza la Liga, sigue el mercado",
-    "MLB surprises MercyOne patients with Field of Dreams experience"
+    "Empieza la Liga, sigue el mercado"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790223841257",
-      "resourceType": "image",
-      "uploadedAt": 1790223842658
-    },
     {
       "publicId": "tvs_videos/video_1790246880666",
       "resourceType": "video",
@@ -455,6 +452,11 @@
       "publicId": "tvs_videos/video_1790303744684",
       "resourceType": "video",
       "uploadedAt": 1790303745950
+    },
+    {
+      "publicId": "tvs_cards/card_1790310889231",
+      "resourceType": "image",
+      "uploadedAt": 1790310890465
     }
   ]
 }
