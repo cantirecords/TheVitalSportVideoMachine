@@ -432,11 +432,6 @@
   ],
   "cloudinaryAssets": [
     {
-      "publicId": "tvs_videos/video_1790369715228",
-      "resourceType": "video",
-      "uploadedAt": 1790369717531
-    },
-    {
       "publicId": "tvs_cards/card_1790378114500",
       "resourceType": "image",
       "uploadedAt": 1790378115249
