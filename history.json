@@ -25,6 +25,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c84gkkepxxl4o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/adam-jones-daisuke-matsuzaka-and-more-join-mlbx-fukuoka",
     "https://www.mlb.com/news/most-popular-mlb-players-jerseys-for-2026-season",
@@ -223,10 +224,10 @@
     "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/wpbl-star-kelsie-whitmore-hits-2-home-runs-pitches-in-win",
-    "https://www.bbc.co.uk/sport/athletics/videos/cvg0lgwlwggo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/athletics/videos/cvg0lgwlwggo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Chadwick says driving F1 car 'top of bucket list'",
     "No relegation clause in Haaland's City deal - Saturday's gossip",
     "Big league stars and NPB heroes to play in MLBx: Fukuoka",
     "These are the top 20 MLB jerseys from 2026 season",
@@ -425,8 +426,7 @@
     "Great Britain win gold with mixed freestyle 4x200m championship record",
     "Djokovic suffers in heat as Tirante inflicts shock defeat",
     "After historic 3-homer game, Whitmore hits 2 more dingers ... and pitches!",
-    "Fiorini and Perez break race walking world records",
-    "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple"
+    "Fiorini and Perez break race walking world records"
   ],
   "cloudinaryAssets": [
     {
@@ -458,6 +458,11 @@
       "publicId": "tvs_videos/video_1790390290303",
       "resourceType": "video",
       "uploadedAt": 1790390292430
+    },
+    {
+      "publicId": "tvs_videos/video_1790418803297",
+      "resourceType": "video",
+      "uploadedAt": 1790418805428
     }
   ]
 }
