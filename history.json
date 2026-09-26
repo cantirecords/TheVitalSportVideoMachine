@@ -14,6 +14,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -25,6 +27,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/c9vgyyd5n4yjo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cm1dllzgrdkro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c84gkkepxxl4o?at_medium=RSS&at_campaign=rss",
@@ -223,10 +226,10 @@
     "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc",
     "https://www.mlb.com/news/logan-henderson-vs-tarik-skubal-in-brewers-dodgers-series-finale",
     "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/wpbl-star-kelsie-whitmore-hits-2-home-runs-pitches-in-win"
+    "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Norris says Colapinto should be banned after accident",
     "Salah out of Egypt game because of artificial turf",
     "Chadwick says driving F1 car 'top of bucket list'",
     "No relegation clause in Haaland's City deal - Saturday's gossip",
@@ -425,8 +428,7 @@
     "Báez looks to build on historic 3-HR debut today vs. Cubs (3:15 p.m. ET, ABC/ESPN App)",
     "Trade target vs. trade prize: Brewers' Henderson to square off with Dodgers' Skubal",
     "Great Britain win gold with mixed freestyle 4x200m championship record",
-    "Djokovic suffers in heat as Tirante inflicts shock defeat",
-    "After historic 3-homer game, Whitmore hits 2 more dingers ... and pitches!"
+    "Djokovic suffers in heat as Tirante inflicts shock defeat"
   ],
   "cloudinaryAssets": [
     {
@@ -458,6 +460,11 @@
       "publicId": "tvs_videos/video_1790436337198",
       "resourceType": "video",
       "uploadedAt": 1790436340957
+    },
+    {
+      "publicId": "tvs_cards/card_1790449782672",
+      "resourceType": "image",
+      "uploadedAt": 1790449783990
     }
   ]
 }
