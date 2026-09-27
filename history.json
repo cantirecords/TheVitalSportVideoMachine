@@ -18,6 +18,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -29,6 +31,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
     "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/athletics/articles/c6rr4y59n0r0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cm5yddy3wv90o?at_medium=RSS&at_campaign=rss",
@@ -227,10 +230,10 @@
     "https://www.mlb.com/news/tarik-skubal-strikes-out-7-vs-brewers",
     "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/jurrangelo-cijntje-captures-joshua-baez-s-home-run-on-camera-phone",
-    "https://www.mlb.com/news/charles-mcadoo-drives-in-2-as-blue-jays-beat-yankees"
+    "https://www.mlb.com/news/jurrangelo-cijntje-captures-joshua-baez-s-home-run-on-camera-phone"
   ],
   "postedTitles": [
+    "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
     "Horner a distraction for Ferrari says Vasseur",
     "Injured Assefa narrowly misses world record in Berlin",
     "Alcaraz wins after saving match points as Europe lead Laver Cup",
@@ -429,15 +432,9 @@
     "Skubal finishes with a flourish, but Dodgers lose potentially pivotal season series",
     "Barcelona agree £65m deal to sign Rodri from Man City",
     "West Ham break EFL record to sign Engels for £22m",
-    "Báez sends Memphis Redbirds' clubhouse into frenzy with historic third homer",
-    "Surging Blue Jays withstand Schlittler, take down Yankees"
+    "Báez sends Memphis Redbirds' clubhouse into frenzy with historic third homer"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790449782672",
-      "resourceType": "image",
-      "uploadedAt": 1790449783990
-    },
     {
       "publicId": "tvs_videos/video_1790476590023",
       "resourceType": "video",
@@ -457,6 +454,11 @@
       "publicId": "tvs_videos/video_1790525099645",
       "resourceType": "video",
       "uploadedAt": 1790525100905
+    },
+    {
+      "publicId": "tvs_cards/card_1790538154970",
+      "resourceType": "image",
+      "uploadedAt": 1790538156083
     }
   ]
 }
