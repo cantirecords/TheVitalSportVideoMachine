@@ -27,6 +27,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/blake-treinen-out-for-2026-postseason-with-shoulder-injury",
     "https://www.bbc.co.uk/sport/formula1/articles/c9vgyyd5n4yjo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cm1dllzgrdkro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
@@ -225,10 +226,10 @@
     "https://www.mlb.com/news/charles-mcadoo-drives-in-2-as-blue-jays-beat-yankees",
     "https://www.mlb.com/news/cardinals-cubs-series-finale-on-abc",
     "https://www.mlb.com/news/logan-henderson-vs-tarik-skubal-in-brewers-dodgers-series-finale",
-    "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Treinen injures shoulder, no longer an option for Dodgers' playoff 'pen",
     "Norris says Colapinto should be banned after accident",
     "Salah out of Egypt game because of artificial turf",
     "Chadwick says driving F1 car 'top of bucket list'",
@@ -427,15 +428,9 @@
     "Surging Blue Jays withstand Schlittler, take down Yankees",
     "Báez looks to build on historic 3-HR debut today vs. Cubs (3:15 p.m. ET, ABC/ESPN App)",
     "Trade target vs. trade prize: Brewers' Henderson to square off with Dodgers' Skubal",
-    "Great Britain win gold with mixed freestyle 4x200m championship record",
-    "Djokovic suffers in heat as Tirante inflicts shock defeat"
+    "Great Britain win gold with mixed freestyle 4x200m championship record"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790378114500",
-      "resourceType": "image",
-      "uploadedAt": 1790378115249
-    },
     {
       "publicId": "tvs_videos/video_1790390290303",
       "resourceType": "video",
@@ -455,6 +450,11 @@
       "publicId": "tvs_cards/card_1790449782672",
       "resourceType": "image",
       "uploadedAt": 1790449783990
+    },
+    {
+      "publicId": "tvs_videos/video_1790476590023",
+      "resourceType": "video",
+      "uploadedAt": 1790476592360
     }
   ]
 }
