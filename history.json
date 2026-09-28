@@ -33,6 +33,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-potential-opponents-in-the-2026-nlds",
     "https://www.bbc.co.uk/sport/football/articles/c6vgy934nvq4o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/tony-vitello-gets-ejected-from-giants-final-2026-game",
     "https://www.mlb.com/news/red-sox-vs-yankees-wild-card-series-starting-lineups-pitching-matchup",
@@ -231,10 +232,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/hall-of-fame-wants-joshua-baez-s-equipment-from-historic-debut",
-    "https://www.mlb.com/news/tarik-skubal-strikes-out-7-vs-brewers",
-    "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/tarik-skubal-strikes-out-7-vs-brewers"
   ],
   "postedTitles": [
+    "Who should the Dodgers be rooting for in the Wild Card Series?",
     "Bellamy sure Wales belong as Haaland threat looms ",
     "Vitello tossed from Game 162, ending year with MLB-high 7 ejections",
     "What to know ahead of Red Sox-Yankees Wild Card Series rematch",
@@ -433,15 +434,9 @@
     "£2.14bn and counting - why Premier League spending could set new record",
     "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
     "Báez's borrowed cleats from historic debut heading to Cooperstown",
-    "Skubal finishes with a flourish, but Dodgers lose potentially pivotal season series",
-    "Barcelona agree £65m deal to sign Rodri from Man City"
+    "Skubal finishes with a flourish, but Dodgers lose potentially pivotal season series"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1790538154970",
-      "resourceType": "image",
-      "uploadedAt": 1790538156083
-    },
     {
       "publicId": "tvs_cards/card_1790549822283",
       "resourceType": "image",
@@ -451,6 +446,11 @@
       "publicId": "tvs_videos/video_1790598330214",
       "resourceType": "video",
       "uploadedAt": 1790598333006
+    },
+    {
+      "publicId": "tvs_videos/video_1790635700545",
+      "resourceType": "video",
+      "uploadedAt": 1790635702282
     }
   ]
 }
