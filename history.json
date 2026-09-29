@@ -33,6 +33,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/ckp84426lmggo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/braiden-ward-red-sox-al-wild-card-roster",
     "https://www.mlb.com/news/dodgers-potential-opponents-in-the-2026-nlds",
     "https://www.bbc.co.uk/sport/football/articles/c6vgy934nvq4o?at_medium=RSS&at_campaign=rss",
@@ -231,10 +232,10 @@
     "https://www.bbc.co.uk/sport/equestrian/videos/cp8e0n2yjnxo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/atletico/2026/08/17/atletico-madrid-confirma-arnau-ortiz-jugador-primer-equipo.html",
     "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/hall-of-fame-wants-joshua-baez-s-equipment-from-historic-debut"
+    "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Does Horner have a chance of Ferrari job? F1 Q&A",
     "Unknown speedster could make MLB debut for Red Sox in playoffs ... to do 1 thing only",
     "Who should the Dodgers be rooting for in the Wild Card Series?",
     "Bellamy sure Wales belong as Haaland threat looms ",
@@ -433,8 +434,7 @@
     "GB eventing team claim record-breaking world title",
     "El Atlético de Madrid confirma a Arnau Ortiz como jugador del primer equipo",
     "£2.14bn and counting - why Premier League spending could set new record",
-    "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
-    "Báez's borrowed cleats from historic debut heading to Cooperstown"
+    "Dutch GP in pictures as F1 prepares for Zandvoort farewell"
   ],
   "cloudinaryAssets": [
     {
@@ -451,6 +451,11 @@
       "publicId": "tvs_videos/video_1790652151311",
       "resourceType": "video",
       "uploadedAt": 1790652153218
+    },
+    {
+      "publicId": "tvs_videos/video_1790682688546",
+      "resourceType": "video",
+      "uploadedAt": 1790682690308
     }
   ]
 }
