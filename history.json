@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/rugby-union/articles/c6jdv7vp9z30o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cm1dlv4710g9o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-smith-working-toward-returning-to-dodgers-from-injured-list",
-    "https://www.mlb.com/news/shohei-ohtani-homer-caught-by-dodgers-reliever",
-    "https://www.mlb.com/news/bryan-baker-records-5-out-save-to-help-rays-beat-orioles"
+    "https://www.mlb.com/news/shohei-ohtani-homer-caught-by-dodgers-reliever"
   ],
   "postedTitles": [
+    "Ocon to leave Haas putting F1 future in doubt",
     "Tom Curry extends Sale Sharks contract",
     "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
     "Ferrari back Vasseur amid speculation over future",
@@ -412,8 +413,7 @@
     "What's going on at Cadillac and Haas? F1 Q&A",
     "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions ",
     "Smith (neck inflammation) could start rehab soon on road back from IL",
-    "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
-    "Fresh, strong and efficient, Baker gives Rays 5 outs in his MLB-leading 35th save"
+    "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1790788657567",
       "resourceType": "video",
       "uploadedAt": 1790788659346
+    },
+    {
+      "publicId": "tvs_videos/video_1790804570190",
+      "resourceType": "video",
+      "uploadedAt": 1790804572502
     }
   ]
 }
