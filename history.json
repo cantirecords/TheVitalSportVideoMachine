@@ -33,6 +33,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cm1dlv4710g9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cde0gz51g36o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/2026-mlb-wild-card-series-predictions",
     "https://www.bbc.co.uk/sport/formula1/articles/ckp84426lmggo?at_medium=RSS&at_campaign=rss",
@@ -231,10 +232,10 @@
     "https://www.mlb.com/news/shohei-ohtani-homer-caught-by-dodgers-reliever",
     "https://www.mlb.com/news/bryan-baker-records-5-out-save-to-help-rays-beat-orioles",
     "https://www.marca.com/futbol/primera-division/2026/08/17/juega-barcelona-primer-partido-laliga-ea-sports-rival-fecha-horario-ver-tv.html",
-    "https://www.bbc.co.uk/sport/equestrian/videos/cp8e0n2yjnxo?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/atletico/2026/08/17/atletico-madrid-confirma-arnau-ortiz-jugador-primer-equipo.html"
+    "https://www.bbc.co.uk/sport/equestrian/videos/cp8e0n2yjnxo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ferrari back Vasseur amid speculation over future",
     "'I still feel as fast as anybody' - Alonso on why he's staying in F1",
     "Who wins each Wild Card Series? MLB.com experts weigh in",
     "Does Horner have a chance of Ferrari job? F1 Q&A",
@@ -433,8 +434,7 @@
     "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
     "Fresh, strong and efficient, Baker gives Rays 5 outs in his MLB-leading 35th save",
     "Cuándo juega el Barcelona su primer partido de LaLiga EA Sports: Rival, fecha, horario y dónde ver en TV",
-    "GB eventing team claim record-breaking world title",
-    "El Atlético de Madrid confirma a Arnau Ortiz como jugador del primer equipo"
+    "GB eventing team claim record-breaking world title"
   ],
   "cloudinaryAssets": [
     {
@@ -456,6 +456,11 @@
       "publicId": "tvs_videos/video_1790718129303",
       "resourceType": "video",
       "uploadedAt": 1790718131417
+    },
+    {
+      "publicId": "tvs_videos/video_1790737532993",
+      "resourceType": "video",
+      "uploadedAt": 1790737535021
     }
   ]
 }
