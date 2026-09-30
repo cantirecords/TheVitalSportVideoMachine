@@ -1,30 +1,9 @@
 {
   "recentKeywords": [
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
+    "Curry",
     "DEVELOPING",
     "STORY",
     "Ohtani",
-    "DEVELOPING",
-    "STORY",
     "Barcelona",
     "Madrid",
     "Verstappen",
@@ -33,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/rugby-union/articles/c6jdv7vp9z30o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cm1dlv4710g9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cde0gz51g36o?at_medium=RSS&at_campaign=rss",
@@ -231,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/will-smith-working-toward-returning-to-dodgers-from-injured-list",
     "https://www.mlb.com/news/shohei-ohtani-homer-caught-by-dodgers-reliever",
-    "https://www.mlb.com/news/bryan-baker-records-5-out-save-to-help-rays-beat-orioles",
-    "https://www.marca.com/futbol/primera-division/2026/08/17/juega-barcelona-primer-partido-laliga-ea-sports-rival-fecha-horario-ver-tv.html"
+    "https://www.mlb.com/news/bryan-baker-records-5-out-save-to-help-rays-beat-orioles"
   ],
   "postedTitles": [
+    "Tom Curry extends Sale Sharks contract",
     "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
     "Ferrari back Vasseur amid speculation over future",
     "'I still feel as fast as anybody' - Alonso on why he's staying in F1",
@@ -433,8 +413,7 @@
     "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions ",
     "Smith (neck inflammation) could start rehab soon on road back from IL",
     "Ohtani hits 878 feet of HRs ... and eyes possible bullpen session Tuesday",
-    "Fresh, strong and efficient, Baker gives Rays 5 outs in his MLB-leading 35th save",
-    "Cuándo juega el Barcelona su primer partido de LaLiga EA Sports: Rival, fecha, horario y dónde ver en TV"
+    "Fresh, strong and efficient, Baker gives Rays 5 outs in his MLB-leading 35th save"
   ],
   "cloudinaryAssets": [
     {
@@ -456,6 +435,11 @@
       "publicId": "tvs_videos/video_1790768281503",
       "resourceType": "video",
       "uploadedAt": 1790768284365
+    },
+    {
+      "publicId": "tvs_videos/video_1790788657567",
+      "resourceType": "video",
+      "uploadedAt": 1790788659346
     }
   ]
 }
