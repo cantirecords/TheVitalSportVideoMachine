@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-rays-alds-position-by-position-breakdown",
     "https://www.bbc.co.uk/sport/football/articles/c3kg80vp00z4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ckge43e8nqdwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/pete-crow-armstrong-records-second-straight-30-30-season",
     "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game",
     "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Yankees-Rays ALDS position-by-position breakdown",
     "Why one Irish team is set to face Salah's Trabzonspor",
     "Haaland 'no different' following Man City verdict",
     "Ocon to leave Haas putting F1 future in doubt",
@@ -412,15 +413,9 @@
     "PCA secures 2nd straight 30-30 season -- & boosts MVP case -- in epic way",
     "This Russian tennis superstar is a massive Reds fan -- and he can prove it",
     "Kane set to begin talks over new Bayern contract",
-    "What's going on at Cadillac and Haas? F1 Q&A",
-    "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions "
+    "What's going on at Cadillac and Haas? F1 Q&A"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1790804570190",
-      "resourceType": "video",
-      "uploadedAt": 1790804572502
-    },
     {
       "publicId": "tvs_videos/video_1790824306693",
       "resourceType": "video",
@@ -430,6 +425,11 @@
       "publicId": "tvs_videos/video_1790856399369",
       "resourceType": "video",
       "uploadedAt": 1790856402050
+    },
+    {
+      "publicId": "tvs_videos/video_1790892615114",
+      "resourceType": "video",
+      "uploadedAt": 1790892616494
     }
   ]
 }
