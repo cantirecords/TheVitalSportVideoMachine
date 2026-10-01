@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c3kg80vp00z4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ckge43e8nqdwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/rugby-union/articles/c6jdv7vp9z30o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game",
     "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/will-smith-working-toward-returning-to-dodgers-from-injured-list"
+    "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Why one Irish team is set to face Salah's Trabzonspor",
     "Haaland 'no different' following Man City verdict",
     "Ocon to leave Haas putting F1 future in doubt",
     "Tom Curry extends Sale Sharks contract",
@@ -412,15 +413,9 @@
     "This Russian tennis superstar is a massive Reds fan -- and he can prove it",
     "Kane set to begin talks over new Bayern contract",
     "What's going on at Cadillac and Haas? F1 Q&A",
-    "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions ",
-    "Smith (neck inflammation) could start rehab soon on road back from IL"
+    "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1790768281503",
-      "resourceType": "video",
-      "uploadedAt": 1790768284365
-    },
     {
       "publicId": "tvs_videos/video_1790788657567",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1790824306693",
       "resourceType": "video",
       "uploadedAt": 1790824309070
+    },
+    {
+      "publicId": "tvs_videos/video_1790856399369",
+      "resourceType": "video",
+      "uploadedAt": 1790856402050
     }
   ]
 }
