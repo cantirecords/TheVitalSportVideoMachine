@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
     "https://www.bbc.co.uk/sport/formula1/articles/ckm2q2346zz9o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/braves-win-nl-wild-card-series-2026",
     "https://www.mlb.com/news/yankees-rays-alds-position-by-position-breakdown",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/max-fried-hopes-to-miss-minimum-in-il-stint-for-yankees",
-    "https://www.mlb.com/news/pete-crow-armstrong-records-second-straight-30-30-season",
-    "https://www.mlb.com/news/daniil-medvedev-throws-out-first-pitch-at-reds-game"
+    "https://www.mlb.com/news/pete-crow-armstrong-records-second-straight-30-30-season"
   ],
   "postedTitles": [
+    "Yankees-Rays ALDS Game 1 FAQ (Sat., 6:30 p.m. ET, TBS/HBO Max)",
     "Russell says Red Bull strongest after Bahrain practice",
     "Braves finish off Phils to set up date with Dodgers",
     "Yankees-Rays ALDS position-by-position breakdown",
@@ -412,8 +413,7 @@
     "Al Hilal target England's Kane - Wednesday's gossip",
     "Buss trying to block her siblings' sale of family stake in Lakers",
     "Yankees optimistic Fried will miss minimum in latest IL stint",
-    "PCA secures 2nd straight 30-30 season -- & boosts MVP case -- in epic way",
-    "This Russian tennis superstar is a massive Reds fan -- and he can prove it"
+    "PCA secures 2nd straight 30-30 season -- & boosts MVP case -- in epic way"
   ],
   "cloudinaryAssets": [
     {
@@ -430,6 +430,11 @@
       "publicId": "tvs_videos/video_1790941084981",
       "resourceType": "video",
       "uploadedAt": 1790941087216
+    },
+    {
+      "publicId": "tvs_videos/video_1790960725568",
+      "resourceType": "video",
+      "uploadedAt": 1790960727436
     }
   ]
 }
