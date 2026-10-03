@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/how-ben-rice-matches-up-vs-rays-in-alds",
     "https://www.mlb.com/news/braves-dodgers-nlds-position-by-position-breakdown",
     "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/mlb-network-to-premiere-new-original-documentary-on-9-11",
     "https://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/trent-grisham-drives-in-all-3-runs-as-yankees-beat-orioles",
-    "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
     "How Yankees' best hitter matches up with AL's best team",
     "Braves-Dodgers NLDS position-by-position breakdown",
     "Yankees-Rays ALDS Game 1 FAQ (Sat., 6:30 p.m. ET, TBS/HBO Max)",
@@ -412,8 +413,7 @@
     "MLB Network documentary on baseball's role after 9/11 to premiere Sept. 10",
     "Mourinho told Vinicius Jr it was 'not worth' leaving Real",
     "Keeping focus on 'process,' surging Grisham knocks in all 3 Yankees runs",
-    "Al Hilal target England's Kane - Wednesday's gossip",
-    "Buss trying to block her siblings' sale of family stake in Lakers"
+    "Al Hilal target England's Kane - Wednesday's gossip"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1790996386573",
       "resourceType": "video",
       "uploadedAt": 1790996388687
+    },
+    {
+      "publicId": "tvs_videos/video_1791024708703",
+      "resourceType": "video",
+      "uploadedAt": 1791024726333
     }
   ]
 }
