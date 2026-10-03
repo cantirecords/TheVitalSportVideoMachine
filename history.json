@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/how-ben-rice-matches-up-vs-rays-in-alds",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/christian-bethancourt-traded-to-pirates-from-yankees",
     "https://www.mlb.com/news/rbi-world-series-mlb-together-mental-wellness-event-2026",
     "https://www.mlb.com/news/mlb-network-to-premiere-new-original-documentary-on-9-11",
-    "https://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/trent-grisham-drives-in-all-3-runs-as-yankees-beat-orioles"
+    "https://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
     "Which clubs did Man City's 'inflated' money flow to in transfer market?",
     "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
     "How Yankees' best hitter matches up with AL's best team",
@@ -412,8 +413,7 @@
     "Pirates acquire veteran catcher Bethancourt from Yankees",
     "MLB Together teaches mental wellness at RBI World Series",
     "MLB Network documentary on baseball's role after 9/11 to premiere Sept. 10",
-    "Mourinho told Vinicius Jr it was 'not worth' leaving Real",
-    "Keeping focus on 'process,' surging Grisham knocks in all 3 Yankees runs"
+    "Mourinho told Vinicius Jr it was 'not worth' leaving Real"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1791041281840",
       "resourceType": "video",
       "uploadedAt": 1791041284033
+    },
+    {
+      "publicId": "tvs_videos/video_1791059006900",
+      "resourceType": "video",
+      "uploadedAt": 1791059008034
     }
   ]
 }
