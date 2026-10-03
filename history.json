@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/how-ben-rice-matches-up-vs-rays-in-alds",
     "https://www.mlb.com/news/braves-dodgers-nlds-position-by-position-breakdown",
     "https://www.mlb.com/news/yankees-vs-rays-alds-game-1-starting-lineups-pitching-matchup",
     "https://www.bbc.co.uk/sport/formula1/articles/ckm2q2346zz9o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cgq5wv43g8lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/trent-grisham-drives-in-all-3-runs-as-yankees-beat-orioles",
     "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/max-fried-hopes-to-miss-minimum-in-il-stint-for-yankees"
+    "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "How Yankees' best hitter matches up with AL's best team",
     "Braves-Dodgers NLDS position-by-position breakdown",
     "Yankees-Rays ALDS Game 1 FAQ (Sat., 6:30 p.m. ET, TBS/HBO Max)",
     "Russell says Red Bull strongest after Bahrain practice",
@@ -412,15 +413,9 @@
     "Mourinho told Vinicius Jr it was 'not worth' leaving Real",
     "Keeping focus on 'process,' surging Grisham knocks in all 3 Yankees runs",
     "Al Hilal target England's Kane - Wednesday's gossip",
-    "Buss trying to block her siblings' sale of family stake in Lakers",
-    "Yankees optimistic Fried will miss minimum in latest IL stint"
+    "Buss trying to block her siblings' sale of family stake in Lakers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1790892615114",
-      "resourceType": "video",
-      "uploadedAt": 1790892616494
-    },
     {
       "publicId": "tvs_videos/video_1790910788958",
       "resourceType": "video",
@@ -440,6 +435,11 @@
       "publicId": "tvs_videos/video_1790977058741",
       "resourceType": "video",
       "uploadedAt": 1790977060858
+    },
+    {
+      "publicId": "tvs_videos/video_1790996386573",
+      "resourceType": "video",
+      "uploadedAt": 1790996388687
     }
   ]
 }
