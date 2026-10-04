@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
     "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/matt-wilkinson-delivers-scoreless-outing-in-mlb-debut",
     "https://www.marca.com/futbol/celta/2026/08/19/hugo-gonzalez-he-trabajado-durante-toda-mi-vida-esto.html",
     "https://www.bbc.co.uk/sport/football/articles/cn8nx2wnjq9o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/christian-bethancourt-traded-to-pirates-from-yankees",
-    "https://www.mlb.com/news/rbi-world-series-mlb-together-mental-wellness-event-2026"
+    "https://www.mlb.com/news/christian-bethancourt-traded-to-pirates-from-yankees"
   ],
   "postedTitles": [
+    "Djokovic beats Zverev to reach China Open semis",
     "Braves-Dodgers NLDS Game 2 FAQ (8 p.m. ET, FS1/FOX One)",
     "Bellingham unlocks new level and potential to be 'one of the greatest'",
     "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
@@ -412,15 +413,9 @@
     "'Tugboat' kicks off Giants' shutout win with stout showing vs. team that drafted him",
     "Hugo González: “He trabajado durante toda mi vida para esto”",
     "To the well and back - how Malaga returned to La Liga",
-    "Pirates acquire veteran catcher Bethancourt from Yankees",
-    "MLB Together teaches mental wellness at RBI World Series"
+    "Pirates acquire veteran catcher Bethancourt from Yankees"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791041281840",
-      "resourceType": "video",
-      "uploadedAt": 1791041284033
-    },
     {
       "publicId": "tvs_videos/video_1791059006900",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1791113654529",
       "resourceType": "video",
       "uploadedAt": 1791113656110
+    },
+    {
+      "publicId": "tvs_videos/video_1791130369071",
+      "resourceType": "video",
+      "uploadedAt": 1791130371300
     }
   ]
 }
