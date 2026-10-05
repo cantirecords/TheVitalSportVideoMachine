@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/crd6dqwx9q6qo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-win-alds-game-1-2026",
     "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cy4k33x1yw4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/matt-wilkinson-delivers-scoreless-outing-in-mlb-debut",
-    "https://www.marca.com/futbol/celta/2026/08/19/hugo-gonzalez-he-trabajado-durante-toda-mi-vida-esto.html"
+    "https://www.mlb.com/news/matt-wilkinson-delivers-scoreless-outing-in-mlb-debut"
   ],
   "postedTitles": [
+    "Chiefs and 49ers remain unbeaten - five things from NFL week four",
     "'Money-grab' or celebration? NFL kicks off London series",
     "Rasmussen -- the 'definition of ace' -- takes no-no into 8th as Rays 1-hit Yankees",
     "Djokovic beats Zverev to reach China Open semis",
@@ -412,15 +413,9 @@
     "'I feel I am imprisoning myself' - Djokovic on doubts, childhood and future",
     "Verstappen extends Red Bull deal to 2030",
     "Kane plays down returning to Premier League in future",
-    "'Tugboat' kicks off Giants' shutout win with stout showing vs. team that drafted him",
-    "Hugo González: “He trabajado durante toda mi vida para esto”"
+    "'Tugboat' kicks off Giants' shutout win with stout showing vs. team that drafted him"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791113654529",
-      "resourceType": "video",
-      "uploadedAt": 1791113656110
-    },
     {
       "publicId": "tvs_videos/video_1791130369071",
       "resourceType": "video",
@@ -435,6 +430,11 @@
       "publicId": "tvs_videos/video_1791169636123",
       "resourceType": "video",
       "uploadedAt": 1791169637537
+    },
+    {
+      "publicId": "tvs_videos/video_1791205506553",
+      "resourceType": "video",
+      "uploadedAt": 1791205508283
     }
   ]
 }
