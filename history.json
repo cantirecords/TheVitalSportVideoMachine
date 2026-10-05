@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/crd6dqwx9q6qo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-win-alds-game-1-2026",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cy4k33x1yw4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/matt-wilkinson-delivers-scoreless-outing-in-mlb-debut"
+    "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "England's greatest international? Kane is now a serious contender",
     "Chiefs and 49ers remain unbeaten - five things from NFL week four",
     "'Money-grab' or celebration? NFL kicks off London series",
     "Rasmussen -- the 'definition of ace' -- takes no-no into 8th as Rays 1-hit Yankees",
@@ -412,15 +413,9 @@
     "Alcaraz to play US Open after four months out",
     "'I feel I am imprisoning myself' - Djokovic on doubts, childhood and future",
     "Verstappen extends Red Bull deal to 2030",
-    "Kane plays down returning to Premier League in future",
-    "'Tugboat' kicks off Giants' shutout win with stout showing vs. team that drafted him"
+    "Kane plays down returning to Premier League in future"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791146471018",
-      "resourceType": "video",
-      "uploadedAt": 1791146472700
-    },
     {
       "publicId": "tvs_videos/video_1791169636123",
       "resourceType": "video",
@@ -430,6 +425,11 @@
       "publicId": "tvs_videos/video_1791205506553",
       "resourceType": "video",
       "uploadedAt": 1791205508283
+    },
+    {
+      "publicId": "tvs_videos/video_1791243102056",
+      "resourceType": "video",
+      "uploadedAt": 1791243104878
     }
   ]
 }
