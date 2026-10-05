@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/rays-win-alds-game-1-2026",
     "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/braves-vs-dodgers-nlds-game-2-starting-lineups-pitching-matchup",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/matt-wilkinson-delivers-scoreless-outing-in-mlb-debut",
-    "https://www.marca.com/futbol/celta/2026/08/19/hugo-gonzalez-he-trabajado-durante-toda-mi-vida-esto.html",
-    "https://www.bbc.co.uk/sport/football/articles/cn8nx2wnjq9o?at_medium=RSS&at_campaign=rss"
+    "https://www.marca.com/futbol/celta/2026/08/19/hugo-gonzalez-he-trabajado-durante-toda-mi-vida-esto.html"
   ],
   "postedTitles": [
+    "'Money-grab' or celebration? NFL kicks off London series",
     "Rasmussen -- the 'definition of ace' -- takes no-no into 8th as Rays 1-hit Yankees",
     "Djokovic beats Zverev to reach China Open semis",
     "Braves-Dodgers NLDS Game 2 FAQ (8 p.m. ET, FS1/FOX One)",
@@ -412,8 +413,7 @@
     "Verstappen extends Red Bull deal to 2030",
     "Kane plays down returning to Premier League in future",
     "'Tugboat' kicks off Giants' shutout win with stout showing vs. team that drafted him",
-    "Hugo González: “He trabajado durante toda mi vida para esto”",
-    "To the well and back - how Malaga returned to La Liga"
+    "Hugo González: “He trabajado durante toda mi vida para esto”"
   ],
   "cloudinaryAssets": [
     {
@@ -435,6 +435,11 @@
       "publicId": "tvs_videos/video_1791146471018",
       "resourceType": "video",
       "uploadedAt": 1791146472700
+    },
+    {
+      "publicId": "tvs_videos/video_1791169636123",
+      "resourceType": "video",
+      "uploadedAt": 1791169637537
     }
   ]
 }
