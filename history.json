@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/crkg7d815e59o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/cw0k08n0rry4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/reds-1st-round-draft-pick-justin-lebron-hits-4th-home-run",
     "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/crl7g5ypdeeo?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/real-madrid/2026/08/21/veterano-vinicius.html"
+    "https://www.bbc.co.uk/sport/football/articles/crl7g5ypdeeo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'Means more than just a trophy' - Djokovic claims 102nd title of career",
     "Kane's rise from childhood keeper to equalling England cap record",
     "Djokovic ends trophy drought with victory in China",
     "Wet races and why future of F1 engines appears to be V8 turbos - Q&A",
@@ -412,8 +413,7 @@
     "Reds 1st-rounder Lebron stays HOT with 4th homer in just 8 professional games",
     "Injured Sinner & Draper withdraw from US Open",
     "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
-    "Medication switch behind Musiala collapses - Bayern",
-    "El 'veterano' Vinicius"
+    "Medication switch behind Musiala collapses - Bayern"
   ],
   "cloudinaryAssets": [
     {
@@ -430,6 +430,11 @@
       "publicId": "tvs_videos/video_1791343450397",
       "resourceType": "video",
       "uploadedAt": 1791343451787
+    },
+    {
+      "publicId": "tvs_videos/video_1791375672869",
+      "resourceType": "video",
+      "uploadedAt": 1791375674391
     }
   ]
 }
