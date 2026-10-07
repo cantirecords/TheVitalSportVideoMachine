@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/cw0k08n0rry4o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cr15j3z2npz9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crl7g5ypdeeo?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/real-madrid/2026/08/21/veterano-vinicius.html",
-    "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss"
+    "https://www.marca.com/futbol/real-madrid/2026/08/21/veterano-vinicius.html"
   ],
   "postedTitles": [
+    "Kane's rise from childhood keeper to equalling England cap record",
     "Djokovic ends trophy drought with victory in China",
     "Wet races and why future of F1 engines appears to be V8 turbos - Q&A",
     "Medvedev disqualified from Djokovic match for hitting spectator with ball",
@@ -412,8 +413,7 @@
     "Injured Sinner & Draper withdraw from US Open",
     "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
     "Medication switch behind Musiala collapses - Bayern",
-    "El 'veterano' Vinicius",
-    "Alcaraz to play US Open after four months out"
+    "El 'veterano' Vinicius"
   ],
   "cloudinaryAssets": [
     {
@@ -430,6 +430,11 @@
       "publicId": "tvs_videos/video_1791324232254",
       "resourceType": "video",
       "uploadedAt": 1791324241335
+    },
+    {
+      "publicId": "tvs_videos/video_1791343450397",
+      "resourceType": "video",
+      "uploadedAt": 1791343451787
     }
   ]
 }
