@@ -12,6 +12,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/articles/cked39dp0476o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yoshinobu-yamamoto-10-strikeouts-nlds-game-3-2026",
     "https://www.bbc.co.uk/sport/tennis/articles/crkg7d815e59o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&at_campaign=rss",
@@ -210,10 +211,10 @@
     "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
     "https://www.mlb.com/news/cade-cunningham-advice-for-texas-rangers",
     "https://www.mlb.com/news/reds-1st-round-draft-pick-justin-lebron-hits-4th-home-run",
-    "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Do England already have their Kane replacement - or is he yet to emerge?",
     "Yamamoto (10 K's) dazzles, putting Dodgers 1 win from return to NLCS",
     "'Means more than just a trophy' - Djokovic claims 102nd title of career",
     "Kane's rise from childhood keeper to equalling England cap record",
@@ -412,15 +413,9 @@
     "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
     "NBA superstar has sage advice for Rangers' playoff push",
     "Reds 1st-rounder Lebron stays HOT with 4th homer in just 8 professional games",
-    "Injured Sinner & Draper withdraw from US Open",
-    "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho"
+    "Injured Sinner & Draper withdraw from US Open"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791343450397",
-      "resourceType": "video",
-      "uploadedAt": 1791343451787
-    },
     {
       "publicId": "tvs_videos/video_1791375672869",
       "resourceType": "video",
@@ -430,6 +425,11 @@
       "publicId": "tvs_videos/video_1791412133707",
       "resourceType": "video",
       "uploadedAt": 1791412135338
+    },
+    {
+      "publicId": "tvs_videos/video_1791430759649",
+      "resourceType": "video",
+      "uploadedAt": 1791430761904
     }
   ]
 }
