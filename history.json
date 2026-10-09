@@ -18,6 +18,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
     "https://www.mlb.com/news/teruaki-sato-wins-triple-crown-in-japan",
     "https://www.bbc.co.uk/sport/tennis/articles/cqlydnrperpko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-mlbpa-proposal-154-game-schedule-new-playoff-structure",
@@ -216,10 +217,10 @@
     "https://www.mlb.com/news/mlb-at-field-of-dreams-game-highlights-this-week-in-baseball",
     "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Dodgers-Brewers NL Championship Series Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
     "Will NPB's 1st Triple Crown winner since Murakami jump to MLB?",
     "Djokovic suffers surprise Hurkacz loss in Shanghai",
     "MLB proposes 154-game schedule, new playoff features",
@@ -418,8 +419,7 @@
     "TWIB: Relive the iconic MLB at Field of Dreams Game",
     "Williams and Alcaraz to play US Open mixed doubles",
     "Norris beats Russell to pole position at Zandvoort",
-    "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "Sex toys again thrown on court during WNBA matches "
+    "Sydney Marathon medal mistakenly depicts Munich stadium"
   ],
   "cloudinaryAssets": [
     {
@@ -441,6 +441,11 @@
       "publicId": "tvs_cards/card_1791578698264",
       "resourceType": "image",
       "uploadedAt": 1791578699050
+    },
+    {
+      "publicId": "tvs_videos/video_1791583418722",
+      "resourceType": "video",
+      "uploadedAt": 1791583421419
     }
   ]
 }
