@@ -2,6 +2,8 @@
   "recentKeywords": [
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -14,6 +16,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cqlydnrperpko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-mlbpa-proposal-154-game-schedule-new-playoff-structure",
     "https://www.mlb.com/news/how-dodgers-nlcs-rotation-might-line-up-vs-brewers",
     "https://www.bbc.co.uk/sport/formula1/articles/cm5yng71qpngo?at_medium=RSS&at_campaign=rss",
@@ -212,10 +215,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return"
+    "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Djokovic suffers surprise Hurkacz loss in Shanghai",
     "MLB proposes 154-game schedule, new playoff features",
     "Who's beating this? How Dodgers might stack rotation in NLCS vs. Brewers",
     "F1 heat hazard declared for fourth time this season",
@@ -414,15 +417,9 @@
     "Norris beats Russell to pole position at Zandvoort",
     "Sydney Marathon medal mistakenly depicts Munich stadium",
     "Sex toys again thrown on court during WNBA matches ",
-    "Messi fined for slapping opponent in MLS game ",
-    "Blue Jays expect Vlad back Saturday for pivotal Yankees series"
+    "Messi fined for slapping opponent in MLS game "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791462697121",
-      "resourceType": "video",
-      "uploadedAt": 1791462698990
-    },
     {
       "publicId": "tvs_cards/card_1791524809099",
       "resourceType": "image",
@@ -432,6 +429,11 @@
       "publicId": "tvs_videos/video_1791548423907",
       "resourceType": "video",
       "uploadedAt": 1791548427368
+    },
+    {
+      "publicId": "tvs_cards/card_1791558697814",
+      "resourceType": "image",
+      "uploadedAt": 1791558698987
     }
   ]
 }
