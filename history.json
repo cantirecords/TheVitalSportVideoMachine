@@ -4,6 +4,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -16,6 +18,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/teruaki-sato-wins-triple-crown-in-japan",
     "https://www.bbc.co.uk/sport/tennis/articles/cqlydnrperpko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-mlbpa-proposal-154-game-schedule-new-playoff-structure",
     "https://www.mlb.com/news/how-dodgers-nlcs-rotation-might-line-up-vs-brewers",
@@ -214,10 +217,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Will NPB's 1st Triple Crown winner since Murakami jump to MLB?",
     "Djokovic suffers surprise Hurkacz loss in Shanghai",
     "MLB proposes 154-game schedule, new playoff features",
     "Who's beating this? How Dodgers might stack rotation in NLCS vs. Brewers",
@@ -416,8 +419,7 @@
     "Williams and Alcaraz to play US Open mixed doubles",
     "Norris beats Russell to pole position at Zandvoort",
     "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "Sex toys again thrown on court during WNBA matches ",
-    "Messi fined for slapping opponent in MLS game "
+    "Sex toys again thrown on court during WNBA matches "
   ],
   "cloudinaryAssets": [
     {
@@ -434,6 +436,11 @@
       "publicId": "tvs_cards/card_1791558697814",
       "resourceType": "image",
       "uploadedAt": 1791558698987
+    },
+    {
+      "publicId": "tvs_cards/card_1791578698264",
+      "resourceType": "image",
+      "uploadedAt": 1791578699050
     }
   ]
 }
