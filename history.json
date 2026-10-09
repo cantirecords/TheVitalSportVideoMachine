@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -12,6 +14,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/how-dodgers-nlcs-rotation-might-line-up-vs-brewers",
     "https://www.bbc.co.uk/sport/formula1/articles/cm5yng71qpngo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/articles/cked39dp0476o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yoshinobu-yamamoto-10-strikeouts-nlds-game-3-2026",
@@ -210,10 +213,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
-    "https://www.mlb.com/news/cade-cunningham-advice-for-texas-rangers",
-    "https://www.mlb.com/news/reds-1st-round-draft-pick-justin-lebron-hits-4th-home-run"
+    "https://www.mlb.com/news/cade-cunningham-advice-for-texas-rangers"
   ],
   "postedTitles": [
+    "Who's beating this? How Dodgers might stack rotation in NLCS vs. Brewers",
     "F1 heat hazard declared for fourth time this season",
     "Do England already have their Kane replacement - or is he yet to emerge?",
     "Yamamoto (10 K's) dazzles, putting Dodgers 1 win from return to NLCS",
@@ -412,14 +415,18 @@
     "Sex toys again thrown on court during WNBA matches ",
     "Messi fined for slapping opponent in MLS game ",
     "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
-    "NBA superstar has sage advice for Rangers' playoff push",
-    "Reds 1st-rounder Lebron stays HOT with 4th homer in just 8 professional games"
+    "NBA superstar has sage advice for Rangers' playoff push"
   ],
   "cloudinaryAssets": [
     {
       "publicId": "tvs_videos/video_1791462697121",
       "resourceType": "video",
       "uploadedAt": 1791462698990
+    },
+    {
+      "publicId": "tvs_cards/card_1791524809099",
+      "resourceType": "image",
+      "uploadedAt": 1791524810394
     }
   ]
 }
