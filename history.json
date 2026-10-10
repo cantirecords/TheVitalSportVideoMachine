@@ -6,6 +6,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -18,6 +20,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/crly0n5j79n5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cqly055pnn8go?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-1-starting-lineups-and-pitching-matchup",
     "https://www.mlb.com/news/teruaki-sato-wins-triple-crown-in-japan",
@@ -216,10 +219,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dylan-cease-takes-no-hitter-into-seventh-against-yankees",
     "https://www.mlb.com/news/mlb-at-field-of-dreams-game-highlights-this-week-in-baseball",
-    "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Wimbledon boss jokes military would love to 'sort out' influencers",
     "Super Bowl-winning player and coach Ditka dies aged 86",
     "Dodgers-Brewers NL Championship Series Game 1 FAQ (Sun., 8 p.m. ET, FOX/FOX One)",
     "Will NPB's 1st Triple Crown winner since Murakami jump to MLB?",
@@ -418,8 +421,7 @@
     "Life after Salah - why Isak and Wirtz must step up for Liverpool",
     "Cease's latest no-hit bid gives Jays crucial win over Yankees",
     "TWIB: Relive the iconic MLB at Field of Dreams Game",
-    "Williams and Alcaraz to play US Open mixed doubles",
-    "Norris beats Russell to pole position at Zandvoort"
+    "Williams and Alcaraz to play US Open mixed doubles"
   ],
   "cloudinaryAssets": [
     {
@@ -451,6 +453,11 @@
       "publicId": "tvs_videos/video_1791602806313",
       "resourceType": "video",
       "uploadedAt": 1791602808441
+    },
+    {
+      "publicId": "tvs_cards/card_1791610186798",
+      "resourceType": "image",
+      "uploadedAt": 1791610187999
     }
   ]
 }
