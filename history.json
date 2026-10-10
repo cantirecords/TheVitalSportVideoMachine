@@ -8,6 +8,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -20,6 +22,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/real-madrid/2026/10/09/mou-dice-hay-cosas-mejorar-pegada-medio-campo-terapia-vinicius.html",
     "https://www.mlb.com/news/dodgers-brewers-2026-nlcs-position-by-position-breakdown",
     "https://www.bbc.co.uk/sport/tennis/articles/crly0n5j79n5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cqly055pnn8go?at_medium=RSS&at_campaign=rss",
@@ -218,10 +221,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/dylan-cease-takes-no-hitter-into-seventh-against-yankees",
-    "https://www.mlb.com/news/mlb-at-field-of-dreams-game-highlights-this-week-in-baseball"
+    "https://www.mlb.com/news/dylan-cease-takes-no-hitter-into-seventh-against-yankees"
   ],
   "postedTitles": [
+    "Mou dice que hay cosas que se pueden mejorar: la pegada, el medio campo, 'terapia' con Vinicius...",
     "Dodgers-Brewers NLCS position by position breakdown",
     "Wimbledon boss jokes military would love to 'sort out' influencers",
     "Super Bowl-winning player and coach Ditka dies aged 86",
@@ -420,15 +423,9 @@
     "Ferrari delay in moving Leclerc costly - Hamilton ",
     "'New season, new trim' - Haaland reveals buzzcut",
     "Life after Salah - why Isak and Wirtz must step up for Liverpool",
-    "Cease's latest no-hit bid gives Jays crucial win over Yankees",
-    "TWIB: Relive the iconic MLB at Field of Dreams Game"
+    "Cease's latest no-hit bid gives Jays crucial win over Yankees"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791548423907",
-      "resourceType": "video",
-      "uploadedAt": 1791548427368
-    },
     {
       "publicId": "tvs_cards/card_1791558697814",
       "resourceType": "image",
@@ -458,6 +455,11 @@
       "publicId": "tvs_videos/video_1791632237442",
       "resourceType": "video",
       "uploadedAt": 1791632239497
+    },
+    {
+      "publicId": "tvs_cards/card_1791642274215",
+      "resourceType": "image",
+      "uploadedAt": 1791642275221
     }
   ]
 }
