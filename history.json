@@ -22,6 +22,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/jacob-misiorowski-nlcs-game-1-starter-brewers",
     "https://www.mlb.com/news/miguel-rojas-nlcs-roster-status",
     "https://www.marca.com/futbol/real-madrid/2026/10/09/mou-dice-hay-cosas-mejorar-pegada-medio-campo-terapia-vinicius.html",
     "https://www.mlb.com/news/dodgers-brewers-2026-nlcs-position-by-position-breakdown",
@@ -220,10 +221,10 @@
     "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-24-2026",
     "https://www.marca.com/futbol/primera-division/opinion/2026/08/24/espi-barca-atleti.html",
     "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Brewers officially name Misiorowski Game 1 starter for NLCS vs. Dodgers",
     "Rojas takes 'step in the right direction' as Dodgers await NLCS roster decision",
     "Mou dice que hay cosas que se pueden mejorar: la pegada, el medio campo, 'terapia' con Vinicius...",
     "Dodgers-Brewers NLCS position by position breakdown",
@@ -422,15 +423,9 @@
     "Skubal vs. Tigers, Red Sox-Yankees showdown among 5 series to watch this week",
     "Espí, el Barça y el Atleti",
     "Ferrari delay in moving Leclerc costly - Hamilton ",
-    "'New season, new trim' - Haaland reveals buzzcut",
-    "Life after Salah - why Isak and Wirtz must step up for Liverpool"
+    "'New season, new trim' - Haaland reveals buzzcut"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1791578698264",
-      "resourceType": "image",
-      "uploadedAt": 1791578699050
-    },
     {
       "publicId": "tvs_videos/video_1791583418722",
       "resourceType": "video",
@@ -460,6 +455,11 @@
       "publicId": "tvs_videos/video_1791650343127",
       "resourceType": "video",
       "uploadedAt": 1791650344459
+    },
+    {
+      "publicId": "tvs_videos/video_1791665744051",
+      "resourceType": "video",
+      "uploadedAt": 1791665746127
     }
   ]
 }
