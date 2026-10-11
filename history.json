@@ -22,6 +22,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/brewers-2026-nlcs-roster",
     "https://www.mlb.com/news/jacob-misiorowski-nlcs-game-1-starter-brewers",
     "https://www.mlb.com/news/miguel-rojas-nlcs-roster-status",
     "https://www.marca.com/futbol/real-madrid/2026/10/09/mou-dice-hay-cosas-mejorar-pegada-medio-campo-terapia-vinicius.html",
@@ -220,10 +221,10 @@
     "https://www.mlb.com/news/mason-adams-callup-for-mlb-debut",
     "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-24-2026",
     "https://www.marca.com/futbol/primera-division/opinion/2026/08/24/espi-barca-atleti.html",
-    "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Brewers' roster unchanged for NLCS clash with Dodgers",
     "Brewers officially name Misiorowski Game 1 starter for NLCS vs. Dodgers",
     "Rojas takes 'step in the right direction' as Dodgers await NLCS roster decision",
     "Mou dice que hay cosas que se pueden mejorar: la pegada, el medio campo, 'terapia' con Vinicius...",
@@ -422,19 +423,18 @@
     "Rox calling up No. 20 prospect for MLB debut vs. Nats (source)",
     "Skubal vs. Tigers, Red Sox-Yankees showdown among 5 series to watch this week",
     "Espí, el Barça y el Atleti",
-    "Ferrari delay in moving Leclerc costly - Hamilton ",
-    "'New season, new trim' - Haaland reveals buzzcut"
+    "Ferrari delay in moving Leclerc costly - Hamilton "
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791650343127",
-      "resourceType": "video",
-      "uploadedAt": 1791650344459
-    },
     {
       "publicId": "tvs_videos/video_1791665744051",
       "resourceType": "video",
       "uploadedAt": 1791665746127
+    },
+    {
+      "publicId": "tvs_videos/video_1791738256832",
+      "resourceType": "video",
+      "uploadedAt": 1791738258173
     }
   ]
 }
