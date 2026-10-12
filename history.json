@@ -26,6 +26,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/takeaways-from-brewers-win-over-dodgers-in-nlcs-game-1",
     "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-2-starting-lineups-and-pitching-matchup",
     "https://www.mlb.com/news/yoshinobu-yamamoto-to-start-nlcs-game-2-2026-vs-brewers",
@@ -224,10 +225,10 @@
     "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/cd68qgj4p14o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cy7z6nnm4mdo?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/real-sociedad/2026/08/25/jon-martin-mbappe-vinicius-son-dificiles-parar-tuviese-destacar-igual-dia-mbappe-espacio.html",
-    "https://www.bbc.co.uk/sport/formula1/articles/c3v0v4951k6o?at_medium=RSS&at_campaign=rss"
+    "https://www.marca.com/futbol/real-sociedad/2026/08/25/jon-martin-mbappe-vinicius-son-dificiles-parar-tuviese-destacar-igual-dia-mbappe-espacio.html"
   ],
   "postedTitles": [
+    "The 'Kane-esque' striker Spurs may regret letting go",
     "Miz is mortal, but 'Brewers ball' bests Dodgers ... and other key takeaways from Game 1",
     "Dodgers-Brewers NLCS Game 2 FAQ (Mon., 5 ET, FOX/FS1)",
     "Dodgers feel good with postseason ace Yamamoto set for Game 2",
@@ -426,15 +427,9 @@
     "From influencers to queens of women's boxing - five years of MVP",
     "Williams and Alcaraz team up at US Open",
     "NBA recruits boost GB bid for EuroBasket success",
-    "Jon Martín: \"Mbappé y Vinicius son muy difíciles de parar, si tuviese que destacar uno igual día Mbappé por el espacio\"",
-    "Mercedes' upgrades & Ferrari team orders - F1 Q&A"
+    "Jon Martín: \"Mbappé y Vinicius son muy difíciles de parar, si tuviese que destacar uno igual día Mbappé por el espacio\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791753433283",
-      "resourceType": "video",
-      "uploadedAt": 1791753435581
-    },
     {
       "publicId": "tvs_cards/card_1791783339004",
       "resourceType": "image",
@@ -449,6 +444,11 @@
       "publicId": "tvs_cards/card_1791826927612",
       "resourceType": "image",
       "uploadedAt": 1791826928544
+    },
+    {
+      "publicId": "tvs_videos/video_1791849556270",
+      "resourceType": "video",
+      "uploadedAt": 1791849558902
     }
   ]
 }
