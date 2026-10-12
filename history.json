@@ -24,6 +24,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-brewers-nl-championship-series-game-2-starting-lineups-and-pitching-matchup",
     "https://www.mlb.com/news/yoshinobu-yamamoto-to-start-nlcs-game-2-2026-vs-brewers",
     "https://www.mlb.com/news/dodgers-2026-nlcs-roster",
     "https://www.mlb.com/news/brewers-2026-nlcs-roster",
@@ -222,10 +223,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/cy7z6nnm4mdo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-sociedad/2026/08/25/jon-martin-mbappe-vinicius-son-dificiles-parar-tuviese-destacar-igual-dia-mbappe-espacio.html",
     "https://www.bbc.co.uk/sport/formula1/articles/c3v0v4951k6o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/mason-adams-callup-for-mlb-debut",
-    "https://www.mlb.com/news/mlb-series-to-watch-week-of-aug-24-2026"
+    "https://www.mlb.com/news/mason-adams-callup-for-mlb-debut"
   ],
   "postedTitles": [
+    "Dodgers-Brewers NLCS Game 2 FAQ (Mon., 5 ET, FOX/FS1)",
     "Dodgers feel good with postseason ace Yamamoto set for Game 2",
     "Dodgers add lefty Wrobleski to NLCS roster, leave off speedster Kim",
     "Brewers' roster unchanged for NLCS clash with Dodgers",
@@ -424,8 +425,7 @@
     "NBA recruits boost GB bid for EuroBasket success",
     "Jon Martín: \"Mbappé y Vinicius son muy difíciles de parar, si tuviese que destacar uno igual día Mbappé por el espacio\"",
     "Mercedes' upgrades & Ferrari team orders - F1 Q&A",
-    "Rox calling up No. 20 prospect for MLB debut vs. Nats (source)",
-    "Skubal vs. Tigers, Red Sox-Yankees showdown among 5 series to watch this week"
+    "Rox calling up No. 20 prospect for MLB debut vs. Nats (source)"
   ],
   "cloudinaryAssets": [
     {
@@ -442,6 +442,11 @@
       "publicId": "tvs_cards/card_1791783339004",
       "resourceType": "image",
       "uploadedAt": 1791783340082
+    },
+    {
+      "publicId": "tvs_videos/video_1791813369425",
+      "resourceType": "video",
+      "uploadedAt": 1791813371523
     }
   ]
 }
