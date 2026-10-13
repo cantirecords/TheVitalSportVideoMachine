@@ -30,6 +30,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-seek-end-to-17-year-world-series-title-drought",
     "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cm4g10357e52o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo?at_medium=RSS&at_campaign=rss",
@@ -228,10 +229,10 @@
     "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
     "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cr50m4vlvr3o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/elmer-rodriguez-goes-career-high-6-plus-in-yankees-win",
-    "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/elmer-rodriguez-goes-career-high-6-plus-in-yankees-win"
   ],
   "postedTitles": [
+    "Yankees searching for answers after another season falls short of standard",
     "How much did Man City's rule breaking cost your team?",
     "Niners go 5-0 and a rare tie - five things from NFL week five",
     "Jordan 'Last Dance' jersey sells for record £10.6m",
@@ -430,8 +431,7 @@
     "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
     "What is the aim for Kompany, Kane and Bayern?",
     "European franchise a question for NFL - Belichick",
-    "Rodríguez finds his swagger in return to Yankees: 'He was nasty'",
-    "From influencers to queens of women's boxing - five years of MVP"
+    "Rodríguez finds his swagger in return to Yankees: 'He was nasty'"
   ],
   "cloudinaryAssets": [
     {
@@ -453,6 +453,11 @@
       "publicId": "tvs_cards/card_1791918614847",
       "resourceType": "image",
       "uploadedAt": 1791918616100
+    },
+    {
+      "publicId": "tvs_videos/video_1791929285651",
+      "resourceType": "video",
+      "uploadedAt": 1791929288374
     }
   ]
 }
