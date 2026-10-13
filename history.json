@@ -18,6 +18,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -30,6 +32,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/parker-messick-guardians-starter-game-2-2026-alcs",
     "https://www.mlb.com/news/yankees-seek-end-to-17-year-world-series-title-drought",
     "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cm4g10357e52o?at_medium=RSS&at_campaign=rss",
@@ -228,10 +231,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
     "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/american-football/articles/cr50m4vlvr3o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/elmer-rodriguez-goes-career-high-6-plus-in-yankees-win"
+    "https://www.bbc.co.uk/sport/american-football/articles/cr50m4vlvr3o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter",
     "Yankees searching for answers after another season falls short of standard",
     "How much did Man City's rule breaking cost your team?",
     "Niners go 5-0 and a rare tie - five things from NFL week five",
@@ -430,8 +433,7 @@
     "Injury uncertainty led to 'intrusive thoughts' for Alcaraz",
     "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
     "What is the aim for Kompany, Kane and Bayern?",
-    "European franchise a question for NFL - Belichick",
-    "Rodríguez finds his swagger in return to Yankees: 'He was nasty'"
+    "European franchise a question for NFL - Belichick"
   ],
   "cloudinaryAssets": [
     {
@@ -458,6 +460,11 @@
       "publicId": "tvs_videos/video_1791929285651",
       "resourceType": "video",
       "uploadedAt": 1791929288374
+    },
+    {
+      "publicId": "tvs_cards/card_1791934925591",
+      "resourceType": "image",
+      "uploadedAt": 1791934926820
     }
   ]
 }
