@@ -16,6 +16,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -28,6 +30,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cm4g10357e52o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss",
@@ -226,10 +229,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cr50m4vlvr3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/elmer-rodriguez-goes-career-high-6-plus-in-yankees-win",
-    "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/videos/cd68qgj4p14o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "How much did Man City's rule breaking cost your team?",
     "Niners go 5-0 and a rare tie - five things from NFL week five",
     "Jordan 'Last Dance' jersey sells for record £10.6m",
     "The 'Kane-esque' striker Spurs may regret letting go",
@@ -428,20 +431,9 @@
     "What is the aim for Kompany, Kane and Bayern?",
     "European franchise a question for NFL - Belichick",
     "Rodríguez finds his swagger in return to Yankees: 'He was nasty'",
-    "From influencers to queens of women's boxing - five years of MVP",
-    "Williams and Alcaraz team up at US Open"
+    "From influencers to queens of women's boxing - five years of MVP"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791813369425",
-      "resourceType": "video",
-      "uploadedAt": 1791813371523
-    },
-    {
-      "publicId": "tvs_cards/card_1791826927612",
-      "resourceType": "image",
-      "uploadedAt": 1791826928544
-    },
     {
       "publicId": "tvs_videos/video_1791849556270",
       "resourceType": "video",
@@ -456,6 +448,11 @@
       "publicId": "tvs_videos/video_1791869104344",
       "resourceType": "video",
       "uploadedAt": 1791869105903
+    },
+    {
+      "publicId": "tvs_cards/card_1791918614847",
+      "resourceType": "image",
+      "uploadedAt": 1791918616100
     }
   ]
 }
