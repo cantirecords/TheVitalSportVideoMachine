@@ -28,6 +28,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/cm4g10357e52o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/takeaways-from-brewers-win-over-dodgers-in-nlcs-game-1",
@@ -226,10 +227,10 @@
     "https://www.bbc.co.uk/sport/american-football/articles/cr50m4vlvr3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/elmer-rodriguez-goes-career-high-6-plus-in-yankees-win",
     "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/videos/cd68qgj4p14o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/cy7z6nnm4mdo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/videos/cd68qgj4p14o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Niners go 5-0 and a rare tie - five things from NFL week five",
     "Jordan 'Last Dance' jersey sells for record £10.6m",
     "The 'Kane-esque' striker Spurs may regret letting go",
     "Miz is mortal, but 'Brewers ball' bests Dodgers ... and other key takeaways from Game 1",
@@ -428,8 +429,7 @@
     "European franchise a question for NFL - Belichick",
     "Rodríguez finds his swagger in return to Yankees: 'He was nasty'",
     "From influencers to queens of women's boxing - five years of MVP",
-    "Williams and Alcaraz team up at US Open",
-    "NBA recruits boost GB bid for EuroBasket success"
+    "Williams and Alcaraz team up at US Open"
   ],
   "cloudinaryAssets": [
     {
@@ -456,6 +456,11 @@
       "publicId": "tvs_cards/card_1791856620348",
       "resourceType": "image",
       "uploadedAt": 1791856621386
+    },
+    {
+      "publicId": "tvs_videos/video_1791869104344",
+      "resourceType": "video",
+      "uploadedAt": 1791869105903
     }
   ]
 }
