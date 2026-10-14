@@ -32,6 +32,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/parker-messick-guardians-starter-game-2-2026-alcs",
     "https://www.mlb.com/news/yankees-seek-end-to-17-year-world-series-title-drought",
     "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
@@ -230,10 +231,10 @@
     "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery",
-    "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/american-football/articles/cr50m4vlvr3o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
     "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter",
     "Yankees searching for answers after another season falls short of standard",
     "How much did Man City's rule breaking cost your team?",
@@ -432,20 +433,9 @@
     "Haaland and Cherki fire impressive Man City to victory at Palace",
     "Injury uncertainty led to 'intrusive thoughts' for Alcaraz",
     "Waldrep, Schwellenbach to undergo season-ending elbow surgery",
-    "What is the aim for Kompany, Kane and Bayern?",
-    "European franchise a question for NFL - Belichick"
+    "What is the aim for Kompany, Kane and Bayern?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791849556270",
-      "resourceType": "video",
-      "uploadedAt": 1791849558902
-    },
-    {
-      "publicId": "tvs_cards/card_1791856620348",
-      "resourceType": "image",
-      "uploadedAt": 1791856621386
-    },
     {
       "publicId": "tvs_videos/video_1791869104344",
       "resourceType": "video",
@@ -465,6 +455,11 @@
       "publicId": "tvs_cards/card_1791934925591",
       "resourceType": "image",
       "uploadedAt": 1791934926820
+    },
+    {
+      "publicId": "tvs_videos/video_1791946051887",
+      "resourceType": "video",
+      "uploadedAt": 1791946054071
     }
   ]
 }
