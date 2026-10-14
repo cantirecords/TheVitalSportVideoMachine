@@ -32,6 +32,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/how-dodgers-can-get-back-on-track-in-nlcs",
     "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-3-starting-lineups-and-pitching-matchup",
     "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/parker-messick-guardians-starter-game-2-2026-alcs",
@@ -230,10 +231,10 @@
     "https://www.mlb.com/news/baseball-injury-updates",
     "https://www.mlb.com/news/spencer-schwellenbach-on-setbacks-that-led-to-another-elbow-surgery",
     "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/hurston-waldrep-spencer-schwellenbach-to-undergo-season-ending-elbow-surgery"
+    "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Down, but not out: 4 ways resilient Dodgers can get back in NLCS",
     "Brewers-Dodgers NLCS Game 3 FAQ (8 p.m. ET, FS1/FOX One)",
     "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
     "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter",
@@ -432,8 +433,7 @@
     "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres",
     "Schwellenbach frustrated by need for elbow surgery after setbacks in rehab",
     "Haaland and Cherki fire impressive Man City to victory at Palace",
-    "Injury uncertainty led to 'intrusive thoughts' for Alcaraz",
-    "Waldrep, Schwellenbach to undergo season-ending elbow surgery"
+    "Injury uncertainty led to 'intrusive thoughts' for Alcaraz"
   ],
   "cloudinaryAssets": [
     {
@@ -460,6 +460,11 @@
       "publicId": "tvs_videos/video_1791975288372",
       "resourceType": "video",
       "uploadedAt": 1791975290085
+    },
+    {
+      "publicId": "tvs_videos/video_1791994391148",
+      "resourceType": "video",
+      "uploadedAt": 1791994393012
     }
   ]
 }
