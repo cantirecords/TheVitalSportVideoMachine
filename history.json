@@ -32,6 +32,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/c6lyr7l0xqyqo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/how-dodgers-can-get-back-on-track-in-nlcs",
     "https://www.mlb.com/news/brewers-dodgers-nl-championship-series-game-3-starting-lineups-and-pitching-matchup",
     "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss",
@@ -230,10 +231,10 @@
     "https://www.marca.com/futbol/real-madrid/2026/08/30/bellingham-sigue-imparable.html",
     "https://www.mlb.com/news/baseball-injury-updates",
     "https://www.mlb.com/news/spencer-schwellenbach-on-setbacks-that-led-to-another-elbow-surgery",
-    "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Sabah beat Slavia Prague to secure historic Champions League win",
     "Down, but not out: 4 ways resilient Dodgers can get back in NLCS",
     "Brewers-Dodgers NLCS Game 3 FAQ (8 p.m. ET, FS1/FOX One)",
     "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
@@ -432,20 +433,9 @@
     "Bellingham sigue imparable",
     "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres",
     "Schwellenbach frustrated by need for elbow surgery after setbacks in rehab",
-    "Haaland and Cherki fire impressive Man City to victory at Palace",
-    "Injury uncertainty led to 'intrusive thoughts' for Alcaraz"
+    "Haaland and Cherki fire impressive Man City to victory at Palace"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1791929285651",
-      "resourceType": "video",
-      "uploadedAt": 1791929288374
-    },
-    {
-      "publicId": "tvs_cards/card_1791934925591",
-      "resourceType": "image",
-      "uploadedAt": 1791934926820
-    },
     {
       "publicId": "tvs_videos/video_1791946051887",
       "resourceType": "video",
@@ -460,6 +450,11 @@
       "publicId": "tvs_videos/video_1791994391148",
       "resourceType": "video",
       "uploadedAt": 1791994393012
+    },
+    {
+      "publicId": "tvs_videos/video_1792031188818",
+      "resourceType": "video",
+      "uploadedAt": 1792031191287
     }
   ]
 }
