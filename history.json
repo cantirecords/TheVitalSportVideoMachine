@@ -32,6 +32,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cr15jn74l0pdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c8r4yzp2443go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c6lyr7l0xqyqo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/how-dodgers-can-get-back-on-track-in-nlcs",
@@ -230,10 +231,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/clyk5gmvmero?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/real-madrid/2026/08/30/bellingham-sigue-imparable.html",
-    "https://www.mlb.com/news/baseball-injury-updates",
-    "https://www.mlb.com/news/spencer-schwellenbach-on-setbacks-that-led-to-another-elbow-surgery"
+    "https://www.mlb.com/news/baseball-injury-updates"
   ],
   "postedTitles": [
+    "Brazilian Camara to join Haas for F1 debut in 2027",
     "Serb player banned until 2050 for tennis match-fixing",
     "Sabah beat Slavia Prague to secure historic Champions League win",
     "Down, but not out: 4 ways resilient Dodgers can get back in NLCS",
@@ -432,8 +433,7 @@
     "Midnight matches and money disputes - why is tennis schedule such a headache?",
     "Watch: Djokovic overcome with emotion during US Open loss",
     "Bellingham sigue imparable",
-    "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres",
-    "Schwellenbach frustrated by need for elbow surgery after setbacks in rehab"
+    "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres"
   ],
   "cloudinaryAssets": [
     {
@@ -445,6 +445,11 @@
       "publicId": "tvs_videos/video_1792097123587",
       "resourceType": "video",
       "uploadedAt": 1792097125845
+    },
+    {
+      "publicId": "tvs_videos/video_1792117166181",
+      "resourceType": "video",
+      "uploadedAt": 1792117168230
     }
   ]
 }
