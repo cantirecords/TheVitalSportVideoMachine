@@ -20,6 +20,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -32,6 +34,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/barcelona/2026/10/15/informe-masia-desaconsejaba-fichaje-messi-2000-creo-debe-fichar.html",
     "https://www.bbc.co.uk/sport/formula1/articles/cr15jn74l0pdo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/c8r4yzp2443go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c6lyr7l0xqyqo?at_medium=RSS&at_campaign=rss",
@@ -230,10 +233,10 @@
     "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers",
     "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/videos/clyk5gmvmero?at_medium=RSS&at_campaign=rss",
-    "https://www.marca.com/futbol/real-madrid/2026/08/30/bellingham-sigue-imparable.html",
-    "https://www.mlb.com/news/baseball-injury-updates"
+    "https://www.marca.com/futbol/real-madrid/2026/08/30/bellingham-sigue-imparable.html"
   ],
   "postedTitles": [
+    "El informe de La Masía que desaconsejaba el fichaje de Messi en el 2000: \"Creo que no se debe fichar\"",
     "Brazilian Camara to join Haas for F1 debut in 2027",
     "Serb player banned until 2050 for tennis match-fixing",
     "Sabah beat Slavia Prague to secure historic Champions League win",
@@ -432,15 +435,9 @@
     "Yankees add more depth to 'pen with waiver claim of Schreiber",
     "Midnight matches and money disputes - why is tennis schedule such a headache?",
     "Watch: Djokovic overcome with emotion during US Open loss",
-    "Bellingham sigue imparable",
-    "Injuries: Buxton, Yankees, Cardinals, Mariners, Dodgers, Padres"
+    "Bellingham sigue imparable"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792031188818",
-      "resourceType": "video",
-      "uploadedAt": 1792031191287
-    },
     {
       "publicId": "tvs_videos/video_1792097123587",
       "resourceType": "video",
@@ -450,6 +447,11 @@
       "publicId": "tvs_videos/video_1792117166181",
       "resourceType": "video",
       "uploadedAt": 1792117168230
+    },
+    {
+      "publicId": "tvs_cards/card_1792123873695",
+      "resourceType": "image",
+      "uploadedAt": 1792123874906
     }
   ]
 }
