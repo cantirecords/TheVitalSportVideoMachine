@@ -24,6 +24,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -36,6 +38,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c95ynkv552yvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cqj9k38x7x1xo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/10/15/laliga-denuncia-cantico-vinicius-imbecil-e-insultos-espana-seleccion.html",
@@ -234,10 +237,10 @@
     "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bj-murray-jr-cubs-callup",
     "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop",
-    "https://www.bbc.co.uk/sport/tennis/articles/c93vq29kpn7o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers"
+    "https://www.bbc.co.uk/sport/tennis/articles/c93vq29kpn7o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Bellingham agrees new Real deal - Saturday's gossip",
     "Kane poised to extend Bayern stay - Friday's gossip",
     "Red card, suspension and a conspiracy - what's up with Vini Jr?",
     "LaLiga denuncia el cántico \"Vinicius es un imbécil\" e insultos a España y la selección",
@@ -436,15 +439,9 @@
     "Premier League breaks transfer record for second straight summer",
     "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers",
     "Save big on MLB.TV for the stretch run",
-    "A newspaper gown and an NBA tribute - Osaka's US Open fashion statement",
-    "Yankees add more depth to 'pen with waiver claim of Schreiber"
+    "A newspaper gown and an NBA tribute - Osaka's US Open fashion statement"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792097123587",
-      "resourceType": "video",
-      "uploadedAt": 1792097125845
-    },
     {
       "publicId": "tvs_videos/video_1792117166181",
       "resourceType": "video",
@@ -469,6 +466,11 @@
       "publicId": "tvs_videos/video_1792165754916",
       "resourceType": "video",
       "uploadedAt": 1792165757064
+    },
+    {
+      "publicId": "tvs_cards/card_1792190635515",
+      "resourceType": "image",
+      "uploadedAt": 1792190636622
     }
   ]
 }
