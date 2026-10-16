@@ -36,6 +36,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c95ynkv552yvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cqj9k38x7x1xo?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/10/15/laliga-denuncia-cantico-vinicius-imbecil-e-insultos-espana-seleccion.html",
     "https://www.marca.com/futbol/barcelona/2026/10/15/informe-masia-desaconsejaba-fichaje-messi-2000-creo-debe-fichar.html",
@@ -234,10 +235,10 @@
     "https://www.mlb.com/news/bj-murray-jr-cubs-callup",
     "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop",
     "https://www.bbc.co.uk/sport/tennis/articles/c93vq29kpn7o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers",
-    "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/yankees-claim-john-schreiber-off-waivers"
   ],
   "postedTitles": [
+    "Kane poised to extend Bayern stay - Friday's gossip",
     "Red card, suspension and a conspiracy - what's up with Vini Jr?",
     "LaLiga denuncia el cántico \"Vinicius es un imbécil\" e insultos a España y la selección",
     "El informe de La Masía que desaconsejaba el fichaje de Messi en el 2000: \"Creo que no se debe fichar\"",
@@ -436,8 +437,7 @@
     "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers",
     "Save big on MLB.TV for the stretch run",
     "A newspaper gown and an NBA tribute - Osaka's US Open fashion statement",
-    "Yankees add more depth to 'pen with waiver claim of Schreiber",
-    "Midnight matches and money disputes - why is tennis schedule such a headache?"
+    "Yankees add more depth to 'pen with waiver claim of Schreiber"
   ],
   "cloudinaryAssets": [
     {
@@ -464,6 +464,11 @@
       "publicId": "tvs_cards/card_1792156177010",
       "resourceType": "image",
       "uploadedAt": 1792156178266
+    },
+    {
+      "publicId": "tvs_videos/video_1792165754916",
+      "resourceType": "video",
+      "uploadedAt": 1792165757064
     }
   ]
 }
