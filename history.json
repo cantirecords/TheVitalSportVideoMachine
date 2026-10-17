@@ -40,6 +40,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shoki-oda-to-skip-npb-draft-to-pursue-mlb-dreams",
     "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
@@ -238,10 +239,10 @@
     "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
     "https://www.mlb.com/news/mlb-postseason-roster-rules-explained",
     "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/bj-murray-jr-cubs-callup"
+    "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Haaland nets double as Man City go six points clear at the top",
     "Matos on tactics, Klopp's influence, and taking Swans to top of the league",
     "Top Japanese prospect Shoki Oda announces plans to forego NPB for future MLB career",
     "Bellingham agrees new Real deal - Saturday's gossip",
@@ -440,8 +441,7 @@
     "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
     "Everything you need to know about MLB's postseason roster rules",
     "What does Norris deal mean for Piastri? F1 Q&A",
-    "Premier League breaks transfer record for second straight summer",
-    "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers"
+    "Premier League breaks transfer record for second straight summer"
   ],
   "cloudinaryAssets": [
     {
@@ -458,6 +458,11 @@
       "publicId": "tvs_videos/video_1792248082069",
       "resourceType": "video",
       "uploadedAt": 1792248084052
+    },
+    {
+      "publicId": "tvs_videos/video_1792266820585",
+      "resourceType": "video",
+      "uploadedAt": 1792266822317
     }
   ]
 }
