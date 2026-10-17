@@ -40,6 +40,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shoki-oda-to-skip-npb-draft-to-pursue-mlb-dreams",
     "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c95ynkv552yvo?at_medium=RSS&at_campaign=rss",
@@ -238,10 +239,10 @@
     "https://www.mlb.com/news/mlb-postseason-roster-rules-explained",
     "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/bj-murray-jr-cubs-callup",
-    "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop"
+    "https://www.mlb.com/news/bj-murray-jr-cubs-callup"
   ],
   "postedTitles": [
+    "Matos on tactics, Klopp's influence, and taking Swans to top of the league",
     "Top Japanese prospect Shoki Oda announces plans to forego NPB for future MLB career",
     "Bellingham agrees new Real deal - Saturday's gossip",
     "Kane poised to extend Bayern stay - Friday's gossip",
@@ -440,15 +441,9 @@
     "Everything you need to know about MLB's postseason roster rules",
     "What does Norris deal mean for Piastri? F1 Q&A",
     "Premier League breaks transfer record for second straight summer",
-    "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers",
-    "Save big on MLB.TV for the stretch run"
+    "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1792156177010",
-      "resourceType": "image",
-      "uploadedAt": 1792156178266
-    },
     {
       "publicId": "tvs_videos/video_1792165754916",
       "resourceType": "video",
@@ -463,6 +458,11 @@
       "publicId": "tvs_cards/card_1792209686237",
       "resourceType": "image",
       "uploadedAt": 1792209688668
+    },
+    {
+      "publicId": "tvs_videos/video_1792248082069",
+      "resourceType": "video",
+      "uploadedAt": 1792248084052
     }
   ]
 }
