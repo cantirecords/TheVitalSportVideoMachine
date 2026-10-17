@@ -28,6 +28,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -40,6 +42,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/shoki-oda-to-skip-npb-draft-to-pursue-mlb-dreams",
@@ -238,10 +241,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
     "https://www.mlb.com/news/mlb-postseason-roster-rules-explained",
-    "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game",
     "Haaland nets double as Man City go six points clear at the top",
     "Matos on tactics, Klopp's influence, and taking Swans to top of the league",
     "Top Japanese prospect Shoki Oda announces plans to forego NPB for future MLB career",
@@ -440,8 +443,7 @@
     "LA Clippers fined $30m by NBA over Leonard scandal",
     "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
     "Everything you need to know about MLB's postseason roster rules",
-    "What does Norris deal mean for Piastri? F1 Q&A",
-    "Premier League breaks transfer record for second straight summer"
+    "What does Norris deal mean for Piastri? F1 Q&A"
   ],
   "cloudinaryAssets": [
     {
@@ -463,6 +465,11 @@
       "publicId": "tvs_videos/video_1792266820585",
       "resourceType": "video",
       "uploadedAt": 1792266822317
+    },
+    {
+      "publicId": "tvs_cards/card_1792274924666",
+      "resourceType": "image",
+      "uploadedAt": 1792274925394
     }
   ]
 }
