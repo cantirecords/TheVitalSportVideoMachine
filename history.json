@@ -26,6 +26,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -38,6 +40,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/shoki-oda-to-skip-npb-draft-to-pursue-mlb-dreams",
     "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c95ynkv552yvo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cqj9k38x7x1xo?at_medium=RSS&at_campaign=rss",
@@ -236,10 +239,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/bj-murray-jr-cubs-callup",
-    "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop",
-    "https://www.bbc.co.uk/sport/tennis/articles/c93vq29kpn7o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/mlb-tv-on-espn-september-2026-price-drop"
   ],
   "postedTitles": [
+    "Top Japanese prospect Shoki Oda announces plans to forego NPB for future MLB career",
     "Bellingham agrees new Real deal - Saturday's gossip",
     "Kane poised to extend Bayern stay - Friday's gossip",
     "Red card, suspension and a conspiracy - what's up with Vini Jr?",
@@ -438,15 +441,9 @@
     "What does Norris deal mean for Piastri? F1 Q&A",
     "Premier League breaks transfer record for second straight summer",
     "Cubs call up their No. 19 prospect BJ Murray Jr. for MLB debut vs. Brewers",
-    "Save big on MLB.TV for the stretch run",
-    "A newspaper gown and an NBA tribute - Osaka's US Open fashion statement"
+    "Save big on MLB.TV for the stretch run"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792117166181",
-      "resourceType": "video",
-      "uploadedAt": 1792117168230
-    },
     {
       "publicId": "tvs_cards/card_1792123873695",
       "resourceType": "image",
@@ -471,6 +468,11 @@
       "publicId": "tvs_cards/card_1792190635515",
       "resourceType": "image",
       "uploadedAt": 1792190636622
+    },
+    {
+      "publicId": "tvs_cards/card_1792209686237",
+      "resourceType": "image",
+      "uploadedAt": 1792209688668
     }
   ]
 }
