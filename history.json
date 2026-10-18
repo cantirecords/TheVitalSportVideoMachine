@@ -30,6 +30,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -42,6 +44,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/guardians-lose-game-4-2026-alcs-rays",
     "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
@@ -240,10 +243,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
-    "https://www.mlb.com/news/mlb-postseason-roster-rules-explained"
+    "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors"
   ],
   "postedTitles": [
+    "With ALCS evened, Guardians look to flush Game 4 and hand ball to Messick",
     "Wirtz delivers but remains Liverpool's conundrum",
     "Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game",
     "Haaland nets double as Man City go six points clear at the top",
@@ -442,8 +445,7 @@
     "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
     "Man City buy costly new midfield - but have they overlooked Haaland cover?",
     "LA Clippers fined $30m by NBA over Leonard scandal",
-    "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
-    "Everything you need to know about MLB's postseason roster rules"
+    "'Like I was dreaming about': Bernal sparks Cards in MLB debut"
   ],
   "cloudinaryAssets": [
     {
@@ -460,6 +462,11 @@
       "publicId": "tvs_videos/video_1792289561278",
       "resourceType": "video",
       "uploadedAt": 1792289562595
+    },
+    {
+      "publicId": "tvs_cards/card_1792348428119",
+      "resourceType": "image",
+      "uploadedAt": 1792348429456
     }
   ]
 }
