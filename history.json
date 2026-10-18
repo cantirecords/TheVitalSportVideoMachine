@@ -32,6 +32,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -44,6 +46,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/guardians-lose-game-4-2026-alcs-rays",
     "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&at_campaign=rss",
@@ -242,10 +245,10 @@
     "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors"
+    "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ramos could make La Liga return - Monday's gossip",
     "With ALCS evened, Guardians look to flush Game 4 and hand ball to Messick",
     "Wirtz delivers but remains Liverpool's conundrum",
     "Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game",
@@ -444,20 +447,9 @@
     "Breaking down Chelsea's staggering 39 summer exits",
     "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
     "Man City buy costly new midfield - but have they overlooked Haaland cover?",
-    "LA Clippers fined $30m by NBA over Leonard scandal",
-    "'Like I was dreaming about': Bernal sparks Cards in MLB debut"
+    "LA Clippers fined $30m by NBA over Leonard scandal"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792266820585",
-      "resourceType": "video",
-      "uploadedAt": 1792266822317
-    },
-    {
-      "publicId": "tvs_cards/card_1792274924666",
-      "resourceType": "image",
-      "uploadedAt": 1792274925394
-    },
     {
       "publicId": "tvs_videos/video_1792289561278",
       "resourceType": "video",
@@ -467,6 +459,11 @@
       "publicId": "tvs_cards/card_1792348428119",
       "resourceType": "image",
       "uploadedAt": 1792348429456
+    },
+    {
+      "publicId": "tvs_cards/card_1792362082488",
+      "resourceType": "image",
+      "uploadedAt": 1792362083775
     }
   ]
 }
