@@ -42,6 +42,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&at_campaign=rss",
@@ -240,10 +241,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/cardinals-prospect-leo-bernal-promoted-to-majors",
-    "https://www.mlb.com/news/mlb-postseason-roster-rules-explained",
-    "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/mlb-postseason-roster-rules-explained"
   ],
   "postedTitles": [
+    "Wirtz delivers but remains Liverpool's conundrum",
     "Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game",
     "Haaland nets double as Man City go six points clear at the top",
     "Matos on tactics, Klopp's influence, and taking Swans to top of the league",
@@ -442,15 +443,9 @@
     "Man City buy costly new midfield - but have they overlooked Haaland cover?",
     "LA Clippers fined $30m by NBA over Leonard scandal",
     "'Like I was dreaming about': Bernal sparks Cards in MLB debut",
-    "Everything you need to know about MLB's postseason roster rules",
-    "What does Norris deal mean for Piastri? F1 Q&A"
+    "Everything you need to know about MLB's postseason roster rules"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1792190635515",
-      "resourceType": "image",
-      "uploadedAt": 1792190636622
-    },
     {
       "publicId": "tvs_cards/card_1792209686237",
       "resourceType": "image",
@@ -470,6 +465,11 @@
       "publicId": "tvs_cards/card_1792274924666",
       "resourceType": "image",
       "uploadedAt": 1792274925394
+    },
+    {
+      "publicId": "tvs_videos/video_1792289561278",
+      "resourceType": "video",
+      "uploadedAt": 1792289562595
     }
   ]
 }
