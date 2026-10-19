@@ -34,6 +34,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -46,6 +48,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/crq5n8px34pwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/guardians-lose-game-4-2026-alcs-rays",
@@ -244,10 +247,10 @@
     "https://www.mlb.com/news/cardinals-have-more-world-series-titles-than-dodgers-for-now",
     "https://www.mlb.com/news/mlb-monthly-awards-for-august-2026",
     "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Haaland a doubt, Semenyo out - what are Man City's options?",
     "Cardinals upset Rams as Eagles lose - five things from NFL week six",
     "Ramos could make La Liga return - Monday's gossip",
     "With ALCS evened, Guardians look to flush Game 4 and hand ball to Messick",
@@ -446,8 +449,7 @@
     "Can Cards hold off the Dodgers for all-time National League supremacy?",
     "These are the MLB monthly award winners for August",
     "Breaking down Chelsea's staggering 39 summer exits",
-    "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
-    "Man City buy costly new midfield - but have they overlooked Haaland cover?"
+    "Osnabruck display tifo with working rollercoaster before Kane ruins fun"
   ],
   "cloudinaryAssets": [
     {
@@ -464,6 +466,11 @@
       "publicId": "tvs_videos/video_1792409827912",
       "resourceType": "video",
       "uploadedAt": 1792409830600
+    },
+    {
+      "publicId": "tvs_cards/card_1792423727206",
+      "resourceType": "image",
+      "uploadedAt": 1792423728082
     }
   ]
 }
