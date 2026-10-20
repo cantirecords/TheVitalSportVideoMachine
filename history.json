@@ -40,6 +40,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -47,11 +49,10 @@
     "Barcelona",
     "Madrid",
     "Verstappen",
-    "Mbappé",
-    "Barça",
-    "Hamilton"
+    "Mbappé"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cm2my2z365lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/max-muncy-dalton-rushing-scratched-from-dodgers-lineup-sept-5",
     "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
     "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
     "Ronaldo let Manchester United down - Ten Hag",
     "Reese stars as Dream win first WNBA Finals match",
@@ -452,15 +453,9 @@
     "Antonelli 'walks over water' for win that will go down in F1 folklore",
     "Muncy (illness), Rushing (elbow discomfort) scratched from Dodgers' lineup Saturday",
     "Haaland header maintains perfect winning start for Man City",
-    "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
-    "Improving Alcaraz underlines title credentials in wide-open draw"
+    "Antonelli 'disrupting rules of fandom' in Ferrari's Italy"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792447320999",
-      "resourceType": "video",
-      "uploadedAt": 1792447322619
-    },
     {
       "publicId": "tvs_videos/video_1792464125403",
       "resourceType": "video",
@@ -485,6 +480,11 @@
       "publicId": "tvs_videos/video_1792512275522",
       "resourceType": "video",
       "uploadedAt": 1792512278140
+    },
+    {
+      "publicId": "tvs_cards/card_1792537649676",
+      "resourceType": "image",
+      "uploadedAt": 1792537650367
     }
   ]
 }
