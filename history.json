@@ -52,6 +52,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/max-muncy-dalton-rushing-scratched-from-dodgers-lineup-sept-5",
     "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
     "Ronaldo let Manchester United down - Ten Hag",
     "Reese stars as Dream win first WNBA Finals match",
     "Everton legend Ferguson returns to management in Irish League",
@@ -452,15 +453,9 @@
     "Muncy (illness), Rushing (elbow discomfort) scratched from Dodgers' lineup Saturday",
     "Haaland header maintains perfect winning start for Man City",
     "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
-    "Improving Alcaraz underlines title credentials in wide-open draw",
-    "How 'unique' Bellingham is thriving in Mourinho's system"
+    "Improving Alcaraz underlines title credentials in wide-open draw"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1792423727206",
-      "resourceType": "image",
-      "uploadedAt": 1792423728082
-    },
     {
       "publicId": "tvs_videos/video_1792432814703",
       "resourceType": "video",
@@ -490,6 +485,11 @@
       "publicId": "tvs_cards/card_1792503021845",
       "resourceType": "image",
       "uploadedAt": 1792503023694
+    },
+    {
+      "publicId": "tvs_videos/video_1792512275522",
+      "resourceType": "video",
+      "uploadedAt": 1792512278140
     }
   ]
 }
