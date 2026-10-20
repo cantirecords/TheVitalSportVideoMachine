@@ -38,6 +38,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -50,6 +52,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/basketball/articles/cqe9lr3zr4k1o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/teruaki-sato-mlb-posting-system",
@@ -248,10 +251,10 @@
     "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/yankees-announce-25th-anniversary-of-9-11-plans"
+    "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ronaldo let Manchester United down - Ten Hag",
     "Reese stars as Dream win first WNBA Finals match",
     "Everton legend Ferguson returns to management in Irish League",
     "NPB MVP, Triple Crown winner Sato to enter MLB posting system",
@@ -450,15 +453,9 @@
     "Haaland header maintains perfect winning start for Man City",
     "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
     "Improving Alcaraz underlines title credentials in wide-open draw",
-    "How 'unique' Bellingham is thriving in Mourinho's system",
-    "Yankees announce commemoration plans for 25th anniversary of 9/11"
+    "How 'unique' Bellingham is thriving in Mourinho's system"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792409827912",
-      "resourceType": "video",
-      "uploadedAt": 1792409830600
-    },
     {
       "publicId": "tvs_cards/card_1792423727206",
       "resourceType": "image",
@@ -488,6 +485,11 @@
       "publicId": "tvs_videos/video_1792492931018",
       "resourceType": "video",
       "uploadedAt": 1792492932988
+    },
+    {
+      "publicId": "tvs_cards/card_1792503021845",
+      "resourceType": "image",
+      "uploadedAt": 1792503023694
     }
   ]
 }
