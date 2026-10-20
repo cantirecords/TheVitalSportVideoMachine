@@ -36,6 +36,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
@@ -48,6 +50,7 @@
     "Hamilton"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/teruaki-sato-mlb-posting-system",
     "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/premios-marca/2026/10/19/lamine-yamal-raphinha-pareja-historia.html",
@@ -246,10 +249,10 @@
     "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-announce-25th-anniversary-of-9-11-plans",
-    "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/cardinals-have-more-world-series-titles-than-dodgers-for-now"
+    "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Everton legend Ferguson returns to management in Irish League",
     "NPB MVP, Triple Crown winner Sato to enter MLB posting system",
     "Best images of F1 in the US through the years",
     "Lamine Yamal-Raphinha, pareja para la historia",
@@ -448,8 +451,7 @@
     "Improving Alcaraz underlines title credentials in wide-open draw",
     "How 'unique' Bellingham is thriving in Mourinho's system",
     "Yankees announce commemoration plans for 25th anniversary of 9/11",
-    "'My position now is as one of two 10s' - Kane breaks down his evolution",
-    "Can Cards hold off the Dodgers for all-time National League supremacy?"
+    "'My position now is as one of two 10s' - Kane breaks down his evolution"
   ],
   "cloudinaryAssets": [
     {
@@ -476,6 +478,11 @@
       "publicId": "tvs_videos/video_1792464125403",
       "resourceType": "video",
       "uploadedAt": 1792464128084
+    },
+    {
+      "publicId": "tvs_cards/card_1792470567052",
+      "resourceType": "image",
+      "uploadedAt": 1792470568018
     }
   ]
 }
