@@ -1,57 +1,12 @@
 {
   "recentKeywords": [
+    "Barcelona",
     "DEVELOPING",
     "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "Curry",
-    "DEVELOPING"
+    "Curry"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/10/21/horarios-jornada-13-barcelona-recibe-villarreal-domingo-22-noviembre-14-00-horas.html",
     "https://www.mlb.com/news/brian-cashman-returning-as-yankees-general-manager",
     "https://www.mlb.com/news/dodgers-most-pressing-offseason-questions",
     "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss",
@@ -250,10 +205,10 @@
     "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/american-football/articles/cly46kylr9lo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/aaron-judge-s-return-a-factor-in-al-east-wild-card-races"
+    "https://www.bbc.co.uk/sport/american-football/articles/cly46kylr9lo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Horarios Jornada 13: El Barcelona recibe al Villarreal el domingo 22 de noviembre a las 14.00 horas",
     "Cashman returning for 30th season as Yankees GM",
     "These are the 5 most pressing offseason questions for Dodgers",
     "LeBron James' 76ers beat Knicks on NBA opening night",
@@ -452,8 +407,7 @@
     "Who will reach Super Bowl? - NFL predictions for 2026 season",
     "Favourite Kane makes Ballon d'Or shortlist",
     "Russell hindered or just Antonelli brilliance? - F1 Q&A",
-    "Kelce's last dance? Five things to look out for in new NFL season",
-    "How Judge's return may turn the tide in Yankees' favor"
+    "Kelce's last dance? Five things to look out for in new NFL season"
   ],
   "cloudinaryAssets": [
     {
@@ -490,6 +444,11 @@
       "publicId": "tvs_cards/card_1792612965426",
       "resourceType": "image",
       "uploadedAt": 1792612966562
+    },
+    {
+      "publicId": "tvs_videos/video_1792616704983",
+      "resourceType": "video",
+      "uploadedAt": 1792616706311
     }
   ]
 }
