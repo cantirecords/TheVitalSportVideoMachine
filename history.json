@@ -42,16 +42,17 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Curry",
     "DEVELOPING",
     "STORY",
     "Ohtani",
     "Barcelona",
-    "Madrid",
-    "Verstappen",
-    "Mbappé"
+    "Madrid"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.mlb.com/news/mariners-call-up-top-hitting-prospect-michael-arroyo",
     "https://www.mlb.com/news/mookie-betts-go-ahead-home-run-lifts-dodgers-over-nationals",
     "https://www.bbc.co.uk/sport/formula1/articles/cm2my2z365lo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/max-muncy-dalton-rushing-scratched-from-dodgers-lineup-sept-5",
-    "https://www.bbc.co.uk/sport/football/videos/cx2zg0zl0nyo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/max-muncy-dalton-rushing-scratched-from-dodgers-lineup-sept-5"
   ],
   "postedTitles": [
+    "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
     "No jeopardy but loads of fun - Champions League sets new goals record",
     "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
     "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
@@ -452,15 +453,9 @@
     "Mariners call up Arroyo for MLB debut -- and reunion with his best friend",
     "Betts' homer, Tucker's robbery highlight key 8th inning to seal Dodgers' sweep",
     "Antonelli 'walks over water' for win that will go down in F1 folklore",
-    "Muncy (illness), Rushing (elbow discomfort) scratched from Dodgers' lineup Saturday",
-    "Haaland header maintains perfect winning start for Man City"
+    "Muncy (illness), Rushing (elbow discomfort) scratched from Dodgers' lineup Saturday"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792464125403",
-      "resourceType": "video",
-      "uploadedAt": 1792464128084
-    },
     {
       "publicId": "tvs_cards/card_1792470567052",
       "resourceType": "image",
@@ -490,6 +485,11 @@
       "publicId": "tvs_videos/video_1792550102392",
       "resourceType": "video",
       "uploadedAt": 1792550104461
+    },
+    {
+      "publicId": "tvs_cards/card_1792556454581",
+      "resourceType": "image",
+      "uploadedAt": 1792556455984
     }
   ]
 }
