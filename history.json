@@ -52,6 +52,7 @@
     "Ohtani"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/dodgers-most-pressing-offseason-questions",
     "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/anthony-volpe-s-role-with-2027-yankees",
     "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
@@ -250,10 +251,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/cly46kylr9lo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/aaron-judge-s-return-a-factor-in-al-east-wild-card-races",
-    "https://www.mlb.com/news/mariners-call-up-top-hitting-prospect-michael-arroyo",
-    "https://www.mlb.com/news/mookie-betts-go-ahead-home-run-lifts-dodgers-over-nationals"
+    "https://www.mlb.com/news/mariners-call-up-top-hitting-prospect-michael-arroyo"
   ],
   "postedTitles": [
+    "These are the 5 most pressing offseason questions for Dodgers",
     "LeBron James' 76ers beat Knicks on NBA opening night",
     "Is Volpe the Yankees' No. 1 option for 2B in 2027?",
     "Bavuma epic drags SA back into Test - do they have time to beat Australia?",
@@ -452,15 +453,9 @@
     "Russell hindered or just Antonelli brilliance? - F1 Q&A",
     "Kelce's last dance? Five things to look out for in new NFL season",
     "How Judge's return may turn the tide in Yankees' favor",
-    "Mariners call up Arroyo for MLB debut -- and reunion with his best friend",
-    "Betts' homer, Tucker's robbery highlight key 8th inning to seal Dodgers' sweep"
+    "Mariners call up Arroyo for MLB debut -- and reunion with his best friend"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792512275522",
-      "resourceType": "video",
-      "uploadedAt": 1792512278140
-    },
     {
       "publicId": "tvs_cards/card_1792537649676",
       "resourceType": "image",
@@ -485,6 +480,11 @@
       "publicId": "tvs_cards/card_1792589985453",
       "resourceType": "image",
       "uploadedAt": 1792589986844
+    },
+    {
+      "publicId": "tvs_videos/video_1792599629040",
+      "resourceType": "video",
+      "uploadedAt": 1792599631141
     }
   ]
 }
