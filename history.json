@@ -2,12 +2,15 @@
   "recentKeywords": [
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Barcelona",
     "DEVELOPING",
     "STORY",
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
@@ -206,10 +209,10 @@
     "https://www.bbc.co.uk/sport/american-football/articles/c0lrwlg3rxko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/when-america-took-the-field-mlb-network-documentary",
     "https://www.mlb.com/news/cam-schlittler-strikes-out-10-in-7-innings-against-rockies",
-    "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
-    "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies"
   ],
   "postedTitles": [
+    "Breaking down Man Utd's tactics after Fernandes' criticism",
     "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
     "Real Madrid dominate Leipzig for third straight win ",
     "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
@@ -408,15 +411,9 @@
     "Which NFL team should you support?",
     "'When America Took the Field' documentary to premiere Thursday on MLB Network (10 ET)",
     "Schlittler extends Yankees mark with 20th start of 1 or 0 runs",
-    "Judge brings crowd to its feet in return, goes hitless in Yankees' win",
-    "Who will reach Super Bowl? - NFL predictions for 2026 season"
+    "Judge brings crowd to its feet in return, goes hitless in Yankees' win"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792599629040",
-      "resourceType": "video",
-      "uploadedAt": 1792599631141
-    },
     {
       "publicId": "tvs_cards/card_1792612965426",
       "resourceType": "image",
@@ -441,6 +438,11 @@
       "publicId": "tvs_videos/video_1792686017861",
       "resourceType": "video",
       "uploadedAt": 1792686020254
+    },
+    {
+      "publicId": "tvs_cards/card_1792699027299",
+      "resourceType": "image",
+      "uploadedAt": 1792699028504
     }
   ]
 }
