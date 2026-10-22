@@ -1,11 +1,14 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Barcelona",
     "DEVELOPING",
     "STORY",
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/10/21/horarios-jornada-13-barcelona-recibe-villarreal-domingo-22-noviembre-14-00-horas.html",
     "https://www.mlb.com/news/brian-cashman-returning-as-yankees-general-manager",
@@ -204,10 +207,10 @@
     "https://www.mlb.com/news/cam-schlittler-strikes-out-10-in-7-innings-against-rockies",
     "https://www.mlb.com/news/aaron-judge-first-game-off-injured-list-vs-rockies",
     "https://www.bbc.co.uk/sport/american-football/articles/cz9zwl81g7go?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Real Madrid dominate Leipzig for third straight win ",
     "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
     "Horarios Jornada 13: El Barcelona recibe al Villarreal el domingo 22 de noviembre a las 14.00 horas",
     "Cashman returning for 30th season as Yankees GM",
@@ -406,20 +409,9 @@
     "Schlittler extends Yankees mark with 20th start of 1 or 0 runs",
     "Judge brings crowd to its feet in return, goes hitless in Yankees' win",
     "Who will reach Super Bowl? - NFL predictions for 2026 season",
-    "Favourite Kane makes Ballon d'Or shortlist",
-    "Russell hindered or just Antonelli brilliance? - F1 Q&A"
+    "Favourite Kane makes Ballon d'Or shortlist"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792579990217",
-      "resourceType": "video",
-      "uploadedAt": 1792579992326
-    },
-    {
-      "publicId": "tvs_cards/card_1792589985453",
-      "resourceType": "image",
-      "uploadedAt": 1792589986844
-    },
     {
       "publicId": "tvs_videos/video_1792599629040",
       "resourceType": "video",
@@ -439,6 +431,11 @@
       "publicId": "tvs_videos/video_1792666480353",
       "resourceType": "video",
       "uploadedAt": 1792666482796
+    },
+    {
+      "publicId": "tvs_cards/card_1792676481546",
+      "resourceType": "image",
+      "uploadedAt": 1792676482734
     }
   ]
 }
