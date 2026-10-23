@@ -16,6 +16,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlbx-mumbai-brings-baseball-to-india",
     "https://www.bbc.co.uk/sport/football/articles/cq1m43jee9z5o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c6zjx0np7y10o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/major-league-baseball-displays-world-series-preview-in-the-oculus",
@@ -214,10 +215,10 @@
     "https://www.bbc.co.uk/sport/football/videos/c62kj1109plo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/articles/c77g24g3zkjo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/max-clark-changing-tigers-games-with-his-speed",
-    "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "MLBx brings baseball to India with event in Mumbai",
     "Haaland captaincy headache - stick or twist? FPL gameweek eight dilemmas",
     "Bellingham holds positive talks over new Real deal",
     "MLB provides immersive World Series preview with one-of-a-kind display inside Oculus",
@@ -416,15 +417,9 @@
     "Haaland strikes twice as Manchester City secure win at Porto",
     "Super Bowl rematch to open new season - your guide to NFL's key games",
     "Clark just scratching surface of his game-breaking speed",
-    "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
-    "Shelton beats Alcaraz in latest-ever US Open finish to reach semis"
+    "Kimi Raikkonen's son Robin, 11, signs for Red Bull"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1792699027299",
-      "resourceType": "image",
-      "uploadedAt": 1792699028504
-    },
     {
       "publicId": "tvs_cards/card_1792710632700",
       "resourceType": "image",
@@ -449,6 +444,11 @@
       "publicId": "tvs_videos/video_1792771817810",
       "resourceType": "video",
       "uploadedAt": 1792771820380
+    },
+    {
+      "publicId": "tvs_videos/video_1792788673580",
+      "resourceType": "video",
+      "uploadedAt": 1792788675870
     }
   ]
 }
