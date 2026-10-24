@@ -1,5 +1,6 @@
 {
   "recentKeywords": [
+    "Madrid",
     "Barça",
     "DEVELOPING",
     "STORY",
@@ -7,6 +8,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.marca.com/futbol/primera-division/2026/10/22/atletico-de-madrid-deportivo-de-a-coruna-horario-y-donde-ver-hoy-por-tv-el-partido-de-la-jornada-10-de-laliga-ea-sports.html",
     "https://www.marca.com/futbol/atletico/opinion/2026/10/24/doble-atleti-barca-adultera-competicion.html",
     "https://www.marca.com/futbol/real-madrid/opinion/2026/10/24/madrid-volteado-sensaciones.html",
     "https://www.bbc.co.uk/sport/rugby-league/videos/cqm2d1v0jr48o?at_medium=RSS&at_campaign=rss",
@@ -205,10 +207,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/what-to-expect-from-dodgers-prospect-josue-de-paula-in-mlb",
     "https://www.mlb.com/news/yankees-visit-national-september-11-memorial-museum",
-    "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds",
-    "https://www.bbc.co.uk/sport/american-football/articles/cz64qdn4z6qo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds"
   ],
   "postedTitles": [
+    "Atlético de Madrid - Deportivo de A Coruña: horario y dónde ver hoy por TV el partido de la jornada 10 de LaLiga EA Sports",
     "Un doble Atleti-Barça que ‘adultera’ la competición",
     "El Madrid ha volteado las sensaciones",
     "Superb Samoa run riot to inflict heavy defeat on woeful Wales",
@@ -407,15 +409,9 @@
     "Alonso cannot leave F1 while uncompetitive - FIA boss",
     "What to expect from Dodgers top prospect De Paula in The Show",
     "Yankees visit 9/11 Memorial & Museum ahead of 25th anniversary",
-    "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7",
-    "Why is there an NFL game in Australia?"
+    "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1792761465095",
-      "resourceType": "image",
-      "uploadedAt": 1792761465986
-    },
     {
       "publicId": "tvs_videos/video_1792771817810",
       "resourceType": "video",
@@ -445,6 +441,11 @@
       "publicId": "tvs_videos/video_1792836052540",
       "resourceType": "video",
       "uploadedAt": 1792836054244
+    },
+    {
+      "publicId": "tvs_videos/video_1792854431554",
+      "resourceType": "video",
+      "uploadedAt": 1792854433714
     }
   ]
 }
