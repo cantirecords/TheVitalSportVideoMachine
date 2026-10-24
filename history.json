@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Madrid",
     "Barça",
     "DEVELOPING",
@@ -8,6 +10,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/gymnastics/articles/cmly0dy8p370o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/10/22/atletico-de-madrid-deportivo-de-a-coruna-horario-y-donde-ver-hoy-por-tv-el-partido-de-la-jornada-10-de-laliga-ea-sports.html",
     "https://www.marca.com/futbol/atletico/opinion/2026/10/24/doble-atleti-barca-adultera-competicion.html",
     "https://www.marca.com/futbol/real-madrid/opinion/2026/10/24/madrid-volteado-sensaciones.html",
@@ -206,10 +209,10 @@
     "https://www.marca.com/futbol/sevilla/2026/09/11/luis-garcia-plaza-encara-microfono-dazn-durante-pausa-hidratacion.html",
     "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/what-to-expect-from-dodgers-prospect-josue-de-paula-in-mlb",
-    "https://www.mlb.com/news/yankees-visit-national-september-11-memorial-museum",
-    "https://www.mlb.com/news/yoshinobu-yamamoto-starts-finale-against-reds"
+    "https://www.mlb.com/news/yankees-visit-national-september-11-memorial-museum"
   ],
   "postedTitles": [
+    "Jarman wins historic men's floor silver at worlds",
     "Atlético de Madrid - Deportivo de A Coruña: horario y dónde ver hoy por TV el partido de la jornada 10 de LaLiga EA Sports",
     "Un doble Atleti-Barça que ‘adultera’ la competición",
     "El Madrid ha volteado las sensaciones",
@@ -408,15 +411,9 @@
     "Luis García Plaza se encara con el micrófono de DAZN durante una pausa de hidratación",
     "Alonso cannot leave F1 while uncompetitive - FIA boss",
     "What to expect from Dodgers top prospect De Paula in The Show",
-    "Yankees visit 9/11 Memorial & Museum ahead of 25th anniversary",
-    "Yamamoto (10 K's) dominates, Dodgers score 14 to run season-high win streak to 7"
+    "Yankees visit 9/11 Memorial & Museum ahead of 25th anniversary"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792771817810",
-      "resourceType": "video",
-      "uploadedAt": 1792771820380
-    },
     {
       "publicId": "tvs_videos/video_1792788673580",
       "resourceType": "video",
@@ -446,6 +443,11 @@
       "publicId": "tvs_videos/video_1792854431554",
       "resourceType": "video",
       "uploadedAt": 1792854433714
+    },
+    {
+      "publicId": "tvs_cards/card_1792867390691",
+      "resourceType": "image",
+      "uploadedAt": 1792867391969
     }
   ]
 }
