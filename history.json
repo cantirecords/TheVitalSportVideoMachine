@@ -2,6 +2,8 @@
   "recentKeywords": [
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Madrid",
     "Barça",
     "DEVELOPING",
@@ -10,6 +12,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
     "https://www.mlb.com/news/mlb-youth-baseball-players-ceremony-game-2-2026-world-series",
     "https://www.mlb.com/news/yankees-pitching-coach-matt-blake-contract-extension",
     "https://www.bbc.co.uk/sport/gymnastics/articles/cmly0dy8p370o?at_medium=RSS&at_campaign=rss",
@@ -208,10 +211,10 @@
     "https://www.mlb.com/news/josue-de-paula-earns-walk-in-mlb-debut-with-dodgers",
     "https://www.marca.com/futbol/real-sociedad/2026/09/11/matarazzo-final-copa-vale-recordar-nivel-competitividad-demas-ayudar-ganar.html",
     "https://www.mlb.com/news/mlb-25th-anniversary-september-11-tributes",
-    "https://www.marca.com/futbol/sevilla/2026/09/11/luis-garcia-plaza-encara-microfono-dazn-durante-pausa-hidratacion.html",
-    "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss"
+    "https://www.marca.com/futbol/sevilla/2026/09/11/luis-garcia-plaza-encara-microfono-dazn-durante-pausa-hidratacion.html"
   ],
   "postedTitles": [
+    "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
     "MLB highlights youth initiatives during pregame ceremony",
     "Yankees agree to 3-year extension with pitching coach Blake (report)",
     "Jarman wins historic men's floor silver at worlds",
@@ -410,8 +413,7 @@
     "De Paula gets 1st taste with 'the big boys' in MLB debut",
     "Matarazzo: \"De la final de Copa nos vale recordar el nivel de competitividad, lo demás no nos va a ayudar a ganar\"",
     "MLB to mark 25th anniversary of 9/11 with tributes, service",
-    "Luis García Plaza se encara con el micrófono de DAZN durante una pausa de hidratación",
-    "Alonso cannot leave F1 while uncompetitive - FIA boss"
+    "Luis García Plaza se encara con el micrófono de DAZN durante una pausa de hidratación"
   ],
   "cloudinaryAssets": [
     {
@@ -433,6 +435,11 @@
       "publicId": "tvs_videos/video_1792924034399",
       "resourceType": "video",
       "uploadedAt": 1792924036644
+    },
+    {
+      "publicId": "tvs_cards/card_1792933667740",
+      "resourceType": "image",
+      "uploadedAt": 1792933669092
     }
   ]
 }
