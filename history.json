@@ -6,6 +6,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Madrid",
     "Barça",
     "DEVELOPING",
@@ -14,6 +16,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-app-launches-for-iphone-duo",
     "https://www.skysports.com/nfl/news/12040/13602523/nfl-paris-2026-aaron-rodgers-leads-pittsburgh-steelers-past-new-orleans-saints-in-first-ever-game-in-france",
     "https://www.skysports.com/nfl/live-blog/12040/13603492/nfl-paris-2026-live-updates-result-highlights-from-new-orleans-saints-against-pittsburgh-steelers-at-stade-de-france",
@@ -212,10 +215,10 @@
     "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
     "https://www.mlb.com/news/mookie-betts-hits-10-000th-home-run-in-la-dodgers-history",
     "https://www.marca.com/futbol/racing-santander/2026/09/12/zabiri-irrupcion-importante-liga.html",
-    "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/josue-de-paula-earns-walk-in-mlb-debut-with-dodgers"
+    "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Jarman wins historic second Worlds silver in vault final",
     "MLB App launches for iPhone Duo just in time for World Series",
     "Rodgers lift Steelers past Saints in first NFL game in Paris",
     "NFL Paris LIVE! Steelers lead Saints at half-time in France ",
@@ -414,8 +417,7 @@
     "Rodriguez's 'mesmerizing' day includes HR in 1st MLB AB",
     "Betts hits Los Angeles Dodgers' 10,000th home run; Muncy goes back to back",
     "Zabiri, la irrupción más importante de la Liga",
-    "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
-    "De Paula gets 1st taste with 'the big boys' in MLB debut"
+    "Like Benzema & as good as Haaland - Alonso on Joao Pedro"
   ],
   "cloudinaryAssets": [
     {
@@ -442,6 +444,11 @@
       "publicId": "tvs_videos/video_1792959126393",
       "resourceType": "video",
       "uploadedAt": 1792959128985
+    },
+    {
+      "publicId": "tvs_cards/card_1792967142163",
+      "resourceType": "image",
+      "uploadedAt": 1792967143470
     }
   ]
 }
