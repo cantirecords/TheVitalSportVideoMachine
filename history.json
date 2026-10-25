@@ -4,6 +4,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Madrid",
     "Barça",
     "DEVELOPING",
@@ -12,6 +14,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/nfl/news/12040/13602523/nfl-paris-2026-aaron-rodgers-leads-pittsburgh-steelers-past-new-orleans-saints-in-first-ever-game-in-france",
     "https://www.skysports.com/nfl/live-blog/12040/13603492/nfl-paris-2026-live-updates-result-highlights-from-new-orleans-saints-against-pittsburgh-steelers-at-stade-de-france",
     "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
     "https://www.mlb.com/news/mlb-youth-baseball-players-ceremony-game-2-2026-world-series",
@@ -210,10 +213,10 @@
     "https://www.marca.com/futbol/racing-santander/2026/09/12/zabiri-irrupcion-importante-liga.html",
     "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/josue-de-paula-earns-walk-in-mlb-debut-with-dodgers",
-    "https://www.marca.com/futbol/real-sociedad/2026/09/11/matarazzo-final-copa-vale-recordar-nivel-competitividad-demas-ayudar-ganar.html",
-    "https://www.mlb.com/news/mlb-25th-anniversary-september-11-tributes"
+    "https://www.marca.com/futbol/real-sociedad/2026/09/11/matarazzo-final-copa-vale-recordar-nivel-competitividad-demas-ayudar-ganar.html"
   ],
   "postedTitles": [
+    "Rodgers lift Steelers past Saints in first NFL game in Paris",
     "NFL Paris LIVE! Steelers lead Saints at half-time in France ",
     "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
     "MLB highlights youth initiatives during pregame ceremony",
@@ -412,15 +415,9 @@
     "Zabiri, la irrupción más importante de la Liga",
     "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
     "De Paula gets 1st taste with 'the big boys' in MLB debut",
-    "Matarazzo: \"De la final de Copa nos vale recordar el nivel de competitividad, lo demás no nos va a ayudar a ganar\"",
-    "MLB to mark 25th anniversary of 9/11 with tributes, service"
+    "Matarazzo: \"De la final de Copa nos vale recordar el nivel de competitividad, lo demás no nos va a ayudar a ganar\""
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1792867390691",
-      "resourceType": "image",
-      "uploadedAt": 1792867391969
-    },
     {
       "publicId": "tvs_videos/video_1792872107414",
       "resourceType": "video",
@@ -440,6 +437,11 @@
       "publicId": "tvs_videos/video_1792941522853",
       "resourceType": "video",
       "uploadedAt": 1792941525153
+    },
+    {
+      "publicId": "tvs_cards/card_1792954330375",
+      "resourceType": "image",
+      "uploadedAt": 1792954331368
     }
   ]
 }
