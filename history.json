@@ -10,6 +10,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-youth-baseball-players-ceremony-game-2-2026-world-series",
     "https://www.mlb.com/news/yankees-pitching-coach-matt-blake-contract-extension",
     "https://www.bbc.co.uk/sport/gymnastics/articles/cmly0dy8p370o?at_medium=RSS&at_campaign=rss",
     "https://www.marca.com/futbol/primera-division/2026/10/22/atletico-de-madrid-deportivo-de-a-coruna-horario-y-donde-ver-hoy-por-tv-el-partido-de-la-jornada-10-de-laliga-ea-sports.html",
@@ -208,10 +209,10 @@
     "https://www.marca.com/futbol/real-sociedad/2026/09/11/matarazzo-final-copa-vale-recordar-nivel-competitividad-demas-ayudar-ganar.html",
     "https://www.mlb.com/news/mlb-25th-anniversary-september-11-tributes",
     "https://www.marca.com/futbol/sevilla/2026/09/11/luis-garcia-plaza-encara-microfono-dazn-durante-pausa-hidratacion.html",
-    "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/what-to-expect-from-dodgers-prospect-josue-de-paula-in-mlb"
+    "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "MLB highlights youth initiatives during pregame ceremony",
     "Yankees agree to 3-year extension with pitching coach Blake (report)",
     "Jarman wins historic men's floor silver at worlds",
     "Atlético de Madrid - Deportivo de A Coruña: horario y dónde ver hoy por TV el partido de la jornada 10 de LaLiga EA Sports",
@@ -410,15 +411,9 @@
     "Matarazzo: \"De la final de Copa nos vale recordar el nivel de competitividad, lo demás no nos va a ayudar a ganar\"",
     "MLB to mark 25th anniversary of 9/11 with tributes, service",
     "Luis García Plaza se encara con el micrófono de DAZN durante una pausa de hidratación",
-    "Alonso cannot leave F1 while uncompetitive - FIA boss",
-    "What to expect from Dodgers top prospect De Paula in The Show"
+    "Alonso cannot leave F1 while uncompetitive - FIA boss"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792836052540",
-      "resourceType": "video",
-      "uploadedAt": 1792836054244
-    },
     {
       "publicId": "tvs_videos/video_1792854431554",
       "resourceType": "video",
@@ -433,6 +428,11 @@
       "publicId": "tvs_videos/video_1792872107414",
       "resourceType": "video",
       "uploadedAt": 1792872108641
+    },
+    {
+      "publicId": "tvs_videos/video_1792924034399",
+      "resourceType": "video",
+      "uploadedAt": 1792924036644
     }
   ]
 }
