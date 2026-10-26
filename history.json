@@ -22,6 +22,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/c61wvzxjxnjxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/videos/crp3g25vv4qyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlbx-mumbai-brings-together-baseball-softball-and-cricket-stars",
     "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
@@ -220,10 +221,10 @@
     "https://www.mlb.com/news/dodgers-beat-reds-clinch-2026-playoff-berth",
     "https://www.mlb.com/news/angel-martinez-exits-game-vs-white-sox",
     "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast",
-    "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cpved014n83o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Vikings are last unbeaten team as Chiefs lose - NFL week seven",
     "Nix's 62-yard touchdown & 'vintage Rodgers' - NFL best plays",
     "MLBx takes over Mumbai in star-studded sport crossover ",
     "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
@@ -422,8 +423,7 @@
     "14 straight! Dodgers tie MLB record for most consecutive playoff clinches",
     "Martínez (right flank inflammation) exits opener vs. White Sox",
     "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
-    "Haaland scores controversial winner as Man City win derby despite Foden red",
-    "Honda changes F1 design boss after slow start to return"
+    "Haaland scores controversial winner as Man City win derby despite Foden red"
   ],
   "cloudinaryAssets": [
     {
@@ -460,6 +460,11 @@
       "publicId": "tvs_cards/card_1793048351382",
       "resourceType": "image",
       "uploadedAt": 1793048353069
+    },
+    {
+      "publicId": "tvs_videos/video_1793052563061",
+      "resourceType": "video",
+      "uploadedAt": 1793052564927
     }
   ]
 }
