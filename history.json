@@ -10,6 +10,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Madrid",
     "Barça",
     "DEVELOPING",
@@ -18,6 +20,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/watch/video/13603864/kansas-city-chiefs-at-seattle-seahawks-week-seven-nfl-highlights",
     "https://www.bbc.co.uk/sport/gymnastics/articles/cmz7xynx81lwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +219,10 @@
     "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cpved014n83o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins"
+    "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
     "Chiefs at Seahawks - Week Seven NFL highlights",
     "Jarman claims historic second silver at Worlds",
     "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
@@ -418,15 +421,9 @@
     "Haaland scores controversial winner as Man City win derby despite Foden red",
     "Honda changes F1 design boss after slow start to return",
     "Refereeing body admits judgement error over Haaland derby winner",
-    "How virtual safety car cost Norris win - and should F1 change rules?",
-    "Rodriguez's 'mesmerizing' day includes HR in 1st MLB AB"
+    "How virtual safety car cost Norris win - and should F1 change rules?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1792933667740",
-      "resourceType": "image",
-      "uploadedAt": 1792933669092
-    },
     {
       "publicId": "tvs_videos/video_1792941522853",
       "resourceType": "video",
@@ -461,6 +458,11 @@
       "publicId": "tvs_videos/video_1793015724013",
       "resourceType": "video",
       "uploadedAt": 1793015725704
+    },
+    {
+      "publicId": "tvs_cards/card_1793027121148",
+      "resourceType": "image",
+      "uploadedAt": 1793027122697
     }
   ]
 }
