@@ -18,6 +18,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/watch/video/13603864/kansas-city-chiefs-at-seattle-seahawks-week-seven-nfl-highlights",
     "https://www.bbc.co.uk/sport/gymnastics/articles/cmz7xynx81lwo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
@@ -216,10 +217,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cpved014n83o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
-    "https://www.mlb.com/news/mookie-betts-hits-10-000th-home-run-in-la-dodgers-history"
+    "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins"
   ],
   "postedTitles": [
+    "Chiefs at Seahawks - Week Seven NFL highlights",
     "Jarman claims historic second silver at Worlds",
     "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
     "Jarman wins historic second Worlds silver in vault final",
@@ -418,15 +419,9 @@
     "Honda changes F1 design boss after slow start to return",
     "Refereeing body admits judgement error over Haaland derby winner",
     "How virtual safety car cost Norris win - and should F1 change rules?",
-    "Rodriguez's 'mesmerizing' day includes HR in 1st MLB AB",
-    "Betts hits Los Angeles Dodgers' 10,000th home run; Muncy goes back to back"
+    "Rodriguez's 'mesmerizing' day includes HR in 1st MLB AB"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792924034399",
-      "resourceType": "video",
-      "uploadedAt": 1792924036644
-    },
     {
       "publicId": "tvs_cards/card_1792933667740",
       "resourceType": "image",
@@ -461,6 +456,11 @@
       "publicId": "tvs_cards/card_1792988525792",
       "resourceType": "image",
       "uploadedAt": 1792988527191
+    },
+    {
+      "publicId": "tvs_videos/video_1793015724013",
+      "resourceType": "video",
+      "uploadedAt": 1793015725704
     }
   ]
 }
