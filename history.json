@@ -16,6 +16,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/gymnastics/videos/c574pv1nk0jgo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlb-app-launches-for-iphone-duo",
     "https://www.skysports.com/nfl/news/12040/13602523/nfl-paris-2026-aaron-rodgers-leads-pittsburgh-steelers-past-new-orleans-saints-in-first-ever-game-in-france",
@@ -214,10 +215,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/emmanuel-rodriguez-called-up-by-twins",
     "https://www.mlb.com/news/mookie-betts-hits-10-000th-home-run-in-la-dodgers-history",
-    "https://www.marca.com/futbol/racing-santander/2026/09/12/zabiri-irrupcion-importante-liga.html",
-    "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss"
+    "https://www.marca.com/futbol/racing-santander/2026/09/12/zabiri-irrupcion-importante-liga.html"
   ],
   "postedTitles": [
+    "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
     "Jarman wins historic second Worlds silver in vault final",
     "MLB App launches for iPhone Duo just in time for World Series",
     "Rodgers lift Steelers past Saints in first NFL game in Paris",
@@ -416,8 +417,7 @@
     "How virtual safety car cost Norris win - and should F1 change rules?",
     "Rodriguez's 'mesmerizing' day includes HR in 1st MLB AB",
     "Betts hits Los Angeles Dodgers' 10,000th home run; Muncy goes back to back",
-    "Zabiri, la irrupción más importante de la Liga",
-    "Like Benzema & as good as Haaland - Alonso on Joao Pedro"
+    "Zabiri, la irrupción más importante de la Liga"
   ],
   "cloudinaryAssets": [
     {
@@ -449,6 +449,11 @@
       "publicId": "tvs_cards/card_1792967142163",
       "resourceType": "image",
       "uploadedAt": 1792967143470
+    },
+    {
+      "publicId": "tvs_videos/video_1792981412502",
+      "resourceType": "video",
+      "uploadedAt": 1792981414250
     }
   ]
 }
