@@ -20,6 +20,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlbx-mumbai-brings-together-baseball-softball-and-cricket-stars",
     "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/watch/video/13603864/kansas-city-chiefs-at-seattle-seahawks-week-seven-nfl-highlights",
     "https://www.bbc.co.uk/sport/gymnastics/articles/cmz7xynx81lwo?at_medium=RSS&at_campaign=rss",
@@ -218,10 +219,10 @@
     "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast",
     "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/cpved014n83o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "MLBx takes over Mumbai in star-studded sport crossover ",
     "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
     "Chiefs at Seahawks - Week Seven NFL highlights",
     "Jarman claims historic second silver at Worlds",
@@ -420,15 +421,9 @@
     "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
     "Haaland scores controversial winner as Man City win derby despite Foden red",
     "Honda changes F1 design boss after slow start to return",
-    "Refereeing body admits judgement error over Haaland derby winner",
-    "How virtual safety car cost Norris win - and should F1 change rules?"
+    "Refereeing body admits judgement error over Haaland derby winner"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1792941522853",
-      "resourceType": "video",
-      "uploadedAt": 1792941525153
-    },
     {
       "publicId": "tvs_cards/card_1792954330375",
       "resourceType": "image",
@@ -463,6 +458,11 @@
       "publicId": "tvs_cards/card_1793027121148",
       "resourceType": "image",
       "uploadedAt": 1793027122697
+    },
+    {
+      "publicId": "tvs_videos/video_1793037518619",
+      "resourceType": "video",
+      "uploadedAt": 1793037522399
     }
   ]
 }
