@@ -1,27 +1,15 @@
 {
   "recentKeywords": [
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
-    "DEVELOPING",
-    "STORY",
+    "Verstappen",
     "DEVELOPING",
     "STORY",
     "Madrid",
     "Barça",
-    "DEVELOPING",
-    "STORY",
     "Barcelona",
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/f1/news/12040/13603619/max-verstappen-red-bull-driver-says-team-radio-dropouts-are-a-disaster-after-becoming-frustrated-during-united-states-gp",
     "https://www.bbc.co.uk/sport/american-football/articles/c61wvzxjxnjxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/videos/crp3g25vv4qyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/mlbx-mumbai-brings-together-baseball-softball-and-cricket-stars",
@@ -220,10 +208,10 @@
     "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-beat-reds-clinch-2026-playoff-berth",
     "https://www.mlb.com/news/angel-martinez-exits-game-vs-white-sox",
-    "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast",
-    "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast"
   ],
   "postedTitles": [
+    "Verstappen fumes at Red Bull radio dropouts during races",
     "Vikings are last unbeaten team as Chiefs lose - NFL week seven",
     "Nix's 62-yard touchdown & 'vintage Rodgers' - NFL best plays",
     "MLBx takes over Mumbai in star-studded sport crossover ",
@@ -422,20 +410,9 @@
     "Leeds inflict heavy defeat on Newcastle to climb to third",
     "14 straight! Dodgers tie MLB record for most consecutive playoff clinches",
     "Martínez (right flank inflammation) exits opener vs. White Sox",
-    "Kim Ng reflects on groundbreaking MLB career, AUSL's growth",
-    "Haaland scores controversial winner as Man City win derby despite Foden red"
+    "Kim Ng reflects on groundbreaking MLB career, AUSL's growth"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1792967142163",
-      "resourceType": "image",
-      "uploadedAt": 1792967143470
-    },
-    {
-      "publicId": "tvs_videos/video_1792981412502",
-      "resourceType": "video",
-      "uploadedAt": 1792981414250
-    },
     {
       "publicId": "tvs_cards/card_1792988525792",
       "resourceType": "image",
@@ -465,6 +442,11 @@
       "publicId": "tvs_videos/video_1793052563061",
       "resourceType": "video",
       "uploadedAt": 1793052564927
+    },
+    {
+      "publicId": "tvs_videos/video_1793069970198",
+      "resourceType": "video",
+      "uploadedAt": 1793069972474
     }
   ]
 }
