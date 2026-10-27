@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -9,6 +11,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/watch/video/13604287/exclusive-harry-kane-talks-to-sky-sports-after-winning-ballondor",
     "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/f1/news/12040/13603619/max-verstappen-red-bull-driver-says-team-radio-dropouts-are-a-disaster-after-becoming-frustrated-during-united-states-gp",
     "https://www.bbc.co.uk/sport/american-football/articles/c61wvzxjxnjxo?at_medium=RSS&at_campaign=rss",
@@ -207,10 +210,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/videos/cr624d03l6zgo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/dodgers-beat-reds-clinch-2026-playoff-berth",
-    "https://www.mlb.com/news/angel-martinez-exits-game-vs-white-sox"
+    "https://www.mlb.com/news/dodgers-beat-reds-clinch-2026-playoff-berth"
   ],
   "postedTitles": [
+    "'This one's for all of us' - Kane thanks fans after Ballon d'Or win",
     "How much of Antonelli's success is down to his ability? - F1 Q&A",
     "Verstappen fumes at Red Bull radio dropouts during races",
     "Vikings are last unbeaten team as Chiefs lose - NFL week seven",
@@ -409,15 +412,9 @@
     "How did they get the Madring track so wrong? - F1 Q&A",
     "Diving catches and a 60-yard touchdown - best plays of NFL week one",
     "Leeds inflict heavy defeat on Newcastle to climb to third",
-    "14 straight! Dodgers tie MLB record for most consecutive playoff clinches",
-    "Martínez (right flank inflammation) exits opener vs. White Sox"
+    "14 straight! Dodgers tie MLB record for most consecutive playoff clinches"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1793015724013",
-      "resourceType": "video",
-      "uploadedAt": 1793015725704
-    },
     {
       "publicId": "tvs_cards/card_1793027121148",
       "resourceType": "image",
@@ -447,6 +444,11 @@
       "publicId": "tvs_videos/video_1793099883063",
       "resourceType": "video",
       "uploadedAt": 1793099884945
+    },
+    {
+      "publicId": "tvs_cards/card_1793110740889",
+      "resourceType": "image",
+      "uploadedAt": 1793110742046
     }
   ]
 }
