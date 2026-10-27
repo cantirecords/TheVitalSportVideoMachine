@@ -9,6 +9,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/f1/news/12040/13603619/max-verstappen-red-bull-driver-says-team-radio-dropouts-are-a-disaster-after-becoming-frustrated-during-united-states-gp",
     "https://www.bbc.co.uk/sport/american-football/articles/c61wvzxjxnjxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/american-football/videos/crp3g25vv4qyo?at_medium=RSS&at_campaign=rss",
@@ -207,10 +208,10 @@
     "https://www.bbc.co.uk/sport/american-football/videos/cr624d03l6zgo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-beat-reds-clinch-2026-playoff-berth",
-    "https://www.mlb.com/news/angel-martinez-exits-game-vs-white-sox",
-    "https://www.mlb.com/news/kim-ng-talks-ausl-future-mlb-career-on-podcast"
+    "https://www.mlb.com/news/angel-martinez-exits-game-vs-white-sox"
   ],
   "postedTitles": [
+    "How much of Antonelli's success is down to his ability? - F1 Q&A",
     "Verstappen fumes at Red Bull radio dropouts during races",
     "Vikings are last unbeaten team as Chiefs lose - NFL week seven",
     "Nix's 62-yard touchdown & 'vintage Rodgers' - NFL best plays",
@@ -409,8 +410,7 @@
     "Diving catches and a 60-yard touchdown - best plays of NFL week one",
     "Leeds inflict heavy defeat on Newcastle to climb to third",
     "14 straight! Dodgers tie MLB record for most consecutive playoff clinches",
-    "Martínez (right flank inflammation) exits opener vs. White Sox",
-    "Kim Ng reflects on groundbreaking MLB career, AUSL's growth"
+    "Martínez (right flank inflammation) exits opener vs. White Sox"
   ],
   "cloudinaryAssets": [
     {
@@ -442,6 +442,11 @@
       "publicId": "tvs_videos/video_1793069970198",
       "resourceType": "video",
       "uploadedAt": 1793069972474
+    },
+    {
+      "publicId": "tvs_videos/video_1793099883063",
+      "resourceType": "video",
+      "uploadedAt": 1793099884945
     }
   ]
 }
