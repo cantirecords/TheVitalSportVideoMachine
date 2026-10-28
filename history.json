@@ -4,6 +4,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -13,6 +15,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/watch/video/13604421/harry-kane-wins-ballon-dor-gar-neville-describes-him-as-gold",
     "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/watch/video/13604287/exclusive-harry-kane-talks-to-sky-sports-after-winning-ballondor",
     "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss",
@@ -211,10 +214,10 @@
     "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/american-football/videos/cr624d03l6zgo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/american-football/videos/cr624d03l6zgo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "'Everything about him is world class' - Neville hails Kane after Ballon d'Or win",
     "How Kane's Ballon d'Or win could boost the Bundesliga ",
     "'This one's for all of us' - Kane thanks fans after Ballon d'Or win",
     "How much of Antonelli's success is down to his ability? - F1 Q&A",
@@ -413,8 +416,7 @@
     "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
     "F1 to have 10 sprint races in 2027, including Monaco",
     "How did they get the Madring track so wrong? - F1 Q&A",
-    "Diving catches and a 60-yard touchdown - best plays of NFL week one",
-    "Leeds inflict heavy defeat on Newcastle to climb to third"
+    "Diving catches and a 60-yard touchdown - best plays of NFL week one"
   ],
   "cloudinaryAssets": [
     {
@@ -431,6 +433,11 @@
       "publicId": "tvs_cards/card_1793133233881",
       "resourceType": "image",
       "uploadedAt": 1793133234896
+    },
+    {
+      "publicId": "tvs_cards/card_1793164472754",
+      "resourceType": "image",
+      "uploadedAt": 1793164473695
     }
   ]
 }
