@@ -8,6 +8,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -17,6 +19,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/watch/video/13604421/harry-kane-wins-ballon-dor-gar-neville-describes-him-as-gold",
     "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss",
@@ -215,10 +218,10 @@
     "https://www.mlb.com/news/clarke-schmidt-activated-oswaldo-cabrera-designated-for-assignment",
     "https://www.mlb.com/news/yoshinobu-yamamoto-dominates-as-dodgers-shut-out-reds",
     "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Djokovic celebrates 'big win' on return to Basel",
     "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
     "'Everything about him is world class' - Neville hails Kane after Ballon d'Or win",
     "How Kane's Ballon d'Or win could boost the Bundesliga ",
@@ -417,15 +420,9 @@
     "Yankees activate Schmidt from 60-day IL, DFA Cabrera",
     "'Vintage Yama' locks in after shaky 1st as Dodgers shut out Reds",
     "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
-    "F1 to have 10 sprint races in 2027, including Monaco",
-    "How did they get the Madring track so wrong? - F1 Q&A"
+    "F1 to have 10 sprint races in 2027, including Monaco"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1793133233881",
-      "resourceType": "image",
-      "uploadedAt": 1793133234896
-    },
     {
       "publicId": "tvs_cards/card_1793164472754",
       "resourceType": "image",
@@ -435,6 +432,11 @@
       "publicId": "tvs_cards/card_1793199606725",
       "resourceType": "image",
       "uploadedAt": 1793199609598
+    },
+    {
+      "publicId": "tvs_cards/card_1793220916723",
+      "resourceType": "image",
+      "uploadedAt": 1793220918235
     }
   ]
 }
