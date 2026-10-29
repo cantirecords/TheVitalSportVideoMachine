@@ -10,6 +10,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -19,6 +21,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/watch/video/13605055/novak-djokovic-vs-ugo-humbert-swiss-indoor-basel-highlights",
     "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/watch/video/13604421/harry-kane-wins-ballon-dor-gar-neville-describes-him-as-gold",
@@ -217,10 +220,10 @@
     "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/clarke-schmidt-activated-oswaldo-cabrera-designated-for-assignment",
     "https://www.mlb.com/news/yoshinobu-yamamoto-dominates-as-dodgers-shut-out-reds",
-    "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Djokovic comes from set down to defeat Humbert in Basel",
     "Djokovic celebrates 'big win' on return to Basel",
     "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
     "'Everything about him is world class' - Neville hails Kane after Ballon d'Or win",
@@ -419,19 +422,18 @@
     "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
     "Yankees activate Schmidt from 60-day IL, DFA Cabrera",
     "'Vintage Yama' locks in after shaky 1st as Dodgers shut out Reds",
-    "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
-    "F1 to have 10 sprint races in 2027, including Monaco"
+    "Mbappe, Vini and Konate cover up Real's message of support for Ceuta"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1793199606725",
-      "resourceType": "image",
-      "uploadedAt": 1793199609598
-    },
     {
       "publicId": "tvs_cards/card_1793220916723",
       "resourceType": "image",
       "uploadedAt": 1793220918235
+    },
+    {
+      "publicId": "tvs_cards/card_1793286445682",
+      "resourceType": "image",
+      "uploadedAt": 1793286446472
     }
   ]
 }
