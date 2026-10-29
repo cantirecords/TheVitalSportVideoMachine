@@ -12,6 +12,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Verstappen",
     "DEVELOPING",
     "STORY",
@@ -21,6 +23,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/tennis/news/12040/13605457/alcaraz-battles-into-vienna-open-quarter-finals",
     "https://www.skysports.com/watch/video/13605055/novak-djokovic-vs-ugo-humbert-swiss-indoor-basel-highlights",
     "https://www.bbc.co.uk/sport/tennis/articles/cmd93vlz4k11o?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
@@ -219,10 +222,10 @@
     "https://www.mlb.com/news/justin-turner-wins-mexican-league-title-with-toros-de-tijuana",
     "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/clarke-schmidt-activated-oswaldo-cabrera-designated-for-assignment",
-    "https://www.mlb.com/news/yoshinobu-yamamoto-dominates-as-dodgers-shut-out-reds",
-    "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/yoshinobu-yamamoto-dominates-as-dodgers-shut-out-reds"
   ],
   "postedTitles": [
+    "Alcaraz and Fery battle into Vienna Open quarter-finals",
     "Djokovic comes from set down to defeat Humbert in Basel",
     "Djokovic celebrates 'big win' on return to Basel",
     "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
@@ -421,19 +424,18 @@
     "Justin Turner, 41, among several former MLB players to win Mexican League title",
     "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
     "Yankees activate Schmidt from 60-day IL, DFA Cabrera",
-    "'Vintage Yama' locks in after shaky 1st as Dodgers shut out Reds",
-    "Mbappe, Vini and Konate cover up Real's message of support for Ceuta"
+    "'Vintage Yama' locks in after shaky 1st as Dodgers shut out Reds"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1793220916723",
-      "resourceType": "image",
-      "uploadedAt": 1793220918235
-    },
     {
       "publicId": "tvs_cards/card_1793286445682",
       "resourceType": "image",
       "uploadedAt": 1793286446472
+    },
+    {
+      "publicId": "tvs_cards/card_1793307574226",
+      "resourceType": "image",
+      "uploadedAt": 1793307575216
     }
   ]
 }
