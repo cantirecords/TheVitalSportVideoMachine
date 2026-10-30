@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Hamilton",
     "DEVELOPING",
     "STORY",
@@ -10,6 +12,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/cmkgqprr44gzo?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/watch/video/13605785/liverpool-vs-arsenal-can-andoni-iraola-continue-his-impressive-record-against-gunners-on-sunday",
     "https://www.skysports.com/tennis/news/12040/13605457/alcaraz-battles-into-vienna-open-quarter-finals",
     "https://www.skysports.com/watch/video/13605055/novak-djokovic-vs-ugo-humbert-swiss-indoor-basel-highlights",
@@ -208,10 +211,10 @@
     "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win",
     "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game",
     "https://www.mlb.com/news/justin-turner-wins-mexican-league-title-with-toros-de-tijuana",
-    "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/clarke-schmidt-activated-oswaldo-cabrera-designated-for-assignment"
+    "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Ronaldo closes in on 1,000th goal with hat-trick ",
     "Can Iraola continue his impressive record against Arsenal on Sunday?",
     "Alcaraz and Fery battle into Vienna Open quarter-finals",
     "Djokovic comes from set down to defeat Humbert in Basel",
@@ -410,8 +413,7 @@
     "Crew follows up clinch with MLB-best 95th win ... but there's 'work to do'",
     "Yankees to see how Judge (lower leg tightness) recovers after early exit in 13-inning loss",
     "Justin Turner, 41, among several former MLB players to win Mexican League title",
-    "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-    "Yankees activate Schmidt from 60-day IL, DFA Cabrera"
+    "Verstappen passes 100 amateur karters in 14 laps in exhibition race"
   ],
   "cloudinaryAssets": [
     {
@@ -423,6 +425,11 @@
       "publicId": "tvs_cards/card_1793372327940",
       "resourceType": "image",
       "uploadedAt": 1793372329308
+    },
+    {
+      "publicId": "tvs_cards/card_1793392705630",
+      "resourceType": "image",
+      "uploadedAt": 1793392706354
     }
   ]
 }
