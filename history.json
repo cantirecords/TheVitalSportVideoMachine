@@ -6,6 +6,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Hamilton",
     "DEVELOPING",
     "STORY",
@@ -16,6 +18,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-triple-a-affiliate-rebrands-as-highlanders",
     "https://www.mlb.com/news/is-signing-tarik-skubal-vital-for-the-dodgers",
     "https://www.mlb.com/news/orioles-gm-jared-banner-learning-from-cal-ripken-jr",
     "https://www.bbc.co.uk/sport/football/articles/cmkgqprr44gzo?at_medium=RSS&at_campaign=rss",
@@ -214,10 +217,10 @@
     "https://www.bbc.co.uk/sport/basketball/articles/c5wyz8jj2nlko?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning",
     "https://www.mlb.com/news/rays-extend-al-east-lead-over-yankees-with-5th-straight-win",
-    "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win",
-    "https://www.mlb.com/news/aaron-judge-exits-yankees-twins-game"
+    "https://www.mlb.com/news/christian-yelich-brewers-beat-pirates-for-95th-win"
   ],
   "postedTitles": [
+    "Yankees' Triple-A affiliate announces new identity",
     "How much do the Dodgers need to re-sign Skubal?",
     "New GM Banner learning the Oriole way from club legend Ripken",
     "Ronaldo closes in on 1,000th goal with hat-trick ",
@@ -416,14 +419,18 @@
     "London Lions set for NBA test as British basketball bids to step up",
     "'Glad it's not worse': Snell's early exit complicates Dodgers' plans",
     "Rays watch Yankees lose ... then pad AL East lead with 5th straight win",
-    "Crew follows up clinch with MLB-best 95th win ... but there's 'work to do'",
-    "Yankees to see how Judge (lower leg tightness) recovers after early exit in 13-inning loss"
+    "Crew follows up clinch with MLB-best 95th win ... but there's 'work to do'"
   ],
   "cloudinaryAssets": [
     {
       "publicId": "tvs_cards/card_1794149863984",
       "resourceType": "image",
       "uploadedAt": 1794149865079
+    },
+    {
+      "publicId": "tvs_cards/card_1794169281844",
+      "resourceType": "image",
+      "uploadedAt": 1794169283228
     }
   ]
 }
