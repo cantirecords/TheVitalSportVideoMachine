@@ -20,6 +20,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/f1/news/12040/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil",
     "https://www.skysports.com/watch/video/13609757/goal-f-wirtz-54-crystal-palace-0-2-liverpool",
     "https://www.mlb.com/news/yankees-triple-a-affiliate-rebrands-as-highlanders",
@@ -218,10 +219,10 @@
     "https://www.mlb.com/news/mlb-2026-all-debut-team",
     "https://www.mlb.com/news/dodgers-clinch-2026-nl-west-title",
     "https://www.mlb.com/news/dodgers-2026-postseason-faq",
-    "https://www.bbc.co.uk/sport/basketball/articles/c5wyz8jj2nlko?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/blake-snell-exits-start-against-reds-after-one-inning"
+    "https://www.bbc.co.uk/sport/basketball/articles/c5wyz8jj2nlko?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "Packers & Bengals win in style - NFL week nine",
     "Norris wins wet Sao Paulo GP as Mercedes seal constructors' title",
     "Wirtz ends 12-game PL goal drought to double Liverpool’s lead over Palace",
     "Yankees' Triple-A affiliate announces new identity",
@@ -420,8 +421,7 @@
     "The best of the best who made their MLB debuts this season",
     "Dodgers claim NL West crown for 13th time in past 14 years",
     "Postseason FAQ: What's next for Dodgers?",
-    "London Lions set for NBA test as British basketball bids to step up",
-    "'Glad it's not worse': Snell's early exit complicates Dodgers' plans"
+    "London Lions set for NBA test as British basketball bids to step up"
   ],
   "cloudinaryAssets": [
     {
@@ -443,6 +443,11 @@
       "publicId": "tvs_cards/card_1794203496275",
       "resourceType": "image",
       "uploadedAt": 1794203497356
+    },
+    {
+      "publicId": "tvs_videos/video_1794235509940",
+      "resourceType": "video",
+      "uploadedAt": 1794235511578
     }
   ]
 }
