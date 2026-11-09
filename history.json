@@ -10,6 +10,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Hamilton",
     "DEVELOPING",
     "STORY",
@@ -20,6 +22,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/yankees-2027-rotation-outlook",
     "https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/f1/news/12040/13609694/sao-paulo-gp-lando-norris-wins-wet-race-for-mclaren-as-mercedes-seal-2026-f1-constructors-championship-in-brazil",
     "https://www.skysports.com/watch/video/13609757/goal-f-wirtz-54-crystal-palace-0-2-liverpool",
@@ -218,10 +221,10 @@
     "https://www.mlb.com/news/xander-bogaerts-flirts-with-cycle-against-rockies",
     "https://www.mlb.com/news/mlb-2026-all-debut-team",
     "https://www.mlb.com/news/dodgers-clinch-2026-nl-west-title",
-    "https://www.mlb.com/news/dodgers-2026-postseason-faq",
-    "https://www.bbc.co.uk/sport/basketball/articles/c5wyz8jj2nlko?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/dodgers-2026-postseason-faq"
   ],
   "postedTitles": [
+    "Could the Yankees’ rotation be even better in 2027?",
     "Packers & Bengals win in style - NFL week nine",
     "Norris wins wet Sao Paulo GP as Mercedes seal constructors' title",
     "Wirtz ends 12-game PL goal drought to double Liverpool’s lead over Palace",
@@ -420,15 +423,9 @@
     "'I wanted it bad': Bogaerts narrowly misses cycle on historic day",
     "The best of the best who made their MLB debuts this season",
     "Dodgers claim NL West crown for 13th time in past 14 years",
-    "Postseason FAQ: What's next for Dodgers?",
-    "London Lions set for NBA test as British basketball bids to step up"
+    "Postseason FAQ: What's next for Dodgers?"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_cards/card_1794149863984",
-      "resourceType": "image",
-      "uploadedAt": 1794149865079
-    },
     {
       "publicId": "tvs_cards/card_1794169281844",
       "resourceType": "image",
@@ -448,6 +445,11 @@
       "publicId": "tvs_videos/video_1794235509940",
       "resourceType": "video",
       "uploadedAt": 1794235511578
+    },
+    {
+      "publicId": "tvs_cards/card_1794249510121",
+      "resourceType": "image",
+      "uploadedAt": 1794249510899
     }
   ]
 }
