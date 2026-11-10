@@ -12,6 +12,8 @@
     "STORY",
     "DEVELOPING",
     "STORY",
+    "DEVELOPING",
+    "STORY",
     "Hamilton",
     "DEVELOPING",
     "STORY",
@@ -22,6 +24,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
     "https://www.bbc.co.uk/sport/american-football/videos/c60mem12x7zyo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/yankees-2027-rotation-outlook",
     "https://www.bbc.co.uk/sport/american-football/articles/cmdxwxry2pr8o?at_medium=RSS&at_campaign=rss",
@@ -220,10 +223,10 @@
     "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis",
     "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/xander-bogaerts-flirts-with-cycle-against-rockies",
-    "https://www.mlb.com/news/mlb-2026-all-debut-team",
-    "https://www.mlb.com/news/dodgers-clinch-2026-nl-west-title"
+    "https://www.mlb.com/news/mlb-2026-all-debut-team"
   ],
   "postedTitles": [
+    "The latest MLB rumors and free-agent news",
     "'Spectacular' catches and toe-tapping skills - NFL best plays",
     "Could the Yankees’ rotation be even better in 2027?",
     "Packers & Bengals win in style - NFL week nine",
@@ -422,8 +425,7 @@
     "Could MLB's top 3 in RBIs come from the same division? This trio is going for it",
     "I have experienced racism a thousand times - Lamine Yamal",
     "'I wanted it bad': Bogaerts narrowly misses cycle on historic day",
-    "The best of the best who made their MLB debuts this season",
-    "Dodgers claim NL West crown for 13th time in past 14 years"
+    "The best of the best who made their MLB debuts this season"
   ],
   "cloudinaryAssets": [
     {
@@ -450,6 +452,11 @@
       "publicId": "tvs_videos/video_1794272491247",
       "resourceType": "video",
       "uploadedAt": 1794272493832
+    },
+    {
+      "publicId": "tvs_cards/card_1794278331418",
+      "resourceType": "image",
+      "uploadedAt": 1794278332863
     }
   ]
 }
