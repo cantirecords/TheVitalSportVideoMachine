@@ -24,6 +24,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
     "https://www.skysports.com/football/news/12040/13610251/harry-kane-ballon-dor-winner-set-for-wembley-celebration-of-england-record",
     "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
     "https://www.bbc.co.uk/sport/american-football/videos/c60mem12x7zyo?at_medium=RSS&at_campaign=rss",
@@ -222,10 +223,10 @@
     "https://www.mlb.com/news/blake-snell-expected-to-make-another-start-after-groin-injury",
     "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis",
-    "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/xander-bogaerts-flirts-with-cycle-against-rockies"
+    "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "This year's Cy Young Award winners are ... (Watch on MLB Network, MLB+ at 7 p.m. ET)",
     "England's best? Record-breaking Ballon d'Or winner Kane set for Wembley celebration",
     "The latest MLB rumors and free-agent news",
     "'Spectacular' catches and toe-tapping skills - NFL best plays",
@@ -424,14 +425,18 @@
     "Snell (groin) expected to start again for Dodgers before postseason",
     "Wakefield beat Leigh to claim historic last-four spot",
     "Could MLB's top 3 in RBIs come from the same division? This trio is going for it",
-    "I have experienced racism a thousand times - Lamine Yamal",
-    "'I wanted it bad': Bogaerts narrowly misses cycle on historic day"
+    "I have experienced racism a thousand times - Lamine Yamal"
   ],
   "cloudinaryAssets": [
     {
       "publicId": "tvs_videos/video_1794402912052",
       "resourceType": "video",
       "uploadedAt": 1794402913483
+    },
+    {
+      "publicId": "tvs_videos/video_1794441253040",
+      "resourceType": "video",
+      "uploadedAt": 1794441255083
     }
   ]
 }
