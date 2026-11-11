@@ -427,16 +427,5 @@
     "'I wanted it bad': Bogaerts narrowly misses cycle on historic day",
     "The best of the best who made their MLB debuts this season"
   ],
-  "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1794272491247",
-      "resourceType": "video",
-      "uploadedAt": 1794272493832
-    },
-    {
-      "publicId": "tvs_cards/card_1794278331418",
-      "resourceType": "image",
-      "uploadedAt": 1794278332863
-    }
-  ]
+  "cloudinaryAssets": []
 }
