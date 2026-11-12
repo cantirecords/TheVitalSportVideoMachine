@@ -24,6 +24,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/tennis/news/12040/13610540/atp-finals-in-turin-format-players-schedule-prize-money-and-draw-as-carlos-alcaraz-leads-the-field-at-end-of-season-event",
     "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
     "https://www.skysports.com/football/news/12040/13610251/harry-kane-ballon-dor-winner-set-for-wembley-celebration-of-england-record",
@@ -222,10 +223,10 @@
     "https://www.bbc.co.uk/sport/boxing/articles/cqy8z1jdr2y1o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-hit-five-home-runs-to-beat-giants",
     "https://www.mlb.com/news/blake-snell-expected-to-make-another-start-after-groin-injury",
-    "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis"
+    "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss"
   ],
   "postedTitles": [
+    "USA withdraw from U17 World Cup over armed conflict risk",
     "Alcaraz and Zverev headline the ATP Finals in Turin - live on Sky Sports",
     "This year's Cy Young Award winners are ... (Watch on MLB Network, MLB+ at 7 p.m. ET)",
     "England's best? Record-breaking Ballon d'Or winner Kane set for Wembley celebration",
@@ -424,15 +425,9 @@
     "Brown maintains perfect record with brutal Hedges stoppage ",
     "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
     "Snell (groin) expected to start again for Dodgers before postseason",
-    "Wakefield beat Leigh to claim historic last-four spot",
-    "Could MLB's top 3 in RBIs come from the same division? This trio is going for it"
+    "Wakefield beat Leigh to claim historic last-four spot"
   ],
   "cloudinaryAssets": [
-    {
-      "publicId": "tvs_videos/video_1794402912052",
-      "resourceType": "video",
-      "uploadedAt": 1794402913483
-    },
     {
       "publicId": "tvs_videos/video_1794441253040",
       "resourceType": "video",
@@ -442,6 +437,11 @@
       "publicId": "tvs_videos/video_1794459549650",
       "resourceType": "video",
       "uploadedAt": 1794459551103
+    },
+    {
+      "publicId": "tvs_videos/video_1794493071839",
+      "resourceType": "video",
+      "uploadedAt": 1794493074026
     }
   ]
 }
