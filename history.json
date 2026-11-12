@@ -24,6 +24,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.skysports.com/tennis/news/12040/13610540/atp-finals-in-turin-format-players-schedule-prize-money-and-draw-as-carlos-alcaraz-leads-the-field-at-end-of-season-event",
     "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
     "https://www.skysports.com/football/news/12040/13610251/harry-kane-ballon-dor-winner-set-for-wembley-celebration-of-england-record",
     "https://www.mlb.com/news/mlb-rumors-trades-and-signings",
@@ -222,10 +223,10 @@
     "https://www.mlb.com/news/dodgers-hit-five-home-runs-to-beat-giants",
     "https://www.mlb.com/news/blake-snell-expected-to-make-another-start-after-groin-injury",
     "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss",
-    "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis",
-    "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/nl-central-group-aims-to-be-first-divisional-trio-to-lead-mlb-in-rbis"
   ],
   "postedTitles": [
+    "Alcaraz and Zverev headline the ATP Finals in Turin - live on Sky Sports",
     "This year's Cy Young Award winners are ... (Watch on MLB Network, MLB+ at 7 p.m. ET)",
     "England's best? Record-breaking Ballon d'Or winner Kane set for Wembley celebration",
     "The latest MLB rumors and free-agent news",
@@ -424,8 +425,7 @@
     "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
     "Snell (groin) expected to start again for Dodgers before postseason",
     "Wakefield beat Leigh to claim historic last-four spot",
-    "Could MLB's top 3 in RBIs come from the same division? This trio is going for it",
-    "I have experienced racism a thousand times - Lamine Yamal"
+    "Could MLB's top 3 in RBIs come from the same division? This trio is going for it"
   ],
   "cloudinaryAssets": [
     {
@@ -437,6 +437,11 @@
       "publicId": "tvs_videos/video_1794441253040",
       "resourceType": "video",
       "uploadedAt": 1794441255083
+    },
+    {
+      "publicId": "tvs_videos/video_1794459549650",
+      "resourceType": "video",
+      "uploadedAt": 1794459551103
     }
   ]
 }
