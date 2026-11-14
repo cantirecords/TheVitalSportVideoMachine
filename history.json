@@ -1,5 +1,7 @@
 {
   "recentKeywords": [
+    "DEVELOPING",
+    "STORY",
     "Ohtani",
     "DEVELOPING",
     "STORY",
@@ -11,6 +13,7 @@
     "Curry"
   ],
   "postedUrls": [
+    "https://www.mlb.com/news/brewers-lose-jake-bauers-gain-2027-draft-pick",
     "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
     "https://www.skysports.com/tennis/news/12040/13610540/atp-finals-in-turin-format-players-schedule-prize-money-and-draw-as-carlos-alcaraz-leads-the-field-at-end-of-season-event",
     "https://www.mlb.com/news/2026-mlb-cy-young-award-winners",
@@ -209,10 +212,10 @@
     "https://www.mlb.com/news/brewers-pitching-questions-regular-season-playoffs",
     "https://www.bbc.co.uk/sport/boxing/articles/cqy8z1jdr2y1o?at_medium=RSS&at_campaign=rss",
     "https://www.mlb.com/news/dodgers-hit-five-home-runs-to-beat-giants",
-    "https://www.mlb.com/news/blake-snell-expected-to-make-another-start-after-groin-injury",
-    "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss"
+    "https://www.mlb.com/news/blake-snell-expected-to-make-another-start-after-groin-injury"
   ],
   "postedTitles": [
+    "Brewers to get premium Draft pick with departure of NLCS MVP Bauers",
     "USA withdraw from U17 World Cup over armed conflict risk",
     "Alcaraz and Zverev headline the ATP Finals in Turin - live on Sky Sports",
     "This year's Cy Young Award winners are ... (Watch on MLB Network, MLB+ at 7 p.m. ET)",
@@ -411,8 +414,13 @@
     "Gasser turns in another strong start in record-tying win as other pitching questions loom for Crew",
     "Brown maintains perfect record with brutal Hedges stoppage ",
     "Dodgers celebrate 20th anniversary of '4+1' game with 4-HR inning in rout",
-    "Snell (groin) expected to start again for Dodgers before postseason",
-    "Wakefield beat Leigh to claim historic last-four spot"
+    "Snell (groin) expected to start again for Dodgers before postseason"
   ],
-  "cloudinaryAssets": []
+  "cloudinaryAssets": [
+    {
+      "publicId": "tvs_cards/card_1794635862691",
+      "resourceType": "image",
+      "uploadedAt": 1794635863675
+    }
+  ]
 }
